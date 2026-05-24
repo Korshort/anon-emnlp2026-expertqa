@@ -1,7 +1,16 @@
 import os, json, glob, sys
 
-SFT_BASE = "/mnt/data/runs/main_sft"
-BASE_EVAL = "/mnt/data/runs/main_base_eval"
+import argparse
+import os as _os_for_args
+_parser = argparse.ArgumentParser(description='Aggregate eval results.')
+_parser.add_argument('--sft-base', default=_os_for_args.environ.get('SFT_BASE', './runs/sft_base'), help='SFT_BASE dir (env var SFT_BASE or CLI)')
+_parser.add_argument('--base-eval', default=_os_for_args.environ.get('BASE_EVAL', './runs/base_eval'), help='BASE_EVAL dir (env var BASE_EVAL or CLI)')
+_args, _ = _parser.parse_known_args()
+SFT_BASE = _args.sft_base
+BASE_EVAL = _args.base_eval
+
+# SFT_BASE now set via argparse below
+# BASE_EVAL now set via argparse below
 
 MODELS = ["exaone3.5-2.4b","exaone3.5-7.8b","gemma3-4b","gemma3-27b","llama3.2-3b","llama3.3-70b","phi4-mini","qwen3.5-4b","qwen3.5-9b"]
 EXPS = ["exp0","exp1_1","exp1_2","exp2"]

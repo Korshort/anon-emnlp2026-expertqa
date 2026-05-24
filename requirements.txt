@@ -1,0 +1,32 @@
+# Pinned dependencies for the companion code.
+# Training (run_sft.py, train.sh) and evaluation (lm_eval_runner.py).
+# Python 3.10+ recommended.
+
+# Core training stack
+torch>=2.4.0,<3.0
+transformers>=4.46.0,<5.0
+peft>=0.13.0
+trl>=0.11.0
+accelerate>=1.0.0
+deepspeed>=0.15.0
+bitsandbytes>=0.44.0          # QLoRA 4-bit
+datasets>=3.0.0
+
+# Evaluation
+lm-eval>=0.4.5                # lm-evaluation-harness
+jiwer==4.0.0                  # WER (paper App. R)
+
+# Aggregation / analysis
+numpy>=1.26
+pandas>=2.0
+scipy>=1.13                   # bootstrap, t-tests
+matplotlib>=3.8               # figure regeneration
+
+# LLM API clients (judge scoring + LLM-difficulty audit)
+openai>=1.50.0
+anthropic>=0.40.0
+google-genai>=0.5.0           # Gemini 2.5 Pro (binary judge)
+
+# Misc
+pyyaml>=6.0
+tqdm>=4.66

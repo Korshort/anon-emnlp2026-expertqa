@@ -1,6 +1,13 @@
 import os, json, glob
 
-FT_BASE = "/mnt/data/runs/full_ft_sanity_sft"
+import argparse
+import os as _os_for_args
+_parser = argparse.ArgumentParser(description='Aggregate eval results.')
+_parser.add_argument('--ft-base', default=_os_for_args.environ.get('FT_BASE', './runs/ft_base'), help='FT_BASE dir (env var FT_BASE or CLI)')
+_args, _ = _parser.parse_known_args()
+FT_BASE = _args.ft_base
+
+# FT_BASE now set via argparse below
 
 KMMLU_MED = ["kmmlu_health","kmmlu_biology","kmmlu_chemistry","kmmlu_psychology"]
 KMMLU_FIN = ["kmmlu_economics","kmmlu_accounting","kmmlu_management","kmmlu_marketing","kmmlu_taxation","kmmlu_real_estate"]
