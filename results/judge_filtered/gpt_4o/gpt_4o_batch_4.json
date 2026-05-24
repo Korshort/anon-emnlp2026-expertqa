@@ -1,0 +1,305 @@
+{
+  "batch_id": 4,
+  "results": [
+    {
+      "id": "q046",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate comparison with domain-specific insights."
+    },
+    {
+      "id": "q104",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed comparison with clear evolution of challenges and achievements."
+    },
+    {
+      "id": "q079",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Comprehensive financial growth analysis with key turning points."
+    },
+    {
+      "id": "q054",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear distinction and examples provided for both concepts."
+    },
+    {
+      "id": "q196",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Insightful analysis of unique market characteristics."
+    },
+    {
+      "id": "q085",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Thorough comparison of policy differences and similarities."
+    },
+    {
+      "id": "q118",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate explanation of safety differences in medical procedures."
+    },
+    {
+      "id": "q109",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Practical comparison of sleep pattern adjustments."
+    },
+    {
+      "id": "q133",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed comparison of AI adoption strategies."
+    },
+    {
+      "id": "q142",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear explanation of financial service roles."
+    },
+    {
+      "id": "q033",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Insightful comparison of AI agent benefits."
+    },
+    {
+      "id": "q018",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed comparison of PCI procedures in different settings."
+    },
+    {
+      "id": "q140",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison of project participation methods."
+    },
+    {
+      "id": "q123",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate procedural explanation with clear steps."
+    },
+    {
+      "id": "q175",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Comprehensive analysis of AI adoption and literacy trends."
+    },
+    {
+      "id": "q063",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate comparison of anatomical descriptions."
+    },
+    {
+      "id": "q083",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Insightful analysis of contract structure differences."
+    },
+    {
+      "id": "q148",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Clear explanation of market focus rationale."
+    },
+    {
+      "id": "q100",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed comparison of nerve block targets."
+    },
+    {
+      "id": "q155",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear distinction and examples provided for both concepts."
+    },
+    {
+      "id": "q072",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate comparison of cancer treatment methods."
+    },
+    {
+      "id": "q027",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Comprehensive analysis of global economic changes."
+    },
+    {
+      "id": "q184",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Thorough comparison of policy differences and similarities."
+    },
+    {
+      "id": "q112",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate explanation of medical treatment rationale."
+    },
+    {
+      "id": "q051",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison of team roles and structures."
+    }
+  ]
+}

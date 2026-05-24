@@ -1,0 +1,306 @@
+{
+  "batch_id": 3,
+  "results": [
+    {
+      "id": "q105",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Expert opinion on implant settle-down is faithfully represented with specific quantitative detail (10 micron, 5 micron); comparative framing is clear and directly addresses the question; hard+comparative label fits the nuanced clinical debate."
+    },
+    {
+      "id": "q095",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "Competitive rationale is plausible but unverifiable specifics (2031 target, $1/fish, $2.7/kg Norway import) make faithfulness uncertain; the question is company-specific rather than domain-knowledge-testing, and 'hard+comparative' label is overstated for a narrow company-pitch Q."
+    },
+    {
+      "id": "q103",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Precise surgical terminology (ACDF, corpectomy, expandable cage, anterior plate) with accurate procedural distinction; reasoning explains why corpectomy is more extensive; hard+comparative label perfectly matches the technical surgical comparison."
+    },
+    {
+      "id": "q145",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "Analogy between IT market defense and stablecoin is coherently drawn but the reasoning is opinion/strategic rather than finance-domain factual; 'hard' label is generous for an analogical argument without financial mechanism depth."
+    },
+    {
+      "id": "q043",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Structured four-dimension comparison (target, limit, interest subsidy, duration) with specific values (5 vs 8 billion won, 2% vs 3%, 5 vs 8 years) is accurate and directly addresses all aspects of the question; hard+comparative label appropriate."
+    },
+    {
+      "id": "q000",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Anonymized institution ('해외 대학 메디컬 센터') limits verifiability; the answer lists challenges and achievements but lacks causal linkage between specific interventions and outcomes; hard+comparative label is borderline for a case-study list."
+    },
+    {
+      "id": "q161",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate multi-pathway explanation of TBI-AKI (catecholamine surge, systemic inflammation, nephrotoxic agents, mannitol/HTS) integrated with brain-kidney axis concept; mechanistic depth and causal reasoning are excellent; hard+explanatory label is fully justified."
+    },
+    {
+      "id": "q192",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Authorization/control distinction is functionally correct but conceptually thin; the answer conflates authorization (access permission) with payment channel security, and control with monitoring without standard security framework references; medium label is appropriate."
+    },
+    {
+      "id": "q016",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 1
+      },
+      "rationale_brief": "General dietary advice is safe but extremely generic; the question type is basic lifestyle counseling with no analytical reasoning required; 'hard+comparative' label is highly inaccurate for what is essentially standard patient-education content."
+    },
+    {
+      "id": "q080",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Comprehensive enumeration of AI-related Korean legislation by sector (public, data, IP, industry, deepfake, autonomous driving, defense) is factually accurate; the categorization demonstrates domain synthesis; hard+comparative label fits."
+    },
+    {
+      "id": "q102",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Post-surgical vs radiation complication distinction is clinically accurate (lymphedema, fibrosis, range-of-motion loss); quantitative detail (70-80% radiation rate) adds credibility; hard+comparative label is appropriate."
+    },
+    {
+      "id": "q038",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Case comparison is specific but relies on anecdotal case details that are unverifiable; the comparison highlights different use cases (R&D funding vs construction liquidity) but lacks analytical depth on financial mechanisms; hard label is somewhat overstated."
+    },
+    {
+      "id": "q156",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Clear mechanistic explanation of why anterior reference occlusion risks lowering the bite and why contralateral reference is preferred, especially for free-end cases; clinical specificity and practical guidance are well-articulated; hard+comparative label fits."
+    },
+    {
+      "id": "q176",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Three concrete case types (non-startup lawyer, specialist mismatch, M&A deadlock from 50-50 structure) provide actionable legal-risk reasoning; explanatory depth is good; hard+explanatory label is appropriate for practical legal analysis."
+    },
+    {
+      "id": "q135",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Exercise-gym analogy for cognitive atrophy from AI reliance is reasonable but lacks empirical grounding; social-emotional learning mention is relevant but underdeveloped; hard+explanatory label is slightly generous for a conceptual argument without evidence."
+    },
+    {
+      "id": "q078",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Smart contract escrow comparison to traditional 6% fee escrow is factually coherent; phased payment example (10%+remainder, or 20% milestones) concretely illustrates the distinction; hard+comparative label is appropriate."
+    },
+    {
+      "id": "q115",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate pathophysiological explanation of T2DM natural history (insulin resistance plateau when secretion fails) with correct clinical implication (secretory capacity as the limiting factor for glycemic control); reasoning is causal and mechanistically sound; hard+explanatory fully justified."
+    },
+    {
+      "id": "q019",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "ESPB vs paravertebral safety comparison correctly identifies pleural proximity risk of paravertebral block vs bony transverse process targeting of ESPB; anatomically accurate and practically reasoned; medium label may slightly understate the technical complexity."
+    },
+    {
+      "id": "q014",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Direct nerve targeting vs compartment-plane diffusion distinction is mechanistically accurate; the explanation of how drug spreads toward paravertebral space is correct; hard+comparative label fits the technical anesthesia content."
+    },
+    {
+      "id": "q177",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Virtuous cycle model (data open access -> startup development -> province as first buyer -> reference -> investment) is logically coherent and specific to Gyeonggi-do policy; domain is policy/startup rather than core finance, but explanatory depth is solid."
+    },
+    {
+      "id": "q146",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "The answer states procedures are fundamentally the same (SEC vs exchange review emphasis) but provides little analytical depth on actual regulatory differences (disclosure standards, reporting currency, governance requirements); hard+comparative label overstated for the superficial treatment."
+    },
+    {
+      "id": "q179",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Identical content to q080; same comprehensive sectoral enumeration of Korean AI legislation; faithfulness and domain accuracy hold equally; hard+comparative label appropriate for policy synthesis."
+    },
+    {
+      "id": "q065",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Four concrete surgical considerations (full-thickness requirement, Müller's muscle inclusion, slight overcorrection, delayed timing at 6 months) are clinically sound; mechanistic reasoning for each is provided; hard+explanatory label appropriate."
+    },
+    {
+      "id": "q084",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "English Q&A is anomalous in a Korean medical/finance corpus; the answer is a generic two-sentence framework with no startup-specific evidence or examples; hard label is not justified by the shallow comparative treatment."
+    },
+    {
+      "id": "q165",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate historical progression of diabetic nephropathy treatment (GFR decline from >10/yr pre-1980s to 0.5-1/yr now) with correct enumeration of therapeutic advances (ACEi/ARB, SGLT-2, GLP-1); quantitative anchors and causal reasoning make this exemplary."
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "batch_id": 4,
+  "results": [
+    {
+      "id": "q046",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate comparative analysis of Philippine vs Korean development paths with concrete examples; answer provides causal reasoning but relies on single explanatory factor (IMF recovery) without discussing structural policy differences in depth."
+    },
+    {
+      "id": "q104",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Coherent before/after comparison of a medical center's robotic surgery program; placeholder name '[해외 대학 메디컬 센터]' limits verifiability and domain specificity, and answer lists outcomes without mechanistic explanation of how changes were achieved."
+    },
+    {
+      "id": "q079",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Precise revenue figures with identified inflection points and causal drivers (business model expansion from SaaS to platform); strong Q-A alignment with chronological and causal structure."
+    },
+    {
+      "id": "q054",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Conceptual distinction is correct but answer relies on a single colloquial example; domain labeled IT/AI yet content is linguistics/NLP concepts; difficulty_label 'hard' overstates the conceptual depth required."
+    },
+    {
+      "id": "q196",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Reasonable comparative claim about Korean indigenous characters vs global peers; answer is mostly assertion-based without quantitative market data; 'hard' difficulty label is generous for what is essentially a qualitative observation."
+    },
+    {
+      "id": "q085",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate policy comparison covering both similarities and differences between Trump/Biden Section 301 approaches; includes PNTR mechanism and rate escalation details; well-calibrated as hard comparative."
+    },
+    {
+      "id": "q118",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Anatomically accurate explanation of ESPB vs paravertebral block safety differential based on target structure depth and proximity to pleura; clear causal mechanism; difficulty_label 'medium' appropriate for a single-axis comparison."
+    },
+    {
+      "id": "q109",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Clinically sound sleep-cycle bidirectional adjustment advice; answer is practical but lacks mechanistic depth (circadian rhythm, homeostatic drive not mentioned); question is more clinical-advice than synthesis, 'hard' label overstated."
+    },
+    {
+      "id": "q133",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Plausible comparative narrative on AI adoption speed (Silicon Valley vs Korea); specific claims (240k layoffs, 2024 as inflection) are consistent with known trends but lack citation; answer is descriptive rather than analytically deep."
+    },
+    {
+      "id": "q142",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Accurately describes two business units (ETS trading and climate-tech investment); question asks to 'compare' but the two units are simply enumerated rather than analytically contrasted; 'hard' label overstated for a description task."
+    },
+    {
+      "id": "q033",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Placeholder '[회계법인]' prevents verification; answer generalizes AI agent benefits without sharply contrasting with prior digital transformation limitations; coherence weakened by vague comparative framing."
+    },
+    {
+      "id": "q018",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clinically precise comparison of capabilities/limitations at non-surgical-backup PCI center vs tertiary; covers specific lesion types (SYNTAX ≥33, calcified, CTO, cardiogenic shock) and triage protocols with appropriate nuance."
+    },
+    {
+      "id": "q140",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Correctly contrasts direct GCF access vs 240 program platform but answer is thin (2 sentences); specific figure (15% vs 11% growth) is stated without sourcing; 'medium' difficulty calibration matches content depth."
+    },
+    {
+      "id": "q123",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Detailed step-by-step procedural description with correct anatomical landmarks (AIIS, DCIA, bowtie sign), needle direction, and drug volumes; procedural label and hard difficulty well-calibrated."
+    },
+    {
+      "id": "q175",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Insightful observation on enterprise AI adoption maturation and inverse AI literacy trend as user base expands; answer is observational/anecdotal without quantitative support; 'hard' reasonable given the dual-axis comparative structure."
+    },
+    {
+      "id": "q063",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Clinically valuable correction of textbook description of buccal artery course (parallel vs transverse to ramus); grounded in surgical observation; directly answers the discrepancy question with specific surgical context."
+    },
+    {
+      "id": "q083",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Clear causal explanation tracing structural difference to historical origins (PE vs bank) with concrete downstream effects (flip phenomenon, non-standard liquidation preferences); well-reasoned comparative answer."
+    },
+    {
+      "id": "q148",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Brief explanatory answer citing 15% growth projection vs 11% global for ASEAN climate tech; lacks depth on policy specifics or why Korean companies specifically benefit; 'hard' label overstated for a short factual answer."
+    },
+    {
+      "id": "q100",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Precise anatomical comparison of FICB (femoral nerve + LFCN) vs PENG block (femoral + accessory obturator + obturator nerve terminal branches) with clear mechanistic contrast; hard comparative label well-matched."
+    },
+    {
+      "id": "q155",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Identical content to q054; conceptually correct but relies on a single informal example; this duplicate reduces training data quality; 'hard' label overstated."
+    },
+    {
+      "id": "q072",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate mechanistic comparison of targeted therapy vs cytotoxic chemotherapy (selective gene/protein signaling vs broad cell-division targeting) with correct statement on reduced off-target toxicity."
+    },
+    {
+      "id": "q027",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Coherent macro-level comparison (cooperation era to competition/geopolitical risk era, G2 to G1 shift); answer is broad and descriptive without quantitative grounding; 'hard' label overstated for general macro observation."
+    },
+    {
+      "id": "q184",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Duplicate of q085 with identical content; factually accurate policy comparison; scores equivalent to q085 but duplicate presence is a data quality concern."
+    },
+    {
+      "id": "q112",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Mechanistically rigorous explanation of norepinephrine as first-line in neurogenic shock: correctly traces sympathetic anatomy, NE pathway interruption by cord injury, and dual alpha1/beta1 pharmacological rationale."
+    },
+    {
+      "id": "q051",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Well-structured comparison of MACA (hospital analytics/consulting, ex-operators + data scientists) vs Genesis (global best-practice dissemination, 120+ members, 20+ countries) with distinct functional roles clearly delineated."
+    }
+  ]
+}

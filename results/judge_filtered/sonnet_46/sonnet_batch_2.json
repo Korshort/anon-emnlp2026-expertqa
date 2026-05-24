@@ -1,0 +1,305 @@
+{
+  "batch_id": 2,
+  "results": [
+    {
+      "id": "q162",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "전용 수술실 구축 전후 비교 내용은 사실적이나 세 개선 포인트가 q122와 거의 동일하여 중복성이 높고, comparative 질문이지만 실질적 수치/데이터 없이 나열에 그쳐 'hard' 레이블 대비 깊이 부족."
+    },
+    {
+      "id": "q047",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "박정희 정부 경제개발 모델과 순수 시장경제의 차이를 5개년 계획 접목, 자원집중 투입 등 구체적 특징으로 설명하며, hard comparative 레이블에 적합한 분석적 답변."
+    },
+    {
+      "id": "q110",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "타목시펜과 아로마타제 억제제의 부작용 목록을 정확하게 제시하나, explanatory라고 표시되었음에도 관리 전략보다 부작용 나열 위주여서 hard 레이블의 깊이를 충분히 충족하지 못함."
+    },
+    {
+      "id": "q005",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "세 로봇 플랫폼 비교 구조는 적절하나 '보스톤 다이나믹스가 현대차 인수' 표현이 사실 방향 역전(현대차가 인수)으로 혼동 여지 있고, 치과 어시스트 맥락과 연결이 약하며 일부 주장이 검증 없는 추정 수준."
+    },
+    {
+      "id": "q194",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "웹툰의 모바일 피벗 전략을 창업자 동기와 타이밍 측면에서 설명하나, 경쟁사 대비 비교·수익 변화 등 구조적 분석이 없어 hard comparative 레이블 대비 얕고, domain은 IT/Tech이지만 핀테크·의료 도메인 루브릭 기준 적용 시 범위 이탈."
+    },
+    {
+      "id": "q037",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "한미 상장 절차 비교에서 SEC SRS vs 거래소 심사 차이를 언급하나 'SEC SRS'는 정확한 용어가 아니고(실제는 S-1/F-1 등 등록신청서), 답변이 절차 유사성 강조에 그쳐 hard 레이블 대비 분석 깊이 미흡."
+    },
+    {
+      "id": "q122",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "q162와 내용이 사실상 동일(세 개선 포인트 동일)하여 데이터셋 내 중복 의심; medium 레이블은 적절하나 수치 없이 서술적 나열에 그침."
+    },
+    {
+      "id": "q012",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "불교-심리치료 비교 구조는 명확하나 '해석 장치'라는 핵심 개념을 심리치료 이론(구체적 학파/치료사 명시 없이)과 연결하여 domain_accuracy가 다소 낮고, hard 레이블 대비 철학적 분석 깊이가 충분하지 않음."
+    },
+    {
+      "id": "q036",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "IT 4개 산업 성공 경험과 원화 스테이블코인 전략을 연결하는 유추 구조가 창의적이고 사실에 부합하나, 구체적 경제적 근거나 리스크 분석 없이 전략적 당위성만 강조하여 답변 깊이가 평균적."
+    },
+    {
+      "id": "q153",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "법적 근거, 근무 환경, 전문성 강화 세 축으로 제도적 개선을 구체적으로 제시하고 이직률-숙련도 단절 같은 인과 연결도 포함하여, hard explanatory 레이블에 적합한 구조화된 답변."
+    },
+    {
+      "id": "q069",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "장기 추적 연구(최장 13년, n=288)를 인용하여 틸티드 vs 축상 임플란트 실패율과 주변골 소실 비교 결과를 정확히 제시, hard comparative 레이블에 적합한 근거 기반 답변."
+    },
+    {
+      "id": "q061",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "비타민C, NAC, 알파 리포산, 아연 각각의 기전(ROS 제거, 글루타치온 전구체, 항산화제 재생, 효소 보조인자)을 정확하게 기술하고 IV 투여 근거까지 포함한 전문적 답변으로, hard explanatory에 완전히 부합."
+    },
+    {
+      "id": "q195",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "비디오 AI vs 언어모델 비교 질문인데 실질적인 기술적 차이(모델 구조, 벤치마크, 데이터 특성)를 설명하지 않고 구어체 감상 위주이며, hard comparative 레이블 대비 분석 깊이가 현저히 부족."
+    },
+    {
+      "id": "q032",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "서울시(창업-성장-투자 전주기)와 금융감독원(규제 완화·자본 투입)의 역할 분담을 명확히 대비하여 설명하나, 구체적인 지원 실적·수치 없이 역할 설명에 그쳐 답변 깊이는 중간 수준."
+    },
+    {
+      "id": "q172",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "q171과 내용이 매우 유사(혈액 냉장고 설치 예시 포함 거의 동일)하여 중복 의심; medium explanatory 레이블은 적절하나 구체적 개선 방안이 하나의 사례 외에 추상적."
+    },
+    {
+      "id": "q171",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "q172와 답변이 사실상 동일한 내용으로 데이터셋 내 중복; medium explanatory 레이블은 맞으나 문제 원인과 해결책 연결이 단일 사례에 국한되어 일반화 깊이 부족."
+    },
+    {
+      "id": "q060",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "뇌-신장 축 개념 정의부터 카테콜아민 서지, 신장 자동조절 손상, 신독성 약물, 만니톨 등 복합 원인을 학술적으로 정확하게 기술하고 AKI의 결과(사망률)까지 포함, hard explanatory에 완벽히 부합."
+    },
+    {
+      "id": "q010",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "수면 위상 전진/지연 패턴의 조정 방향을 정반대로 대비하는 구조는 정확하나, 일주기 리듬의 생물학적 기전(멜라토닌, 빛 자극 등)을 언급하지 않아 hard 레이블 대비 설명이 표면적."
+    },
+    {
+      "id": "q144",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "단일 학생 사례를 들어 가족 결합 지연과 학교 부적응을 연결하나 비교 질문(comparative)에 두 현상의 체계적 대비가 없고, Education 도메인으로 의료/금융 루브릭 기준과 거리가 있으며 hard comparative 레이블 대비 답변 구조 미흡."
+    },
+    {
+      "id": "q160",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "비수술백업 PCI 센터 요건을 경험(10년, 연 200례), 자기 한계 인식, 이송 시스템, QC, 협력체계, 장비(ECMO)까지 체계적으로 열거하며 hard explanatory에 적합한 전문적 답변."
+    },
+    {
+      "id": "q052",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "임플란트 대 임플란트 교합과 임플란트 대 자연치 교합에서의 조정 전략 차이를 bilateral adjustment 필요성, passive eruption, supra-occlusion 예방까지 기전 기반으로 정밀하게 비교, hard comparative에 최적."
+    },
+    {
+      "id": "q125",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "한국의 개발형→보편적 복지국가 전환 경로를 베트남에 대입하는 구조는 적절하나, 베트남의 실제 복지 정책 현황을 구체적으로 언급하지 않고 한국 경험 위주로 서술하여 comparative 깊이가 편향적."
+    },
+    {
+      "id": "q106",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Stability Dip 현상의 원인을 드릴링 열 손상→파골세포 흡수→접촉 면적 감소→primary stability 저하의 인과 체계로 정확하게 기술하며, hard explanatory에 적합한 학술적 완성도."
+    },
+    {
+      "id": "q073",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "동양의 명상 전통과 서양의 무의식 탐구를 대비하는 구조는 합당하나 '의식 아래 장치'라는 비표준 표현을 사용하고 구체적 치료 기법 비교 없이 역사적 계보 서술에 그쳐, hard comparative 레이블 대비 분석 부족."
+    },
+    {
+      "id": "q113",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "ESB와 기존 peripheral nerve block의 타겟팅 방식 차이(신경 직접 vs 컴파트먼트 면)를 해부학적 랜드마크(erector spinae muscle-transverse process 접합면)와 확산 경로(paravertebral space)까지 정확히 기술, hard comparative에 적합."
+    }
+  ]
+}

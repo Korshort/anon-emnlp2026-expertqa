@@ -1,0 +1,305 @@
+{
+  "batch_id": 6,
+  "results": [
+    {
+      "id": "q119",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Comparative question on sex-specific body composition and diabetes risk is genuinely analytical, but specific age thresholds (35세/28세) are stated as established facts without citation, reducing faithfulness; the causal framing is reasonable but speculative."
+    },
+    {
+      "id": "q089",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Filter bubble topic falls under media/social science, not medical or finance domain; the 13.1% Korean user statistic lacks clear sourcing; question itself invites genuine debate but domain_accuracy is weak given the IT/AI label and conceptual territory."
+    },
+    {
+      "id": "q068",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Difficult weaning (prolonged weaning) pathophysiology is covered across four mechanistic categories accurately; the categorization (airway, parenchymal, cardiovascular, neuromuscular) aligns with standard ICU literature and the explanatory structure is solid."
+    },
+    {
+      "id": "q053",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "The circadian typology framing is too simplified; labeling this 'hard' comparative when the answer gives lay-level sleep hygiene advice without referencing chronotype biology or CBT-I literature is an overestimate of difficulty."
+    },
+    {
+      "id": "q090",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate description of true multimodal RAG advances (MLLM-based parsing, cross-modal embedding), well-structured comparative format with clear two-part improvement; the technical depth is appropriate for a hard comparative question."
+    },
+    {
+      "id": "q094",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Structural factors identified (SME dominance, regional concentration, fragmented skilling system) are plausible but the claim that large firms employ only 13.5% lacks verifiable citation; the reasoning is multi-layered but not causally tight."
+    },
+    {
+      "id": "q041",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "The answer reduces a complex comparative economic history question to leadership quality and atmosphere, omitting institutions, property rights, trade openness, and market mechanisms; this is a shallow treatment that understates the scholarly consensus."
+    },
+    {
+      "id": "q093",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "The observation that Korea has rare domestic children's character success (Pororo, Robocar Poli) is accurate and appropriately comparative, but the domain label 'Arts/Entertainment' and question depth are more medium than hard."
+    },
+    {
+      "id": "q116",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "The diabetes-as-accelerator-of-aging framing is a legitimate contemporary view, but the Harrison's textbook claim is imprecise and potentially misleading; the answer is conceptually reasonable but lacks mechanistic depth expected for a 'hard' item."
+    },
+    {
+      "id": "q157",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Supra-inguinal fascia iliaca block anatomy (AIIS, DCIA, bow-tie sign, fascia iliaca identification) is accurately and specifically described; procedural question with genuine technical complexity matching the hard/procedural label well."
+    },
+    {
+      "id": "q025",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "The question is organization-specific with a redacted entity name, limiting generalizability; the answer is essentially a factual description of team structure without analytical depth, mismatched with a 'hard' difficulty label."
+    },
+    {
+      "id": "q180",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Korea vs US VC investment contract structure comparison is well-grounded (bank vs PE origin, liquidation preference standardization, flip phenomenon) and causally explained; substantive finance/venture comparative with appropriate depth."
+    },
+    {
+      "id": "q147",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Vehicle classification system comparison (12 vs 20 types) is domain-specific civil engineering content; the answer is factually coherent but introduces a 15-type hybrid count that adds mild confusion, and the content is more informational than analytically deep."
+    },
+    {
+      "id": "q074",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "Cognitive rehabilitation content components (attention, memory, executive function) are accurately described with correct clinical purpose, but this is a definitional/enumerative answer at medium difficulty, not warranting a 'hard' label."
+    },
+    {
+      "id": "q058",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "The 99.9% success rate claim for implant surgery is an unsupported overstatement; the answer is vague about the key comparative distinction (e.g., site anatomy, bone density, healing protocol differences) for a supposedly hard clinical question."
+    },
+    {
+      "id": "q152",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Stamp technique for composite resin restoration is accurately described against conventional layering, with appropriate clinical scope; the question is more procedural-technical than analytically hard, so difficulty label is slightly inflated."
+    },
+    {
+      "id": "q017",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "ACDF vs posterior decompression selection criteria are clinically accurate (anterior compression vs multilevel stenosis/instability), appropriately concise, and directly address the comparative question; strong medical comparative item."
+    },
+    {
+      "id": "q049",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "India economic transformation overview is broadly accurate but highly generalized; the answer lacks specific economic indicators, reform mechanisms, or sectoral analysis expected for a hard comparative economic question."
+    },
+    {
+      "id": "q092",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Memory semiconductor consolidation comparison (past multi-player vs current Samsung/SK/Micron) is factually accurate and includes the cycle-smoothing implication; Samsung vs SK relative positioning claim is slightly oversimplified but overall solid."
+    },
+    {
+      "id": "q075",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Enterprise AI adoption shift and declining average AI literacy is an interesting comparative observation, but the answer reads as anecdotal practitioner commentary without data; the question is relevant but the answer's evidential basis is weak."
+    },
+    {
+      "id": "q141",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Visa Intelligent Commerce three pillars (Identification, Authorization, Control) are described but the third pillar 'Control' explanation is vague and underdeveloped compared to the first two; coherence suffers from asymmetric detail."
+    },
+    {
+      "id": "q020",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Van vs sedan/SUV rear-end collision injury pattern comparison is clinically relevant (MAIS/ISS difference noted), but the answer is primarily descriptive of damage characteristics rather than mechanistically explaining why injury severity differs."
+    },
+    {
+      "id": "q096",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Chronological account of Save the Children refugee child support 2010-present is detailed and internally consistent, but falls in the Education/Social domain rather than medical/finance core; the explanatory label fits but 'hard' is slightly generous for a timeline recall."
+    },
+    {
+      "id": "q031",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "QKV attention vs database retrieval comparison captures the self-referential nature of attention correctly, but the 'bottom-up + top-down simultaneous' framing is a loose analogy that conflates transformer mechanics with cognitive science without precise mapping."
+    },
+    {
+      "id": "q199",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "Welfare state vs developmental welfare state distinction captures the universalism vs selectivity dimension but oversimplifies the developmental welfare state concept (productivism, subordination to economic growth) and omits key scholars like Holliday/Kwon; answer is acceptable conceptually but lacks the analytical depth expected for a hard comparative item."
+    }
+  ]
+}

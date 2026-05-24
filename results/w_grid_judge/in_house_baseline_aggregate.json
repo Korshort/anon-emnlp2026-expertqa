@@ -1,0 +1,615 @@
+{
+  "_meta": {
+    "source": "Recomputed from raw 4-judge × 200-QA × 6-dim Likert (Sonnet 4.6, Opus 4.7, GPT-4o, GPT-5.4).",
+    "judges": [
+      "sonnet46 (claude-sonnet-4-6)",
+      "opus47 (claude-opus-4-7)",
+      "gpt4o",
+      "gpt54"
+    ],
+    "overall_dims": [
+      "faithfulness",
+      "domain_accuracy",
+      "question_quality",
+      "answer_depth",
+      "coherence"
+    ],
+    "note": "Per-cell 4-judge per-dim mean over 50 items (med+fin split into 25 each). overall = 5-dim mean (difficulty_calibration excluded). Use this as the in-house baseline cell mean against which Table 4 W-grid Δ is computed (W cell mean - corresponding in-house cell mean)."
+  },
+  "n_items_per_cell": 25,
+  "cells": {
+    "exp0_medical": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 4.08,
+            "domain_accuracy": 4.2,
+            "question_quality": 4.08,
+            "answer_depth": 3.96,
+            "coherence": 4.8,
+            "difficulty_calibration": 4.12
+          },
+          "overall_5dim": 4.224
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.68,
+            "domain_accuracy": 3.64,
+            "question_quality": 3.2,
+            "answer_depth": 2.8,
+            "coherence": 4.52,
+            "difficulty_calibration": 3.76
+          },
+          "overall_5dim": 3.568
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 4.92,
+            "domain_accuracy": 4.88,
+            "question_quality": 3.32,
+            "answer_depth": 3.36,
+            "coherence": 4.92,
+            "difficulty_calibration": 4.56
+          },
+          "overall_5dim": 4.279999999999999
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.24,
+            "domain_accuracy": 3.24,
+            "question_quality": 2.96,
+            "answer_depth": 2.52,
+            "coherence": 4.72,
+            "difficulty_calibration": 3.84
+          },
+          "overall_5dim": 3.336
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 3.98,
+          "domain_accuracy": 3.99,
+          "question_quality": 3.39,
+          "answer_depth": 3.16,
+          "coherence": 4.74,
+          "difficulty_calibration": 4.07
+        },
+        "overall_5dim": 3.8520000000000003
+      },
+      "session_si_seqs": [
+        "15503",
+        "18042",
+        "19128",
+        "19417",
+        "19696",
+        "19706",
+        "20553",
+        "20558",
+        "20840",
+        "20992",
+        "21020",
+        "21138",
+        "21402"
+      ]
+    },
+    "exp0_finance": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 3.68,
+            "domain_accuracy": 3.68,
+            "question_quality": 3.92,
+            "answer_depth": 3.8,
+            "coherence": 4.72,
+            "difficulty_calibration": 3.76
+          },
+          "overall_5dim": 3.96
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.36,
+            "domain_accuracy": 3.28,
+            "question_quality": 3.16,
+            "answer_depth": 2.6,
+            "coherence": 4.4,
+            "difficulty_calibration": 3.6
+          },
+          "overall_5dim": 3.3600000000000003
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 4.92,
+            "domain_accuracy": 4.92,
+            "question_quality": 3.48,
+            "answer_depth": 3.48,
+            "coherence": 4.92,
+            "difficulty_calibration": 4.8
+          },
+          "overall_5dim": 4.343999999999999
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.24,
+            "domain_accuracy": 3.2,
+            "question_quality": 3.2,
+            "answer_depth": 2.64,
+            "coherence": 4.56,
+            "difficulty_calibration": 3.88
+          },
+          "overall_5dim": 3.368
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 3.8,
+          "domain_accuracy": 3.77,
+          "question_quality": 3.44,
+          "answer_depth": 3.13,
+          "coherence": 4.65,
+          "difficulty_calibration": 4.01
+        },
+        "overall_5dim": 3.758
+      },
+      "session_si_seqs": [
+        "18465",
+        "18502",
+        "18506",
+        "18604",
+        "19604",
+        "19791",
+        "19814",
+        "19905",
+        "19994",
+        "20366",
+        "20381",
+        "20824",
+        "7702"
+      ]
+    },
+    "exp1_1_medical": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 4.24,
+            "domain_accuracy": 4.24,
+            "question_quality": 4.4,
+            "answer_depth": 4.28,
+            "coherence": 4.84,
+            "difficulty_calibration": 4.56
+          },
+          "overall_5dim": 4.4
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.72,
+            "domain_accuracy": 3.68,
+            "question_quality": 3.16,
+            "answer_depth": 2.96,
+            "coherence": 4.68,
+            "difficulty_calibration": 4.08
+          },
+          "overall_5dim": 3.6399999999999997
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 4.96,
+            "domain_accuracy": 4.96,
+            "question_quality": 3.48,
+            "answer_depth": 3.48,
+            "coherence": 4.96,
+            "difficulty_calibration": 4.88
+          },
+          "overall_5dim": 4.368
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.28,
+            "domain_accuracy": 3.28,
+            "question_quality": 3.28,
+            "answer_depth": 2.56,
+            "coherence": 4.6,
+            "difficulty_calibration": 4.04
+          },
+          "overall_5dim": 3.4
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 4.05,
+          "domain_accuracy": 4.04,
+          "question_quality": 3.58,
+          "answer_depth": 3.3200000000000003,
+          "coherence": 4.77,
+          "difficulty_calibration": 4.39
+        },
+        "overall_5dim": 3.9519999999999995
+      },
+      "session_si_seqs": [
+        "10805",
+        "18042",
+        "18681",
+        "19017",
+        "19128",
+        "19417",
+        "19696",
+        "19706",
+        "19899",
+        "20553",
+        "20558",
+        "20992",
+        "21020",
+        "21138"
+      ]
+    },
+    "exp1_1_finance": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 3.8,
+            "domain_accuracy": 3.84,
+            "question_quality": 4.16,
+            "answer_depth": 4.0,
+            "coherence": 4.8,
+            "difficulty_calibration": 4.04
+          },
+          "overall_5dim": 4.12
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.68,
+            "domain_accuracy": 3.64,
+            "question_quality": 3.36,
+            "answer_depth": 2.88,
+            "coherence": 4.44,
+            "difficulty_calibration": 3.6
+          },
+          "overall_5dim": 3.6
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 4.88,
+            "domain_accuracy": 4.88,
+            "question_quality": 3.36,
+            "answer_depth": 3.36,
+            "coherence": 4.88,
+            "difficulty_calibration": 4.6
+          },
+          "overall_5dim": 4.272
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.32,
+            "domain_accuracy": 3.32,
+            "question_quality": 3.04,
+            "answer_depth": 2.48,
+            "coherence": 4.6,
+            "difficulty_calibration": 4.08
+          },
+          "overall_5dim": 3.3519999999999994
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 3.92,
+          "domain_accuracy": 3.92,
+          "question_quality": 3.48,
+          "answer_depth": 3.1799999999999997,
+          "coherence": 4.68,
+          "difficulty_calibration": 4.08
+        },
+        "overall_5dim": 3.836
+      },
+      "session_si_seqs": [
+        "18257",
+        "18502",
+        "18506",
+        "18604",
+        "19510",
+        "19814",
+        "19905",
+        "19994",
+        "20050",
+        "20366",
+        "20381",
+        "21120",
+        "7702"
+      ]
+    },
+    "exp1_2_medical": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 4.16,
+            "domain_accuracy": 4.24,
+            "question_quality": 4.2,
+            "answer_depth": 3.88,
+            "coherence": 4.92,
+            "difficulty_calibration": 4.28
+          },
+          "overall_5dim": 4.279999999999999
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.56,
+            "domain_accuracy": 3.48,
+            "question_quality": 3.56,
+            "answer_depth": 3.04,
+            "coherence": 4.52,
+            "difficulty_calibration": 3.68
+          },
+          "overall_5dim": 3.632
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 4.88,
+            "domain_accuracy": 4.88,
+            "question_quality": 3.68,
+            "answer_depth": 3.64,
+            "coherence": 4.96,
+            "difficulty_calibration": 4.8
+          },
+          "overall_5dim": 4.4079999999999995
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.04,
+            "domain_accuracy": 3.0,
+            "question_quality": 3.52,
+            "answer_depth": 2.72,
+            "coherence": 4.44,
+            "difficulty_calibration": 3.76
+          },
+          "overall_5dim": 3.344
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 3.91,
+          "domain_accuracy": 3.9,
+          "question_quality": 3.74,
+          "answer_depth": 3.3200000000000003,
+          "coherence": 4.71,
+          "difficulty_calibration": 4.13
+        },
+        "overall_5dim": 3.9160000000000004
+      },
+      "session_si_seqs": [
+        "10805",
+        "19017",
+        "19128",
+        "19417",
+        "19706",
+        "20553",
+        "20558",
+        "20840",
+        "20992",
+        "21020",
+        "21138",
+        "21402",
+        "9817"
+      ]
+    },
+    "exp1_2_finance": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 3.72,
+            "domain_accuracy": 3.64,
+            "question_quality": 3.92,
+            "answer_depth": 3.72,
+            "coherence": 4.76,
+            "difficulty_calibration": 3.88
+          },
+          "overall_5dim": 3.9520000000000004
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.48,
+            "domain_accuracy": 3.44,
+            "question_quality": 3.2,
+            "answer_depth": 2.76,
+            "coherence": 4.4,
+            "difficulty_calibration": 3.72
+          },
+          "overall_5dim": 3.4560000000000004
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 4.84,
+            "domain_accuracy": 4.8,
+            "question_quality": 3.48,
+            "answer_depth": 3.48,
+            "coherence": 4.88,
+            "difficulty_calibration": 4.76
+          },
+          "overall_5dim": 4.296
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.16,
+            "domain_accuracy": 3.16,
+            "question_quality": 3.24,
+            "answer_depth": 2.72,
+            "coherence": 4.44,
+            "difficulty_calibration": 4.12
+          },
+          "overall_5dim": 3.3440000000000003
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 3.8,
+          "domain_accuracy": 3.76,
+          "question_quality": 3.46,
+          "answer_depth": 3.17,
+          "coherence": 4.62,
+          "difficulty_calibration": 4.12
+        },
+        "overall_5dim": 3.7619999999999996
+      },
+      "session_si_seqs": [
+        "18465",
+        "18502",
+        "18506",
+        "18604",
+        "19510",
+        "19548",
+        "19604",
+        "19791",
+        "19793",
+        "19814",
+        "19994",
+        "20050",
+        "20366",
+        "20381"
+      ]
+    },
+    "exp2_medical": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 4.16,
+            "domain_accuracy": 4.24,
+            "question_quality": 4.2,
+            "answer_depth": 4.12,
+            "coherence": 4.92,
+            "difficulty_calibration": 4.28
+          },
+          "overall_5dim": 4.328
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.72,
+            "domain_accuracy": 3.72,
+            "question_quality": 3.4,
+            "answer_depth": 3.36,
+            "coherence": 4.76,
+            "difficulty_calibration": 4.0
+          },
+          "overall_5dim": 3.7920000000000003
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 5.0,
+            "domain_accuracy": 5.0,
+            "question_quality": 3.6,
+            "answer_depth": 3.6,
+            "coherence": 5.0,
+            "difficulty_calibration": 4.88
+          },
+          "overall_5dim": 4.4399999999999995
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.48,
+            "domain_accuracy": 3.48,
+            "question_quality": 3.44,
+            "answer_depth": 3.04,
+            "coherence": 4.76,
+            "difficulty_calibration": 4.2
+          },
+          "overall_5dim": 3.6399999999999997
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 4.09,
+          "domain_accuracy": 4.11,
+          "question_quality": 3.66,
+          "answer_depth": 3.5300000000000002,
+          "coherence": 4.859999999999999,
+          "difficulty_calibration": 4.34
+        },
+        "overall_5dim": 4.05
+      },
+      "session_si_seqs": [
+        "18042",
+        "18897",
+        "19128",
+        "19417",
+        "19706",
+        "19899",
+        "20553",
+        "20558",
+        "20840",
+        "20992",
+        "21020",
+        "21402",
+        "9817"
+      ]
+    },
+    "exp2_finance": {
+      "per_judge": {
+        "sonnet46": {
+          "dims": {
+            "faithfulness": 3.96,
+            "domain_accuracy": 3.96,
+            "question_quality": 4.24,
+            "answer_depth": 4.08,
+            "coherence": 4.92,
+            "difficulty_calibration": 4.12
+          },
+          "overall_5dim": 4.232
+        },
+        "opus47": {
+          "dims": {
+            "faithfulness": 3.64,
+            "domain_accuracy": 3.56,
+            "question_quality": 3.28,
+            "answer_depth": 2.84,
+            "coherence": 4.68,
+            "difficulty_calibration": 3.84
+          },
+          "overall_5dim": 3.6
+        },
+        "gpt4o": {
+          "dims": {
+            "faithfulness": 4.96,
+            "domain_accuracy": 4.92,
+            "question_quality": 3.44,
+            "answer_depth": 3.44,
+            "coherence": 4.96,
+            "difficulty_calibration": 4.68
+          },
+          "overall_5dim": 4.343999999999999
+        },
+        "gpt54": {
+          "dims": {
+            "faithfulness": 3.56,
+            "domain_accuracy": 3.52,
+            "question_quality": 3.2,
+            "answer_depth": 2.68,
+            "coherence": 4.72,
+            "difficulty_calibration": 4.04
+          },
+          "overall_5dim": 3.536
+        }
+      },
+      "four_judge_mean": {
+        "dims": {
+          "faithfulness": 4.03,
+          "domain_accuracy": 3.99,
+          "question_quality": 3.54,
+          "answer_depth": 3.26,
+          "coherence": 4.82,
+          "difficulty_calibration": 4.17
+        },
+        "overall_5dim": 3.928
+      },
+      "session_si_seqs": [
+        "18257",
+        "18502",
+        "18506",
+        "18604",
+        "19604",
+        "19791",
+        "19905",
+        "19994",
+        "20050",
+        "20366",
+        "20381",
+        "21120"
+      ]
+    }
+  }
+}

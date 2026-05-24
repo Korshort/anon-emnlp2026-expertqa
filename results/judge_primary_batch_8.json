@@ -1,0 +1,30 @@
+{
+  "batch_id": 8,
+  "results": [
+    {"id": "q050", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "항응고 옵션 비교가 체계적이며 임상 근거를 반영. '노AC' 오타 외 정확."},
+    {"id": "q143", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "기존 부서 vs 탄소금융부 차별점이 명확. KTX 도미 등 표현은 전사 오류 가능성."},
+    {"id": "q197", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "AI 의존-과소활용 양면 비교가 선관주의의무 확장으로 잘 연결됨."},
+    {"id": "q154", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "스탬프 vs 층층 빌드업 비교 적절, 적용 사례 추가설명."},
+    {"id": "q129", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "선순환 구조 단계별 설명 명확. comparative라기보다 explanatory가 적합 (라벨 일치)."},
+    {"id": "q059", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "비유적 예시는 직관적이나 NLP 용어로서의 reading comprehension 정의는 단순화됨."},
+    {"id": "q055", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "양측 케이스 비교가 임상적으로 정확. supra-occlusion 메커니즘 설명 우수."},
+    {"id": "q023", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "수술 백업 유무에 따른 PCI 결정 분기 잘 정리됨."},
+    {"id": "q007", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "팀 규모/역할 기술이 사실 검증 어렵고 마케팅 자료 톤. 비교는 명확."},
+    {"id": "q008", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "FIGURE/보스턴 다이내믹스/유니트리 특성 비교. 보스턴 다이내믹스는 미국 회사로 현대차 인수는 사실. sub_domain Other 처리 적절."},
+    {"id": "q108", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "before/after 변화가 깔끔히 대응됨."},
+    {"id": "q151", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "q050과 동일 내용 (중복 가능). '노AC' 오타 동일."},
+    {"id": "q022", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "ACDF/posterior 선택 기준이 표준 신경외과 지식과 일치."},
+    {"id": "q139", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "전환금융 vs 네이처 파이낸싱 등장 배경 비교 명료."},
+    {"id": "q173", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "혈관 분지와 보호법이 해부학적으로 정확. 절차적 라벨 일치."},
+    {"id": "q026", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "팀 구성·인원 등 사실 검증 어려움. 회사 홍보성 톤."},
+    {"id": "q188", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "텍스트 기반 vs 직접 만남 비교가 효과 차이까지 잘 연결."},
+    {"id": "q035", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "내용은 explanatory에 가까운데 question_type=comparative 라벨이 약간 부정합."},
+    {"id": "q057", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "두 유형 불면증 대비 및 대응이 임상적으로 합리적."},
+    {"id": "q062", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "q108과 동일 (중복). 평가 동일."},
+    {"id": "q070", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "치주인대 완충 vs 골유착 직접전달의 차이가 정확하게 설명됨."},
+    {"id": "q189", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "공통점/차이점 구분 명확. PNTR 박탈 가능성도 적절."},
+    {"id": "q006", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "수술 합병증과 방사선 부작용을 합산 효과까지 비교."},
+    {"id": "q028", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "GCF 후순위 vs 민간 선순위 구조 설명이 블렌디드 파이낸스 표준."},
+    {"id": "q163", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "AIIS·DCIA·bow-tie 등 초음파 랜드마크 정확. procedural 라벨 일치."}
+  ]
+}

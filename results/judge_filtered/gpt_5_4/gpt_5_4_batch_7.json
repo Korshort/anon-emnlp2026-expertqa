@@ -1,0 +1,305 @@
+{
+  "batch_id": 7,
+  "results": [
+    {
+      "id": "q137",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "기존 투자부서와의 차이를 기준·평가순서로 잘 대비했고 기후금융 맥락도 대체로 타당하다."
+    },
+    {
+      "id": "q117",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "치료 발전에 따른 GFR 감소 속도 변화를 비교해 설명하며 수치도 대체로 개연적이다."
+    },
+    {
+      "id": "q011",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "비교 구조는 있으나 레벨·적응증 표현이 다소 모호하고 일부 용어가 부정확해 보인다."
+    },
+    {
+      "id": "q067",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 2,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "내용은 충실하지만 답변이 중국어로 되어 한국어 QA 정합성이 떨어진다."
+    },
+    {
+      "id": "q088",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "도입 이유와 기존 계획과의 차이를 구조적으로 설명해 비교형 질문에 잘 맞는다."
+    },
+    {
+      "id": "q091",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "모바일 전환의 타이밍과 실행력을 잘 짚었으나 일부 표현과 사례의 엄밀성은 약간 떨어진다."
+    },
+    {
+      "id": "q024",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "미국 48시간·영국 36시간 비교가 명확하고 의학적 정확성도 높으나 깊이는 보통 수준이다."
+    },
+    {
+      "id": "q097",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "일반 대출과의 차이를 절차·금리혜택으로 설명했지만 상품명과 제도 세부는 다소 불명확하다."
+    },
+    {
+      "id": "q182",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "30만 사업자의 전략적 의미를 시장 비교와 확장 가능성으로 설득력 있게 설명한다."
+    },
+    {
+      "id": "q190",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "5차 계획의 민간 중심 전환과 정책 우선순위 변화를 일관되게 요약했다."
+    },
+    {
+      "id": "q086",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "중국·미국/EU 대비 아세안의 현실성을 비교했으나 수치와 경쟁력 판단은 다소 일반론적이다."
+    },
+    {
+      "id": "q181",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "운과 엔지니어링의 역할을 깔끔히 대비했지만 구체성은 제한적이라 깊이는 보통이다."
+    },
+    {
+      "id": "q039",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "정책 실수 가능성을 인플레이션 국면 차이로 설명하지만 전제 사실의 시점 적합성은 다소 불확실하다."
+    },
+    {
+      "id": "q168",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "관련 혈관과 손상 기전·보호법을 실무적으로 제시해 절차형 질문에 잘 부합한다."
+    },
+    {
+      "id": "q087",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "AI 과의존과 미활용의 양면 법적 쟁점을 균형 있게 비교한 고차원 질문·답변이다."
+    },
+    {
+      "id": "q185",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "고용구조·지역집중·훈련체계 분절 등 구조 요인을 다면적으로 설명한다."
+    },
+    {
+      "id": "q040",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "관세 차등과 유지 기간을 비교해 답했으나 수치와 시나리오 세부의 검증 가능성은 제한적이다."
+    },
+    {
+      "id": "q001",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "문제점과 전문가 견해를 함께 제시했지만 세틀다운 수치와 기전 설명의 엄밀성은 다소 약하다."
+    },
+    {
+      "id": "q071",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "수정 가능/불가능 출혈 위험 인자를 체계적으로 나누고 관리 접근도 제시했다."
+    },
+    {
+      "id": "q150",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "척수·뇌 관류압 개념의 공통 원리와 임상 적용 차이를 정확하고 깊이 있게 설명한다."
+    },
+    {
+      "id": "q114",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "양측·편측 접근 차이를 설명하지만 안검하수와 부종 관련 표현이 다소 혼재되어 정확성은 보통이다."
+    },
+    {
+      "id": "q056",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "초기 운영 과제와 현재 성과를 조직·데이터·접근성 측면에서 잘 대비했다."
+    },
+    {
+      "id": "q107",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "비교 답변은 명확하나 PDRN matrix와 자가 연조직 이식의 동등성 주장은 근거가 더 필요하다."
+    },
+    {
+      "id": "q191",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "알고리즘과 사용자 선택의 상대적 중요성을 데이터와 정책 함의로 균형 있게 다뤘다."
+    },
+    {
+      "id": "q166",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "재발 방지 고려사항을 나열했지만 full-thickness 절대화 등 일부 수술 원칙은 과도하게 단정적이다."
+    }
+  ]
+}

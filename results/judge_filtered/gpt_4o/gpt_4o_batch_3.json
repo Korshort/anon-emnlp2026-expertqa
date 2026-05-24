@@ -1,0 +1,305 @@
+{
+  "batch_id": 3,
+  "results": [
+    {
+      "id": "q105",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate and detailed comparative analysis."
+    },
+    {
+      "id": "q095",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison with domain-specific insights."
+    },
+    {
+      "id": "q103",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed surgical comparison with high domain accuracy."
+    },
+    {
+      "id": "q145",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Insightful comparison with strategic implications."
+    },
+    {
+      "id": "q043",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Comprehensive comparison of financial services."
+    },
+    {
+      "id": "q000",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed comparison of challenges and improvements."
+    },
+    {
+      "id": "q161",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "In-depth explanation of medical concepts."
+    },
+    {
+      "id": "q192",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison of roles in AI payment systems."
+    },
+    {
+      "id": "q016",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "General advice with moderate depth."
+    },
+    {
+      "id": "q080",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Comprehensive overview of AI-related laws."
+    },
+    {
+      "id": "q102",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed comparison of medical treatments."
+    },
+    {
+      "id": "q038",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison of renewable energy projects."
+    },
+    {
+      "id": "q156",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed dental procedure comparison."
+    },
+    {
+      "id": "q176",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Insightful explanation of startup challenges."
+    },
+    {
+      "id": "q135",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Balanced view on education in AI era."
+    },
+    {
+      "id": "q078",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison of transaction methods."
+    },
+    {
+      "id": "q115",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "In-depth explanation of diabetes treatment."
+    },
+    {
+      "id": "q019",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison of medical procedures."
+    },
+    {
+      "id": "q014",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed comparison of nerve block techniques."
+    },
+    {
+      "id": "q177",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Comprehensive explanation of climate model."
+    },
+    {
+      "id": "q146",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear comparison of listing procedures."
+    },
+    {
+      "id": "q179",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Comprehensive overview of AI-related laws."
+    },
+    {
+      "id": "q065",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Detailed surgical considerations."
+    },
+    {
+      "id": "q084",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Balanced view on startup success factors."
+    },
+    {
+      "id": "q165",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "In-depth comparison of medical advancements."
+    }
+  ]
+}

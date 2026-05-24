@@ -1,0 +1,112 @@
+{
+  "_meta": {
+    "judge": "claude-sonnet-4-6 (single judge)",
+    "source": "judge_primary_batch_{1..8}.json (primary 200-QA, in-house STT)",
+    "overall_dims": [
+      "faithfulness",
+      "domain_accuracy",
+      "question_quality",
+      "answer_depth",
+      "coherence"
+    ],
+    "note": "This file holds Sonnet 4.6 single-judge per-cell means. Paper Table 3 reports 4-judge means; compute the 4-judge aggregate from the four judge sources documented in code/README.md (primary Sonnet here + Opus/GPT-4o/GPT-5.4 raw distributed separately)."
+  },
+  "n_scored": 200,
+  "overall_dims": [
+    "faithfulness",
+    "domain_accuracy",
+    "question_quality",
+    "answer_depth",
+    "coherence"
+  ],
+  "cell_dim_avg": {
+    "exp0|medical": {
+      "overall": 4.224,
+      "dims": {
+        "faithfulness": 4.08,
+        "domain_accuracy": 4.2,
+        "question_quality": 4.08,
+        "answer_depth": 3.96,
+        "coherence": 4.8,
+        "difficulty_calibration": 4.12
+      }
+    },
+    "exp0|finance": {
+      "overall": 3.96,
+      "dims": {
+        "faithfulness": 3.68,
+        "domain_accuracy": 3.68,
+        "question_quality": 3.92,
+        "answer_depth": 3.8,
+        "coherence": 4.72,
+        "difficulty_calibration": 3.76
+      }
+    },
+    "exp1_1|medical": {
+      "overall": 4.4,
+      "dims": {
+        "faithfulness": 4.24,
+        "domain_accuracy": 4.24,
+        "question_quality": 4.4,
+        "answer_depth": 4.28,
+        "coherence": 4.84,
+        "difficulty_calibration": 4.56
+      }
+    },
+    "exp1_1|finance": {
+      "overall": 4.12,
+      "dims": {
+        "faithfulness": 3.8,
+        "domain_accuracy": 3.84,
+        "question_quality": 4.16,
+        "answer_depth": 4.0,
+        "coherence": 4.8,
+        "difficulty_calibration": 4.04
+      }
+    },
+    "exp1_2|medical": {
+      "overall": 4.279999999999999,
+      "dims": {
+        "faithfulness": 4.16,
+        "domain_accuracy": 4.24,
+        "question_quality": 4.2,
+        "answer_depth": 3.88,
+        "coherence": 4.92,
+        "difficulty_calibration": 4.28
+      }
+    },
+    "exp1_2|finance": {
+      "overall": 3.9520000000000004,
+      "dims": {
+        "faithfulness": 3.72,
+        "domain_accuracy": 3.64,
+        "question_quality": 3.92,
+        "answer_depth": 3.72,
+        "coherence": 4.76,
+        "difficulty_calibration": 3.88
+      }
+    },
+    "exp2|medical": {
+      "overall": 4.328,
+      "dims": {
+        "faithfulness": 4.16,
+        "domain_accuracy": 4.24,
+        "question_quality": 4.2,
+        "answer_depth": 4.12,
+        "coherence": 4.92,
+        "difficulty_calibration": 4.28
+      }
+    },
+    "exp2|finance": {
+      "overall": 4.232,
+      "dims": {
+        "faithfulness": 3.96,
+        "domain_accuracy": 3.96,
+        "question_quality": 4.24,
+        "answer_depth": 4.08,
+        "coherence": 4.92,
+        "difficulty_calibration": 4.12
+      }
+    }
+  }
+}

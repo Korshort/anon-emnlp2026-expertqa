@@ -1,0 +1,305 @@
+{
+  "batch_id": 1,
+  "results": [
+    {
+      "id": "q066",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "정책 제안을 법적 근거, 근무환경, 전문성 3축으로 구조화했고 현실 진단과 개선 이유를 모두 다뤘으나, 구체적 수치나 비교 근거 없이 서술에 그침."
+    },
+    {
+      "id": "q187",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "역사적 금융 역할과 녹색금융 154조/37% 수치를 근거로 주장을 뒷받침했으나, 타 기관 대비 비교나 비판적 검토 없이 주장 측 논거만 제시."
+    },
+    {
+      "id": "q101",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "두 팀의 구성·역할을 대조했으나 다빈치/제네시스가 특정 의료기기 회사(인튜이티브) 내부 팀임을 명시하지 않아 도메인 맥락 정확도가 낮고, 깊이가 나열 수준에 머묾."
+    },
+    {
+      "id": "q193",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "파싱과 임베딩 두 개선점을 명확히 분리하고 크로스모달 검색의 의의까지 설명했으나, 기술적 배경이나 한계에 대한 심층 분석 없이 기능 설명에 그침."
+    },
+    {
+      "id": "q111",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 5,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "불교의 무아론과 현대 심리치료의 해석 장치 개념을 연결한 시도는 적절하나, 두 입장의 핵심 차이(존재론적 부정 vs 기능적 설명)가 충분히 대조되지 않아 비교 깊이가 부족."
+    },
+    {
+      "id": "q121",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "기간 단축(15년→7-9년)과 비용 절감(2-3조→6천억) 수치를 구체적으로 제시했으나 출처 불명의 단일 수치이며, 비교 근거가 표면적이라 medium 레이블과 비교 유형 둘 다 다소 과도한 레이블링."
+    },
+    {
+      "id": "q013",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "두 동물 모델의 시간별 효과 차이(apical 국소 효과, contained defect 영향)를 정확하게 대비하고 메커니즘 수준의 해석까지 제시한 우수 답변."
+    },
+    {
+      "id": "q002",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "ACDF와 척추체 절제술의 수술 범위 차이를 정확히 기술하고, 차이의 이유(해당 구조물만 제거 vs 전체 척추체 제거)까지 명확하게 설명."
+    },
+    {
+      "id": "q064",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "두 동물 모델의 치유 시기별 효과 패턴 차이(캐치업 vs 2주 한정)를 명확히 대비하고 초기 단계 집중 경향이라는 공통 결론을 이끌어냄."
+    },
+    {
+      "id": "q044",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "운의 4가지 요소를 나열했으나 요소 간 비교보다 단순 분류에 그쳐, comparative 유형과 hard 레이블이 과대평가됨; 학문적 근거도 없이 요소 분류 자체가 임의적."
+    },
+    {
+      "id": "q136",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "키워드 검색 vs 자기 참조 구조의 대비를 바텀업/탑다운 병렬 처리와 연결한 설명이 명확하나, 어텐션 메커니즘의 수학적 본질은 설명하지 않아 심층성에 한계."
+    },
+    {
+      "id": "q170",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "주의력·기억력·집행력 훈련 구성을 각각 설명했으나 훈련 간 연계나 임상 근거 없이 나열 수준이며, hard explanatory 레이블 대비 깊이가 부족."
+    },
+    {
+      "id": "q128",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "싱가포르와의 비교는 구성 자체는 유효하나, 1인당 국민소득 정체(3만 6천 달러)와 싱가포르 수치를 단정적으로 제시해 사실 검증 없이 클레임화하는 문제가 있음."
+    },
+    {
+      "id": "q076",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "기후-금융 악순환 메커니즘을 설명하고 과거(소극적·규제 중심) vs 현재(적극적·민간 유도) 정책 전환을 대비하여 질문의 두 요구를 모두 충족."
+    },
+    {
+      "id": "q158",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "비매몰(힐링캡, 단순 봉합)과 매몰(커버스커, 2단계, 복잡 봉합)의 수술 과정 차이를 정확히 대비하고 즉시 식립 상황에서의 적합성 판단까지 포함."
+    },
+    {
+      "id": "q167",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "안면 수술 시 주의해야 할 3개 혈관 분지를 명시하고 손상 경로(절골 톱, 박리 엘리베이터)와 보호 방법(가드 사용)을 구체적으로 기술한 임상적으로 정확한 답변."
+    },
+    {
+      "id": "q045",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "1기(대중·특정 품목 집중, 협상 조정)와 2기(보편 관세, 우회 차단)의 차이를 정책 논리 수준에서 설명했으나 구체적 세율이나 발표 근거 인용 없이 서술."
+    },
+    {
+      "id": "q130",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "26년간 복지 지출 증가 원인과 '감당 가능 수준 vs 경제 부담' 사이의 딜레마를 명확히 기술했으나, 비교 국가나 수치 기반 논거 없이 서술 수준에 머묾."
+    },
+    {
+      "id": "q030",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "AI 기본법 위원회의 역할을 타 법률과의 규제 조정 기능으로 설명하여 comparative 질문에 적절히 답변했으나, 법률 간 충돌 사례나 구체적 조정 메커니즘은 부재."
+    },
+    {
+      "id": "q003",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "수술 후 합병증(통증, 감각 이상, 림프 부종, 운동 제한)과 방사선 치료 추가 시 부작용(섬유화, 통증 가중, 운동 제한 심화)을 정확히 구분하고 70-80% 발생률 맥락도 포함."
+    },
+    {
+      "id": "q159",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "D1/D2(풀 드릴링·풀 탭), D4(최소 드릴링·자기탭핑), D3(부분 프리탭핑)으로 밀도별 프로토콜 차이를 정확하게 대비하고 이유(초기 고정도 확보)까지 설명."
+    },
+    {
+      "id": "q015",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "양측성과 편측성 수술의 차이를 부종 고려 여부로 설명하고 1mm 낮춤 전략을 제시했으나, 안검하수 교정 기술(MRD 측정, 거근 단축량 등) 수준의 심층 설명은 없음."
+    },
+    {
+      "id": "q042",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "버블론 우려와 긍정 전망을 대비했으나 전문가 공통 견해를 주관적으로 서술하고 반론의 근거(밸류에이션, 수익화 지표 등)를 제시하지 않아 비교 깊이가 부족."
+    },
+    {
+      "id": "q126",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "AI 에이전트용 토큰화가 기존 디지털 월렛 토큰화와 동일 원리임을 명확히 설명하고, 새로운 채널 적용이라는 차이점도 제시하여 comparative 질문을 적절히 다룸."
+    },
+    {
+      "id": "q186",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "태양광 잠재량 분석(LCOE 포함), 대화형 시뮬레이터, AI 기반 항공영상 분석 3가지 기능을 체계적으로 설명하여 explanatory 질문의 요구를 충족."
+    }
+  ]
+}

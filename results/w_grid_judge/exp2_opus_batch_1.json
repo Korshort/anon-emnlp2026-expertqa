@@ -1,0 +1,281 @@
+{
+  "batch_id": 1,
+  "judge": "claude-opus-4-7",
+  "items": [
+    {
+      "id": "w062",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w056",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w027",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      }
+    },
+    {
+      "id": "w070",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w036",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w020",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w047",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w029",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      }
+    },
+    {
+      "id": "w055",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w058",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w048",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w001",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w050",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      }
+    },
+    {
+      "id": "w025",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w016",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w018",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w008",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w061",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w011",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w051",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w014",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 2,
+        "difficulty_calibration": 2
+      }
+    },
+    {
+      "id": "w065",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w009",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    },
+    {
+      "id": "w063",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      }
+    },
+    {
+      "id": "w073",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      }
+    }
+  ]
+}

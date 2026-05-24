@@ -1,0 +1,306 @@
+{
+ "batch_id": 3,
+ "judge": "gpt4o",
+ "results": [
+  {
+   "id": "w043",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "답변이 질문에 충실하고 시나리오를 잘 설명함."
+  },
+  {
+   "id": "w024",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "의식의 역할을 명확히 설명하며 메타인지와의 관계를 잘 다룸."
+  },
+  {
+   "id": "w069",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "스마트폰 모니터링과 병원 검사 방식의 차이를 잘 설명함."
+  },
+  {
+   "id": "w003",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "외상 전담 간호사의 역할을 구체적으로 설명함."
+  },
+  {
+   "id": "w012",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 5,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "교합 변화의 차이를 깊이 있게 설명함."
+  },
+  {
+   "id": "w072",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "이중 언어 교육의 이유를 간단히 설명함."
+  },
+  {
+   "id": "w046",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "일본 금융그룹의 투자 변화 양상을 잘 설명함."
+  },
+  {
+   "id": "w034",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "난민 교육 지원의 유형을 나열함."
+  },
+  {
+   "id": "w005",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "심장병과 암 발생률의 차이를 간단히 설명함."
+  },
+  {
+   "id": "w023",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 5,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "AI가 신약개발에 미치는 영향을 깊이 있게 설명함."
+  },
+  {
+   "id": "w054",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "AI 사회 변화 시나리오를 잘 설명함."
+  },
+  {
+   "id": "w028",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "목표와 결과 값의 차이를 명확히 설명함."
+  },
+  {
+   "id": "w059",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "어린이와 성인 난민의 도전 과제를 비교함."
+  },
+  {
+   "id": "w010",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "천연물 신약 개발 환경의 변화를 설명함."
+  },
+  {
+   "id": "w042",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "한국의 디지털 시장 보호 이유를 설명함."
+  },
+  {
+   "id": "w026",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "미국 기준금리 동결 이유와 예측을 설명함."
+  },
+  {
+   "id": "w032",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "애니메이션 제작 비용 차이를 설명함."
+  },
+  {
+   "id": "w031",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "고등어 양식의 경제적 이점을 설명함."
+  },
+  {
+   "id": "w049",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "KDB NEXT 시리즈의 프로그램을 나열함."
+  },
+  {
+   "id": "w017",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "PICC 카테터 팁 위치와 확인 방법의 단점을 설명함."
+  },
+  {
+   "id": "w067",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "AI 전환 비용의 공정성 문제를 설명함."
+  },
+  {
+   "id": "w074",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "AI 에이전트의 쇼핑 역할을 설명함."
+  },
+  {
+   "id": "w053",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "태재미래전력연구원의 연구 미션을 설명함."
+  },
+  {
+   "id": "w052",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "미국 상장 준비에서 CFO의 역할을 설명함."
+  },
+  {
+   "id": "w071",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "베트남 북부와 남부의 산업 분포 차이를 설명함."
+  }
+ ]
+}

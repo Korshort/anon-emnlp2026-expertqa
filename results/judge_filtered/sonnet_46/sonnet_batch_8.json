@@ -1,0 +1,305 @@
+{
+  "batch_id": 8,
+  "results": [
+    {
+      "id": "q050",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Comparative coverage of NOAC/antiplatelet options is clinically sound; half-dose NOAC evidence limitation acknowledged; minor informal phrasing ('괜찮은') slightly reduces domain_accuracy score."
+    },
+    {
+      "id": "q143",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "'Dollar Frown' is a colloquial/emerging frame not well-established in academic finance literature; explanation oversimplifies the mechanism and lacks quantitative grounding, reducing faithfulness and domain_accuracy; labeled 'hard/comparative' but conceptual depth is modest."
+    },
+    {
+      "id": "q197",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Content pertains to a specific company pitch (Megaplan aquaculture), not a validated domain; micro-plastic safety claims and cost projections are unverified; domain mismatch (Biotech label is plausible but question is business-competitive analysis); labeled 'hard/comparative' but reasoning depth is limited."
+    },
+    {
+      "id": "q154",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate classification of modifiable vs non-modifiable bleeding risk factors with correct clinical management guidance including LAA occlusion fallback; labeled 'medium/comparative' but actual content warrants hard-level."
+    },
+    {
+      "id": "q129",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Anonymized entity '[회계법인]' limits verifiability; answer is descriptive marketing language rather than analytical comparison; labeled 'hard/comparative' but lacks substantive depth or evidence-based contrast."
+    },
+    {
+      "id": "q059",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Biomechanical reasoning about crown leverage and fixation point is clinically logical and well-explained; direct comparative structure correctly addresses the question; labeled 'hard/comparative' matches content well."
+    },
+    {
+      "id": "q055",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate comparison of occlusal adjustment protocols for implant prosthetics; contralateral reference principle is clinically valid; answer_depth is moderate — mechanistic reasoning is present but not elaborated beyond clinical rule."
+    },
+    {
+      "id": "q023",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "Factually plausible description of a proprietary team (MACA at Intuitive) but unverifiable; question is definitional/explanatory with no comparative or reasoning component despite 'hard/explanatory' label; answer is descriptive enumeration without analytical depth."
+    },
+    {
+      "id": "q007",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate mechanistic comparison of PRF (soft-tissue healing via platelet-derived growth factors) vs BMP (osteoinduction via mesenchymal stem cell differentiation) with appropriate clinical application framing; 'hard/comparative' label is well-calibrated."
+    },
+    {
+      "id": "q008",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "Technical content about non-submerged implant placement in extraction sockets is plausible but relies on informal expert experience framing ('20년이 넘는 경험'); answer_depth is low (definition rather than comparative analysis); labeled 'hard/comparative' but is closer to 'medium/explanatory'."
+    },
+    {
+      "id": "q108",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Identical to q007 — same question and answer; scores reflect the same high-quality mechanistic PRF vs BMP comparison."
+    },
+    {
+      "id": "q151",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Identical to q050 — same question and answer; comparative anticoagulation options with appropriate advantage/disadvantage framing; 'hard/comparative' label is appropriate."
+    },
+    {
+      "id": "q022",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Plausible operational comparison of da Vinci OR setup before/after dedicated room construction; domain_accuracy is moderate (Healthcare operational rather than clinical); labeled 'medium/comparative' is appropriate but question_quality is limited — operational logistics rather than medical reasoning."
+    },
+    {
+      "id": "q139",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "General comparison of online shopping pain points vs AI agent commerce is coherent but lacks specificity; domain is Ad/Marketing/E-commerce rather than medical/finance core domain; labeled 'medium/comparative' fits but depth is surface-level."
+    },
+    {
+      "id": "q173",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Correctly distinguishes hypertension (vascular damage) vs hyperglycemia (renal workload increase) mechanisms in diabetic nephropathy; answer_depth is adequate but could elaborate on glomerular hyperfiltration and RAAS pathways; labeled 'hard/comparative' is reasonable."
+    },
+    {
+      "id": "q026",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate structural comparison of GCF (subordinated tranche, risk-bearing) vs private investors (senior LP with priority return including 8% interest) in blended finance; clear mechanistic explanation of leverage effect; 'hard/comparative' label is well-calibrated."
+    },
+    {
+      "id": "q188",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Well-structured comparative analysis of two opposing legal risks (over-reliance vs under-utilization of AI) within fiduciary duty framework; raises substantive question about evolving duty of care standards; 'hard/comparative' is appropriate."
+    },
+    {
+      "id": "q035",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate framing of Korea's MyData regulatory framework and the proposed shift from ex-ante prohibition to ex-post accountability; regulatory sandbox mention is policy-accurate; coherent normative argument; 'hard/comparative' label fits."
+    },
+    {
+      "id": "q057",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Clear decision criteria based on defect height (<10mm PRF alone, >15mm requires bone graft, 10-15mm variable) are clinically grounded; DBBM as bone graft example is appropriate; 'hard/comparative' label matches well."
+    },
+    {
+      "id": "q062",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate biomechanical comparison: natural tooth periodontal ligament cushioning vs osseointegrated implant rigid force transmission; clinically relevant consequence for free-end prosthetics and occlusal discordance risk is well-articulated; 'hard/comparative' label is appropriate."
+    },
+    {
+      "id": "q070",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Cites specific long-term study data (288 implants, 7 failures, 13-year follow-up) comparing tilted vs axial implants with no significant difference in marginal bone loss; answer_depth is moderate — reports findings without mechanistic explanation of why outcomes converge; 'hard/comparative' is appropriate."
+    },
+    {
+      "id": "q189",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Historically plausible account of Park Chung-hee's economic planning rationale contrasted with prior aid-dependent plans; answer_depth is moderate — contextual contrast is present but lacks economic theory grounding (e.g., import substitution vs export-led growth); 'hard/comparative' label is reasonable."
+    },
+    {
+      "id": "q006",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Reports PDRN-soaked collagen matrix vs autogenous soft tissue graft equivalence in periodontal regeneration accurately; however, the answer is extremely brief — no mechanistic explanation, no study details — severely limiting answer_depth; 'hard/comparative' label is not well-calibrated given the sparse response."
+    },
+    {
+      "id": "q028",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Accurate comparison of Silicon Valley rapid AI transformation (2022-2023 mass layoffs + restructuring) vs Korea's lagged adoption with workforce expansion paradox; answer_depth is moderate — observational rather than structural/causal analysis; 'hard/comparative' label is reasonable."
+    },
+    {
+      "id": "q163",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Describes Intuitive ecosystem three components (Advanced Technology, Professional Education, Program Optimization) with plausible historical evolution; content is specific to proprietary company structure, unverifiable externally; question is explanatory/enumeration rather than genuinely comparative; labeled 'hard/explanatory' but analytical depth is limited."
+    }
+  ]
+}

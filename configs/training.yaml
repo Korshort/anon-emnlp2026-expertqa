@@ -1,0 +1,49 @@
+training:
+  max_seq_len: 2048
+  num_train_epochs: 3
+  learning_rate: 2.0e-4
+  warmup_ratio: 0.03
+  logging_steps: 10
+  save_strategy: epoch
+  gradient_checkpointing: true
+
+  # Eval — golden set as fixed eval dataset
+  eval:
+    eval_strategy: steps       # eval at every eval_steps
+    eval_steps: logging_steps  # same frequency as train logging (default 10)
+
+  # QLoRA defaults
+  qlora:
+    load_in_4bit: true
+    bnb_4bit_quant_type: nf4
+    bnb_4bit_use_double_quant: true
+    bnb_4bit_compute_dtype: bfloat16
+
+  # LoRA defaults
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+
+  # Per-tier batch sizing (effective batch = micro_batch * grad_accum * gpus)
+  batch:
+    small:
+      micro_batch: 4
+      grad_accum: 4
+    medium_small:  # 7-8B
+      micro_batch: 4
+      grad_accum: 4
+    medium_large:  # 22-27B
+      micro_batch: 1
+      grad_accum: 16
+    large:  # 70B
+      micro_batch: 1
+      grad_accum: 16
+
+experiment:
+  seeds: [1, 2]                 # n=2 seeds per main LoRA / W-grid cell (paper App. B seed inventory)
+  conditions: [exp0, exp1_1, exp1_2, exp2]
+  domains: [medical, finance]
+  output_dir: experiments/runs
+  gpus: 4
+  # Full FT sanity (12 cells) and 200-QA sample selection use seed 42 only.

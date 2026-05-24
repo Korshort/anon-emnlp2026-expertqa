@@ -1,0 +1,42 @@
+{
+  "exp0_medical": {
+    "n": 25,
+    "pool": 1410,
+    "sub_count": 20
+  },
+  "exp0_finance": {
+    "n": 25,
+    "pool": 1252,
+    "sub_count": 23
+  },
+  "exp1_1_medical": {
+    "n": 25,
+    "pool": 1468,
+    "sub_count": 17
+  },
+  "exp1_1_finance": {
+    "n": 25,
+    "pool": 1297,
+    "sub_count": 24
+  },
+  "exp1_2_medical": {
+    "n": 25,
+    "pool": 1402,
+    "sub_count": 17
+  },
+  "exp1_2_finance": {
+    "n": 25,
+    "pool": 1270,
+    "sub_count": 24
+  },
+  "exp2_medical": {
+    "n": 25,
+    "pool": 1380,
+    "sub_count": 19
+  },
+  "exp2_finance": {
+    "n": 25,
+    "pool": 1222,
+    "sub_count": 25
+  }
+}

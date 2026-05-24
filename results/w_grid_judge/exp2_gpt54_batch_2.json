@@ -1,0 +1,306 @@
+{
+ "batch_id": 2,
+ "judge": "gpt54",
+ "results": [
+  {
+   "id": "w033",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "단순 순위 회상형 문항으로 QA 연결은 좋으나 수치 근거가 없어 사실성은 보통 수준."
+  },
+  {
+   "id": "w057",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "다구치 방법론 설명은 대체로 정확하고 예시도 적절하나 사업공학 맥락이 약간 일반화됨."
+  },
+  {
+   "id": "w006",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "수면압·수면효율 관점의 취지는 맞지만 설명이 단순화되어 있고 hard 치고는 깊이가 제한적."
+  },
+  {
+   "id": "w066",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 2,
+    "coherence": 3,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "PCAOB vs ISA 비교 질문인데 IAS까지 섞어 설명하고 핵심 차이점이 충분히 정리되지 않아 부정확."
+  },
+  {
+   "id": "w044",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 2
+   },
+   "rationale_brief": "투자유치·제품확장 계획을 구체적으로 답하지만 절차형이라기보다 현황 설명에 가까워 라벨 부합성 낮음."
+  },
+  {
+   "id": "w022",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "입원기간 단축과 총의료비 절감의 인과를 전립선 수술 사례로 잘 설명한 양호한 답변."
+  },
+  {
+   "id": "w015",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "복강압 상승의 폐역학 영향 설명은 적절하나 ARDS로 '많이 진행' 등 단정 표현은 다소 과함."
+  },
+  {
+   "id": "w040",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "집중 전략이라는 실무적 메시지는 분명하나 B2B를 B2C처럼 접근한다는 표현은 다소 모호함."
+  },
+  {
+   "id": "w007",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "PD-1/PD-L1 축을 통한 면역관문억제제 기전 설명이 정확하고 질문과도 직접 부합."
+  },
+  {
+   "id": "w045",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "국가별 수요 차이와 고객 중심 학습이라는 해결책을 잘 연결한 설명형 문항."
+  },
+  {
+   "id": "w039",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "고립주의에서 개입 확대라는 큰 흐름은 맞지만 원인 설명이 에너지 수급으로 지나치게 단순화됨."
+  },
+  {
+   "id": "w000",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "특정 회사명과 세부 특징이 검증 없이 단정되며 BMP·캐리어 설명도 다소 혼재되어 정확성 낮음."
+  },
+  {
+   "id": "w019",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "한국과 서구의 유방암 호발 연령 차이를 비교해 설명하며 전반적으로 타당하다."
+  },
+  {
+   "id": "w021",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "기능상태·동반질환·frailty·가치관 등 ICU 결정의 다면적 요소를 균형 있게 제시."
+  },
+  {
+   "id": "w041",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "현금흐름 관리 출발 이유를 고객의 보편적 니즈라는 제품전략 관점에서 무난히 설명."
+  },
+  {
+   "id": "w030",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "한국형 제약조건 때문에 정책 선도가 어렵다는 취지는 맞지만 질문의 핵심에 비해 다소 추상적."
+  },
+  {
+   "id": "w013",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "축적성 차이는 중요하지만 드러그 홀리데이 의미가 없다는 표현과 4개월 시점 단정은 부정확 소지."
+  },
+  {
+   "id": "w035",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "매우 단순한 사실 회상형으로 질문 난도와 유형은 맞지만 정보량과 검증 가능성은 제한적."
+  },
+  {
+   "id": "w064",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "제약된 자원 하 선택과 집중 전략이라는 설명이 일관되고 경제발전 맥락에도 부합."
+  },
+  {
+   "id": "w037",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "성능 비교 요지는 이해되나 논문명·실험설정 구체성이 부족하고 factoid 치고 해석이 많이 섞임."
+  },
+  {
+   "id": "w060",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "협약 목적을 간단히 잘 답했지만 학습가치는 낮은 단순 사실형 문항."
+  },
+  {
+   "id": "w004",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "예후 인자를 구체적으로 제시하고 임상적 함의까지 연결해 설명력이 좋다."
+  },
+  {
+   "id": "w002",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 5,
+    "answer_depth": 5,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "가이드라인 핵심과 개별화 적용상의 주의점을 균형 있게 설명한 우수한 임상 QA."
+  },
+  {
+   "id": "w068",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "통화완화 여건 설명이 환율 전망과 가치판단에 치우쳐 있으며 거시경제 논리가 다소 거칠다."
+  },
+  {
+   "id": "w038",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "활용 계획을 개괄적으로 답했지만 구체 실행 방식이 부족해 procedural 라벨 대비 깊이가 얕다."
+  }
+ ]
+}

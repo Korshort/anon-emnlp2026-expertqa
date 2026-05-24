@@ -1,0 +1,7 @@
+# 본 release_package는 main 연구 repo에서는 _internal_only_*도 추적 (법무 검토용 보존).
+# 새 public git repo로 복사할 때만 _internal_only_* 제외.
+#
+# 복사 명령 예시:
+#   rsync -av --exclude '_internal_only*' release_package/ <new_public_repo>/
+#
+# 따라서 이 .gitignore는 의도적으로 비어있음.

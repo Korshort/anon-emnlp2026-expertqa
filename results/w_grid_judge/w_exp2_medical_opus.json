@@ -1,0 +1,31 @@
+{
+ "batch_id": "w_exp2_medical",
+ "judge": "opus",
+ "results": [
+  {"id":"wm001", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":3,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"크로스링크드 콜라겐 멤브레인 선호 사실 진술. '레테페그' 표기 모호, '한국 치주과에서 가장 많이 사용' 출처 의존적"},
+  {"id":"wm002", "scores": {"faithfulness":4,"domain_accuracy":3,"question_quality":4,"answer_depth":4,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"AI+로봇 인지/판단 필요성 논리 일관. 치과 보조 작업 예시로 구체화, hard/explanatory 부합"},
+  {"id":"wm003", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"비매몰 vs 매몰 치유 봉합 난이도 비교 적절. '커버 스쿨' 표기 의문"},
+  {"id":"wm004", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"40N 토크/2주 안정성 수치 일관. '맥시 트라이얼 픽스처' 표기 출처 의존, hard 라벨 부합"},
+  {"id":"wm005", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"TBI 전신 반응과 두개외 합병증 사망률 영향 임상 논리 부합. 메커니즘 구체성은 제한적"},
+  {"id":"wm006", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":5,"difficulty_calibration":4}, "rationale_brief":"카테콜아민→혈관수축→폐고혈압→정수압/투과성 증가 메커니즘 순차 명료"},
+  {"id":"wm007", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":5,"difficulty_calibration":4}, "rationale_brief":"DE 1~2.5cm/7~8cm, DTF 30% 임계 정확. 두 방법 위닝 예측 통합"},
+  {"id":"wm008", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"DE<1cm, DTF<30% 기준값 단순 나열, easy/factoid 부합. wm007과 중복"},
+  {"id":"wm009", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":3,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"다학제 팀 역할 분담 진술 일반론, 메커니즘은 표면적"},
+  {"id":"wm010", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":5}, "rationale_brief":"디텍터 위치+이미지 품질 저하 두 단점 단순 나열, easy/factoid 정합"},
+  {"id":"wm011", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"당뇨 수명 연장 일반 추세 진술. 2006/2018 비교는 출처 의존, easy/factoid 부합"},
+  {"id":"wm012", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":5,"difficulty_calibration":4}, "rationale_brief":"전이성 PD-L1 양성 ~40% vs 조기 비의존 임상 사실 부합, comparative 적합"},
+  {"id":"wm013", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":3,"answer_depth":2,"coherence":5,"difficulty_calibration":5}, "rationale_brief":"ATLS 11판 X(external hemorrhage) 단계 추가 정확, easy/factoid 정합"},
+  {"id":"wm014", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"척추후만 노인 경추 보호대 위험 개념 부합. 베개 대체 진술 일반적, hard 대비 깊이 부족"},
+  {"id":"wm015", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"NOAC 실패 원인 다양 진술 일관. 좌심방이폐색술 근거는 가이드라인 출처 의존"},
+  {"id":"wm016", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":3,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"1일1회 12시간/1일2회 6시간 기준은 약물별 차이 있음. 일반화된 답은 단순 procedural"},
+  {"id":"wm017", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"43,000편/4,000편/1/3 수치 인용. 출처 확인 어렵고 단순 통계 진술"},
+  {"id":"wm018", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"5가지 문제점 라벨만 나열, 깊이 부족하나 factoid 정합"},
+  {"id":"wm019", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":2,"answer_depth":2,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"팀워크 중요성 일반론, 메커니즘 부재, medium 대비 깊이 약함"},
+  {"id":"wm020", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"다성분 통제 어려움 한 줄 답, explanatory치고 메커니즘 빈약"},
+  {"id":"wm021", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"BMJ 2015 PRECIS-2 9개 항목 1-5점 스케일 정확. 선정/등록 대비 사례 적절"},
+  {"id":"wm022", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"표준화/품질/용량/부작용 모니터링 항목 나열, 일반론 수준"},
+  {"id":"wm023", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":3,"coherence":4,"difficulty_calibration":3}, "rationale_brief":"15→7-9년/2-3조→6천억 수치는 산업 보고서 의존, '5년치/하루' 효율 주장 검증 한계"},
+  {"id":"wm024", "scores": {"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"헤링 법칙 동등 신경 분포, 우세안 영향 비대칭 임상 부합. 지휘관 비유 직관적"},
+  {"id":"wm025", "scores": {"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":1,"coherence":4,"difficulty_calibration":4}, "rationale_brief":"암모니아 상승 울렁거림 메커니즘 진술. 1시간 투여 권장은 단답, easy/procedural 정합"}
+ ]
+}

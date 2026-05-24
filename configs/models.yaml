@@ -1,0 +1,116 @@
+models:
+  # --- Small (≤ 4B) ---
+  exaone3.5-2.4b:
+    hf_id: LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct
+    size: 2.4B
+    tier: small
+    # 260502 변경: transformers 5.7.0의 ExaoneModel 모듈명에 맞춤 (out_proj, c_fc_0/1, c_proj)
+    target_modules: [q_proj, k_proj, v_proj, out_proj, c_fc_0, c_fc_1, c_proj]
+    response_template: "[|assistant|]"
+    deepspeed_stage: 2
+    trust_remote_code: true
+    license: exaone-nc
+    disk_gb: 9.6
+    conda_env: nmt_qwen35  # transformers 5.7.0 (RopeParameters)
+
+  llama3.2-3b:
+    hf_id: meta-llama/Llama-3.2-3B-Instruct
+    size: 3B
+    tier: small
+    target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+    response_template: "<|start_header_id|>assistant<|end_header_id|>\n\n"
+    deepspeed_stage: 2
+    gated: true
+    license: llama-community
+    disk_gb: 6.4
+
+  phi4-mini:
+    hf_id: microsoft/Phi-4-mini-instruct
+    size: 3.8B
+    tier: small
+    target_modules: [qkv_proj, o_proj, gate_up_proj, down_proj]
+    response_template: "<|assistant|>\n"
+    deepspeed_stage: 2
+    trust_remote_code: false  # 네이티브 Phi3ForCausalLM 사용 (커스텀코드는 SlidingWindowCache 비호환)
+    license: mit
+    disk_gb: 7.7
+
+  gemma3-4b:
+    hf_id: google/gemma-3-4b-it
+    size: 4B
+    tier: small
+    target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+    response_template: "<start_of_turn>model\n"
+    deepspeed_stage: 2
+    gated: true
+    license: gemma
+    disk_gb: 8.6
+    supports_system_role: false
+
+  qwen3.5-4b:
+    hf_id: Qwen/Qwen3.5-4B
+    size: 4B
+    tier: small
+    target_modules: [q_proj, k_proj, v_proj, o_proj, in_proj_qkv, in_proj_z, in_proj_b, in_proj_a, out_proj, gate_proj, up_proj, down_proj]
+    response_template: "<|im_start|>assistant\n"
+    deepspeed_stage: 2
+    license: apache-2.0
+    disk_gb: 4.7
+    min_transformers: "4.57.0"
+    conda_env: nmt_qwen35  # transformers 5.7.0 (qwen3_5 인식)
+
+  # --- Medium (7B ~ 27B) ---
+  exaone3.5-7.8b:
+    hf_id: LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct
+    size: 7.8B
+    tier: medium
+    # 260502 변경: transformers 5.7.0의 ExaoneModel 모듈명에 맞춤 (out_proj, c_fc_0/1, c_proj)
+    target_modules: [q_proj, k_proj, v_proj, out_proj, c_fc_0, c_fc_1, c_proj]
+    response_template: "[|assistant|]"
+    deepspeed_stage: 2
+    trust_remote_code: true
+    license: exaone-nc
+    disk_gb: 31.3
+    conda_env: nmt_qwen35  # transformers 5.7.0 (RopeParameters)
+
+  qwen3.5-9b:
+    hf_id: Qwen/Qwen3.5-9B
+    size: 9B
+    tier: medium
+    target_modules: [q_proj, k_proj, v_proj, o_proj, in_proj_qkv, in_proj_z, in_proj_b, in_proj_a, out_proj, gate_proj, up_proj, down_proj]
+    response_template: "<|im_start|>assistant\n"
+    deepspeed_stage: 2
+    license: apache-2.0
+    disk_gb: 9.7
+    min_transformers: "4.57.0"
+    conda_env: nmt_qwen35  # transformers 5.7.0 (qwen3_5 인식)
+
+  gemma3-27b:
+    hf_id: google/gemma-3-27b-it
+    size: 27B
+    tier: medium
+    target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+    response_template: "<start_of_turn>model\n"
+    deepspeed_stage: 2
+    gated: true
+    license: gemma
+    disk_gb: 59.7
+    supports_system_role: false
+
+  # --- Large (70B) ---
+  llama3.3-70b:
+    hf_id: meta-llama/Llama-3.3-70B-Instruct
+    size: 70B
+    tier: large
+    target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+    response_template: "<|start_header_id|>assistant<|end_header_id|>\n\n"
+    deepspeed_stage: 2  # 260502 변경: ZeRO-3 → DDP+Stage2 (QLoRA로 1 GPU fit)
+    use_qlora: true    # 260502 변경: bf16 → QLoRA 4-bit (9 모델 quantization 통일)
+    gated: true
+    license: llama-community
+    disk_gb: 141
+
+  # --- XLarge (MoE) --- 제거됨 (11종 → 9종)
+  # Solar-Open-100B (102B), Qwen3-235B-A22B (235B): L40S×4 VRAM 한계로 제외
+  # 25년 하반기 이후 MoE 중 활성 파라미터 ≥8B + 총 ≤80B 모델 부재 → MoE 티어 폐기
+  # 상세: progress/260330_moe_model_survey.md

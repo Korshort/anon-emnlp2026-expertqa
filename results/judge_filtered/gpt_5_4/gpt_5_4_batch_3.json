@@ -1,0 +1,305 @@
+{
+  "batch_id": 3,
+  "results": [
+    {
+      "id": "q105",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Implant settling vs osseointegration views are compared coherently with plausible technical detail, though some numeric claims are source-specific."
+    },
+    {
+      "id": "q095",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Answer addresses competitive rationale well, but cost and safety claims about farmed mackerel vs Norwegian imports are somewhat speculative."
+    },
+    {
+      "id": "q103",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Clear and medically sound comparison of ACDF for disc herniation versus corpectomy-based reconstruction for compression fracture."
+    },
+    {
+      "id": "q145",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Strategic analogy between protected IT sectors and KRW stablecoins is coherent, though largely policy/opinion rather than factual analysis."
+    },
+    {
+      "id": "q043",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Directly compares target firms, limits, subsidy rates, and guarantee periods with good alignment and likely factual structure."
+    },
+    {
+      "id": "q000",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Provides before-after operational comparison for a medical center, though some phrases are vague and outcomes are not very quantified."
+    },
+    {
+      "id": "q161",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate, causal explanation of AKI after TBI and brain-kidney axis with appropriate mechanisms and clinical implications."
+    },
+    {
+      "id": "q192",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Reasonable distinction between payment authorization and ongoing control/monitoring in agentic systems, though slightly generalized."
+    },
+    {
+      "id": "q016",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 2
+      },
+      "rationale_brief": "Advice is sensible and clinically safe, but the question asks for diet and lifestyle recommendations rather than a hard comparative task."
+    },
+    {
+      "id": "q080",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Lists relevant AI-related legal domains clearly, but this is mainly enumeration rather than a genuinely comparative hard question."
+    },
+    {
+      "id": "q102",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Strong comparison between surgical long-term sequelae and additional radiation-related toxicity in breast cancer treatment."
+    },
+    {
+      "id": "q038",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Answer contrasts two financing use cases and outcomes well, though one example includes promotional context more than analytical comparison."
+    },
+    {
+      "id": "q156",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Clinically plausible occlusal adjustment comparison in implant prosthodontics with practical reasoning and clear recommendation."
+    },
+    {
+      "id": "q176",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Explains concrete legal-service cost-saving pitfalls for Korean startups in the U.S. with realistic examples and good causal linkage."
+    },
+    {
+      "id": "q135",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Balanced educational rationale for combining AI tools with human interaction, though neuroscience framing is somewhat broad."
+    },
+    {
+      "id": "q078",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Captures escrow-like programmable payments well, but specific fee and implementation assumptions are oversimplified for real-world commerce."
+    },
+    {
+      "id": "q115",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Good endocrine explanation emphasizing beta-cell failure as key transition from insulin resistance to overt hyperglycemia."
+    },
+    {
+      "id": "q019",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Accurate anesthesia comparison: ESPB targets a safer fascial plane over transverse process than deeper paravertebral block."
+    },
+    {
+      "id": "q014",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Correctly distinguishes peripheral nerve block from fascial plane block and explains spread toward paravertebral/spinal nerves."
+    },
+    {
+      "id": "q177",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Explains a reasonable public-data innovation flywheel with procurement, validation, and financing feedback loops."
+    },
+    {
+      "id": "q146",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Broadly coherent but somewhat oversimplified; U.S. vs Korean listing processes differ more materially than stated, and 'SRS' is questionable."
+    },
+    {
+      "id": "q179",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Same legal-domain listing as q080; coherent and plausible, but question is more recall/listing than hard comparative reasoning."
+    },
+    {
+      "id": "q065",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 4
+      },
+      "rationale_brief": "Addresses recurrence prevention, but contains overconfident and likely overgeneralized surgical claims about full-thickness necessity and timing."
+    },
+    {
+      "id": "q084",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "rationale_brief": "Conceptually sound but quite high-level; answer is coherent yet shallow for a hard comparative startup question."
+    },
+    {
+      "id": "q165",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "rationale_brief": "Useful historical comparison of diabetic nephropathy progression and modern renoprotective therapy impact, with plausible quantitative trends."
+    }
+  ]
+}

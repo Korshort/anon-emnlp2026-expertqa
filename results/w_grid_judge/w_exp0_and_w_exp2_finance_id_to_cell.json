@@ -1,0 +1,377 @@
+{
+ "w000": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18465"
+ },
+ "w001": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18502"
+ },
+ "w002": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18506"
+ },
+ "w003": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18604"
+ },
+ "w004": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19604"
+ },
+ "w005": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19791"
+ },
+ "w006": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19814"
+ },
+ "w007": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19905"
+ },
+ "w008": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19994"
+ },
+ "w009": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "20366"
+ },
+ "w010": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "20381"
+ },
+ "w011": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "20824"
+ },
+ "w012": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "7702"
+ },
+ "w013": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18465"
+ },
+ "w014": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18502"
+ },
+ "w015": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18506"
+ },
+ "w016": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "18604"
+ },
+ "w017": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19604"
+ },
+ "w018": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19791"
+ },
+ "w019": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19814"
+ },
+ "w020": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19905"
+ },
+ "w021": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "19994"
+ },
+ "w022": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "20366"
+ },
+ "w023": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "20381"
+ },
+ "w024": {
+  "cond": "w_exp0_medical",
+  "exp": "exp2",
+  "si_seq": "20824"
+ },
+ "w025": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "15503"
+ },
+ "w026": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "18042"
+ },
+ "w027": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19128"
+ },
+ "w028": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19417"
+ },
+ "w029": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19696"
+ },
+ "w030": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19706"
+ },
+ "w031": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20553"
+ },
+ "w032": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20558"
+ },
+ "w033": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20840"
+ },
+ "w034": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20992"
+ },
+ "w035": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "21020"
+ },
+ "w036": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "21138"
+ },
+ "w037": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "21402"
+ },
+ "w038": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "15503"
+ },
+ "w039": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "18042"
+ },
+ "w040": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19128"
+ },
+ "w041": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19417"
+ },
+ "w042": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19696"
+ },
+ "w043": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "19706"
+ },
+ "w044": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20553"
+ },
+ "w045": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20558"
+ },
+ "w046": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20840"
+ },
+ "w047": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "20992"
+ },
+ "w048": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "21020"
+ },
+ "w049": {
+  "cond": "w_exp0_finance",
+  "exp": "exp2",
+  "si_seq": "21138"
+ },
+ "w050": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "18042"
+ },
+ "w051": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "18897"
+ },
+ "w052": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19128"
+ },
+ "w053": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19417"
+ },
+ "w054": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19706"
+ },
+ "w055": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19899"
+ },
+ "w056": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20553"
+ },
+ "w057": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20558"
+ },
+ "w058": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20840"
+ },
+ "w059": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20992"
+ },
+ "w060": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "21020"
+ },
+ "w061": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "21402"
+ },
+ "w062": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "9817"
+ },
+ "w063": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "18042"
+ },
+ "w064": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "18897"
+ },
+ "w065": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19128"
+ },
+ "w066": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19417"
+ },
+ "w067": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19706"
+ },
+ "w068": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "19899"
+ },
+ "w069": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20553"
+ },
+ "w070": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20558"
+ },
+ "w071": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20840"
+ },
+ "w072": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "20992"
+ },
+ "w073": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "21020"
+ },
+ "w074": {
+  "cond": "w_exp2_finance",
+  "exp": "exp2",
+  "si_seq": "21402"
+ }
+}

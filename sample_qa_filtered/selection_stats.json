@@ -1,0 +1,121 @@
+[
+  {
+    "cond": "exp0",
+    "dom": "finance",
+    "n": 25,
+    "avg_q_chars": 50.8,
+    "avg_a_chars": 264.7,
+    "types": {
+      "comparative": 25
+    },
+    "diff": {
+      "hard": 25
+    }
+  },
+  {
+    "cond": "exp0",
+    "dom": "medical",
+    "n": 25,
+    "avg_q_chars": 58.9,
+    "avg_a_chars": 265.7,
+    "types": {
+      "comparative": 24,
+      "explanatory": 1
+    },
+    "diff": {
+      "hard": 22,
+      "medium": 3
+    }
+  },
+  {
+    "cond": "exp1_1",
+    "dom": "finance",
+    "n": 25,
+    "avg_q_chars": 49.5,
+    "avg_a_chars": 296.4,
+    "types": {
+      "comparative": 23,
+      "explanatory": 2
+    },
+    "diff": {
+      "hard": 25
+    }
+  },
+  {
+    "cond": "exp1_1",
+    "dom": "medical",
+    "n": 25,
+    "avg_q_chars": 56.7,
+    "avg_a_chars": 295.3,
+    "types": {
+      "comparative": 19,
+      "explanatory": 6
+    },
+    "diff": {
+      "hard": 24,
+      "medium": 1
+    }
+  },
+  {
+    "cond": "exp1_2",
+    "dom": "finance",
+    "n": 25,
+    "avg_q_chars": 52.6,
+    "avg_a_chars": 302.4,
+    "types": {
+      "comparative": 19,
+      "explanatory": 6
+    },
+    "diff": {
+      "hard": 23,
+      "medium": 2
+    }
+  },
+  {
+    "cond": "exp1_2",
+    "dom": "medical",
+    "n": 25,
+    "avg_q_chars": 58.1,
+    "avg_a_chars": 284.2,
+    "types": {
+      "comparative": 19,
+      "explanatory": 5,
+      "procedural": 1
+    },
+    "diff": {
+      "hard": 21,
+      "medium": 4
+    }
+  },
+  {
+    "cond": "exp2",
+    "dom": "finance",
+    "n": 25,
+    "avg_q_chars": 50.8,
+    "avg_a_chars": 307.6,
+    "types": {
+      "comparative": 17,
+      "explanatory": 8
+    },
+    "diff": {
+      "hard": 24,
+      "medium": 1
+    }
+  },
+  {
+    "cond": "exp2",
+    "dom": "medical",
+    "n": 25,
+    "avg_q_chars": 53.7,
+    "avg_a_chars": 312.3,
+    "types": {
+      "comparative": 14,
+      "explanatory": 8,
+      "procedural": 3
+    },
+    "diff": {
+      "hard": 22,
+      "medium": 3
+    }
+  }
+]

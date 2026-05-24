@@ -1,0 +1,29 @@
+# VRAM 추정치 + 학습 시간 추정 (QLoRA 4-bit, max_seq_len=2048 기준)
+# 실제 시간은 데이터 길이 분포에 따라 ±30% 변동
+
+vram:
+  exaone3.5-2.4b: 9
+  gemma3-4b: 12
+  llama3.2-3b: 10
+  phi4-mini: 11
+  qwen3.5-4b: 12
+  exaone3.5-7.8b: 20
+  qwen3.5-9b: 22
+  gemma3-27b: 36
+  llama3.3-70b: 160   # LoRA bf16 + ZeRO-3, 4GPU
+
+# sec_per_step: 단일 GPU 기준. 다중 GPU 데이터 병렬 시 step당 시간은 동일 (total_steps가 줄어듦)
+sec_per_step:
+  l40s:
+    small: 2.0       # ≤ 4B
+    medium_small: 3.8 # ≤ 8B
+    medium_large: 8.0 # ≤ 27B
+    large: 15.0       # 70B (ZeRO-3, 4GPU)
+  l4:
+    small: 3.5
+    medium_small: 6.5
+    medium_large: 14.0
+
+# 예상 학습 시간 공식:
+# total_steps = ceil(num_samples / effective_batch) × num_epochs
+# estimated_seconds = total_steps × sec_per_step

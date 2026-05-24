@@ -1,0 +1,102 @@
+{
+ "wm001": {
+  "cond": "w_exp2_medical",
+  "item_idx": 0
+ },
+ "wm002": {
+  "cond": "w_exp2_medical",
+  "item_idx": 1
+ },
+ "wm003": {
+  "cond": "w_exp2_medical",
+  "item_idx": 2
+ },
+ "wm004": {
+  "cond": "w_exp2_medical",
+  "item_idx": 3
+ },
+ "wm005": {
+  "cond": "w_exp2_medical",
+  "item_idx": 4
+ },
+ "wm006": {
+  "cond": "w_exp2_medical",
+  "item_idx": 5
+ },
+ "wm007": {
+  "cond": "w_exp2_medical",
+  "item_idx": 6
+ },
+ "wm008": {
+  "cond": "w_exp2_medical",
+  "item_idx": 7
+ },
+ "wm009": {
+  "cond": "w_exp2_medical",
+  "item_idx": 8
+ },
+ "wm010": {
+  "cond": "w_exp2_medical",
+  "item_idx": 9
+ },
+ "wm011": {
+  "cond": "w_exp2_medical",
+  "item_idx": 10
+ },
+ "wm012": {
+  "cond": "w_exp2_medical",
+  "item_idx": 11
+ },
+ "wm013": {
+  "cond": "w_exp2_medical",
+  "item_idx": 12
+ },
+ "wm014": {
+  "cond": "w_exp2_medical",
+  "item_idx": 13
+ },
+ "wm015": {
+  "cond": "w_exp2_medical",
+  "item_idx": 14
+ },
+ "wm016": {
+  "cond": "w_exp2_medical",
+  "item_idx": 15
+ },
+ "wm017": {
+  "cond": "w_exp2_medical",
+  "item_idx": 16
+ },
+ "wm018": {
+  "cond": "w_exp2_medical",
+  "item_idx": 17
+ },
+ "wm019": {
+  "cond": "w_exp2_medical",
+  "item_idx": 18
+ },
+ "wm020": {
+  "cond": "w_exp2_medical",
+  "item_idx": 19
+ },
+ "wm021": {
+  "cond": "w_exp2_medical",
+  "item_idx": 20
+ },
+ "wm022": {
+  "cond": "w_exp2_medical",
+  "item_idx": 21
+ },
+ "wm023": {
+  "cond": "w_exp2_medical",
+  "item_idx": 22
+ },
+ "wm024": {
+  "cond": "w_exp2_medical",
+  "item_idx": 23
+ },
+ "wm025": {
+  "cond": "w_exp2_medical",
+  "item_idx": 24
+ }
+}

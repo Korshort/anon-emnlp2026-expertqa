@@ -1,0 +1,306 @@
+{
+  "batch_id": 3,
+  "judge": "claude-sonnet-4-6",
+  "items": [
+    {
+      "id": "w043",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "4개 시나리오 내용은 충실히 반영. 도메인이 Sci/Eng/Applied Sci로 분류되었으나 내용은 사회·경제 정책에 가깝다. 질문이 factoid로 적절하나 'AI와 인간사회의 관계'라는 맥락 없이 '네 가지 시나리오'만 물어 질문 자립성 다소 부족. 답변은 각 시나리오를 순서대로 서술하여 구조적이나 시나리오 간 대비점이 더 명확했으면 좋겠음."
+    },
+    {
+      "id": "w024",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "comment": "의식의 관찰자 역할, 메타인지 연계를 명확히 설명. 그러나 '마음의 방 기법'은 명상·심리 기법으로 Clinical 의학 서브도메인 분류가 부정확하다(심리/마음챙김이 더 적합). 질문이 특정 기법명을 전제하여 맥락 없는 독자에게 질문 자립성이 낮음. 답변의 논리 흐름은 매우 일관적."
+    },
+    {
+      "id": "w069",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "원격 모니터링 vs 병원 검사 비교는 적절. 그러나 답변이 매우 일반적이며 구체적 수치·프로토콜 없이 'AI 분석을 통해 동등한 수준의 진단 결과'라는 주장만 있어 근거 불충분. '동등한 수준'이라는 표현은 과도한 주장일 수 있어 faithfulness 감점. Telemedicine 분류는 정확. 답변 깊이 부족."
+    },
+    {
+      "id": "w003",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "외상 전담 간호사의 역할 기술은 일반적으로 타당하나, 답변이 트랜스크립트 기반이 아닌 일반 의료 지식 수준의 서술로 보임. '전자 의무 기록과 표준화된 프로토콜'은 구체성이 있으나 출처 트랜스크립트 근거 불명. 질문의 난이도 hard 대비 답변이 교과서적 수준에 머물러 calibration 미흡."
+    },
+    {
+      "id": "w012",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "comment": "치과 임플란트 교합 관리에 관한 최고 수준의 QA. 자연치 대합치의 elongation/compensation 메커니즘과 임플란트 대합치의 비회복성 교합 손실을 명확히 대비. 전문 용어 사용이 정확하고 임상적 함의까지 서술. 질문이 구체적 임상 상황을 설정하여 hard 난이도에 완전히 부합. 답변 깊이와 일관성 모두 우수."
+    },
+    {
+      "id": "w072",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      },
+      "comment": "답변 내용 자체는 이중 언어 교육 목적에 부합하나 매우 단순. '왜'를 물었으나 단순 서술만 제공. 질문이 '학생들'이라는 특정 집단을 전제하나 어떤 맥락인지 불명확하여 질문 자립성 저하. Education/Other 분류는 Lifelong이나 Early Childhood가 더 정확할 수 있음. 전체적으로 정보량 부족."
+    },
+    {
+      "id": "w046",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "2020년 전후 전략 변화(소수지분→핀테크/비은행), CBC 활용, 헤드쿼터 체계를 체계적으로 서술. Financial services 분류 적절. 다만 '일본 금융그룹'이 어느 그룹인지 특정되지 않아 질문 자립성이 다소 낮음. 난이도 medium 대비 답변이 충분히 상세. 내용 흐름 자연스러움."
+    },
+    {
+      "id": "w034",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "comment": "4가지 교육 지원 유형 나열은 있으나 각 유형에 대한 설명이 매우 간략. hard 난이도로 분류되었으나 답변이 단순 목록 수준으로 깊이 부족하여 calibration 불일치. 한국의 난민 정책 구체성도 불명확. Education/Lifelong보다는 Education/Refugee Policy가 더 적합하나 해당 분류 없음."
+    },
+    {
+      "id": "w005",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 3,
+        "difficulty_calibration": 2
+      },
+      "comment": "답변이 극히 단순: '심장병은 줄고 있지만 암은 증가'. 이 수준의 정보는 medium 난이도에 전혀 부합하지 않음. Endocrine 서브도메인 분류가 심장병/암 비교와 맞지 않음(Epidemiology나 Oncology가 더 적합). 수치나 메커니즘 설명 없이 단언만 있어 답변 깊이 심각하게 부족."
+    },
+    {
+      "id": "w023",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 5
+      },
+      "comment": "AI 신약개발 비용/시간 절감에 대한 구체적 수치 제시(15년→7~9년, 2~3조→6천억, 만 개 중 1개). 전통 방식과 AI 방식의 정량적 비교가 명확하여 hard 난이도에 부합. Biopharma 분류 적절. 33% 비용 절감 해석까지 포함하여 답변 깊이 우수. 질문이 '비교'를 명시적으로 요구하여 명확함."
+    },
+    {
+      "id": "w054",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "w043과 내용이 거의 동일한 중복 QA. 도메인만 Sci/Eng에서 Econ/Finance/Mgmt로 다름. 동일 트랜스크립트 발화가 두 QA에 재사용된 것으로 보임. 질문이 'AI 사회 변화에 대한 4가지 시나리오'로 w043의 질문과 사실상 동의어. 중복성으로 인해 question_quality 감점. 내용 자체는 일관성 있음."
+    },
+    {
+      "id": "w028",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "comment": "목표 vs 결과값 혼동 금지 이유를 웹툰 사례(만화 애호 세상 vs 사용자 수/레비뉴)로 구체화하여 설명이 설득력 있음. '본질이 호도된다'는 핵심 개념 충실히 반영. Management 분류 적절. 난이도 medium으로 표기되었는데 사례 기반 설명이 명확하여 medium에 적절. 전체 흐름 매우 일관적."
+    },
+    {
+      "id": "w059",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "아랍어 질문-답변 쌍. 한국어 도메인 QA 배치에서 아랍어 아이템 등장은 데이터 품질 이슈. 내용은 난민 아동의 언어 장벽과 부모 시간 부족 문제를 다루며 논리적이나, 이 배치의 평가 언어·도메인 맥락과 불일치. Humanities/Social 분류는 적절하나 언어 불일치로 question_quality 감점."
+    },
+    {
+      "id": "w010",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "2017년 천연물 신약 연구개발 촉진법 용어 삭제로 인한 침체를 핵심으로 정확히 파악. Pharmacy 분류 적절. hard 난이도 표기이나 단일 법령 변화 서술로 깊이가 제한적. '개발 의욕과 연구가 침체'라는 표현이 다소 모호하며 구체적 영향(예산 감소, 연구 건수 변화 등) 서술이 없음."
+    },
+    {
+      "id": "w042",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      },
+      "comment": "답변이 '인프라가 잘 갖춰져 있고 개발자 역량이 향상됐기 때문'이라는 일반적 서술에 그침. 검색/게임/메신저/이커머스 각 시장의 구체적 사례나 방어 메커니즘 설명 없음. IT/Tech 분류는 적절하나 서브도메인 Other로 분류된 것이 정보 손실. 질문이 흥미롭지만 답변이 이를 충족하지 못함."
+    },
+    {
+      "id": "w026",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "comment": "4.25~4.5% 금리 동결 이유(고용 둔화, 물가 안정), 79.9% 동결 확률, 트럼프 관세 인플레이션 리스크까지 구체적으로 서술. Capital Mkt 분류 정확. 특정 시점(5월 FOMC) 데이터 포함으로 시의성 있는 QA. 다만 이런 수치는 시간이 지나면 부정확해지는 시제 의존성이 있어 재현 가능성 측면 고려 필요. 전체 흐름 일관적."
+    },
+    {
+      "id": "w032",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3,
+        "difficulty_calibration": 3
+      },
+      "comment": "질문이 명시적 이유를 묻는데 답변 자체가 '명시된 직접적인 이유는 없다'고 인정하며 추론으로 대체. 이는 트랜스크립트 출처에 해당 정보가 없음을 시사하여 faithfulness 문제. 비용 차이(3천억~5천억 vs 50억)는 구체적이나 비용 격차의 실질 원인 서술 없음. 텍스트에 중국어 '迪士니(디즈니)' 혼용도 품질 이슈."
+    },
+    {
+      "id": "w031",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "2.7배 가격 우위, 1/3 사육 기간, 200마리 산란 시 200억 원 가치라는 구체적 수치 제시. 다만 Biotech 서브도메인보다 Aquaculture/Fisheries가 더 적합. easy 난이도 대비 수치가 충분히 구체적으로 제시됨. '2.7배 비싸다'는 표현이 고등어가 더 비싸다는 의미인지 모호함(판매 가격? 양식 비용?)."
+    },
+    {
+      "id": "w049",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 3
+      },
+      "comment": "KDB NEXT 시리즈의 세 프로그램(NEXT ONE 보육, NEXT ROUND IR 플랫폼, 넥스트 라이즈 코엑스 연 1회 6회 개최)을 명확히 구분하여 서술. Venture 분류 적합. 구체적 세부사항(3천여 개 회사, 본점 위치, 코엑스몰, 6회)이 풍부. easy 난이도 factoid로 적절. 전체 서술 일관성 높음."
+    },
+    {
+      "id": "w017",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "comment": "PICC 팁 위치(우심방-상대정맥 접합부, 기관 카이나 하방 5cm 이내)와 포터블 엑스선의 단점(무균 재조치 반복, 감염 위험)을 정확히 서술. Clinical 분류 적절. 전문 의료 용어 사용이 정확하며 질문이 '이상적 위치'와 '전통 방법 단점'을 함께 물어 복합적 이해를 요구. medium 난이도보다 hard에 더 적합할 수 있으나 설명이 충분히 명확함."
+    },
+    {
+      "id": "w067",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "전환 비용이 취약계층에 집중되는 구조적 문제와 정책 부재 시 공정성 시비 가능성을 논리적으로 연결. Management 분류 적절. 질문이 '부담 주체'와 '공정성 시비 원인'을 함께 물어 복합적. 다만 '적절한 처방이 이루어지지 않으면'이라는 조건부 서술이 실제 현 상황 판단보다 규범적 서술에 가까워 깊이 감점 없음. 문체가 서술형으로 일관적."
+    },
+    {
+      "id": "w074",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "AI 에이전트의 디스커버리/체크아웃/오더 매니지먼트 3대 역할 서술은 구조적이고 명확. Financial services 서브도메인보다 E-commerce/Retail이 더 적합. 질문이 단순 factoid 수준. '심리스하게 연결'이라는 표현은 마케팅적이나 전체 설명은 타당. medium 난이도 대비 답변이 다소 단순."
+    },
+    {
+      "id": "w053",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4,
+        "difficulty_calibration": 3
+      },
+      "comment": "태재미래전력연구원의 미션(AI 혁명으로 인한 전쟁/혁명 방지)과 역사적 근거(인쇄술→프랑스혁명, 산업혁명→세계대전)를 포함하여 충실. Applied Sci 분류는 미래전략/정책연구 성격상 다소 부정확. 질문이 단순 서술 요청이며 연구원에 대한 사전 지식 없이는 질문 자립성 낮음."
+    },
+    {
+      "id": "w052",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "comment": "미국 상장 준비 시 CFO 역할을 재무제표, 로펌 선정, 대외 얼굴, VC/주주 커뮤니케이션으로 세분화하여 서술. Management 분류 정확. hard 난이도에 걸맞게 단순 회계 역할을 넘어 전략적 IR 기능까지 포괄. '미국의 CFO는 다른가요?'라는 비교적 관점을 질문에 반영하여 질문 자체도 명확하고 의미 있음."
+    },
+    {
+      "id": "w071",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5,
+        "difficulty_calibration": 4
+      },
+      "comment": "전자전기 클러스터 북부 75%/남부 25%, 자동차 북부 50%/남부 35%/중부 15%의 구체적 수치 제시. 삼성전자 2010년 투자 이후 변화, 과거 호치민 우세에서 북부 역전까지 역사적 맥락 포함. Management 분류 적절. hard 난이도에 부합하는 정량적 데이터와 역사적 맥락. 전체 서술 일관성 높음."
+    }
+  ]
+}
