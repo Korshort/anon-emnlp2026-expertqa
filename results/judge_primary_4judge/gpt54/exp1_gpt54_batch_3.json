@@ -1,0 +1,306 @@
+{
+ "batch_id": 3,
+ "judge": "gpt54",
+ "results": [
+  {
+   "id": "q105",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "RAG의 핵심은 맞지만 한의학 맥락이 거의 없고 설명이 일반론 수준이다."
+  },
+  {
+   "id": "q095",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 2
+   },
+   "rationale_brief": "목표와 방법을 대체로 답했지만 비유가 섞여 구체성이 떨어지고 factoid/easy로 보기엔 설명형이다."
+  },
+  {
+   "id": "q103",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "중재시술 전략을 묻는 좋은 질문이나 답은 구체적 의사결정 기준이 부족하고 다소 모호하다."
+  },
+  {
+   "id": "q145",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "차별점 설명은 일관되나 산업적 근거는 제한적이며 비교 질문으로는 무난하다."
+  },
+  {
+   "id": "q043",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "프로그램명과 수치의 사실성 검증이 어렵고 오기 가능성이 보이며 단순 나열형 답변이다."
+  },
+  {
+   "id": "q000",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "두 통증조절법의 장단점을 비교했으나 크라이오어블레이션의 효과를 다소 과장해 표현했다."
+  },
+  {
+   "id": "q161",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "원격 전문협업의 개념을 예시와 함께 설명해 적절하나 새 형태의 범주화는 제한적이다."
+  },
+  {
+   "id": "q192",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "캐릭터가 매출 상위라는 진술은 가능하지만 근거가 약하고 답이 사례 위주로 얕다."
+  },
+  {
+   "id": "q016",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "비호르몬 치료의 평가를 문헌 근거로 답하려 했으나 저널명과 근거 수준이 불명확하다."
+  },
+  {
+   "id": "q080",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "한국 노인빈곤율에 대한 간결한 사실 응답으로 적절하나 학습가치는 낮다."
+  },
+  {
+   "id": "q102",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 3,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "코스 절차를 순서대로 잘 설명했지만 JNTEC의 정확한 맥락과 전문성은 다소 제한적이다."
+  },
+  {
+   "id": "q038",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "정책 변화의 파급효과를 전망형으로 잘 연결했지만 예측과 사실이 혼재되어 있다."
+  },
+  {
+   "id": "q156",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "즉시식립에서 비매몰과 매몰 치유의 술식 차이를 비교해 직접적이고 실무적으로 잘 답했다."
+  },
+  {
+   "id": "q176",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "시장 호응 이유를 새로움과 타깃 확장으로 설명해 적절하나 분석 깊이는 제한적이다."
+  },
+  {
+   "id": "q135",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "순서 차이로 설명하지만 기무치 제조 설명이 단순화·왜곡됐을 가능성이 커 사실성이 낮다."
+  },
+  {
+   "id": "q078",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "스마트폰 음향 분석은 맞을 수 있으나 병원 검사 수준 진단 제공은 과장된 표현으로 보인다."
+  },
+  {
+   "id": "q115",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "앙와위에서 가능하다는 핵심 장점을 잘 짚었지만 쉬운 factoid치고는 비교적 전문적이다."
+  },
+  {
+   "id": "q019",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "표적치료의 일반 원리를 맞게 설명했지만 예외와 한계가 빠진 매우 기본적 답이다."
+  },
+  {
+   "id": "q014",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "노인 대퇴골 골절의 치명성을 역학·기저상태·예후와 연결해 설명해 교육적 가치가 높다."
+  },
+  {
+   "id": "q177",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "두 법의 대중국 견제 메커니즘을 정확히 짚었으나 세부 효과 분석은 비교적 얕다."
+  },
+  {
+   "id": "q146",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "토큰화와 검증 흐름을 설명했지만 실제 비자 용어와 구현 세부는 다소 추상적이다."
+  },
+  {
+   "id": "q179",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "전통적으로 충실의무 대상은 회사인데 주주 포함 단정은 최근 논의와 혼동된 답으로 부정확하다."
+  },
+  {
+   "id": "q065",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "한일 고령화 속도 비교에 적절히 답했으나 비교 기준과 구조적 이유는 제시되지 않았다."
+  },
+  {
+   "id": "q084",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "모바일 전환 성공 요인을 창업 동기와 빠른 피벗으로 설명했지만 제품·포맷 요인이 부족하다."
+  },
+  {
+   "id": "q165",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "실 길이 기준을 직접 답했지만 1mm/2mm 절대 기준은 술자·부위 따라 달라 다소 단정적이다."
+  }
+ ]
+}

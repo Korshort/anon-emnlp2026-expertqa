@@ -1,0 +1,30 @@
+{
+  "batch_id": 4,
+  "results": [
+    {"id": "q046", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "비교 질문에 답하지만 'SRS 심사' 등 용어 정확성 의심. 절차 차이가 일반론에 머무름."},
+    {"id": "q104", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "수술-방사선 합병증을 임상적으로 정확히 비교. 70-80% 통계 인용도 합리적."},
+    {"id": "q079", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "3세대 분류는 비표준 용어로 검증 어려움. 비교 구조는 갖춤."},
+    {"id": "q054", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "치과 임플란트 교합조정 비교가 임상적으로 정확하고 깊이 있음. supra-occlusion 개념 적절."},
+    {"id": "q196", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "산업은행 주장 근거를 역사·통계로 종합. 154조/420조 수치 인용 구체적."},
+    {"id": "q085", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "AI 관련 분야별 법률 나열은 정확하나 comparative보단 enumeration."},
+    {"id": "q118", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "제2형 당뇨 자연사 기반 인과 논리가 잘 구축됨."},
+    {"id": "q109", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "테켄셋 기관명 검증 어렵지만 before/after 비교는 명확."},
+    {"id": "q133", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "AI 에이전트 사례 나열되나 차별화 이점 비교가 추상적."},
+    {"id": "q142", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "하이테크/하이터치 균형 논리가 비유와 함께 잘 전개됨."},
+    {"id": "q033", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "두 시스템 목적·데이터·기능 비교가 구체적."},
+    {"id": "q018", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "동물실험 PDRN 효과 비교가 시점별·해부학적 위치별로 정밀."},
+    {"id": "q140", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "전환금융 vs 네이처파이낸싱 등장 배경 비교가 명료. 호주/유럽 사례 인용."},
+    {"id": "q123", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "ESPB vs PVB 안전성 차이를 해부학적 근거로 명확히 설명."},
+    {"id": "q175", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "기업 도입 패턴과 사용자 리터러시의 역설적 변화 잘 포착."},
+    {"id": "q063", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "q109과 동일 QA. 중복 발생."},
+    {"id": "q083", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "캐시노트 매출 변곡점을 연도별·전략별로 구체적 수치와 함께 분석."},
+    {"id": "q148", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "문제와 해결 비교는 명확하나 일반론적 수준."},
+    {"id": "q100", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "PENG vs FICB 타겟 신경 비교가 해부학적으로 정확하고 구체적."},
+    {"id": "q155", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "외상전담 간호사 제도 개선 3축이 체계적으로 제시."},
+    {"id": "q072", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "토끼/개 모델 시점별 PDRN 효과 비교가 정량적이고 정확. 캐치업 현상 표현 적절."},
+    {"id": "q027", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "GCF/민간 후순위·선순위 구조 정확히 설명, 8% 구체 수치 포함."},
+    {"id": "q184", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "q085과 동일 QA. 중복 발생."},
+    {"id": "q112", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "Stability Dip 생물학적 메커니즘을 osteoclast 흡수로 정확히 설명."},
+    {"id": "q051", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 5}, "rationale_brief": "장기 항응고 옵션 4종의 장단점 비교 충실. '만만한 약재' 등 구어체 잔존."}
+  ]
+}

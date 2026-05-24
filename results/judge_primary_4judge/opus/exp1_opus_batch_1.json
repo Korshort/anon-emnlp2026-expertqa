@@ -1,0 +1,131 @@
+{
+  "batch_id": 1,
+  "judge": "claude-opus-4-7",
+  "results": [
+    {
+      "id": "q066",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "현황 질문에 간단한 사실 나열, easy/factoid 라벨 적절"
+    },
+    {
+      "id": "q187",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "FDA 2등급 등 구체 사실 포함, factoid 적합"
+    },
+    {
+      "id": "q101",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "구체 수치 나열, 구성 설명 충실하나 인과 추론 약함"
+    },
+    {
+      "id": "q193",
+      "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 2, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "정식 명칭 정확, 전형적 단순 factoid"
+    },
+    {
+      "id": "q111",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "수면압 메커니즘+해결책 인과 설명, hard/explanatory 부합"
+    },
+    {
+      "id": "q121",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "해부학 근거 + 장기 비교 우수한 comparative"
+    },
+    {
+      "id": "q013",
+      "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "장점 나열 수준, easy 라벨 적합"
+    },
+    {
+      "id": "q002",
+      "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "MAP 65 가이드라인 정확, 근거+개별화 언급"
+    },
+    {
+      "id": "q064",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "3제품 성분/가격/적응증 비교 + 투여량까지 깊이"
+    },
+    {
+      "id": "q044",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 1, "coherence": 4, "difficulty_calibration": 5},
+      "rationale_brief": "용어 응답만, 단순 factoid"
+    },
+    {
+      "id": "q136",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 1, "coherence": 4, "difficulty_calibration": 5},
+      "rationale_brief": "스크린샷 저장만 언급, 깊이 부족"
+    },
+    {
+      "id": "q170",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "교육 대상 단순 나열, factoid 정합"
+    },
+    {
+      "id": "q128",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 1, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "단순 숫자 factoid"
+    },
+    {
+      "id": "q076",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "해상도+방법론 구체 설명, 루카스 비교 포함"
+    },
+    {
+      "id": "q158",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "신경-심장축 등 메커니즘 설명 우수"
+    },
+    {
+      "id": "q167",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2},
+      "rationale_brief": "hard/procedural 라벨 대비 답이 짧고 절차성 부족"
+    },
+    {
+      "id": "q045",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "수치+의미 해석, factoid보다 다소 분석적"
+    },
+    {
+      "id": "q130",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "rationale_brief": "수치 비교 단순, comparative이지만 근거 부족"
+    },
+    {
+      "id": "q030",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2},
+      "rationale_brief": "hard 라벨 대비 답이 일반론, 깊이 부족"
+    },
+    {
+      "id": "q003",
+      "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "과제 나열, medium보다 easy 가깝"
+    },
+    {
+      "id": "q159",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "가이드라인+임상 변용+에독사반 사례, hard 적합"
+    },
+    {
+      "id": "q015",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "4가지 검사법 나열 구체적, medium/factoid 적합"
+    },
+    {
+      "id": "q042",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "분산 투자 전략 근거 포함"
+    },
+    {
+      "id": "q126",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "애플vs반도체 자본배분 비교, 마지막 단서로 인과 한계 인정"
+    },
+    {
+      "id": "q186",
+      "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "rationale_brief": "성숙도 차이 핵심만, medium치고 깊이 약함"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "batch_id": 8,
+  "judge": "claude-opus-4-7",
+  "results": [
+    {
+      "id": "q050",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 3},
+      "rationale_brief": "리지프리저베이션 개념 + 소켓 실링/콜라겐 매트릭스 구체. easy 라벨치고 깊이 충분"
+    },
+    {
+      "id": "q143",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "q037과 동일 내용. hard/comparative 부합"
+    },
+    {
+      "id": "q197",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "q037/q143과 유사한 컨텐츠. medium/explanatory 부합"
+    },
+    {
+      "id": "q154",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "rationale_brief": "응답자 94명 + 한국 특수성 비교 한 줄, easy 라벨치고 비교 정보 포함"
+    },
+    {
+      "id": "q129",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 1, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "용어 단답, easy/factoid 정합. '이슈 오디언스'는 'issue' 음차일 가능성"
+    },
+    {
+      "id": "q059",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "독립 욕구 + 돌봄 부담 + 자기 위험 인지, hard/explanatory 부합"
+    },
+    {
+      "id": "q055",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 1, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "단일 수치 factoid, easy 정합"
+    },
+    {
+      "id": "q023",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "rationale_brief": "근력운동 + 체중 감량 두 경로 인과 설명, medium/explanatory 적합"
+    },
+    {
+      "id": "q007",
+      "scores": {"faithfulness": 2, "domain_accuracy": 2, "question_quality": 2, "answer_depth": 1, "coherence": 3, "difficulty_calibration": 2},
+      "rationale_brief": "'방어 에너지→사랑/창조 에너지' 모호한 비과학적 표현. hard/comparative 라벨 부적합"
+    },
+    {
+      "id": "q008",
+      "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "분열 정지 + apoptosis 저항 + SASP 분비 3 핵심 특징 정확, medium/factoid 적합"
+    },
+    {
+      "id": "q108",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "안정성 검증 + 학습 곡선 보존 두 이유 명확, medium/explanatory 부합"
+    },
+    {
+      "id": "q151",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "q067 동일 — '벽형 투여' 오기 의심, explanatory치고 짧음"
+    },
+    {
+      "id": "q022",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "유명 일화 — 출처 검증 어려움. easy/factoid 정합"
+    },
+    {
+      "id": "q139",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "빅테크 자본 경쟁 회피 + enabling tech 대안 인과, medium/explanatory 우수"
+    },
+    {
+      "id": "q173",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "과거 정상 범위 vs 현재 개별화 패러다임 + 새 약제/합병증 예방 이유, explanatory 적합"
+    },
+    {
+      "id": "q026",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "스위치원 + 외환테크 + 신한 협력 factoid, easy 정합"
+    },
+    {
+      "id": "q188",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "형평성 + 빈곤 농민 배제 + 대기업 노동자 건강 격차, explanatory 적합"
+    },
+    {
+      "id": "q035",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "rationale_brief": "q135 동일 — 절임 순서 차이. comparative 부합"
+    },
+    {
+      "id": "q057",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "관절낭내 PENG vs 관절낭외 FIB 골절 종류별 선호 명확, hard/comparative 우수"
+    },
+    {
+      "id": "q062",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "rationale_brief": "탈모/홍조/체중/관절통/AI 골다공증/타목시펜 자궁내막 부작용 나열, factoid 적합"
+    },
+    {
+      "id": "q070",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "rationale_brief": "ELDERCARE-AF 인용 + 효능/안전성 양면 + 임상 의의, hard/explanatory 우수"
+    },
+    {
+      "id": "q189",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "원금 vs 이자 비유 + CBO + OBBBA + 10년물 4% 사례, hard/explanatory 적합"
+    },
+    {
+      "id": "q006",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "q059와 유사 — 독립/돌봄/유전 위험 인지 인과, explanatory 부합"
+    },
+    {
+      "id": "q028",
+      "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2},
+      "rationale_brief": "q144 동일 — 토론/발표 일반론. easy/procedural 라벨에 미스매치"
+    },
+    {
+      "id": "q163",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "ICU 환경 + 섬망/인지장애 인과 충실, hard/explanatory 부합"
+    }
+  ]
+}

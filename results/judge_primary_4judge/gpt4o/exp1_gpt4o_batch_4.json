@@ -1,0 +1,306 @@
+{
+ "batch_id": 4,
+ "judge": "gpt4o",
+ "results": [
+  {
+   "id": "q046",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "출산율 비교와 의미 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q104",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "비만 기준 설명이 적절하나 췌장 크기 언급은 다소 과장됨."
+  },
+  {
+   "id": "q079",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "알고리즘 편향 설명이 명확하나 깊이는 부족."
+  },
+  {
+   "id": "q054",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "단순한 사실 나열."
+  },
+  {
+   "id": "q196",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "RAG 시스템의 요소 설명이 명확하나 깊이는 부족."
+  },
+  {
+   "id": "q085",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "AI4IR의 역할 설명이 명확하나 깊이는 부족."
+  },
+  {
+   "id": "q118",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "가치 사슬 변화 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q109",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "절차 설명이 구체적이고 명확함."
+  },
+  {
+   "id": "q133",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "기술 분야 설명이 명확하나 깊이는 부족."
+  },
+  {
+   "id": "q142",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "사회보험 프로그램의 확대 과정 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q033",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "피보팅의 차이 설명이 명확하고 깊이 있음."
+  },
+  {
+   "id": "q018",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "단순한 사실 나열."
+  },
+  {
+   "id": "q140",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "포즈 설명이 명확하나 깊이는 부족."
+  },
+  {
+   "id": "q123",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "DOR 프로토콜의 한계점 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q175",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "체류 자격 문제 설명이 명확하고 깊이 있음."
+  },
+  {
+   "id": "q063",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "RAG 기술의 할루시네이션 제어 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q083",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "비자 관련 문제 설명이 명확하고 깊이 있음."
+  },
+  {
+   "id": "q148",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "환경적 문제 설명이 명확하고 깊이 있음."
+  },
+  {
+   "id": "q100",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "단순한 사실 나열."
+  },
+  {
+   "id": "q155",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "평가 방법과 정상값 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q072",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "용어적 차이 설명이 명확하고 깊이 있음."
+  },
+  {
+   "id": "q027",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "임파우먼트 개념 설명이 명확하고 깊이 있음."
+  },
+  {
+   "id": "q184",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "핵심 기능 설명이 명확하나 깊이는 부족."
+  },
+  {
+   "id": "q112",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "가이드라인 권고사항 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q051",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "위험 요인 설명이 명확하나 깊이는 부족."
+  }
+ ]
+}

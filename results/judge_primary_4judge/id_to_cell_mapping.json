@@ -1,0 +1,1002 @@
+{
+ "q000": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q001": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q002": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q003": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q004": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q005": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q006": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q007": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q008": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q009": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q010": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q011": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q012": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q013": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q014": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q015": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q016": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q017": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q018": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q019": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q020": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q021": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q022": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q023": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q024": {
+  "cond": "exp0",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q025": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q026": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q027": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q028": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q029": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q030": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q031": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q032": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q033": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q034": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q035": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q036": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q037": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q038": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q039": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q040": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q041": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q042": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q043": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q044": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q045": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q046": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q047": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q048": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q049": {
+  "cond": "exp0",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q050": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q051": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q052": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q053": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q054": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q055": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q056": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q057": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q058": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q059": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q060": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q061": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q062": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q063": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q064": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q065": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q066": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q067": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q068": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q069": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q070": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q071": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q072": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q073": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q074": {
+  "cond": "exp1_1",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q075": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q076": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q077": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q078": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q079": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q080": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q081": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q082": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q083": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q084": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q085": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q086": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q087": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q088": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q089": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q090": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q091": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q092": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q093": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q094": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q095": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q096": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q097": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q098": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q099": {
+  "cond": "exp1_1",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q100": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q101": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q102": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q103": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q104": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q105": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q106": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q107": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q108": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q109": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q110": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q111": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q112": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q113": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q114": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q115": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q116": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q117": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q118": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q119": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q120": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q121": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q122": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q123": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q124": {
+  "cond": "exp1_2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q125": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q126": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q127": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q128": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q129": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q130": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q131": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q132": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q133": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q134": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q135": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q136": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q137": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q138": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q139": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q140": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q141": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q142": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q143": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q144": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q145": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q146": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q147": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q148": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q149": {
+  "cond": "exp1_2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q150": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q151": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q152": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q153": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q154": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q155": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q156": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q157": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q158": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q159": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q160": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q161": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q162": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q163": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q164": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q165": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q166": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q167": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q168": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q169": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q170": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q171": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q172": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q173": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q174": {
+  "cond": "exp2",
+  "dom": "medical",
+  "exp": "exp1"
+ },
+ "q175": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q176": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q177": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q178": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q179": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q180": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q181": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q182": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q183": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q184": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q185": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q186": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q187": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q188": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q189": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q190": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q191": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q192": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q193": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q194": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q195": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q196": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q197": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q198": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ },
+ "q199": {
+  "cond": "exp2",
+  "dom": "finance",
+  "exp": "exp1"
+ }
+}

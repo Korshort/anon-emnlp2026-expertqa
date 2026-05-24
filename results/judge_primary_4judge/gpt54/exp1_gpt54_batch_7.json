@@ -1,0 +1,306 @@
+{
+ "batch_id": 7,
+ "judge": "gpt54",
+ "results": [
+  {
+   "id": "q137",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 2,
+    "coherence": 3,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "질문은 절차형으로 괜찮지만 답이 멀티모달 RAG 파인튜닝의 일반 단계 설명으로는 부정확·과도 단순화됨."
+  },
+  {
+   "id": "q117",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 3,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "절차 질문과는 맞지만 특정 벤더/세대 언급이 근거 부족하고 로봇수술 프로그램 성숙도 단계로 일반화하기 어려움."
+  },
+  {
+   "id": "q011",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "기본 설명은 맞물리나 세단/SUV별 매트릭스 수치는 검증 어려워 다소 불안정; 질문은 사실 회상형."
+  },
+  {
+   "id": "q067",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "핵심 이유를 일부 짚지만 독성/신독성 등 중요한 근거가 빠져 설명 깊이가 얕음."
+  },
+  {
+   "id": "q088",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "질문-답 연결은 좋으나 사건·기관·성과가 구체적이라 사실 검증 위험이 크고 단순 나열형임."
+  },
+  {
+   "id": "q091",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "과학-사업 균형과 투자 생태계 역할을 설명해 무난하나 다소 일반론적임."
+  },
+  {
+   "id": "q024",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "전립선 적출술 사례로 입원기간·합병증·사회복귀를 연결해 총비용 관점을 잘 설명함."
+  },
+  {
+   "id": "q097",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "핵심 마케팅 논리를 간결히 설명했지만 비교 근거나 사례가 없어 깊이는 보통 수준."
+  },
+  {
+   "id": "q182",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "문화적 맥락이 디자인 적합성에 중요하다는 점을 직접 답했으나 설명은 얕음."
+  },
+  {
+   "id": "q190",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "행사 발언 요약형 factoid로 Q-A는 잘 맞지만 학습가치와 깊이는 낮음."
+  },
+  {
+   "id": "q086",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "두 개념의 대비는 정확하나 ‘최근엔 그린 허싱이 더 큰 문제’는 맥락 의존적 일반화."
+  },
+  {
+   "id": "q181",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "구조화는 좋지만 Visa 고유 용어·기능 매핑이 다소 추정적이며 factoid 치고 해석이 많이 섞임."
+  },
+  {
+   "id": "q039",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "목적을 매우 포괄적으로만 말해 구체성이 부족하며 양생 기술의 핵심 목적 설명이 빈약함."
+  },
+  {
+   "id": "q168",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "VDM의 정의와 활용을 무난히 요약했으나 기본 사실 설명 수준."
+  },
+  {
+   "id": "q087",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "세제 구조 변화가 배당주 선호와 기업 배당정책에 미칠 유인을 적절히 비교함."
+  },
+  {
+   "id": "q185",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "비교 형식은 잘 맞지만 특정 복지 프로그램 연령·금액 수치의 사실성 검증 위험이 큼."
+  },
+  {
+   "id": "q040",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "적응과 회복탄력성을 정확히 짚고 GCF 맥락도 덧붙였으나 깊이는 중간 수준."
+  },
+  {
+   "id": "q001",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "치과 보철 맥락 질문은 좋지만 제시된 4단계 명명은 표준 용어로 보기 어렵고 설명도 단순함."
+  },
+  {
+   "id": "q071",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 3,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "‘약물’ 질문에 신경차단술을 1차 진통제로 제시해 범주 혼선이 있고 답의 정확성이 떨어짐."
+  },
+  {
+   "id": "q150",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "IT 솔루션의 일반적 가격전략을 과도하게 한 가지 프로모션 방식으로 일반화해 부정확함."
+  },
+  {
+   "id": "q114",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 5,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "질문은 고난도·고가치이나 답의 기간 구분이 가이드라인과 다소 어긋나고 체계도 불명확함."
+  },
+  {
+   "id": "q056",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "실무적 기능 예시는 유용하나 특정 소프트웨어의 상용 기능 여부가 혼재되어 정확성은 중간 수준."
+  },
+  {
+   "id": "q107",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 2
+   },
+   "rationale_brief": "낙상이 흔하다는 핵심은 맞지만 빈도·사망률 수치 특히 30일 80%는 과장 가능성이 크고 easy 라벨도 과소평가."
+  },
+  {
+   "id": "q191",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "위험 인지 훈련과 생산적 활용 역량이라는 두 축을 명확히 제시해 교육적 함의가 있음."
+  },
+  {
+   "id": "q166",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 5,
+    "answer_depth": 4,
+    "coherence": 4,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "비교·선택 기준 질문은 좋고 답도 구조화됐지만 특정 제품 특성·효과·투여량 주장이 근거 불명확해 위험함."
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
   "batch_id": 1,
   "judge": "claude-opus-4-7",
-  "items": [
+  "results": [
     {
       "id": "w062",
       "scores": {

@@ -1,0 +1,131 @@
+{
+  "batch_id": 5,
+  "judge": "claude-opus-4-7",
+  "results": [
+    {
+      "id": "q174",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "HAS-BLED 인자 다수 포괄. 항응고제 사용 자체를 위험인자로 분류한 점은 다소 redundant."
+    },
+    {
+      "id": "q004",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "치과 finishing bur 색 코드(노란띠=super-fine) 정확. 절차적 디테일 제한적."
+    },
+    {
+      "id": "q029",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "미국 다양성 vs 한국 동질성 대조와 narrow→broad 전략 설명 일관."
+    },
+    {
+      "id": "q183",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 3, "difficulty_calibration": 3},
+      "rationale_brief": "베트남 1인당 GDP 실제 ~4,500달러대로 근사 일치. 무역규모 수치 정확성은 시점 의존."
+    },
+    {
+      "id": "q099",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "반도체 양강 기여도 정성적 설명. 1000-1300pt 수치는 추정치적 성격."
+    },
+    {
+      "id": "q098",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "GFCI 핀테크 순위 사실 진술. 간단명료."
+    },
+    {
+      "id": "q131",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "결제정보 민감성, Visa 네트워크 활용 설명 일관. 동의 progression 잘 기술."
+    },
+    {
+      "id": "q124",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "노인 외상에서 SBP 110mmHg threshold는 일부 지침과 일치. '최저 기준'이라는 표현은 약간 모호."
+    },
+    {
+      "id": "q198",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "SDT-극저온, 퀀노바-CCUS 양자계산 협업 구체적. 시너지 구조 명료."
+    },
+    {
+      "id": "q134",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "Character.AI 관련 소송 사례와 혼동 가능. 구글 주체 표현은 다소 부정확."
+    },
+    {
+      "id": "q178",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "체류자격 다양성과 일선 공무원 정보부족 핵심 짚음. 간략."
+    },
+    {
+      "id": "q120",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "PICC tip 정확도/시술시간/오조준 교정 수치 일관. 합병증 없음 명시."
+    },
+    {
+      "id": "q034",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "우려/기대 양면 비교 구조 명확. 정책 일관성 논점 적절."
+    },
+    {
+      "id": "q048",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "S-400 도입, 미국 LEMOA/COMCASA 류 협정 사실 부합. 군수 60% 의존 추정 합리적."
+    },
+    {
+      "id": "q169",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "즉시 임플란트 adoption과 ridge preservation underuse 임상 논리 일관."
+    },
+    {
+      "id": "q138",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "Egocentric MR + 정비 매뉴얼 RAG 활용 예 적절."
+    },
+    {
+      "id": "q149",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "rationale_brief": "찬반 양 관점 균형, heterogeneous effects 강조 학술적 톤 적절."
+    },
+    {
+      "id": "q132",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 3, "difficulty_calibration": 3},
+      "rationale_brief": "BESS 모델, LUCAS 비교 언급. '10미터급'/'100배' 표현은 출처 의존적."
+    },
+    {
+      "id": "q127",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "1997 정리해고법 입법 지연 맥락 부합. 답이 단문이라 depth 낮음."
+    },
+    {
+      "id": "q021",
+      "scores": {"faithfulness": 2, "domain_accuracy": 2, "question_quality": 3, "answer_depth": 2, "coherence": 3, "difficulty_calibration": 3},
+      "rationale_brief": "10만명당 5,800명 사망률은 비현실적으로 큼(단위 혼동 가능성). 수치 신뢰성 의심."
+    },
+    {
+      "id": "q081",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "스마트폰 97%/OTT 72% 한국 통계 근사 일치. 가짜뉴스 우려도 1위 Reuters DNR 부합."
+    },
+    {
+      "id": "q077",
+      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 3, "difficulty_calibration": 3},
+      "rationale_brief": "보증규모 수치 단답. 출처 확인 불가하나 내적 일관성은 있음."
+    },
+    {
+      "id": "q009",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "rationale_brief": "CTG에 PDRN soaking, tunneling 적용 절차 명확."
+    },
+    {
+      "id": "q082",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "라이다 100pt/㎡, 0.5m DEM, 3D 건물, 에너지/통행 기반 배출 분석 일관."
+    },
+    {
+      "id": "q164",
+      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 4},
+      "rationale_brief": "범용→RAG→스크립트리→임상통합 4단계 구조 체계적. 변증/KCD/처방 추천 흐름 명료."
+    }
+  ]
+}

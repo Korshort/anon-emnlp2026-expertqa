@@ -1,0 +1,306 @@
+{
+ "batch_id": 5,
+ "judge": "gpt4o",
+ "results": [
+  {
+   "id": "q174",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "답변이 정확하고 관련 정보가 잘 정리됨."
+  },
+  {
+   "id": "q004",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "답변이 정확하고 절차적 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q029",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "답변이 설명적이고 타당한 이유를 제공함."
+  },
+  {
+   "id": "q183",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "경제 규모와 무역 개방도에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q099",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "주식시장 지수에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q098",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "핀테크 분야 성과에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q131",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "고객 동의의 중요성을 잘 설명함."
+  },
+  {
+   "id": "q124",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "저혈량 판단 기준에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q198",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "전략적 협업에 대한 상세한 설명 제공."
+  },
+  {
+   "id": "q134",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "소송의 핵심 사유에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q178",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "문제점에 대한 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q120",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "연구 결과에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q034",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "우려사항과 기대효과를 잘 비교 분석함."
+  },
+  {
+   "id": "q048",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "외교 전략에 대한 비교 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q169",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "치조제 보존술의 시행 문제에 대한 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q138",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "혼합 현실 활용 사례에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q149",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "필터 버블 논쟁에 대한 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q132",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "탄소 분석 방법에 대한 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q127",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "개혁 실패 이유에 대한 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q021",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "교통사고 사망률과 부상률에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q081",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "스마트폰 보급률과 OTT 이용률에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q077",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "지원 규모에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q009",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "치근 피개술 절차에 대한 정확한 정보 제공."
+  },
+  {
+   "id": "q082",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "디지털 트윈 기술 활용에 대한 설명이 잘 되어 있음."
+  },
+  {
+   "id": "q164",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "AI 한의사 개발 방법에 대한 설명이 잘 되어 있음."
+  }
+ ]
+}

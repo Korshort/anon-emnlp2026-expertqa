@@ -1,0 +1,306 @@
+{
+ "batch_id": 8,
+ "judge": "gpt54",
+ "results": [
+  {
+   "id": "q050",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "치조제 보존술과 소켓 실링 설명은 대체로 정확하나 표현이 다소 부정확하며 easy보다는 약간 더 개념형이다."
+  },
+  {
+   "id": "q143",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "시장별 디자인/채용 전략의 비교 추론은 유의미하나 다소 일반화된 주장과 규범적 조언이 섞여 있다."
+  },
+  {
+   "id": "q197",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "현지 문화 이해의 중요성을 잘 답하지만 근거가 약하고 도메인 전문성은 제한적이다."
+  },
+  {
+   "id": "q154",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "질문은 비율을 묻는데 답은 응답자 수만 제시해 직접성이 떨어지며 사실 확인도 제한적이다."
+  },
+  {
+   "id": "q129",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 3,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "용어 답변이 모호하고 표준 마케팅 용어로 보기 어려워 정확성이 낮다."
+  },
+  {
+   "id": "q059",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "청소년 딸의 발달 단계와 정서 부담을 잘 연결해 설명했고 의학·심리 맥락상 타당하다."
+  },
+  {
+   "id": "q055",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 2,
+    "answer_depth": 1,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "수치성 사실문항인데 출처 맥락이 없어 최신성/정확성 확인이 어렵다."
+  },
+  {
+   "id": "q023",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "운동의 기전과 비만 위험인자를 연결한 설명은 타당하나 깊이는 중간 수준이다."
+  },
+  {
+   "id": "q007",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 2
+   },
+   "rationale_brief": "MNL 개념이 불명확하고 검증 어려운 심리치료 서술로 전문 정확성과 난도 적합성이 낮다."
+  },
+  {
+   "id": "q008",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 3,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "세포노화의 대표 특징을 무난하게 요약했으며 약간 단순화됐지만 전반적으로 적절하다."
+  },
+  {
+   "id": "q108",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "기술적 설계 유지 이유를 성능 검증과 워크플로우 측면으로 잘 설명했다."
+  },
+  {
+   "id": "q151",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 4,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "주된 이유를 간단히 답했으나 독성 문제 등 핵심 임상 맥락이 빠져 깊이와 정확성이 다소 아쉽다."
+  },
+  {
+   "id": "q022",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "유명한 인용이지만 아인슈타인 진위가 불확실해 사실성 점수를 낮게 준다."
+  },
+  {
+   "id": "q139",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "자본집약도와 투자 가능성의 차이를 근거로 투자 논리를 잘 설명했다."
+  },
+  {
+   "id": "q173",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "당뇨 치료 목표의 패러다임 변화를 간결하면서도 정확하게 설명했다."
+  },
+  {
+   "id": "q026",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 2,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "사실형 답변으로 연결성은 높으나 최신성 검증이 어렵고 학습 가치는 낮다."
+  },
+  {
+   "id": "q188",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "초기 건강보험의 형평성 비판을 대상 집단의 건강위험·접근성 차이로 잘 설명했다."
+  },
+  {
+   "id": "q035",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "김치와 기무치 차이를 지나치게 단순화했고 식초·제조순서 설명은 사실성 의문이 있다."
+  },
+  {
+   "id": "q057",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 5,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "골절 유형별 블록 비교라는 좋은 질문이며 답도 비교 구조는 좋지만 근거 강도는 불명확하다."
+  },
+  {
+   "id": "q062",
+   "scores": {
+    "faithfulness": 3,
+    "domain_accuracy": 3,
+    "question_quality": 3,
+    "answer_depth": 2,
+    "coherence": 5,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "대표 부작용을 나열했으나 자궁내막증 표현 등 일부 부정확성이 있고 factoid치고 범위가 넓다."
+  },
+  {
+   "id": "q070",
+   "scores": {
+    "faithfulness": 5,
+    "domain_accuracy": 5,
+    "question_quality": 5,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 5
+   },
+   "rationale_brief": "ELDERCARE-AF 근거와 효익-위험 균형을 정확히 요약한 고품질 임상 답변이다."
+  },
+  {
+   "id": "q189",
+   "scores": {
+    "faithfulness": 2,
+    "domain_accuracy": 2,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 4,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "재정적자 원인 설명은 일부 타당하나 파산 단정과 법안·금리 전망은 과도한 추정이 섞여 있다."
+  },
+  {
+   "id": "q006",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "발달심리와 가족질환 스트레스를 연결해 직접적이고 타당하게 설명했다."
+  },
+  {
+   "id": "q028",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 3,
+    "coherence": 5,
+    "difficulty_calibration": 3
+   },
+   "rationale_brief": "하이테크-하이터치 균형 원칙을 잘 설명했으나 procedural보다는 규범적 설명형에 가깝다."
+  },
+  {
+   "id": "q163",
+   "scores": {
+    "faithfulness": 4,
+    "domain_accuracy": 4,
+    "question_quality": 4,
+    "answer_depth": 4,
+    "coherence": 5,
+    "difficulty_calibration": 4
+   },
+   "rationale_brief": "ICU 환경 요인, 섬망, 인지저하 예방 필요성을 인과적으로 잘 연결했다."
+  }
+ ]
+}
