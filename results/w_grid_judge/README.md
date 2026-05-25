@@ -16,11 +16,10 @@
 
 ## Rubric
 
-Same 6-dim 1-5 Likert rubric as the primary 200-QA scoring (paper §3.3 evaluation +
+Same 5-dim 1-5 Likert rubric as the primary 200-QA scoring (paper §3.3 evaluation +
 `../prompts/llm_judge_rubric.md`). The paper's reported overall is the
-mean of five external-quality dimensions (faithfulness, domain_accuracy,
-question_quality, answer_depth, coherence); `difficulty_calibration` is
-reported per-dim only.
+mean of the five external-quality dimensions: faithfulness, domain_accuracy,
+question_quality, answer_depth, coherence.
 
 ## Table 4 reproduction (paper §5.3)
 

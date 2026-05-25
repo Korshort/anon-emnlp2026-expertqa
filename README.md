@@ -28,14 +28,14 @@ All model identifiers across the entire pipeline are public. For Phase 2 — the
 
 | Prompt | Used in | File |
 |---|---|---|
-| 4-judge 6-dim Likert rubric (QA data quality) | paper §5.1 | `prompts/llm_judge_rubric.md` |
+| 4-judge 5-dim Likert rubric (QA data quality) | paper §5.1 | `prompts/llm_judge_rubric.md` |
 | 2-judge binary rubric (unknown-admission re-classification) | paper §5.4 | `prompts/binary_judge_rubric.md` |
 | Unknown-admission answer instruction (LLM-difficulty audit) | paper §5.4 | `prompts/unknown_admission_instruction.md` |
-| Phase 2 judge prompt | paper §3.4 | `prompts/pipeline/phase2_judge.md` |
-| Phase 2 refine prompt | paper §3.4 | `prompts/pipeline/phase2_refine.md` |
-| Phase 2 dedup algorithm specification | paper §3.4 | `prompts/pipeline/phase2_dedup.md` |
+| Phase 2 judge prompt | paper §3.1 | `prompts/pipeline/phase2_judge.md` |
+| Phase 2 refine prompt | paper §3.1 | `prompts/pipeline/phase2_refine.md` |
+| Phase 2 dedup algorithm specification | paper §3.1 | `prompts/pipeline/phase2_dedup.md` |
 
-Phase 0 and Phase 1 tool prompts (including `generate`) are not released. Model identifiers are listed in `prompts/pipeline_llm_disclosure.md`; per-stage costs are reported in paper §6.2. Per-tool functional descriptions and I/O schemas are not separately documented.
+Phase 0 and Phase 1 tool prompts (including `generate`) are not released. Model identifiers are listed in `prompts/pipeline_llm_disclosure.md`; per-stage costs are reported in paper Appendix~A. Per-tool functional descriptions and I/O schemas are not separately documented.
 
 ## Public sample schema
 
