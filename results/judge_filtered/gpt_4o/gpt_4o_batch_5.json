@@ -8,8 +8,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate comparison of targeted vs cytotoxic therapies."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of team roles and sizes."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear distinction between carbon and energy management systems."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains educational methods and their effects."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate comparison of welfare state types."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Insightful comparison of economic development."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed team composition and focus comparison."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Explains steroid use in spinal injury."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Duplicate of q098, same scores apply."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares financial concepts effectively."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains strategic business expansion."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Compares surgical guidelines accurately."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares economic strategies effectively."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains design approach impact on hiring."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares PDRN effects in models."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Explains AI legal framework complexity."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares tariff scenarios effectively."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares past and present economic environments."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Explains climate data strategy."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares ecosystem development stages."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares market entry strategies."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares RAG development stages."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares surgical efficiency improvements."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains blockchain ecosystem revival."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Compares team roles and compositions."
     }

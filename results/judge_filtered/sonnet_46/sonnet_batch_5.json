@@ -8,8 +8,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "표적치료제 vs 세포독성 항암제 비교는 사실적으로 정확하며 선택적 작용기전과 부작용 차이를 명확히 기술하나, 분자 수준 기전(EGFR, HER2 등) 언급이 없어 depth가 충분하지는 않음"
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "마카/제네시스 팀 비교는 구체적 수치(120명, 20개국, 3,000병원)를 포함하나 출처가 내부 조직 정보이며 외부 검증 불가; 도메인 범용성이 낮고 내부 컨텍스트 의존도가 높아 학습 활용 가치 제한적"
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "두 시스템의 목적(탄소 리포팅 vs 에너지 비용 절감)과 방법(공인인증 원클릭 vs AI 15분 한전 데이터)을 명확히 대비하여 비교 구조가 논리적이나, 두 시스템 모두 경기도 내부 정책 맥락에 한정되어 범용 도메인 지식으로서의 깊이는 중간 수준"
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "텍스트 기반 교육과 직접 만남 방식의 차이를 기술하지만 구체적 효과 측정(인식 변화 수치, 설문 등) 없이 서술적 인상에 그쳐 답변 깊이가 부족하며, Education/Other 도메인의 의료·금융 학습 데이터 활용 가치가 낮음"
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "복지국가(보편적, 스웨덴·노르웨이·독일 사례)와 발전형 복지국가(선택적, 한국 사례)의 구조적 차이를 정확히 설명하며 비교 논점이 명확하나, welfare regime 이론(Esping-Andersen 등) 연결 없이 단순 서술에 머뭄"
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "남북한 경제 격차의 원인을 리더십과 정책으로 단순화하여 분석 깊이가 얕고, 제도·자원 배분·국제 제재 같은 구조적 요인이 빠져 있어 comparative 문항 치고 reasoning이 피상적임"
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "두 팀의 구성·특징을 대비하나 '[회계법인]'으로 익명화되어 사실 검증 불가이며, 조직 규모 나열 중심으로 전략적 차별화 분석이 부재하여 학습 데이터로서의 깊이가 낮음"
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "척수손상 급성기 고용량 스테로이드에 대한 현재 논쟁(부작용 vs 이점)을 임상 경험 기반으로 설명하고 덱사메타손 대안을 제시하며 실제 임상 판단 근거를 담고 있어 질 높은 explanatory 응답임"
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "q098과 동일한 질문-답변 쌍으로 중복 항목이며, 분석 깊이도 동일하게 피상적 수준에 머뭄"
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "전환금융(녹색 금융의 타협적 확장)과 네이처 파이낸싱(자연 기반 해결책)의 등장 배경과 메커니즘 차이를 명확히 비교하며 호주·유럽 사례를 근거로 제시하여 금융 도메인에서 실질적인 학습 가치를 가짐"
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "매출 관리 → 신용평가 → 결제/포스 순서의 전략적 논리를 데이터 축적, 니즈 예측, 난이도 순서 관점에서 인과적으로 설명하여 답변 깊이가 우수하며 사업 전략 reasoning의 좋은 사례임"
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "AAOS 48시간 vs 영국 36시간 가이드라인을 정확히 비교하며 영국의 적극적 접근 근거(동반 질환 예외 조건)까지 설명하여 임상 가이드라인 비교 문항으로 우수하나 'medium' 난이도 라벨이 내용 수준에 비해 낮게 설정되어 있음"
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "한국 제조업 한계(인건비, 소득 정체)와 싱가포르 금융 고도화 모델을 대비하며 AI 시대 금융 전환 필요성을 논리적으로 연결하여 비교·정책 논거 구조가 명확함"
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "한국 vs 미국 디자인 접근법 차이가 인재 영입 전략에 미치는 영향을 연결하는 구조는 좋으나, 구체적 사례나 데이터 없이 일반적 관찰 수준에 머물며 Arts/Design 도메인으로 의료·금융 학습 목적에서 벗어남"
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "토끼 상악동 모델의 4주 효과 후 캐치업 현상과 개 치조제 모델의 2주 한정 효과를 통계적 유의성 여부와 함께 명확히 비교하여, 시간 경과별 PDRN 효과를 정량적·기계론적으로 설명한 고품질 임상 comparative 응답임"
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "AI 관련 한국 법률 체계를 인공지능기본법, 행정기본법, 개인정보보호법, 저작권법 등 영역별로 분류하고 복잡성 원인을 AI의 사회적 파급 범위로 설명하여 법률 체계 구조를 체계적으로 기술함"
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "대중국 관세율(10% 이상, 2026년까지)과 여타국(더 낮은 수준, 금년 내 후 협상 인하)의 차별적 설정을 명확히 구분하고 보복 관세 여부도 국가별로 구체화하여 무역 정책 분석 문항으로 충분한 깊이를 가짐"
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "자유무역 협력에서 경쟁·갈등 시대로의 전환, G2에서 G1으로의 변화, 중국 부동산 구조 문제, 독일 에너지 의존 문제를 비교하며 글로벌 경제 구조 변화를 다층적으로 기술함"
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "데이터 개방 → 기업 활용 → 솔루션 개발 → 경기도 구입·재활용 → 레퍼런스 확보 → 투자 유치의 선순환 구조를 단계적으로 설명하여 플랫폼 생태계 모델을 논리적으로 기술함"
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "Intuitive 에코시스템 확장 영역(어드밴스 테크놀로지, 디지털·데이터·인사이트, 프로페셔널 에듀케이션)을 언급하나 구체적 기술 변화 내용이 얕고, sub_domain이 Perio로 분류되어 있으나 실제로는 수술 로봇 의료기기 분야로 도메인 라벨이 부정확함"
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "선진국형(탄소 규제 활용, 유럽)과 개발도상국형(ODA, 몽골) 모델의 접근 방식 차이를 논리적으로 설명하며 파이넥코 기술의 적용 맥락을 각국 환경에 맞춰 연결하여 비교 구조가 명확함"
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "멀티모달 RAG 3세대 구분(슈도→True→엔드투엔드)을 제시하나 각 세대의 기술적 특징(임베딩 방식, retrieval 구조 변화 등)을 구체화하지 않아 'hard' comparative 문항으로서 depth가 부족하며, 3세대 분류 자체가 표준 학술 분류와 다를 수 있어 faithfulness 불확실"
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "전용 다빈치 수술실 구축 전후를 기구 분산 수집 시간, 중앙화 관리, 내시경 전담 인력 추가 세 가지 개선점으로 체계적으로 비교하여 수술실 운영 효율화의 인과 구조를 명확히 기술함"
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 3,
-        "difficulty_calibration": 3
+        "coherence": 3
       },
       "rationale_brief": "블록체인 생태계 부활 조치로 2017년 긴급대책 종료, 다양한 서비스 허용 환경 조성을 제시하나 'comparative'로 분류된 문항임에도 비교 대상이 명확하지 않고 근거 논리가 애국심 호소 수준에 머물러 analytical depth가 낮음"
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "q004와 실질적으로 동일한 마카/제네시스 비교 문항(중복)으로, 답변 내용도 유사하며 내부 조직 정보 의존도가 높아 외부 검증이 불가하고 범용 학습 가치가 낮음"
     }

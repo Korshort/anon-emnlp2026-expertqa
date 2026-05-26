@@ -8,8 +8,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate comparison of investment approaches."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed historical change in GFR decline."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear comparison of hospital capabilities."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains differences in clinical application."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains rationale and differences in plans."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Describes strategic pivot in webtoon industry."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Compares guidelines with moderate depth."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of financial products."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Explains significance of client base."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Describes policy shift in economic plan."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains market choice rationale."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Compares roles of luck and engineering."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Explains reduced policy error likelihood."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Details vascular considerations in surgery."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Analyzes legal issues in AI decision-making."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Explains structural factors in AI impact."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Compares tariff scenarios and durations."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Discusses implant issues and expert views."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Lists risk factors and management methods."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Explains MAP and CPP management differences."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Compares surgical approaches for ptosis."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Compares initial challenges and achievements."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Compares outcomes of periodontal treatments."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Analyzes causes of filter bubble formation."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Explains surgical considerations for recurrence."
     }

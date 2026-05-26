@@ -8,8 +8,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Comprehensive and aligned with question."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed explanation with domain accuracy."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear comparison with accurate details."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate technical explanation."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Well-aligned comparison with depth."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Accurate but less depth in reasoning."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison with domain accuracy."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear surgical comparison with depth."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate comparison with detailed analysis."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Comprehensive explanation of luck factors."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Technical comparison with clear explanation."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Accurate but lacks depth in reasoning."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison with economic context."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Comprehensive explanation of policy approaches."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear surgical comparison with procedural details."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed explanation of surgical precautions."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear comparison of trade policies."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Comprehensive explanation of policy dilemma."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear explanation of legal framework."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of medical complications."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate explanation of dental protocols."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear surgical comparison with procedural focus."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Balanced view on AI investment concerns."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Technical comparison with security focus."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Comprehensive explanation of platform features."
     }

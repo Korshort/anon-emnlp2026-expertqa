@@ -8,8 +8,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate and detailed comparative analysis."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear comparison of economic concepts."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Well-supported competitive analysis."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Comprehensive explanation of risk factors."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of AI benefits."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear explanation of fixation methods."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate comparison of occlusion methods."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Clear explanation of team roles."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of PRF and BMP."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear distinction between surgical methods."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of PRF and BMP."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate and detailed comparative analysis."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Clear explanation of management changes."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of AI solutions."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear explanation of disease mechanisms."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed explanation of financial roles."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear analysis of legal issues in AI."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed regulatory comparison."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear criteria for material selection."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of occlusal forces."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate comparison of implant outcomes."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Clear historical and strategic analysis."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Accurate comparison of treatment outcomes."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Detailed comparison of AI adoption."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Clear explanation of ecosystem components."
     }

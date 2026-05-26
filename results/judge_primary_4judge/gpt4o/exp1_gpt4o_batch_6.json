@@ -1,306 +1,281 @@
 {
- "batch_id": 6,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "q119",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정확한 절차 설명과 활용도 제시."
-  },
-  {
-   "id": "q089",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "부처 분산 설명은 정확하나 단순 나열."
-  },
-  {
-   "id": "q068",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "시간 확대 과정 설명은 명확하나 단순함."
-  },
-  {
-   "id": "q053",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "검사 방법의 중요성과 절차 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q090",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "사업 다각화 이유는 명확하나 단순함."
-  },
-  {
-   "id": "q094",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 3,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "AI 할루시네이션과 창의성의 관계 설명이 부족함."
-  },
-  {
-   "id": "q041",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 3,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "평가가 모호하고 구체적이지 않음."
-  },
-  {
-   "id": "q093",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정책 수단 설명이 구체적이고 명확함."
-  },
-  {
-   "id": "q116",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "예방 전략과 치료 방법이 잘 설명됨."
-  },
-  {
-   "id": "q199",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "운영비용 효율성 설명은 명확하나 단순함."
-  },
-  {
-   "id": "q157",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "검사 방법의 다양성과 구체적 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q025",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "문화적 차이가 디자인에 미치는 영향 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q180",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "3단계 평가 과정이 명확하게 설명됨."
-  },
-  {
-   "id": "q147",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "균형의 필요성과 방법이 잘 설명됨."
-  },
-  {
-   "id": "q074",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "부가가치 변화가 단계별로 잘 설명됨."
-  },
-  {
-   "id": "q058",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "접근 방식의 차이가 명확하게 설명됨."
-  },
-  {
-   "id": "q152",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "고령화 속도 비교는 명확하나 단순함."
-  },
-  {
-   "id": "q017",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "기능 설명은 명확하나 단순함."
-  },
-  {
-   "id": "q049",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "기술과 금융의 중요성이 잘 설명됨."
-  },
-  {
-   "id": "q092",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "타겟 오디언스 설정 방식의 차이가 잘 설명됨."
-  },
-  {
-   "id": "q075",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "선도 기술 분야 수는 명확하나 단순함."
-  },
-  {
-   "id": "q141",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "프로그램 목적과 방법이 잘 설명됨."
-  },
-  {
-   "id": "q020",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "회복 과정이 단계별로 잘 설명됨."
-  },
-  {
-   "id": "q096",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비용 격차가 품질에 미치는 영향이 잘 설명됨."
-  },
-  {
-   "id": "q031",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "보안 위험 요소와 대응 방안이 잘 설명됨."
-  }
- ]
+  "batch_id": 6,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "q119",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "정확한 절차 설명과 활용도 제시."
+    },
+    {
+      "id": "q089",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "부처 분산 설명은 정확하나 단순 나열."
+    },
+    {
+      "id": "q068",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "시간 확대 과정 설명은 명확하나 단순함."
+    },
+    {
+      "id": "q053",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "검사 방법의 중요성과 절차 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q090",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "사업 다각화 이유는 명확하나 단순함."
+    },
+    {
+      "id": "q094",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 3
+      },
+      "rationale_brief": "AI 할루시네이션과 창의성의 관계 설명이 부족함."
+    },
+    {
+      "id": "q041",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 3
+      },
+      "rationale_brief": "평가가 모호하고 구체적이지 않음."
+    },
+    {
+      "id": "q093",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "정책 수단 설명이 구체적이고 명확함."
+    },
+    {
+      "id": "q116",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "예방 전략과 치료 방법이 잘 설명됨."
+    },
+    {
+      "id": "q199",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "운영비용 효율성 설명은 명확하나 단순함."
+    },
+    {
+      "id": "q157",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "검사 방법의 다양성과 구체적 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q025",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "문화적 차이가 디자인에 미치는 영향 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q180",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "3단계 평가 과정이 명확하게 설명됨."
+    },
+    {
+      "id": "q147",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "균형의 필요성과 방법이 잘 설명됨."
+    },
+    {
+      "id": "q074",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "부가가치 변화가 단계별로 잘 설명됨."
+    },
+    {
+      "id": "q058",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "접근 방식의 차이가 명확하게 설명됨."
+    },
+    {
+      "id": "q152",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "고령화 속도 비교는 명확하나 단순함."
+    },
+    {
+      "id": "q017",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "기능 설명은 명확하나 단순함."
+    },
+    {
+      "id": "q049",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "기술과 금융의 중요성이 잘 설명됨."
+    },
+    {
+      "id": "q092",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "타겟 오디언스 설정 방식의 차이가 잘 설명됨."
+    },
+    {
+      "id": "q075",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "선도 기술 분야 수는 명확하나 단순함."
+    },
+    {
+      "id": "q141",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "프로그램 목적과 방법이 잘 설명됨."
+    },
+    {
+      "id": "q020",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "회복 과정이 단계별로 잘 설명됨."
+    },
+    {
+      "id": "q096",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비용 격차가 품질에 미치는 영향이 잘 설명됨."
+    },
+    {
+      "id": "q031",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "보안 위험 요소와 대응 방안이 잘 설명됨."
+    }
+  ]
 }

@@ -1,30 +1,280 @@
 {
   "batch_id": 5,
   "results": [
-    {"id": "q174", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Accurate contrast of targeted vs cytotoxic chemotherapy; content factually sound but relatively textbook-level for 'hard'."},
-    {"id": "q004", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Internal/proprietary team comparison; cannot independently verify but internally consistent. Comparative but largely descriptive."},
-    {"id": "q029", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Clear comparative answer with concrete mechanisms (carbon vs energy cost systems), well-structured."},
-    {"id": "q183", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Compares text-based vs direct-encounter pedagogy with reasoned effect; coherent and substantive."},
-    {"id": "q099", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "'Developmental welfare state' framing oversimplified; partial accuracy but lacks nuance for 'hard'."},
-    {"id": "q098", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2}, "rationale_brief": "Surface-level explanation attributing economic divergence to leadership/policy; lacks rigorous causal analysis for 'hard'."},
-    {"id": "q131", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Detailed proprietary team structure comparison; descriptive rather than analytic."},
-    {"id": "q124", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Accurately reflects current clinical practice (methylprednisolone controversy post-NASCIS); dexamethasone alternative mentioned."},
-    {"id": "q198", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2}, "rationale_brief": "Duplicate of q098; same surface-level analysis without depth."},
-    {"id": "q134", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Sound comparison of transition finance vs nature financing with concrete examples (Australia, EU)."},
-    {"id": "q178", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Strategic-sequence reasoning with clear causal chain (data accumulation → needs prediction → POS expansion); well-developed explanatory answer."},
-    {"id": "q120", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Accurate AAOS 48h vs UK 36h guideline comparison; appropriately calibrated 'medium'."},
-    {"id": "q034", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Singapore comparison reasoned but oversimplifies manufacturing-to-finance transition; income figures approximate."},
-    {"id": "q048", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Reasonable cross-cultural design strategy comparison with actionable implications for hiring."},
-    {"id": "q169", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "Precise comparison of PDRN effects across two animal models with specific time points and 'catch-up' phenomenon."},
-    {"id": "q138", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Comprehensive enumeration of AI-related Korean laws with causal explanation; well-organized."},
-    {"id": "q149", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Clear differentiation of tariff scenarios with retaliation patterns; specific and reasoned."},
-    {"id": "q132", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "G2→G1 framing is opinionated/contestable but explains structural shifts coherently."},
-    {"id": "q127", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Detailed virtuous-cycle model with multiple stages and feedback loops; well-articulated."},
-    {"id": "q021", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 2}, "rationale_brief": "Brief comparative on Intuitive Surgical ecosystem expansion; less substantive for 'hard'. Sub-domain 'Perio' mismatched."},
-    {"id": "q081", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Clear two-model comparison (developed via carbon-regulation, developing via ODA) with concrete Mongolia case."},
-    {"id": "q077", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "'3 generations of multimodal RAG' is informal taxonomy; concept ordering reasonable but terminology not standard literature."},
-    {"id": "q009", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Before/after comparison of dedicated da Vinci OR with three concrete operational improvements; well-structured."},
-    {"id": "q082", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Policy advocacy more than comparative analysis; question label 'comparative' weakly matches mostly enumerative content."},
-    {"id": "q164", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Duplicate-style content with q004 (MACA vs Genesis); internally consistent but descriptive."}
+    {
+      "id": "q174",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Accurate contrast of targeted vs cytotoxic chemotherapy; content factually sound but relatively textbook-level for 'hard'."
+    },
+    {
+      "id": "q004",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Internal/proprietary team comparison; cannot independently verify but internally consistent. Comparative but largely descriptive."
+    },
+    {
+      "id": "q029",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Clear comparative answer with concrete mechanisms (carbon vs energy cost systems), well-structured."
+    },
+    {
+      "id": "q183",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Compares text-based vs direct-encounter pedagogy with reasoned effect; coherent and substantive."
+    },
+    {
+      "id": "q099",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "'Developmental welfare state' framing oversimplified; partial accuracy but lacks nuance for 'hard'."
+    },
+    {
+      "id": "q098",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "Surface-level explanation attributing economic divergence to leadership/policy; lacks rigorous causal analysis for 'hard'."
+    },
+    {
+      "id": "q131",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Detailed proprietary team structure comparison; descriptive rather than analytic."
+    },
+    {
+      "id": "q124",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Accurately reflects current clinical practice (methylprednisolone controversy post-NASCIS); dexamethasone alternative mentioned."
+    },
+    {
+      "id": "q198",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "Duplicate of q098; same surface-level analysis without depth."
+    },
+    {
+      "id": "q134",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Sound comparison of transition finance vs nature financing with concrete examples (Australia, EU)."
+    },
+    {
+      "id": "q178",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "Strategic-sequence reasoning with clear causal chain (data accumulation → needs prediction → POS expansion); well-developed explanatory answer."
+    },
+    {
+      "id": "q120",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Accurate AAOS 48h vs UK 36h guideline comparison; appropriately calibrated 'medium'."
+    },
+    {
+      "id": "q034",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Singapore comparison reasoned but oversimplifies manufacturing-to-finance transition; income figures approximate."
+    },
+    {
+      "id": "q048",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Reasonable cross-cultural design strategy comparison with actionable implications for hiring."
+    },
+    {
+      "id": "q169",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "Precise comparison of PDRN effects across two animal models with specific time points and 'catch-up' phenomenon."
+    },
+    {
+      "id": "q138",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Comprehensive enumeration of AI-related Korean laws with causal explanation; well-organized."
+    },
+    {
+      "id": "q149",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Clear differentiation of tariff scenarios with retaliation patterns; specific and reasoned."
+    },
+    {
+      "id": "q132",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "G2→G1 framing is opinionated/contestable but explains structural shifts coherently."
+    },
+    {
+      "id": "q127",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "Detailed virtuous-cycle model with multiple stages and feedback loops; well-articulated."
+    },
+    {
+      "id": "q021",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Brief comparative on Intuitive Surgical ecosystem expansion; less substantive for 'hard'. Sub-domain 'Perio' mismatched."
+    },
+    {
+      "id": "q081",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Clear two-model comparison (developed via carbon-regulation, developing via ODA) with concrete Mongolia case."
+    },
+    {
+      "id": "q077",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "'3 generations of multimodal RAG' is informal taxonomy; concept ordering reasonable but terminology not standard literature."
+    },
+    {
+      "id": "q009",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Before/after comparison of dedicated da Vinci OR with three concrete operational improvements; well-structured."
+    },
+    {
+      "id": "q082",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Policy advocacy more than comparative analysis; question label 'comparative' weakly matches mostly enumerative content."
+    },
+    {
+      "id": "q164",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Duplicate-style content with q004 (MACA vs Genesis); internally consistent but descriptive."
+    }
   ]
 }

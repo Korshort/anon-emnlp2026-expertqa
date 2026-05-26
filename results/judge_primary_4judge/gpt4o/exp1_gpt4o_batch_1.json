@@ -1,306 +1,281 @@
 {
- "batch_id": 1,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "q066",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 사실적이며 도메인 관련성이 높음."
-  },
-  {
-   "id": "q187",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 구체적이고 관련 도메인 지식이 잘 반영됨."
-  },
-  {
-   "id": "q101",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 정확하고 도메인 지식이 잘 반영됨."
-  },
-  {
-   "id": "q193",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "질문이 단순하지만 답변은 정확함."
-  },
-  {
-   "id": "q111",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 문제의 근본 원인과 해결책을 잘 설명함."
-  },
-  {
-   "id": "q121",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교 질문에 대한 답변이 명확하고 깊이 있음."
-  },
-  {
-   "id": "q013",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 교육적 장점을 잘 설명함."
-  },
-  {
-   "id": "q002",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 권고안의 핵심을 잘 전달함."
-  },
-  {
-   "id": "q064",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교와 선택 기준을 잘 설명함."
-  },
-  {
-   "id": "q044",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "질문이 단순하지만 답변은 정확함."
-  },
-  {
-   "id": "q136",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 간단하지만 정확함."
-  },
-  {
-   "id": "q170",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "질문이 단순하지만 답변은 정확함."
-  },
-  {
-   "id": "q128",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "질문이 단순하지만 답변은 정확함."
-  },
-  {
-   "id": "q076",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 구체적이고 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q158",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 전신질환으로서의 관리 필요성을 잘 설명함."
-  },
-  {
-   "id": "q167",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 절차적 요소를 잘 설명함."
-  },
-  {
-   "id": "q045",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 난민 인정률의 의미를 잘 설명함."
-  },
-  {
-   "id": "q130",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 두 국가의 차이를 잘 설명함."
-  },
-  {
-   "id": "q030",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 고령화와 금융의 중요성을 잘 설명함."
-  },
-  {
-   "id": "q003",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 수술실의 주요 과제를 잘 설명함."
-  },
-  {
-   "id": "q159",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 전략적 선택을 잘 설명함."
-  },
-  {
-   "id": "q015",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 검사 방법을 잘 설명함."
-  },
-  {
-   "id": "q042",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 투자 전략을 잘 설명함."
-  },
-  {
-   "id": "q126",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 설비투자 정책의 시사점을 잘 설명함."
-  },
-  {
-   "id": "q186",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 두 기술의 성숙도를 잘 비교함."
-  }
- ]
+  "batch_id": 1,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "q066",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "답변이 사실적이며 도메인 관련성이 높음."
+    },
+    {
+      "id": "q187",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 구체적이고 관련 도메인 지식이 잘 반영됨."
+    },
+    {
+      "id": "q101",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 정확하고 도메인 지식이 잘 반영됨."
+    },
+    {
+      "id": "q193",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "질문이 단순하지만 답변은 정확함."
+    },
+    {
+      "id": "q111",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 문제의 근본 원인과 해결책을 잘 설명함."
+    },
+    {
+      "id": "q121",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교 질문에 대한 답변이 명확하고 깊이 있음."
+    },
+    {
+      "id": "q013",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "답변이 교육적 장점을 잘 설명함."
+    },
+    {
+      "id": "q002",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 권고안의 핵심을 잘 전달함."
+    },
+    {
+      "id": "q064",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교와 선택 기준을 잘 설명함."
+    },
+    {
+      "id": "q044",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "질문이 단순하지만 답변은 정확함."
+    },
+    {
+      "id": "q136",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "답변이 간단하지만 정확함."
+    },
+    {
+      "id": "q170",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "질문이 단순하지만 답변은 정확함."
+    },
+    {
+      "id": "q128",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "질문이 단순하지만 답변은 정확함."
+    },
+    {
+      "id": "q076",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 구체적이고 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q158",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 전신질환으로서의 관리 필요성을 잘 설명함."
+    },
+    {
+      "id": "q167",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 절차적 요소를 잘 설명함."
+    },
+    {
+      "id": "q045",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 난민 인정률의 의미를 잘 설명함."
+    },
+    {
+      "id": "q130",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 두 국가의 차이를 잘 설명함."
+    },
+    {
+      "id": "q030",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 고령화와 금융의 중요성을 잘 설명함."
+    },
+    {
+      "id": "q003",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 수술실의 주요 과제를 잘 설명함."
+    },
+    {
+      "id": "q159",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 전략적 선택을 잘 설명함."
+    },
+    {
+      "id": "q015",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 검사 방법을 잘 설명함."
+    },
+    {
+      "id": "q042",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 투자 전략을 잘 설명함."
+    },
+    {
+      "id": "q126",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 설비투자 정책의 시사점을 잘 설명함."
+    },
+    {
+      "id": "q186",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 두 기술의 성숙도를 잘 비교함."
+    }
+  ]
 }

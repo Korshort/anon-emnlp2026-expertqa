@@ -9,8 +9,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "두 개념의 핵심 구분(AI를 규율하는 것 vs AI를 수단으로 활용하는 것)을 정확히 설명. Law/Public 도메인으로 분류되었으나 실제 내용은 기술정책·거버넌스 이론에 가까워 domain_accuracy 소폭 감점. 질문은 비교형으로 적절하고 답변 구조도 명확하나, 각 개념의 구체 예시나 한계 언급이 없어 depth는 보통."
     },
@@ -21,8 +20,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 2,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "스마트폰 마이크 기반 바이오마커 분석이라는 핵심은 전달되나 '병원 검사 수준'이라는 표현은 과장 소지. 질문이 '핵심은 무엇입니까'로 너무 열려 있어 easy factoid 대비 질문 품질 낮음. 답변이 한 문장으로 매우 단순하여 depth 부족."
     },
@@ -33,8 +31,7 @@
         "domain_accuracy": 3,
         "question_quality": 2,
         "answer_depth": 1,
-        "coherence": 3,
-        "difficulty_calibration": 2
+        "coherence": 3
       },
       "rationale_brief": "답변이 '귀중한 가이드'라는 동어반복 수준으로 실질 정보가 전무. 영어 질문인데 한국어 답변 맥락과 불일치. Silicon Valley 투자자 관점이 왜 유용한지 구체 근거(네트워크, 트렌드 선행성 등)가 없어 faithfulness·depth 모두 낮음. medium 난이도 대비 설명력이 너무 낮음."
     },
@@ -45,8 +42,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "세컨더리 펀드의 회수 기간(4년 vs 일반 8년)·수익률 특징을 수치 포함하여 정확히 기술. Venture 서브도메인 적절. easy factoid로 depth는 충분. 질문이 '일반적인 특징'으로 다소 광범위하나 답변 범위와 잘 매칭됨."
     },
@@ -57,8 +53,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "국내 ETS 확대와 CBAM 연계 논리가 명확하게 전개됨. 탄소 누출 방지, 산업 경쟁력 언급까지 포함하여 medium explanatory 수준에 적합. 구체적 시행 일정이나 대상 업종 등 세부 사실 부재로 depth 소폭 감점."
     },
@@ -69,8 +64,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "HER2·EGFR·CDK4/6·PI3K-AKT-mTOR·VEGF·BRCA 6개 표적 물질을 각각의 역할과 함께 나열. 의학적 정확도 높음. easy factoid 치고는 답변이 매우 충실하여 depth 5점. 각 표적에 대응하는 약제명을 생략한 것은 아쉬우나 질문 범위 안에서 적절."
     },
@@ -81,8 +75,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "법무부-교육부 협의, 인센티브, UNHCR-민간재단 1:1 부담 구조 등 구체 사실 충실. Education/HigherEd보다 이민·난민정책(Law/Public) 성격도 강하여 domain 소폭 감점. hard explanatory 수준에 부합하는 정책 맥락 제공."
     },
@@ -93,8 +86,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "로컬라이즈 데이터와 디지털 인프라를 핵심으로 제시하는 논리는 타당하나 '검색·게임·메신저·이커머스'가 AI 금융 경쟁력의 근거로 연결되는 논리 비약이 있음. hard 수준 대비 depth 부족. IT/Tech·AI로 분류되었으나 금융 도메인 맥락도 있어 domain 경계 모호."
     },
@@ -105,8 +97,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "달러 스마일(위기 시 달러 강세) → 달러 프라운(위기에도 약세) 패러다임 전환을 안전자산 지위 약화, 재정위험, 경기침체 요인으로 체계적으로 설명. Capital Mkt 서브도메인 적절. hard explanatory에 완전 부합하는 분석적 답변."
     },
@@ -117,8 +108,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "2023년 중국 추월, 14억 6천만 명, 65% 35세 이하, 중위연령 29.5세 등 수치 정확. Econ/Finance가 아닌 지리·인구통계(Demographics) 도메인에 가까워 domain 감점. easy factoid로 적합하나 질문 자체가 두 사실을 묶어 복합적이어서 단순 factoid 분류 애매."
     },
@@ -129,8 +119,7 @@
         "domain_accuracy": 3,
         "question_quality": 2,
         "answer_depth": 2,
-        "coherence": 4,
-        "difficulty_calibration": 2
+        "coherence": 4
       },
       "rationale_brief": "'큐렌스 김성민 대표 유공보상 수상'이라는 매우 특정 기관 내부 사실에 해당. IT/Tech Other 분류가 어색하며 일반화 가능성 낮은 내부 수상 정보여서 교육적 가치 낮음. easy factoid이나 질문 자체가 특수 기관 행사 세부 내용이어서 quality·depth 모두 낮음."
     },
@@ -141,8 +130,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기존 틀니 경험자·틀니 미착용자·잔존 치아(Compromised Dentition) 3범주를 난이도 포함하여 체계적으로 설명. 치과 임플란트 분야 전문 지식을 정확히 반영. medium explanatory에 잘 부합하며 임상 적용 관점까지 포함."
     },
@@ -153,8 +141,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "SAP 121이 가상자산 커스터디 진출 시 부채 비중 증가 요인이라는 핵심은 정확. 그러나 SAP 121의 실제 명칭은 'SAB 121'(SEC Staff Accounting Bulletin)이므로 faithfulness 소폭 감점. easy factoid 대비 심층 설명 없이 한 문장으로 끝나 depth 보통."
     },
@@ -165,8 +152,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "스테이블코인-원화 1:1 교환 비율을 정확히 설명. easy factoid로 사실 전달은 충분. 그러나 질문이 이미 1:1임을 암시하는 구조여서 질문 품질 낮고, 답변도 동어 반복에 가까워 depth 보통. 스테이블코인 가치 안정성 연결은 긍정적."
     },
@@ -177,8 +163,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "소생지원부·진료지원부·교육행정부·질향상부 4개 부서와 TRRT팀(교대)·진료팀·창상팀(고정) 세분화까지 정확히 기술. Med/Clinical 적합. easy factoid로 구조 설명 충분."
     },
@@ -189,8 +174,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "1950년대 식생활 악화 → 동맥경화 누적 → 심장질환 급증 → 적극 치료로 감소(10만 명당 150명)라는 시계열 인과 설명이 명확. hard explanatory에 부합. 식이 이외 흡연·좌식 생활 등 위험인자 미언급이 아쉬우나 핵심 논지는 충실."
     },
@@ -201,8 +185,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "사망률 최대 4배, 재원 기간 증가, 독립 일상 복귀율 감소 3가지 지표로 예후 차이를 명확히 비교. Med/Ortho 적절. easy comparative로 간결하나 충분. 근거 문헌 없이 '최대 4배' 수치 제시는 faithfulness 면에서 검증 필요하나 임상 데이터와 일치."
     },
@@ -213,8 +196,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "OCR 기반 의사 멀티모달 → 교차 모달 임베딩 → 엔드투엔드 멀티모달 RAG 3단계 진화를 각 단계의 기술적 특징과 함께 명확히 설명. IT/AI 도메인 정확. medium explanatory에 충분히 심층적인 답변."
     },
@@ -225,8 +207,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "'방어 에너지 → 사랑·창조 에너지 전환'이라는 개념은 특정 심리치료 이론(소매틱/애착기반)에서 비롯된 것으로 추정되나 이론적 출처가 불명. Med/Clinical이나 심리치료 이론적 틀이 명시되지 않아 faithfulness·domain_accuracy 낮음. hard explanatory이나 근거 없이 metaphorical 설명에 그침."
     },
@@ -237,8 +218,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "1963년 산재보험 최초 도입, 의료보험 우선순위 후순위 이유(비용 부담)를 명확히 설명. 한국 사회보험 역사 정확. Econ/Management보다 사회정책(Social Policy) 성격이 강하나 도메인 분류는 허용 범위. easy factoid에 부합하는 답변."
     },
@@ -249,8 +229,7 @@
         "domain_accuracy": 3,
         "question_quality": 2,
         "answer_depth": 2,
-        "coherence": 3,
-        "difficulty_calibration": 2
+        "coherence": 3
       },
       "rationale_brief": "'CMI 드링 프로토컬', '트라우마 리스 플레이스먼트', '맥시멈 토클', '맥시멈 BIC', '프리 탭핑' 등 비표준 용어 혼재로 전문 용어 정확성 확인 어려움. 아마도 특정 브랜드 임플란트 시술 프로토콜로 추정되나 설명이 전문가 이외 독자에게 불투명. easy explanatory 대비 이해가능성 낮아 question·answer 모두 품질 낮음."
     },
@@ -261,8 +240,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "비즈니스 마인드셋(수비적 vs 공격적 세일즈) 차이를 핵심 실패 요인으로 제시. Startup 도메인 적절. 실제 사례나 통계 없이 논거가 일반론 수준에 머물러 faithfulness 소폭 감점. medium explanatory에는 적합한 분석."
     },
@@ -273,8 +251,7 @@
         "domain_accuracy": 3,
         "question_quality": 1,
         "answer_depth": 1,
-        "coherence": 3,
-        "difficulty_calibration": 1
+        "coherence": 3
       },
       "rationale_brief": "'XI 시스템'이 다빈치 수술 로봇(da Vinci Xi)을 의미하는 것으로 추정되나 맥락이 전혀 제공되지 않아 질문만으로는 해석 불가. 답변도 '두 개'라는 숫자만 제공하여 depth 최저. 특정 기관 내부 도입 현황으로 교육적 가치 없음. easy factoid이나 질문·답변 모두 의미 있는 학습 데이터 불적합."
     },
@@ -285,8 +262,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "미국 50%(2000) → 36%(2030E), 중국 미미 → 23%(2030E) 수치 기반 시장 점유율 변화를 명확히 비교. IT/Hardware 도메인 적절. medium comparative에 충분한 맥락과 해석 포함. 데이터 출처(특정 리포트로 추정) 미명시로 faithfulness 소폭 감점."
     },
@@ -297,8 +273,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "GS벤처스가 GS그룹 산하 CVC임을 명시하고, 투자 목적(미래 사업 준비, DX/AI 전환, 오픈 이노베이션)과 GS퓨처스(해외 담당 자매 CVC)까지 설명. Venture 도메인 정확. easy factoid 대비 충분한 depth."
     }

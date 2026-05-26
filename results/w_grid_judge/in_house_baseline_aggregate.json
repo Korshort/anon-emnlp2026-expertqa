@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "source": "Recomputed from raw 4-judge × 200-QA × 6-dim Likert (Sonnet 4.6, Opus 4.7, GPT-4o, GPT-5.4).",
+    "source": "Recomputed from raw 4-judge × 200-QA × 5-dim Likert (Sonnet 4.6, Opus 4.7, GPT-4o, GPT-5.4).",
     "judges": [
       "sonnet46 (claude-sonnet-4-6)",
       "opus47 (claude-opus-4-7)",
@@ -26,8 +26,7 @@
             "domain_accuracy": 4.2,
             "question_quality": 4.08,
             "answer_depth": 3.96,
-            "coherence": 4.8,
-            "difficulty_calibration": 4.12
+            "coherence": 4.8
           },
           "overall_5dim": 4.224
         },
@@ -37,8 +36,7 @@
             "domain_accuracy": 3.64,
             "question_quality": 3.2,
             "answer_depth": 2.8,
-            "coherence": 4.52,
-            "difficulty_calibration": 3.76
+            "coherence": 4.52
           },
           "overall_5dim": 3.568
         },
@@ -48,8 +46,7 @@
             "domain_accuracy": 4.88,
             "question_quality": 3.32,
             "answer_depth": 3.36,
-            "coherence": 4.92,
-            "difficulty_calibration": 4.56
+            "coherence": 4.92
           },
           "overall_5dim": 4.279999999999999
         },
@@ -59,8 +56,7 @@
             "domain_accuracy": 3.24,
             "question_quality": 2.96,
             "answer_depth": 2.52,
-            "coherence": 4.72,
-            "difficulty_calibration": 3.84
+            "coherence": 4.72
           },
           "overall_5dim": 3.336
         }
@@ -71,8 +67,7 @@
           "domain_accuracy": 3.99,
           "question_quality": 3.39,
           "answer_depth": 3.16,
-          "coherence": 4.74,
-          "difficulty_calibration": 4.07
+          "coherence": 4.74
         },
         "overall_5dim": 3.8520000000000003
       },
@@ -100,8 +95,7 @@
             "domain_accuracy": 3.68,
             "question_quality": 3.92,
             "answer_depth": 3.8,
-            "coherence": 4.72,
-            "difficulty_calibration": 3.76
+            "coherence": 4.72
           },
           "overall_5dim": 3.96
         },
@@ -111,8 +105,7 @@
             "domain_accuracy": 3.28,
             "question_quality": 3.16,
             "answer_depth": 2.6,
-            "coherence": 4.4,
-            "difficulty_calibration": 3.6
+            "coherence": 4.4
           },
           "overall_5dim": 3.3600000000000003
         },
@@ -122,8 +115,7 @@
             "domain_accuracy": 4.92,
             "question_quality": 3.48,
             "answer_depth": 3.48,
-            "coherence": 4.92,
-            "difficulty_calibration": 4.8
+            "coherence": 4.92
           },
           "overall_5dim": 4.343999999999999
         },
@@ -133,8 +125,7 @@
             "domain_accuracy": 3.2,
             "question_quality": 3.2,
             "answer_depth": 2.64,
-            "coherence": 4.56,
-            "difficulty_calibration": 3.88
+            "coherence": 4.56
           },
           "overall_5dim": 3.368
         }
@@ -145,8 +136,7 @@
           "domain_accuracy": 3.77,
           "question_quality": 3.44,
           "answer_depth": 3.13,
-          "coherence": 4.65,
-          "difficulty_calibration": 4.01
+          "coherence": 4.65
         },
         "overall_5dim": 3.758
       },
@@ -174,8 +164,7 @@
             "domain_accuracy": 4.24,
             "question_quality": 4.4,
             "answer_depth": 4.28,
-            "coherence": 4.84,
-            "difficulty_calibration": 4.56
+            "coherence": 4.84
           },
           "overall_5dim": 4.4
         },
@@ -185,8 +174,7 @@
             "domain_accuracy": 3.68,
             "question_quality": 3.16,
             "answer_depth": 2.96,
-            "coherence": 4.68,
-            "difficulty_calibration": 4.08
+            "coherence": 4.68
           },
           "overall_5dim": 3.6399999999999997
         },
@@ -196,8 +184,7 @@
             "domain_accuracy": 4.96,
             "question_quality": 3.48,
             "answer_depth": 3.48,
-            "coherence": 4.96,
-            "difficulty_calibration": 4.88
+            "coherence": 4.96
           },
           "overall_5dim": 4.368
         },
@@ -207,8 +194,7 @@
             "domain_accuracy": 3.28,
             "question_quality": 3.28,
             "answer_depth": 2.56,
-            "coherence": 4.6,
-            "difficulty_calibration": 4.04
+            "coherence": 4.6
           },
           "overall_5dim": 3.4
         }
@@ -219,8 +205,7 @@
           "domain_accuracy": 4.04,
           "question_quality": 3.58,
           "answer_depth": 3.3200000000000003,
-          "coherence": 4.77,
-          "difficulty_calibration": 4.39
+          "coherence": 4.77
         },
         "overall_5dim": 3.9519999999999995
       },
@@ -249,8 +234,7 @@
             "domain_accuracy": 3.84,
             "question_quality": 4.16,
             "answer_depth": 4.0,
-            "coherence": 4.8,
-            "difficulty_calibration": 4.04
+            "coherence": 4.8
           },
           "overall_5dim": 4.12
         },
@@ -260,8 +244,7 @@
             "domain_accuracy": 3.64,
             "question_quality": 3.36,
             "answer_depth": 2.88,
-            "coherence": 4.44,
-            "difficulty_calibration": 3.6
+            "coherence": 4.44
           },
           "overall_5dim": 3.6
         },
@@ -271,8 +254,7 @@
             "domain_accuracy": 4.88,
             "question_quality": 3.36,
             "answer_depth": 3.36,
-            "coherence": 4.88,
-            "difficulty_calibration": 4.6
+            "coherence": 4.88
           },
           "overall_5dim": 4.272
         },
@@ -282,8 +264,7 @@
             "domain_accuracy": 3.32,
             "question_quality": 3.04,
             "answer_depth": 2.48,
-            "coherence": 4.6,
-            "difficulty_calibration": 4.08
+            "coherence": 4.6
           },
           "overall_5dim": 3.3519999999999994
         }
@@ -294,8 +275,7 @@
           "domain_accuracy": 3.92,
           "question_quality": 3.48,
           "answer_depth": 3.1799999999999997,
-          "coherence": 4.68,
-          "difficulty_calibration": 4.08
+          "coherence": 4.68
         },
         "overall_5dim": 3.836
       },
@@ -323,8 +303,7 @@
             "domain_accuracy": 4.24,
             "question_quality": 4.2,
             "answer_depth": 3.88,
-            "coherence": 4.92,
-            "difficulty_calibration": 4.28
+            "coherence": 4.92
           },
           "overall_5dim": 4.279999999999999
         },
@@ -334,8 +313,7 @@
             "domain_accuracy": 3.48,
             "question_quality": 3.56,
             "answer_depth": 3.04,
-            "coherence": 4.52,
-            "difficulty_calibration": 3.68
+            "coherence": 4.52
           },
           "overall_5dim": 3.632
         },
@@ -345,8 +323,7 @@
             "domain_accuracy": 4.88,
             "question_quality": 3.68,
             "answer_depth": 3.64,
-            "coherence": 4.96,
-            "difficulty_calibration": 4.8
+            "coherence": 4.96
           },
           "overall_5dim": 4.4079999999999995
         },
@@ -356,8 +333,7 @@
             "domain_accuracy": 3.0,
             "question_quality": 3.52,
             "answer_depth": 2.72,
-            "coherence": 4.44,
-            "difficulty_calibration": 3.76
+            "coherence": 4.44
           },
           "overall_5dim": 3.344
         }
@@ -368,8 +344,7 @@
           "domain_accuracy": 3.9,
           "question_quality": 3.74,
           "answer_depth": 3.3200000000000003,
-          "coherence": 4.71,
-          "difficulty_calibration": 4.13
+          "coherence": 4.71
         },
         "overall_5dim": 3.9160000000000004
       },
@@ -397,8 +372,7 @@
             "domain_accuracy": 3.64,
             "question_quality": 3.92,
             "answer_depth": 3.72,
-            "coherence": 4.76,
-            "difficulty_calibration": 3.88
+            "coherence": 4.76
           },
           "overall_5dim": 3.9520000000000004
         },
@@ -408,8 +382,7 @@
             "domain_accuracy": 3.44,
             "question_quality": 3.2,
             "answer_depth": 2.76,
-            "coherence": 4.4,
-            "difficulty_calibration": 3.72
+            "coherence": 4.4
           },
           "overall_5dim": 3.4560000000000004
         },
@@ -419,8 +392,7 @@
             "domain_accuracy": 4.8,
             "question_quality": 3.48,
             "answer_depth": 3.48,
-            "coherence": 4.88,
-            "difficulty_calibration": 4.76
+            "coherence": 4.88
           },
           "overall_5dim": 4.296
         },
@@ -430,8 +402,7 @@
             "domain_accuracy": 3.16,
             "question_quality": 3.24,
             "answer_depth": 2.72,
-            "coherence": 4.44,
-            "difficulty_calibration": 4.12
+            "coherence": 4.44
           },
           "overall_5dim": 3.3440000000000003
         }
@@ -442,8 +413,7 @@
           "domain_accuracy": 3.76,
           "question_quality": 3.46,
           "answer_depth": 3.17,
-          "coherence": 4.62,
-          "difficulty_calibration": 4.12
+          "coherence": 4.62
         },
         "overall_5dim": 3.7619999999999996
       },
@@ -472,8 +442,7 @@
             "domain_accuracy": 4.24,
             "question_quality": 4.2,
             "answer_depth": 4.12,
-            "coherence": 4.92,
-            "difficulty_calibration": 4.28
+            "coherence": 4.92
           },
           "overall_5dim": 4.328
         },
@@ -483,8 +452,7 @@
             "domain_accuracy": 3.72,
             "question_quality": 3.4,
             "answer_depth": 3.36,
-            "coherence": 4.76,
-            "difficulty_calibration": 4.0
+            "coherence": 4.76
           },
           "overall_5dim": 3.7920000000000003
         },
@@ -494,8 +462,7 @@
             "domain_accuracy": 5.0,
             "question_quality": 3.6,
             "answer_depth": 3.6,
-            "coherence": 5.0,
-            "difficulty_calibration": 4.88
+            "coherence": 5.0
           },
           "overall_5dim": 4.4399999999999995
         },
@@ -505,8 +472,7 @@
             "domain_accuracy": 3.48,
             "question_quality": 3.44,
             "answer_depth": 3.04,
-            "coherence": 4.76,
-            "difficulty_calibration": 4.2
+            "coherence": 4.76
           },
           "overall_5dim": 3.6399999999999997
         }
@@ -517,8 +483,7 @@
           "domain_accuracy": 4.11,
           "question_quality": 3.66,
           "answer_depth": 3.5300000000000002,
-          "coherence": 4.859999999999999,
-          "difficulty_calibration": 4.34
+          "coherence": 4.859999999999999
         },
         "overall_5dim": 4.05
       },
@@ -546,8 +511,7 @@
             "domain_accuracy": 3.96,
             "question_quality": 4.24,
             "answer_depth": 4.08,
-            "coherence": 4.92,
-            "difficulty_calibration": 4.12
+            "coherence": 4.92
           },
           "overall_5dim": 4.232
         },
@@ -557,8 +521,7 @@
             "domain_accuracy": 3.56,
             "question_quality": 3.28,
             "answer_depth": 2.84,
-            "coherence": 4.68,
-            "difficulty_calibration": 3.84
+            "coherence": 4.68
           },
           "overall_5dim": 3.6
         },
@@ -568,8 +531,7 @@
             "domain_accuracy": 4.92,
             "question_quality": 3.44,
             "answer_depth": 3.44,
-            "coherence": 4.96,
-            "difficulty_calibration": 4.68
+            "coherence": 4.96
           },
           "overall_5dim": 4.343999999999999
         },
@@ -579,8 +541,7 @@
             "domain_accuracy": 3.52,
             "question_quality": 3.2,
             "answer_depth": 2.68,
-            "coherence": 4.72,
-            "difficulty_calibration": 4.04
+            "coherence": 4.72
           },
           "overall_5dim": 3.536
         }
@@ -591,8 +552,7 @@
           "domain_accuracy": 3.99,
           "question_quality": 3.54,
           "answer_depth": 3.26,
-          "coherence": 4.82,
-          "difficulty_calibration": 4.17
+          "coherence": 4.82
         },
         "overall_5dim": 3.928
       },

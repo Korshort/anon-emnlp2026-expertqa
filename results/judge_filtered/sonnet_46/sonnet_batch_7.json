@@ -8,8 +8,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Clear comparative framing of investment philosophy difference (impact-first vs. sector-classification-first); domain-specific terminology (GCF, Mitigation/Adaptation) used accurately; answer directly and fully resolves the comparative question."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Accurate historical progression of GFR decline management with correct drug classes (ACE inhibitors, ARBs, SGLT-2, GLP-1); causal reasoning links treatment advances to outcome improvement; well-structured comparative narrative."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "Correctly distinguishes Level 2 non-surgical backup capability (IABP, ECMO, CTO) from full surgical backup; answer somewhat asymmetric—surgical backup side is thinly described, limiting depth on the comparative axis."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 2,
-        "difficulty_calibration": 3
+        "coherence": 2
       },
       "rationale_brief": "Answer is entirely in Chinese despite the Korean question, making it inaccessible and indicating a likely generation artifact; content is medically reasonable but coherence with the Korean-language task context is severely broken."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Accurately explains Park Chung-hee's rationale (resource concentration, strong state planning) and contrasts with prior plans' dependency on foreign aid and lack of resource mobilization strategy; solid causal reasoning throughout."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "Captures the speed and timing of the mobile pivot and links it to founder motivation; labeled 'comparative' but the question is more explanatory about a single strategy; domain accuracy is reasonable but sub_domain 'Web/App' is a loose fit for webtoon platform strategy."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "Correctly contrasts AAOS 48h vs. UK 36h guidelines and notes UK's stricter stance; question is factual guideline recall rather than reasoning-intensive, making 'medium' label appropriate but question_quality modest."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Accurately describes the carbon-spread product's GHG-linked rate mechanism, MoE subsidy structure, and verification requirements versus standard loans; comparative framing is clear and substantive."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Provides concrete benchmarks (Baemin 150k, Naver 200-300k) to contextualize the 300k milestone; links it to strategic inflection toward portal-scale ambition; explanatory reasoning is well-grounded and non-trivial."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Correctly identifies the 5th Plan's shift toward privatization, price stability priority, social welfare, and R&D investment as a structural break from prior state-led plans; causal explanation of why the paradigm changed is solid."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Comparative reasoning across China/US-EU/ASEAN is clear and uses growth rate data (ASEAN 15% vs. global 11%); market entry barriers are correctly characterized; coherently resolves the strategic rationale question."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 2,
-        "coherence": 4,
-        "difficulty_calibration": 2
+        "coherence": 4
       },
       "rationale_brief": "English Q&A in a Korean-domain corpus is an outlier; answer is correct but extremely thin (2 sentences), lacking concrete examples or elaboration; labeled 'hard' but the response is surface-level, making difficulty_calibration poor."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Correct comparative analysis of pre-existing inflationary context in 2011 and 2022 versus current disinflationary environment; causal link to reduced central bank policy error risk is logically sound."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Precisely names relevant vascular branches (PSAA, DPA, Buccal A), identifies two injury mechanisms (osteotomy saw, periosteal elevator), and specifies protective measures including guard use and awareness of saw tip motion."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Two-axis comparative framing (over-reliance vs. under-reliance on AI) is clear and legally grounded in fiduciary duty; answer depth is moderate—abstract framing without citing specific legal standards or precedents."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Identifies four concrete structural factors (demographics, SME employment share with 80% figure, geographic concentration, fragmented education-labor system); answer is substantive and uses specific data points rather than generalities."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "Correctly differentiates China tariff (avg 10%+, through 2026) vs. other countries (lower rate, year-end only, then negotiated reduction) and retaliation asymmetry; question is fact-recall of specific scenario parameters rather than deep reasoning."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Accurately conveys expert disagreement on implant settle-down post lateral graft with specific micro-displacement figures (10 vs. 5 microns via torque); depth is limited by the narrow clinical sub-question scope."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "Comprehensive and accurate enumeration of modifiable vs. non-modifiable bleeding risk factors with management strategies including LAA occlusion; question is classification/listing in nature so question_quality and difficulty_calibration are modest."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "Exemplary answer: precisely derives the MAP 85 target from CPP/ICP analogy, correctly identifies spinal tissue pressure monitoring as the key technical limitation differentiating the two, and explains why an empirical indirect proxy is adopted in clinical practice."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Correctly explains unilateral vs. bilateral ptosis surgery difference with the key edema-overcorrection risk and the practical 1mm compensation guideline; depth is adequate but narrowly scoped to the swelling management issue."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "Lists before/after states accurately but in list format rather than analytical synthesis; domain_accuracy is modest since the anonymized '[해외 대학 메디컬 센터]' context limits verifiability; comparative structure is present but shallow."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 2,
-        "coherence": 4,
-        "difficulty_calibration": 2
+        "coherence": 4
       },
       "rationale_brief": "English answer is very brief (2 sentences) stating equivalence without mechanism, study design, or effect size context; labeled 'hard' but the response is surface-level, and the lack of supporting reasoning limits faithfulness verification."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Balanced comparative analysis with empirical data (13.1% cross-partisan YouTube use) and research reference (search/external links vs. algorithmic recommendation); avoids false dichotomy and reaches a nuanced policy conclusion."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Correctly identifies full-thickness requirement including Müller's muscle, overcorrection rationale, and timing benefit (6 months post-onset); four distinct technical considerations are logically ordered and clinically grounded."
     }

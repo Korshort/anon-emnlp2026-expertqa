@@ -88,7 +88,7 @@ models:
   gemma3-27b:
     hf_id: google/gemma-3-27b-it
     size: 27B
-    tier: medium
+    tier: large
     target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
     response_template: "<start_of_turn>model\n"
     deepspeed_stage: 2

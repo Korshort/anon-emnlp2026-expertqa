@@ -1,306 +1,281 @@
 {
- "batch_id": 2,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "w033",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정확한 사실 제공, 단순 정보 제공 질문."
-  },
-  {
-   "id": "w057",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "다구치 방법론에 대한 정확한 설명, 기본적 이해 필요."
-  },
-  {
-   "id": "w006",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "수면 관련 문제점에 대한 심층적 설명."
-  },
-  {
-   "id": "w066",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "PCAOB와 국제감사기준의 차이점 비교, 심층적 설명."
-  },
-  {
-   "id": "w044",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사운더블헬스의 투자 및 제품 계획에 대한 상세 설명."
-  },
-  {
-   "id": "w022",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "로봇수술의 비용 절감 효과에 대한 설명."
-  },
-  {
-   "id": "w015",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "복강 내 압력 상승이 폐 기능에 미치는 영향 설명."
-  },
-  {
-   "id": "w040",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "미국 B2B 사업 전략에 대한 심층적 설명."
-  },
-  {
-   "id": "w007",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "면역관문억제제의 작용 기전 설명."
-  },
-  {
-   "id": "w045",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "글로벌 시장에서의 프로덕트 마켓핏 찾기 어려움과 해결책 설명."
-  },
-  {
-   "id": "w039",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "미국 초기 외교정책의 변화 설명."
-  },
-  {
-   "id": "w000",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "BMP 제품의 특징에 대한 설명."
-  },
-  {
-   "id": "w019",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "유방암 호발 연령대의 차이점 비교."
-  },
-  {
-   "id": "w021",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "고령 환자의 ICU 입실 결정 요소 설명."
-  },
-  {
-   "id": "w041",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "캐시노트 서비스의 현금 흐름 관리 출발 이유 설명."
-  },
-  {
-   "id": "w030",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "AI 시대 정책 프레임워크의 어려움 설명."
-  },
-  {
-   "id": "w013",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "데노스맙과 비스포스포네이트의 차이점 비교."
-  },
-  {
-   "id": "w035",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "GS벤처스의 투자 전략에 대한 간단한 설명."
-  },
-  {
-   "id": "w064",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "한국의 선택적 경제 발전 전략 설명."
-  },
-  {
-   "id": "w037",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "멀티모달 RAG의 성능 비교 결과 설명."
-  },
-  {
-   "id": "w060",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "키스트와 선전기업 협약의 목적 설명."
-  },
-  {
-   "id": "w004",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "감압 두개골 절제술 후 예후 예측 인자 설명."
-  },
-  {
-   "id": "w002",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "패혈증 관리 가이드라인의 초기 치료 원칙 설명."
-  },
-  {
-   "id": "w068",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "한국의 통화 완화 정책 조건 설명."
-  },
-  {
-   "id": "w038",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "카카오의 스테이블코인 활용 계획 설명."
-  }
- ]
+  "batch_id": 2,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "w033",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "정확한 사실 제공, 단순 정보 제공 질문."
+    },
+    {
+      "id": "w057",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "다구치 방법론에 대한 정확한 설명, 기본적 이해 필요."
+    },
+    {
+      "id": "w006",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "수면 관련 문제점에 대한 심층적 설명."
+    },
+    {
+      "id": "w066",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "PCAOB와 국제감사기준의 차이점 비교, 심층적 설명."
+    },
+    {
+      "id": "w044",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "사운더블헬스의 투자 및 제품 계획에 대한 상세 설명."
+    },
+    {
+      "id": "w022",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "로봇수술의 비용 절감 효과에 대한 설명."
+    },
+    {
+      "id": "w015",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "복강 내 압력 상승이 폐 기능에 미치는 영향 설명."
+    },
+    {
+      "id": "w040",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "미국 B2B 사업 전략에 대한 심층적 설명."
+    },
+    {
+      "id": "w007",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "면역관문억제제의 작용 기전 설명."
+    },
+    {
+      "id": "w045",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "글로벌 시장에서의 프로덕트 마켓핏 찾기 어려움과 해결책 설명."
+    },
+    {
+      "id": "w039",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "미국 초기 외교정책의 변화 설명."
+    },
+    {
+      "id": "w000",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "BMP 제품의 특징에 대한 설명."
+    },
+    {
+      "id": "w019",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "유방암 호발 연령대의 차이점 비교."
+    },
+    {
+      "id": "w021",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "고령 환자의 ICU 입실 결정 요소 설명."
+    },
+    {
+      "id": "w041",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "캐시노트 서비스의 현금 흐름 관리 출발 이유 설명."
+    },
+    {
+      "id": "w030",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "AI 시대 정책 프레임워크의 어려움 설명."
+    },
+    {
+      "id": "w013",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "데노스맙과 비스포스포네이트의 차이점 비교."
+    },
+    {
+      "id": "w035",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "GS벤처스의 투자 전략에 대한 간단한 설명."
+    },
+    {
+      "id": "w064",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "한국의 선택적 경제 발전 전략 설명."
+    },
+    {
+      "id": "w037",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "멀티모달 RAG의 성능 비교 결과 설명."
+    },
+    {
+      "id": "w060",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "키스트와 선전기업 협약의 목적 설명."
+    },
+    {
+      "id": "w004",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "감압 두개골 절제술 후 예후 예측 인자 설명."
+    },
+    {
+      "id": "w002",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "패혈증 관리 가이드라인의 초기 치료 원칙 설명."
+    },
+    {
+      "id": "w068",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "한국의 통화 완화 정책 조건 설명."
+    },
+    {
+      "id": "w038",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "카카오의 스테이블코인 활용 계획 설명."
+    }
+  ]
 }

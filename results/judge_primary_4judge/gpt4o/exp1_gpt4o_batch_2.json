@@ -1,306 +1,281 @@
 {
- "batch_id": 2,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "q162",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "답변이 질문에 충실하고, 도메인 지식이 정확하며, 비교적 복잡한 비교를 잘 설명함."
-  },
-  {
-   "id": "q047",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "구체적인 성과를 잘 설명했으나, 질문이 단순 fact-recall."
-  },
-  {
-   "id": "q110",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "심리적 적응의 특징을 잘 설명하며, 질문의 학습 가치가 높음."
-  },
-  {
-   "id": "q005",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "임상시험 비율 비교를 명확히 설명함."
-  },
-  {
-   "id": "q194",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "알고리즘 편향에 대한 설명이 명확하고 도메인 지식이 정확함."
-  },
-  {
-   "id": "q037",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "디자인 접근법의 차이가 인재 영입에 미치는 영향을 잘 설명함."
-  },
-  {
-   "id": "q122",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "임상시험 비율 비교를 명확히 설명함."
-  },
-  {
-   "id": "q012",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "보테니컬 약물의 사례와 의미를 잘 설명함."
-  },
-  {
-   "id": "q036",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "QR 코드 결제 절차를 명확히 설명했으나, 질문이 단순함."
-  },
-  {
-   "id": "q153",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "시뮬레이션과 VR 교육의 장점을 잘 설명함."
-  },
-  {
-   "id": "q069",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "수술 전 준비 시간에 대한 명확한 설명."
-  },
-  {
-   "id": "q061",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "가격 책정 전략을 명확히 설명했으나, 질문이 단순함."
-  },
-  {
-   "id": "q195",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "EU와 미국의 규제 접근 방식을 잘 비교함."
-  },
-  {
-   "id": "q032",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "AI와 양자 컴퓨팅의 관계를 잘 설명함."
-  },
-  {
-   "id": "q172",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "접착 수복 재료의 차이를 잘 설명함."
-  },
-  {
-   "id": "q171",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "천연물 산업의 부가가치 증가를 잘 설명함."
-  },
-  {
-   "id": "q060",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "임플란트 안정성 저하의 원인을 잘 설명함."
-  },
-  {
-   "id": "q010",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "연구 데이터 출처를 명확히 설명했으나, 질문이 단순함."
-  },
-  {
-   "id": "q144",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "하이테크와 하이터치의 균형을 잘 설명함."
-  },
-  {
-   "id": "q160",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "횡격막 비후 분율 측정 방법을 잘 설명함."
-  },
-  {
-   "id": "q052",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "RASS와 CAM-ICU의 연계 사용을 잘 설명함."
-  },
-  {
-   "id": "q125",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "콘텐츠 전략 변화에 대한 설명이 명확함."
-  },
-  {
-   "id": "q106",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "척수 손상의 급성기 병태생리를 잘 설명함."
-  },
-  {
-   "id": "q073",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "심장 기능 저하 진단 검사를 명확히 설명했으나, 질문이 단순함."
-  },
-  {
-   "id": "q113",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "한국과 일본의 고령화 속도를 잘 비교함."
-  }
- ]
+  "batch_id": 2,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "q162",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 질문에 충실하고, 도메인 지식이 정확하며, 비교적 복잡한 비교를 잘 설명함."
+    },
+    {
+      "id": "q047",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "구체적인 성과를 잘 설명했으나, 질문이 단순 fact-recall."
+    },
+    {
+      "id": "q110",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "심리적 적응의 특징을 잘 설명하며, 질문의 학습 가치가 높음."
+    },
+    {
+      "id": "q005",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "임상시험 비율 비교를 명확히 설명함."
+    },
+    {
+      "id": "q194",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "알고리즘 편향에 대한 설명이 명확하고 도메인 지식이 정확함."
+    },
+    {
+      "id": "q037",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "디자인 접근법의 차이가 인재 영입에 미치는 영향을 잘 설명함."
+    },
+    {
+      "id": "q122",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "임상시험 비율 비교를 명확히 설명함."
+    },
+    {
+      "id": "q012",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "보테니컬 약물의 사례와 의미를 잘 설명함."
+    },
+    {
+      "id": "q036",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "QR 코드 결제 절차를 명확히 설명했으나, 질문이 단순함."
+    },
+    {
+      "id": "q153",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "시뮬레이션과 VR 교육의 장점을 잘 설명함."
+    },
+    {
+      "id": "q069",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "수술 전 준비 시간에 대한 명확한 설명."
+    },
+    {
+      "id": "q061",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "가격 책정 전략을 명확히 설명했으나, 질문이 단순함."
+    },
+    {
+      "id": "q195",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "EU와 미국의 규제 접근 방식을 잘 비교함."
+    },
+    {
+      "id": "q032",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "AI와 양자 컴퓨팅의 관계를 잘 설명함."
+    },
+    {
+      "id": "q172",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "접착 수복 재료의 차이를 잘 설명함."
+    },
+    {
+      "id": "q171",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "천연물 산업의 부가가치 증가를 잘 설명함."
+    },
+    {
+      "id": "q060",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "임플란트 안정성 저하의 원인을 잘 설명함."
+    },
+    {
+      "id": "q010",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "연구 데이터 출처를 명확히 설명했으나, 질문이 단순함."
+    },
+    {
+      "id": "q144",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "하이테크와 하이터치의 균형을 잘 설명함."
+    },
+    {
+      "id": "q160",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "횡격막 비후 분율 측정 방법을 잘 설명함."
+    },
+    {
+      "id": "q052",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "RASS와 CAM-ICU의 연계 사용을 잘 설명함."
+    },
+    {
+      "id": "q125",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "콘텐츠 전략 변화에 대한 설명이 명확함."
+    },
+    {
+      "id": "q106",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "척수 손상의 급성기 병태생리를 잘 설명함."
+    },
+    {
+      "id": "q073",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "심장 기능 저하 진단 검사를 명확히 설명했으나, 질문이 단순함."
+    },
+    {
+      "id": "q113",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "한국과 일본의 고령화 속도를 잘 비교함."
+    }
+  ]
 }

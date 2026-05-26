@@ -8,8 +8,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "전후 비교가 분명하고 운영 효율 개선 요소를 구체적으로 설명해 비교형 고난도 문항에 대체로 부합합니다."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "정부주도 개발전략과 시장경제의 차이를 맥락 있게 비교했으나 일부 단순화는 있습니다."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "부작용과 관리 중요성을 잘 설명하지만 일부 표현(예: 속력감퇴, 생존률 단정)은 부정확하거나 과장 소지가 있습니다."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "비교 의도는 좋으나 보스톤다이나믹스의 국적·소유 관련 기술과 일부 기술평가가 부정확해 신뢰성이 낮습니다."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "PC→모바일 전환의 빠른 실행과 타이밍을 설명하지만 일부 표현과 사례의 정확성은 다소 불명확합니다."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "미국·한국 상장 절차 차이를 묻는 질문에 핵심 차이를 과도하게 축소했고 SEC 관련 용어도 부정확합니다."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기구 관리 워크플로우의 전후 차이를 구조적으로 잘 설명했으며 비교형 문항과 잘 맞습니다."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 3,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "불교와 심리치료의 자아 개념 비교는 사유를 요구하지만 불교와 심리치료를 다소 단일한 입장으로 일반화했습니다."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "국내 IT 방어 경험을 스테이블코인 전략과 연결하는 논지는 일관되나 근거가 다소 추론적입니다."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "법·근무환경·교육 측면의 제도 개선 필요성과 중요성을 균형 있게 설명했습니다."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "틸티드와 축상 임플란트 비교에 일부 답했지만 올온4/올온6 내용이 섞여 질문 초점이 조금 흔들립니다."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "구성 성분과 기전을 체계적으로 제시했지만 성형외과 수술 후 IV 영양요법의 근거 수준은 제한적입니다."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "비디오 AI의 현 위치와 한계를 개략적으로 설명했으나 ‘1~1.5년 늦다’ 같은 정량 평가는 주관적입니다."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "서울시와 금감원 역할 비교는 가능하나 핀테크 앱 수와 금감원의 자본 투입 특화 등 일부 사실관계가 의심됩니다."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "외상센터 환경 최적화 방안을 사례 중심으로 잘 설명했으나 질문 자체는 비교적 실무적이고 난도는 중간 수준입니다."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "문제점과 해결 노력을 구체적으로 연결해 설명했으며 중간 난도 설명형 문항에 대체로 적절합니다."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "TBI-AKI 원인과 brain-kidney axis를 병태생리 중심으로 잘 설명한 고품질 임상 문항입니다."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "아침형·저녁형 조정 원리를 이해하기 쉽게 비교했지만 질문과 답변 모두 고난도라고 보긴 어렵습니다."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "가족 결합 지연과 학교 적응의 연계를 사례로 설명하지만 비교 구조가 약하고 일반화 근거가 제한적입니다."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "비수술백업 PCI의 인력·시스템·장비 요건을 핵심적으로 잘 정리했습니다."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "대합치 조건에 따른 교합 조정 전략 차이를 임상적 이유와 함께 명확히 비교했습니다."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "한국과 베트남의 발전·복지 접근을 역사적 맥락과 정책 시사점 중심으로 잘 비교했습니다."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "초기 안정성 감소의 생물학적 원인을 골흡수와 1차 안정성 저하로 정확히 설명했습니다."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "동서양 접근의 강점을 대비해 설명했으나 전통을 크게 일반화해 학문적 정밀성은 다소 떨어집니다."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "ESB와 기존 말초신경차단의 타깃 구조와 약물 확산 방식 차이를 명확히 설명했습니다."
     }

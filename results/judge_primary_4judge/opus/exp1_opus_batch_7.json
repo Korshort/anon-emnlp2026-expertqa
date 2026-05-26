@@ -4,127 +4,277 @@
   "results": [
     {
       "id": "q137",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "3단계 나열만, procedural치고 절차 디테일 약함"
     },
     {
       "id": "q117",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "현황평가→위원회→4/5세대 표준화 나열, 디테일은 일반론"
     },
     {
       "id": "q011",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "너비/높이/깊이 81 + 세단/SUV 매트릭스 수 구체, factoid 우수"
     },
     {
       "id": "q067",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "메타분석 결과만, '벽형 투여'는 '병용 투여' 오기 가능. explanatory치고 짧음"
     },
     {
       "id": "q088",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "비바테크 탑12 + HEC/CDL/리브쉴드 후속 파트너십, factoid 구체"
     },
     {
       "id": "q091",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
       "rationale_brief": "과학+사업 균형 + VC 전략 사례, explanatory치고 일반론"
     },
     {
       "id": "q024",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "개복 1주 vs 로봇 2-3일 + Total Cost of Care 개념, hard/explanatory 부합"
     },
     {
       "id": "q097",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "niche down 전략 + PMF 검증 인과, explanatory 적합"
     },
     {
       "id": "q182",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "디자인 철학 차이 + 타겟 인지 인과, easy/explanatory 적합"
     },
     {
       "id": "q190",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "특정 인용 factoid, easy 정합"
     },
     {
       "id": "q086",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "워싱 vs 허싱 정의 + 최근 트렌드 한 문장 추가, comparative 적합"
     },
     {
       "id": "q181",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5
+      },
       "rationale_brief": "AI 레디 카드/Personalization/Instruction/Signal/Auth 5요소 + 역할 명확, factoid치고 깊이 매우 우수"
     },
     {
       "id": "q039",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
       "rationale_brief": "목적 단답 factoid, easy 정합"
     },
     {
       "id": "q168",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "VDM 개념 단순 nomination + 3차원 분석 언급, easy/factoid 적합"
     },
     {
       "id": "q087",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "분리과세 vs 합산과세 행동 영향 비교, hard/comparative 적합"
     },
     {
       "id": "q185",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "보육비 35만/양육비 20만 + 대상 연령 차이 명확, comparative 적합"
     },
     {
       "id": "q040",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "Mitigation 외 Adaptation + Resilience + GCF 50:50, factoid 구체"
     },
     {
       "id": "q001",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "Primary→First→Second→Third VD 4단계 순서 명확, procedural 적합"
     },
     {
       "id": "q071",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "신경 차단 1st + 아세트아미노펜/NSAIDs factoid, easy 정합"
     },
     {
       "id": "q150",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "q061 동일 내용, easy/factoid 적합"
     },
     {
       "id": "q114",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "3 case별 항생제 기간 4/4/8일 구체, hard/procedural 우수"
     },
     {
       "id": "q056",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "Exocad/DentBird 등 제품 + 4 기능 나열, factoid 적합"
     },
     {
       "id": "q107",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "낙상 80% + 1년 사망률 15-20% + 30일 80% 등 구체 수치. easy 라벨에는 깊이 과함"
     },
     {
       "id": "q191",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "AI 할루시네이션 인지+활용 2 접근, explanatory치고 일반론"
     },
     {
       "id": "q166",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5
+      },
       "rationale_brief": "3제품 가격/성분/지용성 비타민 함유 비교 + 환자별 선택 기준, hard/comparative 우수"
     }
   ]

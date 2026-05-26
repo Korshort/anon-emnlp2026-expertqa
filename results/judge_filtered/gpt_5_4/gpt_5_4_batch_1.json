@@ -8,8 +8,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "제도·근무환경·교육을 구조적으로 설명해 문항과 잘 맞고 의료인력 정책 맥락도 대체로 타당합니다."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "산업은행의 역사·녹색금융 규모를 근거로 주장 논리를 제시해 설명형 답변으로 적절합니다."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "두 팀의 구성과 기능을 항목별로 비교해 일관성은 높으나 고유명사 기반 사실 검증은 다소 제한적입니다."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "문서 파싱과 멀티모달 임베딩의 핵심 차이를 정확히 짚고 크로스모달 검색까지 설명했습니다."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "비교 의도는 맞지만 불교와 심리치료의 '자아' 개념을 다소 단순화·과잉 일반화했습니다."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "기간·비용 단축 수치를 제시해 비교는 되지만 일반화가 크고 근거 범위가 불명확합니다."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "두 동물모델의 시기·위치별 골형성 차이와 가능한 기전을 함께 설명해 비교의 질이 높습니다."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "ACDF와 척추체 절제술의 적응 구조와 수술 범위 차이를 명확히 대비해 정확도가 높습니다."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "치유 기간에 따른 효과 소실과 캐치업 양상을 비교해 연구결과 해석형 문항에 잘 부합합니다."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "운의 구성요소를 분류해 설명하지만 '비교'의 축이 약하고 개념적 깊이는 제한적입니다."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "트랜스포머와 DB 검색을 대비하려는 시도는 좋으나 self-attention 설명이 부정확하고 비유가 과합니다."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "주의력·기억력·집행력의 구성과 목적을 무난히 설명했으나 난도는 hard보단 중간 수준에 가깝습니다."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "한국·싱가포르 비교 논리는 분명하지만 제조업과 금융의 관계를 다소 단선적으로 서술했습니다."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "기후-실물-금융의 상호작용과 정책 패러다임 전환을 비교적으로 잘 설명했습니다."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "비매몰과 매몰 치유의 수술 단계·봉합·재개봉 여부 차이를 명료하게 비교했습니다."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "주요 혈관 분지와 손상 기전, 보호법을 절골·박리 맥락에서 구체적으로 제시했습니다."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "1기와 2기의 관세 범위와 전략 차이를 간결히 비교해 핵심은 잘 맞습니다."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "복지지출 증가 원인과 재정 지속가능성 대 사회보호 간 딜레마를 균형 있게 설명했습니다."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "위원회의 조정 기능은 그럴듯하나 타 법률과의 관계를 추정적으로 서술해 법적 정확성은 보통입니다."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "수술 후 장기 합병증과 방사선 치료의 추가 섬유화·부종 위험을 구분해 설명했습니다."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "골 밀도별 드릴링·탭핑 전략 차이를 임상적 목적과 함께 제시해 비교가 명확합니다."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "양측성과 편측성 안검하수 수술의 대칭·부종·과교정 문제를 실무적으로 잘 대비했습니다."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "버블 우려와 장기 낙관론을 균형 있게 대비했지만 근거의 정량성은 다소 약합니다."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기존 디지털 월렛 토큰화와 AI 에이전트 채널 적용의 동일성을 명확히 비교했습니다."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "잠재량·경제성·시뮬레이션·AI 영상분석 등 기능을 체계적으로 설명해 문항과 잘 부합합니다."
     }

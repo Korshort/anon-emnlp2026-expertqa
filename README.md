@@ -80,7 +80,7 @@ These are protected by speaker-consent agreements and corporate IP. External rep
 | Element | Reproducible | How |
 |---|---|---|
 | **Trained model weights** | ✓ | 172 SFT runs (LoRA 72 main + LoRA 8 W-grid + LoRA 4 Whisper sanity + Full FT 12 + auxiliary) public on Hugging Face under `Korshort/emnlp2026_expertqa_*` ([collection](https://huggingface.co/collections/Korshort/expert-qa-pipeline-emnlp-2026-industry-anonymous-6a12aadc9e442908e29b48c4); upload in progress, anonymous account for review). Includes `final/` + intermediate `checkpoint-N/`. |
-| **Eval results numerical** | ✓ | `results/` per-cell `result_batch_*.json` (judge raw scores) + `kmmlu_mmlu_*.json` (MCQA). |
+| **Eval results numerical** | ✓ | `results/judge_primary_4judge/<judge>/*_batch_*.json` (per-item judge raw, 4 judges × 8 batches) + `kmmlu_mmlu_*.json` (MCQA, single-seed snapshot; paper Table 5/6 multi-seed means come from per-seed lm-eval raw on HuggingFace checkpoint repos under `Korshort/emnlp2026_expertqa_*/eval_results/`, aggregated via `code/collect_eval.py`). |
 | **Statistical analysis** | ✓ | `code/aggregate_judge.py`, `code/analyze_kmmlu_subtask.py`, `code/collect_*.py` reproduce all factorial tables and Δ values from raw results. |
 | **LLM-judge protocol** | ✓ | `prompts/llm_judge_rubric.md` + `prompts/binary_judge_rubric.md` + `prompts/unknown_admission_instruction.md` + `code/prepare_judge_batches.py` + `code/aggregate_judge.py`. |
 | **Training pipeline** | ✓ | `code/run_sft.py` + `code/generate_run.py` + `configs/` + `code/train.sh`; trained weights included. |

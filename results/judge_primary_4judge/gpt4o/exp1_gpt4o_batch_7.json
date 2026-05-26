@@ -1,306 +1,281 @@
 {
- "batch_id": 7,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "q137",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q117",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q011",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사실적 설명이 잘 되어 있으나, 단순 정보 제공."
-  },
-  {
-   "id": "q067",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "설명적 질문에 대한 명확한 이유 제공."
-  },
-  {
-   "id": "q088",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "성과와 기회에 대한 사실적 설명."
-  },
-  {
-   "id": "q091",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "설명적 질문에 대한 명확한 설명."
-  },
-  {
-   "id": "q024",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 5,
-    "answer_depth": 5,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비용 절감에 대한 인과적 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q097",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "설명적 질문에 대한 명확한 이유 제공."
-  },
-  {
-   "id": "q182",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "문화적 이해의 중요성에 대한 설명."
-  },
-  {
-   "id": "q190",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사실적 설명이 잘 되어 있으나, 단순 정보 제공."
-  },
-  {
-   "id": "q086",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
-  },
-  {
-   "id": "q181",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "기술 요소에 대한 상세한 설명."
-  },
-  {
-   "id": "q039",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 목적 설명."
-  },
-  {
-   "id": "q168",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 사용 설명."
-  },
-  {
-   "id": "q087",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
-  },
-  {
-   "id": "q185",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
-  },
-  {
-   "id": "q040",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "두 가지 접근법에 대한 명확한 설명."
-  },
-  {
-   "id": "q001",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q071",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 권고 설명."
-  },
-  {
-   "id": "q150",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 가격 전략 설명."
-  },
-  {
-   "id": "q114",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
-  },
-  {
-   "id": "q056",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "기능에 대한 상세한 설명."
-  },
-  {
-   "id": "q107",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 발생 기전 설명."
-  },
-  {
-   "id": "q191",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "두 가지 접근법에 대한 명확한 설명."
-  },
-  {
-   "id": "q166",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
-  }
- ]
+  "batch_id": 7,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "q137",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q117",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q011",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "사실적 설명이 잘 되어 있으나, 단순 정보 제공."
+    },
+    {
+      "id": "q067",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "설명적 질문에 대한 명확한 이유 제공."
+    },
+    {
+      "id": "q088",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "성과와 기회에 대한 사실적 설명."
+    },
+    {
+      "id": "q091",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "설명적 질문에 대한 명확한 설명."
+    },
+    {
+      "id": "q024",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "비용 절감에 대한 인과적 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q097",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "설명적 질문에 대한 명확한 이유 제공."
+    },
+    {
+      "id": "q182",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "문화적 이해의 중요성에 대한 설명."
+    },
+    {
+      "id": "q190",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "사실적 설명이 잘 되어 있으나, 단순 정보 제공."
+    },
+    {
+      "id": "q086",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
+    },
+    {
+      "id": "q181",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "기술 요소에 대한 상세한 설명."
+    },
+    {
+      "id": "q039",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 목적 설명."
+    },
+    {
+      "id": "q168",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 사용 설명."
+    },
+    {
+      "id": "q087",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
+    },
+    {
+      "id": "q185",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
+    },
+    {
+      "id": "q040",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "두 가지 접근법에 대한 명확한 설명."
+    },
+    {
+      "id": "q001",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q071",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 권고 설명."
+    },
+    {
+      "id": "q150",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 가격 전략 설명."
+    },
+    {
+      "id": "q114",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "절차적 질문에 대한 단계적 설명이 잘 되어 있음."
+    },
+    {
+      "id": "q056",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "기능에 대한 상세한 설명."
+    },
+    {
+      "id": "q107",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 발생 기전 설명."
+    },
+    {
+      "id": "q191",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "두 가지 접근법에 대한 명확한 설명."
+    },
+    {
+      "id": "q166",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교적 질문에 대한 명확한 차이점 설명."
+    }
+  ]
 }

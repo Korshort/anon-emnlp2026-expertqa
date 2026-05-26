@@ -1,306 +1,281 @@
 {
- "batch_id": 5,
- "judge": "gpt54",
- "results": [
-  {
-   "id": "q174",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "출혈위험 인자 나열은 대체로 맞지만 분류와 항목 일부가 혼재되어 있고 사실회상형 문항이다."
-  },
-  {
-   "id": "q004",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "치과 술식상 적절한 답으로 보이나 단순 절차 지식이며 medium보다는 easy에 가깝다."
-  },
-  {
-   "id": "q029",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "미국 시장 세분화 필요성을 맥락과 예시로 설명해 학습가치가 높다."
-  },
-  {
-   "id": "q183",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "대체로 plausible하나 수치와 시점 의존성이 크고 정확성 검증이 애매한 사실형 응답이다."
-  },
-  {
-   "id": "q099",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "지수에서 특정 종목 제외 시 포인트 하락 수치가 근거 없이 단정적이며 시장 해석도 과장 가능성이 있다."
-  },
-  {
-   "id": "q098",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "질문에 직접 답하지만 단순 순위 진술에 그치며 시점 의존적 수치다."
-  },
-  {
-   "id": "q131",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "동의 필요성을 개인정보 활용 관점에서 설명하나 Visa 관련 세부 수치는 다소 홍보성이고 일반화가 강하다."
-  },
-  {
-   "id": "q124",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "노인 외상에서 SBP 110 기준은 널리 쓰이는 내용으로 간결하고 정확하다."
-  },
-  {
-   "id": "q198",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "두 투자사의 협업 전략을 비교적으로 잘 설명했지만 comparative 라벨은 약간 애매하다."
-  },
-  {
-   "id": "q134",
-   "scores": {
-    "faithfulness": 1,
-    "domain_accuracy": 1,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 2,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "구글 상대 소송의 핵심 사유를 묻는데 특정 자살 사건으로 단정해 사실성과 연결성이 매우 낮다."
-  },
-  {
-   "id": "q178",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "현장 행정의 정보 부족 문제를 명확히 짚었고 질문과 답의 정합성이 높다."
-  },
-  {
-   "id": "q120",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "연구 결과 요약으로는 적절하나 팁 위치 정확도 표현이 다소 부자연스럽고 맥락이 제한적이다."
-  },
-  {
-   "id": "q034",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "우려와 기대를 양면적으로 비교했으나 일부 가치판단적 표현이 강해 객관성은 다소 떨어진다."
-  },
-  {
-   "id": "q048",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "인도의 균형외교를 핵심 사례로 잘 설명했으나 비교·구조적 분석은 다소 얕다."
-  },
-  {
-   "id": "q169",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "임상적 대안과 비용·시간 요인을 들어 설명했지만 한국 전체 경향으로 일반화한 점은 조심스럽다."
-  },
-  {
-   "id": "q138",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "MR에서 멀티모달 RAG의 대표 사례를 적절히 제시했으나 깊이는 제한적이다."
-  },
-  {
-   "id": "q149",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "상반된 연구 흐름을 균형 있게 요약해 논쟁 지형을 잘 전달한다."
-  },
-  {
-   "id": "q132",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "모델과 데이터 수집 방식을 설명하지만 BESS 등 구체 모델 명칭과 수치의 검증 가능성은 불명확하다."
-  },
-  {
-   "id": "q127",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "질문은 구조적 원인 분석형으로 좋지만 답은 노조 반대로 단순화해 깊이가 부족하다."
-  },
-  {
-   "id": "q021",
-   "scores": {
-    "faithfulness": 1,
-    "domain_accuracy": 1,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 3,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사망률 5,800명/10만명은 명백히 비현실적 수치로 보이며 도메인 정확성이 매우 낮다."
-  },
-  {
-   "id": "q081",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 수치 회상형으로 직접 답하지만 정확한 조사 출처와 시점이 불명확하다."
-  },
-  {
-   "id": "q077",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 4,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "2025년 9월 말 기준 수치라는 미래시점 표현이 부자연스럽고 사실 검증성이 낮아 라벨 적합성도 떨어진다."
-  },
-  {
-   "id": "q009",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "시술 중 적용 방법을 절차적으로 답했으나 PDRN 소킹 5분의 근거가 일반 표준인지 불명확하다."
-  },
-  {
-   "id": "q082",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "디지털 트윈 기반 분석 체계를 데이터-모델-활용 흐름으로 잘 설명한 우수한 답변이다."
-  },
-  {
-   "id": "q164",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "단계적 개발 로드맵은 구체적이지만 의료적 타당성보다 기획적 서술이 많고 도메인 라벨도 IT에 치우쳤다."
-  }
- ]
+  "batch_id": 5,
+  "judge": "gpt54",
+  "results": [
+    {
+      "id": "q174",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "출혈위험 인자 나열은 대체로 맞지만 분류와 항목 일부가 혼재되어 있고 사실회상형 문항이다."
+    },
+    {
+      "id": "q004",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "치과 술식상 적절한 답으로 보이나 단순 절차 지식이며 medium보다는 easy에 가깝다."
+    },
+    {
+      "id": "q029",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "미국 시장 세분화 필요성을 맥락과 예시로 설명해 학습가치가 높다."
+    },
+    {
+      "id": "q183",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "대체로 plausible하나 수치와 시점 의존성이 크고 정확성 검증이 애매한 사실형 응답이다."
+    },
+    {
+      "id": "q099",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "지수에서 특정 종목 제외 시 포인트 하락 수치가 근거 없이 단정적이며 시장 해석도 과장 가능성이 있다."
+    },
+    {
+      "id": "q098",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "질문에 직접 답하지만 단순 순위 진술에 그치며 시점 의존적 수치다."
+    },
+    {
+      "id": "q131",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "동의 필요성을 개인정보 활용 관점에서 설명하나 Visa 관련 세부 수치는 다소 홍보성이고 일반화가 강하다."
+    },
+    {
+      "id": "q124",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "노인 외상에서 SBP 110 기준은 널리 쓰이는 내용으로 간결하고 정확하다."
+    },
+    {
+      "id": "q198",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "두 투자사의 협업 전략을 비교적으로 잘 설명했지만 comparative 라벨은 약간 애매하다."
+    },
+    {
+      "id": "q134",
+      "scores": {
+        "faithfulness": 1,
+        "domain_accuracy": 1,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 2
+      },
+      "rationale_brief": "구글 상대 소송의 핵심 사유를 묻는데 특정 자살 사건으로 단정해 사실성과 연결성이 매우 낮다."
+    },
+    {
+      "id": "q178",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "현장 행정의 정보 부족 문제를 명확히 짚었고 질문과 답의 정합성이 높다."
+    },
+    {
+      "id": "q120",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "연구 결과 요약으로는 적절하나 팁 위치 정확도 표현이 다소 부자연스럽고 맥락이 제한적이다."
+    },
+    {
+      "id": "q034",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "우려와 기대를 양면적으로 비교했으나 일부 가치판단적 표현이 강해 객관성은 다소 떨어진다."
+    },
+    {
+      "id": "q048",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "인도의 균형외교를 핵심 사례로 잘 설명했으나 비교·구조적 분석은 다소 얕다."
+    },
+    {
+      "id": "q169",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "임상적 대안과 비용·시간 요인을 들어 설명했지만 한국 전체 경향으로 일반화한 점은 조심스럽다."
+    },
+    {
+      "id": "q138",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "MR에서 멀티모달 RAG의 대표 사례를 적절히 제시했으나 깊이는 제한적이다."
+    },
+    {
+      "id": "q149",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "상반된 연구 흐름을 균형 있게 요약해 논쟁 지형을 잘 전달한다."
+    },
+    {
+      "id": "q132",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "모델과 데이터 수집 방식을 설명하지만 BESS 등 구체 모델 명칭과 수치의 검증 가능성은 불명확하다."
+    },
+    {
+      "id": "q127",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "질문은 구조적 원인 분석형으로 좋지만 답은 노조 반대로 단순화해 깊이가 부족하다."
+    },
+    {
+      "id": "q021",
+      "scores": {
+        "faithfulness": 1,
+        "domain_accuracy": 1,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 3
+      },
+      "rationale_brief": "사망률 5,800명/10만명은 명백히 비현실적 수치로 보이며 도메인 정확성이 매우 낮다."
+    },
+    {
+      "id": "q081",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 수치 회상형으로 직접 답하지만 정확한 조사 출처와 시점이 불명확하다."
+    },
+    {
+      "id": "q077",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 4
+      },
+      "rationale_brief": "2025년 9월 말 기준 수치라는 미래시점 표현이 부자연스럽고 사실 검증성이 낮아 라벨 적합성도 떨어진다."
+    },
+    {
+      "id": "q009",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "시술 중 적용 방법을 절차적으로 답했으나 PDRN 소킹 5분의 근거가 일반 표준인지 불명확하다."
+    },
+    {
+      "id": "q082",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "디지털 트윈 기반 분석 체계를 데이터-모델-활용 흐름으로 잘 설명한 우수한 답변이다."
+    },
+    {
+      "id": "q164",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "단계적 개발 로드맵은 구체적이지만 의료적 타당성보다 기획적 서술이 많고 도메인 라벨도 IT에 치우쳤다."
+    }
+  ]
 }

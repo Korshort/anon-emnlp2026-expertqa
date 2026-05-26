@@ -8,8 +8,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "TBI-AKI 뇌신장축 개념과 다인자 원인 정확히 종합 설명, hard/explanatory 적절"
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "교육 사례 비교는 있으나 도메인이 Education(스코프 외)이고 비교 깊이가 얕음"
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "PENG vs FICB 신경 타겟 비교 정확, 해부학적 사실 일치"
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기후 플랫폼 분석 기능 3층위 체계적 정리, explanatory 적합"
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "치과 임플란트 견해 대비 잘 표현, 다만 라벨이 comparative보다 explanatory에 가까움"
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "관점 전환 비교는 명확하나 답변 깊이가 다소 짧고 hard보다 medium에 가까움"
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 2
+        "coherence": 4
       },
       "rationale_brief": "수면 패턴 비교는 일반론적, hard 라벨 과대 — 일반 상담 수준"
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "q111과 동일 — 중복 가능성, 라벨은 explanatory가 더 적합"
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "CMI vs apex fixation 지렛대 효과 인과 추론 비교 우수, hard 적합"
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "IT 산업-스테이블코인 유추 비교, 다만 경제적 인과 깊이 부족"
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "G2→G1 전환과 중-유럽 구조적 문제 비교 잘 정리"
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "당뇨병성 신장병증 GFR 감소 시계열 비교 약물 진보 정확"
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "비자 토큰화 기술 동일성 비교 명확, 핵심 원리 정확"
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기업 도입 패턴 vs 사용자 리터러시 대비 통찰적, hard 적합"
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "독해 vs 언어이해 차이를 일상 예시로 잘 설명, 깊이는 보통"
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "인튜이티브 에코시스템 3축 진화사 정리 explanatory 적합"
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "한미 상장 절차 차이 정리되나 구체 규제 디테일 부족"
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기후 플랫폼 선순환 구조 4단계 잘 정리, explanatory 적합"
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "q136 중복 — 같은 QA가 다른 ID로 존재"
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 5,
         "question_quality": 5,
         "answer_depth": 5,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "ACDF vs corpectomy 수술 접근법 비교 정확, hard 적합"
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "q158 중복 (동일 QA)"
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "비수술/수술 백업 비교 — 후자 설명 빈약(추가 디테일 부족)"
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "한-싱가포르 산업구조 비교 인과 논리 명확, hard 적합"
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "한-베트남 발전·복지 선순환 비교 잘 정리"
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "한-미 투자계약 기원(PE vs 은행) 차이와 플립 연결 설명 좋음"
     }

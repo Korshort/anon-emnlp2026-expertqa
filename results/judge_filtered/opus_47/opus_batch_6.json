@@ -1,30 +1,280 @@
 {
   "batch_id": 6,
   "results": [
-    {"id": "q119", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Specific gendered patterns plausible but cited ages (35/28) need source verification; comparative framing good."},
-    {"id": "q089", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Presents both sides with specific stat (13.1%); comparative analysis adequate."},
-    {"id": "q068", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 5, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Systematic multi-system pathophysiology breakdown; clinically accurate for weaning difficulty."},
-    {"id": "q053", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Clear comparative structure with actionable solutions for both insomnia types."},
-    {"id": "q090", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Two improvements clearly explained (MLLM parsing + multimodal embedding); technically sound."},
-    {"id": "q094", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Four structural factors with specific stats; explanatory depth adequate."},
-    {"id": "q041", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 3, "difficulty_calibration": 3}, "rationale_brief": "Oversimplified attribution to leadership; misses key institutional/economic factors."},
-    {"id": "q093", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Good examples (Pororo, Robocar Poli) but comparative analysis somewhat shallow."},
-    {"id": "q116", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Conceptual reframing clear but lacks mechanistic detail; comparative aspect modest."},
-    {"id": "q199", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Simplified distinction; developmental welfare state concept partially captured."},
-    {"id": "q157", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "Precise anatomical landmarks (AIIS, DCIA) with bow-tie sonographic sign; procedurally accurate."},
-    {"id": "q025", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Firm-specific facts hard to verify; comparison feels listy rather than analytical."},
-    {"id": "q180", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "PE vs bank origin explanation insightful; flip phenomenon link valid."},
-    {"id": "q147", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Classification details given but answer somewhat list-oriented."},
-    {"id": "q074", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Three training modules described; explanatory but lacks deeper causal reasoning."},
-    {"id": "q058", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 3, "difficulty_calibration": 3}, "rationale_brief": "99.9% success claim unsupported; classification distinction unclear in detail."},
-    {"id": "q152", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Stamp technique procedure clearly contrasted with layered restoration; clinically reasonable."},
-    {"id": "q017", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Correct indications for anterior (ACDF) vs posterior approach in cervical spine."},
-    {"id": "q049", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "General narrative without specific data; comparative aspect light."},
-    {"id": "q092", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Concrete historical players (Elpida, Infineon, Nanya) and current oligopoly dynamics."},
-    {"id": "q075", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Two parallel trends contrasted (enterprise maturation vs user literacy regression)."},
-    {"id": "q141", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Third element (Control) underexplained vs first two; framework plausible."},
-    {"id": "q020", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Van-vs-sedan injury patterns plausible; lacks quantitative grounding."},
-    {"id": "q096", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Chronological progression clear; explanatory rather than analytical."},
-    {"id": "q031", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Self-referential QKV vs DB lookup contrast captured; bottom-up/top-down framing insightful."}
+    {
+      "id": "q119",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Specific gendered patterns plausible but cited ages (35/28) need source verification; comparative framing good."
+    },
+    {
+      "id": "q089",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "Presents both sides with specific stat (13.1%); comparative analysis adequate."
+    },
+    {
+      "id": "q068",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 4
+      },
+      "rationale_brief": "Systematic multi-system pathophysiology breakdown; clinically accurate for weaning difficulty."
+    },
+    {
+      "id": "q053",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Clear comparative structure with actionable solutions for both insomnia types."
+    },
+    {
+      "id": "q090",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Two improvements clearly explained (MLLM parsing + multimodal embedding); technically sound."
+    },
+    {
+      "id": "q094",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "Four structural factors with specific stats; explanatory depth adequate."
+    },
+    {
+      "id": "q041",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "Oversimplified attribution to leadership; misses key institutional/economic factors."
+    },
+    {
+      "id": "q093",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Good examples (Pororo, Robocar Poli) but comparative analysis somewhat shallow."
+    },
+    {
+      "id": "q116",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Conceptual reframing clear but lacks mechanistic detail; comparative aspect modest."
+    },
+    {
+      "id": "q199",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Simplified distinction; developmental welfare state concept partially captured."
+    },
+    {
+      "id": "q157",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "Precise anatomical landmarks (AIIS, DCIA) with bow-tie sonographic sign; procedurally accurate."
+    },
+    {
+      "id": "q025",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Firm-specific facts hard to verify; comparison feels listy rather than analytical."
+    },
+    {
+      "id": "q180",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "PE vs bank origin explanation insightful; flip phenomenon link valid."
+    },
+    {
+      "id": "q147",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Classification details given but answer somewhat list-oriented."
+    },
+    {
+      "id": "q074",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Three training modules described; explanatory but lacks deeper causal reasoning."
+    },
+    {
+      "id": "q058",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "99.9% success claim unsupported; classification distinction unclear in detail."
+    },
+    {
+      "id": "q152",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Stamp technique procedure clearly contrasted with layered restoration; clinically reasonable."
+    },
+    {
+      "id": "q017",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Correct indications for anterior (ACDF) vs posterior approach in cervical spine."
+    },
+    {
+      "id": "q049",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "General narrative without specific data; comparative aspect light."
+    },
+    {
+      "id": "q092",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "Concrete historical players (Elpida, Infineon, Nanya) and current oligopoly dynamics."
+    },
+    {
+      "id": "q075",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "Two parallel trends contrasted (enterprise maturation vs user literacy regression)."
+    },
+    {
+      "id": "q141",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Third element (Control) underexplained vs first two; framework plausible."
+    },
+    {
+      "id": "q020",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Van-vs-sedan injury patterns plausible; lacks quantitative grounding."
+    },
+    {
+      "id": "q096",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Chronological progression clear; explanatory rather than analytical."
+    },
+    {
+      "id": "q031",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "Self-referential QKV vs DB lookup contrast captured; bottom-up/top-down framing insightful."
+    }
   ]
 }

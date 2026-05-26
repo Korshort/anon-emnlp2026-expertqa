@@ -8,8 +8,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "성별 비교와 기전 제시는 있으나 연령 단정과 '추정' 표현이 근거 불명확해 의학적 정확성은 낮은 편."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "알고리즘 vs 사용자 선택을 균형 있게 비교하고 연구 함의를 연결해 비교형 고난도 문항에 부합한다."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "기도·폐·심혈관·호흡근 요인을 체계적으로 설명해 difficult/prolonged weaning의 병태생리를 정확히 짚었다."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "아침형·저녁형 불면 양상을 대비했지만 불면증과 수면위상 문제를 다소 단순화해 임상적 정확성은 보통 수준."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "문서 파싱과 멀티모달 임베딩의 개선점을 핵심적으로 비교하며 true multimodal RAG의 차별점을 잘 설명했다."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "한국의 인구·기업구조·지역집중·훈련체계 분절을 구조적 요인으로 연결해 설명력이 좋다."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "체제와 정책 집행 차이를 언급했지만 경제성과의 근본 원인을 너무 지도력 중심으로 단순화했다."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "한국 아동 캐릭터 시장의 토종 IP 강세를 국제 비교로 제시해 질문에 잘 맞는다."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "당뇨를 노화의 결과가 아니라 촉진 요인으로 보는 관점 전환을 분명히 제시해 비교형 질문에 부합한다."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "보편적 복지와 발전 지향적 선택복지의 차이를 비교해 개념 구분은 적절하나 다소 도식적이다."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "AIIS, DCIA, fascia iliaca 등 시술 핵심 랜드마크와 초음파 구조물을 실무적으로 잘 설명했다."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "두 전담팀의 구성 차이는 설명하지만 근거 검증이 어려운 기관 특화 서술이 많아 정확성 평가는 보수적이다."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 3,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "계약서 구조 차이의 역사적 배경과 투자 연속성 문제를 연결했으나 일부 일반화가 강하다."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "12종과 20종 분류의 범위 차이를 설명하지만 질문의 직접 비교가 일부 불명확하고 수치 체계도 다소 혼재된다."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "주의력·기억력·집행력 훈련의 구성과 목적을 무난히 설명했지만 난도는 hard보다는 중간 수준에 가깝다."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 2,
-        "coherence": 3,
-        "difficulty_calibration": 4
+        "coherence": 3
       },
       "rationale_brief": "발치와와 치유부 수술 비교가 충분치 않고 99.9% 성공률 등 과도한 단정이 있어 치의학적 신뢰도가 낮다."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "기존 적층 조각법과 스탬프 테크닉의 절차·적응증 차이를 임상적으로 비교해 설명했다."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "전방과 후방 접근의 적응증을 압박 위치·분절 수·불안정성 기준으로 명료하게 구분했다."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "인도의 과거 제약과 현재 기술강국 이미지를 대비해 핵심 변화는 잘 전달하나 분석 깊이는 제한적이다."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "메모리 업계의 재편과 상위 기업 구도 변화를 비교하고 사이클 완화 가능성까지 연결했다."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "기업 도입 단계의 성숙과 사용자 저변 확대로 인한 평균 리터러시 저하를 함께 설명해 균형이 좋다."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "Identification, Authorization, Control의 역할을 구분해 설명했으나 보안 메커니즘의 구체성은 다소 부족하다."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "벤형 차량의 손상·상해 특성을 나열하지만 세단/SUV와의 직접 대비가 충분히 구조화되진 않았다."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "연도별 지원 범위 확장을 시간축에 따라 설명해 사업 발전 과정을 충실히 보여준다."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 3,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 4,
-        "difficulty_calibration": 5
+        "coherence": 4
       },
       "rationale_brief": "DB 검색과 self-attention의 차이를 설명하려 했으나 QKV를 '질문 자체에서 키 참조'로 풀어낸 부분은 다소 부정확하다."
     }

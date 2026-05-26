@@ -4,127 +4,277 @@
   "results": [
     {
       "id": "q105",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "RAG 일반 설명만, 한의학 특화 메커니즘 부재. explanatory치고 깊이 약함"
     },
     {
       "id": "q095",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "목표 + 김치/기무치 비유, factoid보단 explanatory에 가까움. easy 라벨 정합"
     },
     {
       "id": "q103",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
       "rationale_brief": "IVUS/심플로/크러쉬 등 옵션 나열, hard/procedural치고 디테일 제한적"
     },
     {
       "id": "q145",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "마법공주+포켓몬 수집형 결합 차별점 명확, medium/comparative 부합"
     },
     {
       "id": "q043",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "프로그램명 + 300명 + 핀테크 레비 구체 factoid"
     },
     {
       "id": "q000",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "인터코스탈 vs 크라이오 작용기전+지속기간+적용방법 비교, hard/comparative 우수"
     },
     {
       "id": "q161",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "서울-자카르타 사례로 텔레콜래버레이션 explanatory, medium 적합"
     },
     {
       "id": "q192",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "헬로키티 50년 + 포켓몬 사례 factoid, easy 정합"
     },
     {
       "id": "q016",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "2023 두 학회지 인용 + 조합치료 효과, medium/explanatory 우수"
     },
     {
       "id": "q080",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 1, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 1,
+        "answer_depth": 1,
+        "coherence": 5
+      },
       "rationale_brief": "단일 수치 factoid, easy 정합"
     },
     {
       "id": "q102",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "1.5일 + e러닝 + 1/2일차 흐름, procedural 부합"
     },
     {
       "id": "q038",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "냉전 비유+국가별 전략 사례+엘살바도르/스위스 폭넓음, hard/explanatory 부합"
     },
     {
       "id": "q156",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "비매몰 vs 매몰 수술 절차/난이도 비교, hard/comparative 매우 적합"
     },
     {
       "id": "q176",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "새 문법 인용+남녀 통합 확장. explanatory치고 다소 동어 반복"
     },
     {
       "id": "q135",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "절임 순서 차이 명확, 그러나 기무치 사실성 검증 어려움. comparative 부합"
     },
     {
       "id": "q078",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "마이크+AI 분석 factoid, medium 정합"
     },
     {
       "id": "q115",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "supine 가능성 vs lumbar plexus block 비교 포함, factoid 정합"
     },
     {
       "id": "q019",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "선택적 타겟팅 단답, medium/explanatory치고 매우 짧음"
     },
     {
       "id": "q014",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "낙상 90% + 1년 15-20% + 요양 거부까지, explanatory 우수"
     },
     {
       "id": "q177",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "칩스액트 가드레일 + IRA FEOC 조항 구체, medium/explanatory 적합"
     },
     {
       "id": "q146",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "토큰화+검증 절차 step-by-step, procedural 적합"
     },
     {
       "id": "q179",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
       "rationale_brief": "회사+주주 + 공평 대우 의무 단순 nomination, easy/factoid 적합"
     },
     {
       "id": "q065",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "20.3% + OECD 비교 + 4.6% 증가, comparative 적합"
     },
     {
       "id": "q084",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "창업자 동기 + 첫 어플 사례. explanatory치고 일화적"
     },
     {
       "id": "q165",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "1mm 무시 vs 2mm 위험 기준 + 바이올린 현 비유, easy/factoid 적합"
     }
   ]

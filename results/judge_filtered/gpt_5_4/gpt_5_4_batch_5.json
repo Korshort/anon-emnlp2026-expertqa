@@ -8,8 +8,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "표적치료와 세포독성 항암제의 기전·부작용 차이를 정확히 비교했으나 비교 범위는 기본적입니다."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "두 팀의 역할·규모 차이를 잘 비교했지만 고유명사 기반 진술이라 검증 가능성은 다소 제한됩니다."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "대상·데이터원·목표의 차이를 구조적으로 설명해 비교형 질문에 잘 부합합니다."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "텍스트 기반 교육과 직접 만남의 차이 및 효과를 인식 변화 측면에서 잘 비교했습니다."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "복지국가와 발전형 복지국가의 핵심 차이를 설명했으나 다소 단순화된 개념 구분입니다."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "체제·리더십의 교훈을 제시하지만 경제발전 차이에 대한 설명이 다소 규범적이고 단순화되어 있습니다."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "두 전담팀의 구성과 성격 차이를 비교했으나 사실 검증이 어려운 조직 소개형 답변입니다."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "급성기 고용량 스테로이드 논란은 맞지만 개인적 견해와 덱사 사용 권고가 현재 표준 견해처럼 제시되어 정확성이 떨어집니다."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "q098과 동일하게 메시지는 일관되나 경제사 비교가 다소 도식적입니다."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "전환금융과 네이처 파이낸싱의 등장 배경과 접근법 차이를 비교적 명확히 설명했습니다."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "사업 확장 순서를 데이터 축적과 니즈 예측 관점에서 인과적으로 설명해 설득력이 있습니다."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "미국 48시간, 영국 36시간 권고 차이를 정확히 비교했으나 난도는 중간 수준에 가깝습니다."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "한국·싱가포르 비교를 통해 논지를 전개하지만 경제정책 주장이 다소 단정적이고 근거가 제한적입니다."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "시장별 디자인 접근 차이가 현지 인재 영입으로 이어지는 논리를 일관되게 설명했습니다."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "동물모델별 치유 시점에 따른 PDRN 효과 차이를 정량·정성으로 잘 비교한 고난도 문항입니다."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "AI 규율 영역을 폭넓게 열거하고 복잡성의 이유를 설명해 질문과 잘 맞습니다."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "시나리오의 국가별 관세·기간 차이를 비교했으나 특정 수치와 가정의 출처 검증이 어려워 정확성은 보수적으로 평가됩니다."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "과거와 현재 글로벌 환경 차이를 설명하지만 G1 등 일부 표현은 해석적이고 단순화가 있습니다."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "데이터 개방→기업 활용→정부 구매→투자 유치의 선순환 모델을 단계적으로 잘 설명했습니다."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "에코시스템 확장 영역을 요약했으나 질문의 '주요 확장된 영역'에 대한 구체성이 약간 부족합니다."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "선진국 규제 대응형과 개발도상국 ODA형 모델의 차이를 사례와 함께 비교했습니다."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "3세대 멀티모달 RAG의 흐름을 잘 비교했지만 각 세대의 기술적 차이에 대한 세부성은 제한적입니다."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "전용 수술실 구축 전후 효율성 개선점을 명확히 비교했으나 운영 사례 요약 수준입니다."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "필요 조치들은 제시했지만 질문의 '근거 비교'는 충분히 구조화되지 않았고 일부 주장은 의견적입니다."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "마카와 제네시스의 역할·구성 차이를 일관되게 설명했으나 조직 소개형 정보라 깊이는 제한적입니다."
     }

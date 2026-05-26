@@ -1,30 +1,280 @@
 {
   "batch_id": 5,
   "results": [
-    {"id": "q174", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "PDRN 효과 비교를 시간축에 따라 정량적으로 제시. hard/comparative 일치."},
-    {"id": "q004", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "ACDF vs corpectomy 차이를 정확히 비교, 임상 의사결정 가치 높음."},
-    {"id": "q029", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "G2→G1 표현은 의견성. 구조적 분석은 합리적이나 일부 단순화."},
-    {"id": "q183", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "법률 카테고리 나열 위주, comparative보다 explanatory에 가까움."},
-    {"id": "q099", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "역사적 비교 적절, 동기와 차이점 명확."},
-    {"id": "q098", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "이중 쟁점 비교 잘 됨. 선관주의의무로 연결."},
-    {"id": "q131", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "싱가포르 6-7만 달러 수치는 다소 단순화, 논리는 일관."},
-    {"id": "q124", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "AAOS 48h vs 영국 36h 기준 비교 정확. medium 적절."},
-    {"id": "q198", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "q098 중복. 동일 평가."},
-    {"id": "q134", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "PWC 솔루션 명칭(케이삭스 등) 모호, 기존 디지털 전환과의 차별점이 추상적."},
-    {"id": "q178", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "구체적 사례 3가지 제시, explanatory 적합."},
-    {"id": "q120", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "관점 대비 명확. comparative 적절하나 답이 다소 짧음."},
-    {"id": "q034", "scores": {"faithfulness": 3, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "두 시스템 차이 명확히 비교. 경기도 7만개 수치는 검증불가."},
-    {"id": "q048", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "사례 비교 가능하나 구체적 차이점이 다소 산만."},
-    {"id": "q169", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "GFR 감소 속도 변화와 약물군 발전사 정확."},
-    {"id": "q138", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "24만 명 레이오프 등 일반화. 비교 자체는 일관."},
-    {"id": "q149", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "240 program 정의 모호, 영문 답변 짧음. medium 적절."},
-    {"id": "q132", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "q131 중복. 동일 평가."},
-    {"id": "q127", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "토큰화 기술 비교 정확, AI 에이전트 응용 맥락 명확."},
-    {"id": "q021", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "전방/후방 접근법 적응증 비교 정확, 임상 가치 높음."},
-    {"id": "q081", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "기존 에스크로 vs 스마트컨트랙트 단계적 결제 비교 명확."},
-    {"id": "q077", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "악순환 구조 + 정책 패러다임 변화(passive→active) 종합."},
-    {"id": "q009", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "보스턴다이나믹스는 미국→현대차 인수 표현 OK. 치과 어시스트 적용 맥락이 약함."},
-    {"id": "q082", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "q081 중복. 동일 평가."},
-    {"id": "q164", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "뇌-신장 축 개념과 AKI 다요인 기전 종합 설명 우수."}
+    {
+      "id": "q174",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "PDRN 효과 비교를 시간축에 따라 정량적으로 제시. hard/comparative 일치."
+    },
+    {
+      "id": "q004",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "ACDF vs corpectomy 차이를 정확히 비교, 임상 의사결정 가치 높음."
+    },
+    {
+      "id": "q029",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "G2→G1 표현은 의견성. 구조적 분석은 합리적이나 일부 단순화."
+    },
+    {
+      "id": "q183",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "법률 카테고리 나열 위주, comparative보다 explanatory에 가까움."
+    },
+    {
+      "id": "q099",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "역사적 비교 적절, 동기와 차이점 명확."
+    },
+    {
+      "id": "q098",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "이중 쟁점 비교 잘 됨. 선관주의의무로 연결."
+    },
+    {
+      "id": "q131",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "싱가포르 6-7만 달러 수치는 다소 단순화, 논리는 일관."
+    },
+    {
+      "id": "q124",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "AAOS 48h vs 영국 36h 기준 비교 정확. medium 적절."
+    },
+    {
+      "id": "q198",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q098 중복. 동일 평가."
+    },
+    {
+      "id": "q134",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "PWC 솔루션 명칭(케이삭스 등) 모호, 기존 디지털 전환과의 차별점이 추상적."
+    },
+    {
+      "id": "q178",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "구체적 사례 3가지 제시, explanatory 적합."
+    },
+    {
+      "id": "q120",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "관점 대비 명확. comparative 적절하나 답이 다소 짧음."
+    },
+    {
+      "id": "q034",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "두 시스템 차이 명확히 비교. 경기도 7만개 수치는 검증불가."
+    },
+    {
+      "id": "q048",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "사례 비교 가능하나 구체적 차이점이 다소 산만."
+    },
+    {
+      "id": "q169",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "GFR 감소 속도 변화와 약물군 발전사 정확."
+    },
+    {
+      "id": "q138",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "24만 명 레이오프 등 일반화. 비교 자체는 일관."
+    },
+    {
+      "id": "q149",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "240 program 정의 모호, 영문 답변 짧음. medium 적절."
+    },
+    {
+      "id": "q132",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q131 중복. 동일 평가."
+    },
+    {
+      "id": "q127",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "토큰화 기술 비교 정확, AI 에이전트 응용 맥락 명확."
+    },
+    {
+      "id": "q021",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "전방/후방 접근법 적응증 비교 정확, 임상 가치 높음."
+    },
+    {
+      "id": "q081",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "기존 에스크로 vs 스마트컨트랙트 단계적 결제 비교 명확."
+    },
+    {
+      "id": "q077",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "악순환 구조 + 정책 패러다임 변화(passive→active) 종합."
+    },
+    {
+      "id": "q009",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "보스턴다이나믹스는 미국→현대차 인수 표현 OK. 치과 어시스트 적용 맥락이 약함."
+    },
+    {
+      "id": "q082",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q081 중복. 동일 평가."
+    },
+    {
+      "id": "q164",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "뇌-신장 축 개념과 AKI 다요인 기전 종합 설명 우수."
+    }
   ]
 }

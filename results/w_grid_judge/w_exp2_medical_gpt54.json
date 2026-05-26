@@ -1,306 +1,281 @@
 {
- "batch_id": "w_exp2_medical",
- "judge": "gpt54",
- "results": [
-  {
-   "id": "wm001",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "질문-답 연결은 좋으나 '가장 선호'와 조직학적 효과, 국내 사용 빈도는 일반화/근거 부족으로 정확성 우려."
-  },
-  {
-   "id": "wm002",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "AI-로봇 결합의 이유를 촉각·인지·학습 필요성과 함께 잘 설명했으며 전반적으로 타당함."
-  },
-  {
-   "id": "wm003",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "비매몰 치유의 장점을 설명했지만 용어와 근거가 다소 단순화되어 있고 임상적 조건 설명이 부족함."
-  },
-  {
-   "id": "wm004",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "초기 고정의 중요성은 맞지만 특정 기구/기술과 40N·2주 유지 서술이 과도하게 단정적이고 일반화 우려."
-  },
-  {
-   "id": "wm005",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "TBI의 전신 합병증이 사망률·예후에 미치는 영향 설명이 정확하고 질문에 직접 부합함."
-  },
-  {
-   "id": "wm006",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "카테콜아민 폭증과 정수압 상승 설명은 타당하나 '세포 내 체액 축적' 표현은 부정확하고 기전이 다소 혼재됨."
-  },
-  {
-   "id": "wm007",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "DE와 DTF의 원리와 임상적 의미를 비교해 잘 설명했으나 수치 기준은 문헌별 변이가 있어 절대화는 아쉬움."
-  },
-  {
-   "id": "wm008",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "기준값 제시는 적절하나 단순 회상형 문항/답변이며 컷오프는 문헌 의존적임."
-  },
-  {
-   "id": "wm009",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "다학제 접근의 필요성을 역할 분담과 협업 효율 관점에서 적절히 설명함."
-  },
-  {
-   "id": "wm010",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "질문에 맞는 단점 두 가지를 직접 제시했으나 단순 사실 나열 수준."
-  },
-  {
-   "id": "wm011",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "당뇨병 환자 수명 연장 경향 서술은 대체로 타당하나 국가별 예외 가능성과 수치 근거는 부족함."
-  },
-  {
-   "id": "wm012",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "조기 vs 전이성 TNBC의 면역치료 적용 기준 차이를 핵심적으로 비교했으며 대체로 정확함."
-  },
-  {
-   "id": "wm013",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "XABCDE 추가라는 핵심 변경점을 짚었으나 단순 사실 회상형임."
-  },
-  {
-   "id": "wm014",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "노인 척추후만 환자에서 표준 collar의 위험과 대체 고정 고려를 잘 설명했으며 임상 추론이 있음."
-  },
-  {
-   "id": "wm015",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "고위험 상황에서 LAAO 고려 취지는 맞지만 '빨리 시행 권고'는 가이드라인 해석이 다소 과장되어 보임."
-  },
-  {
-   "id": "wm016",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "missed dose 원칙을 간단히 제시했지만 항응고제별 차이가 있어 12시간/6시간 일반화는 다소 부정확할 수 있음."
-  },
-  {
-   "id": "wm017",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "연구 논문 수와 아시아 비중 수치는 검증 근거가 없고 변동 가능성이 크나 질문에는 부합함."
-  },
-  {
-   "id": "wm018",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "5가지 문제점을 직접 나열해 질문에 정확히 답했으나 학습 가치와 추론 깊이는 낮음."
-  },
-  {
-   "id": "wm019",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "로봇수술의 다직종 협업 필요성을 적절히 설명했으며 내용상 무리 없음."
-  },
-  {
-   "id": "wm020",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "천연물 의약품 표준화의 어려움을 복합 성분과 품질관리 문제로 설명해 핵심은 잘 짚음."
-  },
-  {
-   "id": "wm021",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "실용적-설명적 시험 차이를 일부 예시로 설명했지만 'BMJ 9가지 항목' 출처/구성은 다소 부정확하고 불완전함."
-  },
-  {
-   "id": "wm022",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "표준화·품질관리·부작용 감시의 중요성을 일관되게 제시해 질문에 잘 답함."
-  },
-  {
-   "id": "wm023",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "AI 신약개발 기간·비용 수치가 과도하게 단정적이고 일반화되어 사실성/도메인 정확성 우려가 큼."
-  },
-  {
-   "id": "wm024",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "Hering 법칙의 기본 취지는 맞지만 우세안 중심 설명은 비표준적이고 생리학적으로 과도한 단순화가 있음."
-  },
-  {
-   "id": "wm025",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "천천히 주입 원칙은 가능하나 글루타민 주사제의 부작용 설명을 모든 아미노산·암모니아 상승으로 일반화한 점이 부정확함."
-  }
- ]
+  "batch_id": "w_exp2_medical",
+  "judge": "gpt54",
+  "results": [
+    {
+      "id": "wm001",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "질문-답 연결은 좋으나 '가장 선호'와 조직학적 효과, 국내 사용 빈도는 일반화/근거 부족으로 정확성 우려."
+    },
+    {
+      "id": "wm002",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "AI-로봇 결합의 이유를 촉각·인지·학습 필요성과 함께 잘 설명했으며 전반적으로 타당함."
+    },
+    {
+      "id": "wm003",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "비매몰 치유의 장점을 설명했지만 용어와 근거가 다소 단순화되어 있고 임상적 조건 설명이 부족함."
+    },
+    {
+      "id": "wm004",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "초기 고정의 중요성은 맞지만 특정 기구/기술과 40N·2주 유지 서술이 과도하게 단정적이고 일반화 우려."
+    },
+    {
+      "id": "wm005",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "TBI의 전신 합병증이 사망률·예후에 미치는 영향 설명이 정확하고 질문에 직접 부합함."
+    },
+    {
+      "id": "wm006",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "카테콜아민 폭증과 정수압 상승 설명은 타당하나 '세포 내 체액 축적' 표현은 부정확하고 기전이 다소 혼재됨."
+    },
+    {
+      "id": "wm007",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "DE와 DTF의 원리와 임상적 의미를 비교해 잘 설명했으나 수치 기준은 문헌별 변이가 있어 절대화는 아쉬움."
+    },
+    {
+      "id": "wm008",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "기준값 제시는 적절하나 단순 회상형 문항/답변이며 컷오프는 문헌 의존적임."
+    },
+    {
+      "id": "wm009",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "다학제 접근의 필요성을 역할 분담과 협업 효율 관점에서 적절히 설명함."
+    },
+    {
+      "id": "wm010",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "질문에 맞는 단점 두 가지를 직접 제시했으나 단순 사실 나열 수준."
+    },
+    {
+      "id": "wm011",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "당뇨병 환자 수명 연장 경향 서술은 대체로 타당하나 국가별 예외 가능성과 수치 근거는 부족함."
+    },
+    {
+      "id": "wm012",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "조기 vs 전이성 TNBC의 면역치료 적용 기준 차이를 핵심적으로 비교했으며 대체로 정확함."
+    },
+    {
+      "id": "wm013",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "XABCDE 추가라는 핵심 변경점을 짚었으나 단순 사실 회상형임."
+    },
+    {
+      "id": "wm014",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "노인 척추후만 환자에서 표준 collar의 위험과 대체 고정 고려를 잘 설명했으며 임상 추론이 있음."
+    },
+    {
+      "id": "wm015",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "고위험 상황에서 LAAO 고려 취지는 맞지만 '빨리 시행 권고'는 가이드라인 해석이 다소 과장되어 보임."
+    },
+    {
+      "id": "wm016",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "missed dose 원칙을 간단히 제시했지만 항응고제별 차이가 있어 12시간/6시간 일반화는 다소 부정확할 수 있음."
+    },
+    {
+      "id": "wm017",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "연구 논문 수와 아시아 비중 수치는 검증 근거가 없고 변동 가능성이 크나 질문에는 부합함."
+    },
+    {
+      "id": "wm018",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "5가지 문제점을 직접 나열해 질문에 정확히 답했으나 학습 가치와 추론 깊이는 낮음."
+    },
+    {
+      "id": "wm019",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "로봇수술의 다직종 협업 필요성을 적절히 설명했으며 내용상 무리 없음."
+    },
+    {
+      "id": "wm020",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "천연물 의약품 표준화의 어려움을 복합 성분과 품질관리 문제로 설명해 핵심은 잘 짚음."
+    },
+    {
+      "id": "wm021",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "실용적-설명적 시험 차이를 일부 예시로 설명했지만 'BMJ 9가지 항목' 출처/구성은 다소 부정확하고 불완전함."
+    },
+    {
+      "id": "wm022",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "표준화·품질관리·부작용 감시의 중요성을 일관되게 제시해 질문에 잘 답함."
+    },
+    {
+      "id": "wm023",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "AI 신약개발 기간·비용 수치가 과도하게 단정적이고 일반화되어 사실성/도메인 정확성 우려가 큼."
+    },
+    {
+      "id": "wm024",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Hering 법칙의 기본 취지는 맞지만 우세안 중심 설명은 비표준적이고 생리학적으로 과도한 단순화가 있음."
+    },
+    {
+      "id": "wm025",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "천천히 주입 원칙은 가능하나 글루타민 주사제의 부작용 설명을 모든 아미노산·암모니아 상승으로 일반화한 점이 부정확함."
+    }
+  ]
 }

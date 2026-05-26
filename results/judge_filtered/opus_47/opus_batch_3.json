@@ -1,30 +1,280 @@
 {
   "batch_id": 3,
   "results": [
-    {"id": "q105", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Specific dental implant detail with expert counter-view and micron-level data; comparative framing matches."},
-    {"id": "q095", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Business rationale listed but somewhat one-sided; reasoning is light comparison rather than deep analysis."},
-    {"id": "q103", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "Clear surgical comparison ACDF vs corpectomy with technical accuracy; well-calibrated as hard comparative."},
-    {"id": "q145", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Analogy-based reasoning but speculative; comparison is more rhetorical than analytic."},
-    {"id": "q043", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Structured comparison across 4 dimensions but fact-listing rather than reasoning; better suited as 'medium'."},
-    {"id": "q000", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Before/after comparison enumerates items without causal analysis; partial answer ('부분 전략 수립')."},
-    {"id": "q161", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "Brain-kidney axis with multi-pathway mechanism (autoregulation, catecholamine, inflammation, nephrotoxin); deep clinical reasoning."},
-    {"id": "q192", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Clear role distinction at conceptual level; somewhat surface-level for technical security/payments domain."},
-    {"id": "q016", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2}, "rationale_brief": "Generic lifestyle advice; labeled 'hard comparative' but content is basic recommendation listing."},
-    {"id": "q080", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Comprehensive law enumeration by category; fact-listing rather than comparison despite label."},
-    {"id": "q102", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Distinguishes surgical vs radiation sequelae with progression detail; appropriate clinical depth."},
-    {"id": "q038", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Case-level comparison but slightly anecdotal; comparative framing supported but shallow analysis."},
-    {"id": "q156", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Two approaches contrasted with rationale (free-ending case); technically specific dental detail."},
-    {"id": "q176", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Three concrete legal-procedural failure modes with reasoning; well-fit as hard explanatory."},
-    {"id": "q135", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Causal explanation with analogy (gym/exercise); good synthesis on edtech balance."},
-    {"id": "q078", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Smart contract mechanism contrasted with escrow fee model; concrete numeric examples."},
-    {"id": "q115", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Causal account of T2DM natural history with insulin secretion as bottleneck; coherent endocrinology reasoning."},
-    {"id": "q019", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Anatomical safety rationale (bony vs pleural target) accurate; concise comparative."},
-    {"id": "q014", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Plane-block vs nerve-targeted block distinction technically correct with diffusion mechanism."},
-    {"id": "q177", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Multi-stage virtuous cycle with data→solution→investment→data loop; coherent ecosystem logic."},
-    {"id": "q146", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2}, "rationale_brief": "Asserts no fundamental difference but gives only SEC/KRX framing; shallow for hard-labeled."},
-    {"id": "q179", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Duplicate of q080 content; same enumeration, fact-listing rather than true comparison."},
-    {"id": "q065", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Four specific surgical considerations (full vs half thickness, Müller, overcorrection, timing); explanatory depth appropriate."},
-    {"id": "q084", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2}, "rationale_brief": "Brief abstract contrast luck/engineering; very short and generic for hard comparative."},
-    {"id": "q165", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Quantitative GFR change with treatment-class drivers (ACEi/ARB, SGLT2, GLP-1); good temporal comparison."}
+    {
+      "id": "q105",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Specific dental implant detail with expert counter-view and micron-level data; comparative framing matches."
+    },
+    {
+      "id": "q095",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Business rationale listed but somewhat one-sided; reasoning is light comparison rather than deep analysis."
+    },
+    {
+      "id": "q103",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Clear surgical comparison ACDF vs corpectomy with technical accuracy; well-calibrated as hard comparative."
+    },
+    {
+      "id": "q145",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Analogy-based reasoning but speculative; comparison is more rhetorical than analytic."
+    },
+    {
+      "id": "q043",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Structured comparison across 4 dimensions but fact-listing rather than reasoning; better suited as 'medium'."
+    },
+    {
+      "id": "q000",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Before/after comparison enumerates items without causal analysis; partial answer ('부분 전략 수립')."
+    },
+    {
+      "id": "q161",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "Brain-kidney axis with multi-pathway mechanism (autoregulation, catecholamine, inflammation, nephrotoxin); deep clinical reasoning."
+    },
+    {
+      "id": "q192",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Clear role distinction at conceptual level; somewhat surface-level for technical security/payments domain."
+    },
+    {
+      "id": "q016",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "Generic lifestyle advice; labeled 'hard comparative' but content is basic recommendation listing."
+    },
+    {
+      "id": "q080",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Comprehensive law enumeration by category; fact-listing rather than comparison despite label."
+    },
+    {
+      "id": "q102",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Distinguishes surgical vs radiation sequelae with progression detail; appropriate clinical depth."
+    },
+    {
+      "id": "q038",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Case-level comparison but slightly anecdotal; comparative framing supported but shallow analysis."
+    },
+    {
+      "id": "q156",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Two approaches contrasted with rationale (free-ending case); technically specific dental detail."
+    },
+    {
+      "id": "q176",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Three concrete legal-procedural failure modes with reasoning; well-fit as hard explanatory."
+    },
+    {
+      "id": "q135",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Causal explanation with analogy (gym/exercise); good synthesis on edtech balance."
+    },
+    {
+      "id": "q078",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Smart contract mechanism contrasted with escrow fee model; concrete numeric examples."
+    },
+    {
+      "id": "q115",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Causal account of T2DM natural history with insulin secretion as bottleneck; coherent endocrinology reasoning."
+    },
+    {
+      "id": "q019",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Anatomical safety rationale (bony vs pleural target) accurate; concise comparative."
+    },
+    {
+      "id": "q014",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Plane-block vs nerve-targeted block distinction technically correct with diffusion mechanism."
+    },
+    {
+      "id": "q177",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Multi-stage virtuous cycle with data→solution→investment→data loop; coherent ecosystem logic."
+    },
+    {
+      "id": "q146",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "Asserts no fundamental difference but gives only SEC/KRX framing; shallow for hard-labeled."
+    },
+    {
+      "id": "q179",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Duplicate of q080 content; same enumeration, fact-listing rather than true comparison."
+    },
+    {
+      "id": "q065",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Four specific surgical considerations (full vs half thickness, Müller, overcorrection, timing); explanatory depth appropriate."
+    },
+    {
+      "id": "q084",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "Brief abstract contrast luck/engineering; very short and generic for hard comparative."
+    },
+    {
+      "id": "q165",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Quantitative GFR change with treatment-class drivers (ACEi/ARB, SGLT2, GLP-1); good temporal comparison."
+    }
   ]
 }

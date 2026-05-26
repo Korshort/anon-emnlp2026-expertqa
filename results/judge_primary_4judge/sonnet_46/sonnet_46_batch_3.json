@@ -1,30 +1,280 @@
 {
   "batch_id": 3,
   "results": [
-    {"id": "q105", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "유방암 수술/방사선 합병증 비교 — 임상 사실 정확, comparative hard에 부합. 70~80% 수치는 일반적 범위."},
-    {"id": "q095", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "ASEAN 시장 선택 이유 비교 — 성장률 수치 인용 있고 전략적 비교 잘 됨."},
-    {"id": "q103", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "MACA/Genesis 팀 비교 — 사실 나열에 가까워 hard 라벨에는 약간 못 미침."},
-    {"id": "q145", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "한국 AI 법체계 광범위 — explanatory hard에 부합, 다영역 망라."},
-    {"id": "q043", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "IT 4산업↔스테이블코인 유추 — 흥미로운 비교, 다소 주장적."},
-    {"id": "q000", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "병원 초기 과제 vs 개선 성과 비교 — 구체적 항목 나열이 충실."},
-    {"id": "q161", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "임플란트 교합 조정 비교 — 치과 전문 용어 정확하고 추론 포함."},
-    {"id": "q192", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "한국 AI 파급 구조적 요인 — 4가지 요인 체계적 explanatory."},
-    {"id": "q016", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "비수술/수술 백업 병원 비교 — 수술 백업 측 설명이 상대적으로 짧음."},
-    {"id": "q080", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "멀티모달 RAG 3세대 — '슈도'/'엔드투엔드' 용어가 표준 분류는 아니나 강의 맥락 보존."},
-    {"id": "q102", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "q103과 동일 QA 중복 — 동일 평가."},
-    {"id": "q038", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "Transformer Q-K-V vs DB 검색 비교 — bottom-up/top-down, 자기참조 추론 깊이 우수."},
-    {"id": "q156", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "외상전담 간호사 제도 개선 — 3가지 항목 체계적 explanatory."},
-    {"id": "q176", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "엔터프라이즈 AI 도입↔리터러시 변화 비교 — 흥미로운 역설적 trend."},
-    {"id": "q135", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "G2→G1 전환, 중국/유럽 구조적 문제 — 거시 맥락 서술 충실."},
-    {"id": "q078", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "기후-경제-금융 악순환 + 정책 패시브/액티브 비교 — 인과+비교 모두 우수."},
-    {"id": "q115", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "수면 패턴 조정 — 일반론에 가깝고 의학 근거가 다소 단순."},
-    {"id": "q019", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "ESP block vs peripheral nerve block — 마취 임상 기전 비교 정확."},
-    {"id": "q014", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "q115와 완전 중복 QA."},
-    {"id": "q177", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "미국 진출 한국 스타트업 법무 비용 절약 위험 — 3가지 사례 explanatory 충실."},
-    {"id": "q146", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "q145와 동일 QA 중복."},
-    {"id": "q179", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "경기도 기후 플랫폼 선순환 — 단계별 인과 흐름 잘 설명."},
-    {"id": "q065", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "CMI vs apex fixation — leverage/crown 길이 인과 추론 우수."},
-    {"id": "q084", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "캐시노트 매출 변곡점 — 구체 수치 인용. 검증 어려운 미래 추정 포함."},
-    {"id": "q165", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "TBI AKI brain-kidney axis — 기전 다층 설명 우수, 임상 정확."}
+    {
+      "id": "q105",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "유방암 수술/방사선 합병증 비교 — 임상 사실 정확, comparative hard에 부합. 70~80% 수치는 일반적 범위."
+    },
+    {
+      "id": "q095",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "ASEAN 시장 선택 이유 비교 — 성장률 수치 인용 있고 전략적 비교 잘 됨."
+    },
+    {
+      "id": "q103",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "MACA/Genesis 팀 비교 — 사실 나열에 가까워 hard 라벨에는 약간 못 미침."
+    },
+    {
+      "id": "q145",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "한국 AI 법체계 광범위 — explanatory hard에 부합, 다영역 망라."
+    },
+    {
+      "id": "q043",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "IT 4산업↔스테이블코인 유추 — 흥미로운 비교, 다소 주장적."
+    },
+    {
+      "id": "q000",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "병원 초기 과제 vs 개선 성과 비교 — 구체적 항목 나열이 충실."
+    },
+    {
+      "id": "q161",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "임플란트 교합 조정 비교 — 치과 전문 용어 정확하고 추론 포함."
+    },
+    {
+      "id": "q192",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "한국 AI 파급 구조적 요인 — 4가지 요인 체계적 explanatory."
+    },
+    {
+      "id": "q016",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "비수술/수술 백업 병원 비교 — 수술 백업 측 설명이 상대적으로 짧음."
+    },
+    {
+      "id": "q080",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "멀티모달 RAG 3세대 — '슈도'/'엔드투엔드' 용어가 표준 분류는 아니나 강의 맥락 보존."
+    },
+    {
+      "id": "q102",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "q103과 동일 QA 중복 — 동일 평가."
+    },
+    {
+      "id": "q038",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "Transformer Q-K-V vs DB 검색 비교 — bottom-up/top-down, 자기참조 추론 깊이 우수."
+    },
+    {
+      "id": "q156",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "외상전담 간호사 제도 개선 — 3가지 항목 체계적 explanatory."
+    },
+    {
+      "id": "q176",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "엔터프라이즈 AI 도입↔리터러시 변화 비교 — 흥미로운 역설적 trend."
+    },
+    {
+      "id": "q135",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "G2→G1 전환, 중국/유럽 구조적 문제 — 거시 맥락 서술 충실."
+    },
+    {
+      "id": "q078",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "기후-경제-금융 악순환 + 정책 패시브/액티브 비교 — 인과+비교 모두 우수."
+    },
+    {
+      "id": "q115",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "수면 패턴 조정 — 일반론에 가깝고 의학 근거가 다소 단순."
+    },
+    {
+      "id": "q019",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "ESP block vs peripheral nerve block — 마취 임상 기전 비교 정확."
+    },
+    {
+      "id": "q014",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "q115와 완전 중복 QA."
+    },
+    {
+      "id": "q177",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "미국 진출 한국 스타트업 법무 비용 절약 위험 — 3가지 사례 explanatory 충실."
+    },
+    {
+      "id": "q146",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q145와 동일 QA 중복."
+    },
+    {
+      "id": "q179",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "경기도 기후 플랫폼 선순환 — 단계별 인과 흐름 잘 설명."
+    },
+    {
+      "id": "q065",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "CMI vs apex fixation — leverage/crown 길이 인과 추론 우수."
+    },
+    {
+      "id": "q084",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "캐시노트 매출 변곡점 — 구체 수치 인용. 검증 어려운 미래 추정 포함."
+    },
+    {
+      "id": "q165",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "TBI AKI brain-kidney axis — 기전 다층 설명 우수, 임상 정확."
+    }
   ]
 }

@@ -1,306 +1,281 @@
 {
- "batch_id": 3,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "q105",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "RAG 기술 설명이 적절하나, IT/Tech 도메인으로 의료와 직접적 관련성은 낮음."
-  },
-  {
-   "id": "q095",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "목표와 방법 설명이 명확하나, 질문이 다소 단순함."
-  },
-  {
-   "id": "q103",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "의료 절차에 대한 깊이 있는 설명이 잘 이루어짐."
-  },
-  {
-   "id": "q145",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "차별화된 점 설명이 명확하나, 질문이 다소 단순함."
-  },
-  {
-   "id": "q043",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "교육 프로그램 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q000",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교 설명이 잘 이루어져 있음."
-  },
-  {
-   "id": "q161",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "텔레콜래버레이션의 새로운 형태 설명이 적절함."
-  },
-  {
-   "id": "q192",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "콘텐츠 유형 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q016",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "비호르몬 치료법의 효과 설명이 잘 이루어짐."
-  },
-  {
-   "id": "q080",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "빈곤율 수치 제공은 정확하나, 질문이 단순함."
-  },
-  {
-   "id": "q102",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "수강 프로세스 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q038",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정책 변화의 영향 설명이 잘 이루어짐."
-  },
-  {
-   "id": "q156",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "치유 방식 비교가 잘 이루어져 있음."
-  },
-  {
-   "id": "q176",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "성공 요인 설명이 명확하나, 질문이 다소 단순함."
-  },
-  {
-   "id": "q135",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "김치와 기무치의 차이 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q078",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "기술 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q115",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "장점 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q019",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "부작용 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q014",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "치명적 외상의 이유 설명이 잘 이루어짐."
-  },
-  {
-   "id": "q177",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "중국 견제 방식 설명이 잘 이루어짐."
-  },
-  {
-   "id": "q146",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "AI 레디 카드 기술 설명이 잘 이루어짐."
-  },
-  {
-   "id": "q179",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "충실의무 설명이 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q065",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "고령화 속도 비교가 명확하나, 질문이 단순함."
-  },
-  {
-   "id": "q084",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "웹툰 전환 요인 설명이 잘 이루어짐."
-  },
-  {
-   "id": "q165",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "안전한 길이 기준 설명이 명확하나, 질문이 단순함."
-  }
- ]
+  "batch_id": 3,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "q105",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "RAG 기술 설명이 적절하나, IT/Tech 도메인으로 의료와 직접적 관련성은 낮음."
+    },
+    {
+      "id": "q095",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "목표와 방법 설명이 명확하나, 질문이 다소 단순함."
+    },
+    {
+      "id": "q103",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "의료 절차에 대한 깊이 있는 설명이 잘 이루어짐."
+    },
+    {
+      "id": "q145",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "차별화된 점 설명이 명확하나, 질문이 다소 단순함."
+    },
+    {
+      "id": "q043",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "교육 프로그램 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q000",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교 설명이 잘 이루어져 있음."
+    },
+    {
+      "id": "q161",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "텔레콜래버레이션의 새로운 형태 설명이 적절함."
+    },
+    {
+      "id": "q192",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "콘텐츠 유형 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q016",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비호르몬 치료법의 효과 설명이 잘 이루어짐."
+    },
+    {
+      "id": "q080",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "빈곤율 수치 제공은 정확하나, 질문이 단순함."
+    },
+    {
+      "id": "q102",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "수강 프로세스 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q038",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "정책 변화의 영향 설명이 잘 이루어짐."
+    },
+    {
+      "id": "q156",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "치유 방식 비교가 잘 이루어져 있음."
+    },
+    {
+      "id": "q176",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "성공 요인 설명이 명확하나, 질문이 다소 단순함."
+    },
+    {
+      "id": "q135",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "김치와 기무치의 차이 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q078",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "기술 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q115",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "장점 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q019",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "부작용 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q014",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "치명적 외상의 이유 설명이 잘 이루어짐."
+    },
+    {
+      "id": "q177",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "중국 견제 방식 설명이 잘 이루어짐."
+    },
+    {
+      "id": "q146",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "AI 레디 카드 기술 설명이 잘 이루어짐."
+    },
+    {
+      "id": "q179",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "충실의무 설명이 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q065",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "고령화 속도 비교가 명확하나, 질문이 단순함."
+    },
+    {
+      "id": "q084",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "웹툰 전환 요인 설명이 잘 이루어짐."
+    },
+    {
+      "id": "q165",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "안전한 길이 기준 설명이 명확하나, 질문이 단순함."
+    }
+  ]
 }

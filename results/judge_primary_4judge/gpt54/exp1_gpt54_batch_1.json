@@ -1,306 +1,281 @@
 {
- "batch_id": 1,
- "judge": "gpt54",
- "results": [
-  {
-   "id": "q066",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "개괄적 진술로 무난하나 근거·구체성 부족, 쉬운 사실형 문항과는 대체로 부합."
-  },
-  {
-   "id": "q187",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "질문은 진단 대상 질환을 묻는데 답이 활용 맥락까지 덧붙였고 핵심은 정확히 다룸."
-  },
-  {
-   "id": "q101",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "VDM 세부 수치가 다소 임의적/검증 불가해 보이며 설명도 단순 나열 수준."
-  },
-  {
-   "id": "q193",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 1,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정식 명칭을 정확히 답한 전형적 쉬운 사실형 문항."
-  },
-  {
-   "id": "q111",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "수면압 개념을 설명하지만 ‘17시간’ 등은 다소 단정적이며 hard보다는 중간 난도에 가까움."
-  },
-  {
-   "id": "q121",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "장기 요도카테터와 방광루의 차이를 임상적 문제 중심으로 잘 비교함."
-  },
-  {
-   "id": "q013",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "일반적 장점을 적절히 설명하나 교육학적 깊이는 제한적."
-  },
-  {
-   "id": "q002",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "MAP 65mmHg 핵심과 근거 방향은 타당하나 세부 근거 요약은 다소 얕음."
-  },
-  {
-   "id": "q064",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "제품 비교 자체는 유용하나 효과 우열·고용량 투여 등 안전성/근거 면에서 불안정."
-  },
-  {
-   "id": "q044",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 1,
-    "answer_depth": 1,
-    "coherence": 3,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "용어 선택이 부정확해 보이며 스타트업 타겟팅 맥락에서 일반적 정답성과 연결이 약함."
-  },
-  {
-   "id": "q136",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "문서 이미지를 통째로 보존한다는 핵심은 맞으나 설명은 매우 간단함."
-  },
-  {
-   "id": "q170",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "교육 대상군을 나열하는 쉬운 사실형 답변으로 적절함."
-  },
-  {
-   "id": "q128",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 1,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 국가 평균연령 회상형 문항으로 정답은 대체로 타당."
-  },
-  {
-   "id": "q076",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "해상도와 구축 방법을 폭넓게 설명하나 일부 모델명/비교 수치의 검증성은 약함."
-  },
-  {
-   "id": "q158",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "외상성 뇌손상의 전신 반응과 관리 필요성을 인과적으로 잘 설명함."
-  },
-  {
-   "id": "q167",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "고령 외상 ICU 트리아지의 고려요소를 적절히 제시했으나 절차적 구체성은 부족."
-  },
-  {
-   "id": "q045",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "인정률 수치와 해석은 가능하나 수치의 시점 민감성이 크고 후반 해석은 다소 추론적."
-  },
-  {
-   "id": "q130",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "한국 원전 건설기간 15년 단정은 과장 가능성이 커 비교의 정확성이 낮음."
-  },
-  {
-   "id": "q030",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "고령화와 금융 역할 연결은 타당하나 질문 대비 설명이 압축적이고 hard 치고는 단순함."
-  },
-  {
-   "id": "q003",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "수술실 과제를 무난히 나열했으나 매우 일반론적이라 medium보단 easy에 가까움."
-  },
-  {
-   "id": "q159",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 5,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "임상 추론형 질문은 좋으나 에독사반 15mg 예시는 일반적 표준 용량과 맞지 않아 위험."
-  },
-  {
-   "id": "q015",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "대표적 방법들을 잘 열거했지만 RT-PCR 예시의 유전자명 등 세부 정확도는 다소 불안정."
-  },
-  {
-   "id": "q042",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "분산투자라는 핵심 전략은 타당하나 문항과 답 모두 비교적 평이함."
-  },
-  {
-   "id": "q126",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "자본배분과 반도체 공급사이클을 연결한 점은 좋으나 일부 수치·기업 사례는 검증 여지 큼."
-  },
-  {
-   "id": "q186",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "기술 성숙도 차이를 간명하게 정확히 비교했으나 깊이는 제한적."
-  }
- ]
+  "batch_id": 1,
+  "judge": "gpt54",
+  "results": [
+    {
+      "id": "q066",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "개괄적 진술로 무난하나 근거·구체성 부족, 쉬운 사실형 문항과는 대체로 부합."
+    },
+    {
+      "id": "q187",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "질문은 진단 대상 질환을 묻는데 답이 활용 맥락까지 덧붙였고 핵심은 정확히 다룸."
+    },
+    {
+      "id": "q101",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "VDM 세부 수치가 다소 임의적/검증 불가해 보이며 설명도 단순 나열 수준."
+    },
+    {
+      "id": "q193",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 1,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "정식 명칭을 정확히 답한 전형적 쉬운 사실형 문항."
+    },
+    {
+      "id": "q111",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "수면압 개념을 설명하지만 ‘17시간’ 등은 다소 단정적이며 hard보다는 중간 난도에 가까움."
+    },
+    {
+      "id": "q121",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "장기 요도카테터와 방광루의 차이를 임상적 문제 중심으로 잘 비교함."
+    },
+    {
+      "id": "q013",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "일반적 장점을 적절히 설명하나 교육학적 깊이는 제한적."
+    },
+    {
+      "id": "q002",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "MAP 65mmHg 핵심과 근거 방향은 타당하나 세부 근거 요약은 다소 얕음."
+    },
+    {
+      "id": "q064",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "제품 비교 자체는 유용하나 효과 우열·고용량 투여 등 안전성/근거 면에서 불안정."
+    },
+    {
+      "id": "q044",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 1,
+        "answer_depth": 1,
+        "coherence": 3
+      },
+      "rationale_brief": "용어 선택이 부정확해 보이며 스타트업 타겟팅 맥락에서 일반적 정답성과 연결이 약함."
+    },
+    {
+      "id": "q136",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "문서 이미지를 통째로 보존한다는 핵심은 맞으나 설명은 매우 간단함."
+    },
+    {
+      "id": "q170",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "교육 대상군을 나열하는 쉬운 사실형 답변으로 적절함."
+    },
+    {
+      "id": "q128",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 1,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 국가 평균연령 회상형 문항으로 정답은 대체로 타당."
+    },
+    {
+      "id": "q076",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "해상도와 구축 방법을 폭넓게 설명하나 일부 모델명/비교 수치의 검증성은 약함."
+    },
+    {
+      "id": "q158",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "외상성 뇌손상의 전신 반응과 관리 필요성을 인과적으로 잘 설명함."
+    },
+    {
+      "id": "q167",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "고령 외상 ICU 트리아지의 고려요소를 적절히 제시했으나 절차적 구체성은 부족."
+    },
+    {
+      "id": "q045",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "인정률 수치와 해석은 가능하나 수치의 시점 민감성이 크고 후반 해석은 다소 추론적."
+    },
+    {
+      "id": "q130",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "한국 원전 건설기간 15년 단정은 과장 가능성이 커 비교의 정확성이 낮음."
+    },
+    {
+      "id": "q030",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "고령화와 금융 역할 연결은 타당하나 질문 대비 설명이 압축적이고 hard 치고는 단순함."
+    },
+    {
+      "id": "q003",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "수술실 과제를 무난히 나열했으나 매우 일반론적이라 medium보단 easy에 가까움."
+    },
+    {
+      "id": "q159",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "임상 추론형 질문은 좋으나 에독사반 15mg 예시는 일반적 표준 용량과 맞지 않아 위험."
+    },
+    {
+      "id": "q015",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "대표적 방법들을 잘 열거했지만 RT-PCR 예시의 유전자명 등 세부 정확도는 다소 불안정."
+    },
+    {
+      "id": "q042",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "분산투자라는 핵심 전략은 타당하나 문항과 답 모두 비교적 평이함."
+    },
+    {
+      "id": "q126",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "자본배분과 반도체 공급사이클을 연결한 점은 좋으나 일부 수치·기업 사례는 검증 여지 큼."
+    },
+    {
+      "id": "q186",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "기술 성숙도 차이를 간명하게 정확히 비교했으나 깊이는 제한적."
+    }
+  ]
 }

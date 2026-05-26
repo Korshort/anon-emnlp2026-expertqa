@@ -1,306 +1,281 @@
 {
- "batch_id": 1,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "w062",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "명확한 비교와 설명으로 질문에 잘 부합함."
-  },
-  {
-   "id": "w056",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "핵심 기술 설명은 적절하나 깊이는 부족함."
-  },
-  {
-   "id": "w027",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "실리콘밸리의 가치 설명이 적절하나 깊이는 부족."
-  },
-  {
-   "id": "w070",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "세컨더리 펀드의 특징을 잘 설명함."
-  },
-  {
-   "id": "w036",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "국제적 맥락에서의 설명이 잘 이루어짐."
-  },
-  {
-   "id": "w020",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "표적치료제의 표적 물질을 잘 나열함."
-  },
-  {
-   "id": "w047",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정부 지원 방안에 대한 설명이 구체적임."
-  },
-  {
-   "id": "w029",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "핵심 요소를 잘 설명하였으나 깊이는 부족."
-  },
-  {
-   "id": "w055",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "달러 스마일과 프라운의 전환을 잘 설명함."
-  },
-  {
-   "id": "w058",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "인구 구성에 대한 설명이 명확함."
-  },
-  {
-   "id": "w048",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "수상 내역을 잘 설명함."
-  },
-  {
-   "id": "w001",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "무치악 환자의 범주를 잘 설명함."
-  },
-  {
-   "id": "w050",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "SAP 121의 영향을 잘 설명함."
-  },
-  {
-   "id": "w025",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "스테이블코인 교환 비율을 명확히 설명함."
-  },
-  {
-   "id": "w016",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "외상센터의 조직 구조를 잘 설명함."
-  },
-  {
-   "id": "w018",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "허혈성 심장질환의 역사적 맥락을 잘 설명함."
-  },
-  {
-   "id": "w008",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "노인과 젊은 환자의 예후를 잘 비교함."
-  },
-  {
-   "id": "w061",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "멀티모달 RAG의 기술적 진화를 잘 설명함."
-  },
-  {
-   "id": "w011",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "방어 에너지의 변화 설명이 모호함."
-  },
-  {
-   "id": "w051",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사회보험제도의 도입 이유를 잘 설명함."
-  },
-  {
-   "id": "w014",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "CMI 드링 프로토컬 설명이 모호함."
-  },
-  {
-   "id": "w065",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "문화적 차이를 잘 설명함."
-  },
-  {
-   "id": "w009",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순한 사실 나열."
-  },
-  {
-   "id": "w063",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "미국과 중국의 시장 점유율 변화를 잘 설명함."
-  },
-  {
-   "id": "w073",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "GS 벤처스의 투자 성격을 잘 설명함."
-  }
- ]
+  "batch_id": 1,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "w062",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "명확한 비교와 설명으로 질문에 잘 부합함."
+    },
+    {
+      "id": "w056",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "핵심 기술 설명은 적절하나 깊이는 부족함."
+    },
+    {
+      "id": "w027",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "실리콘밸리의 가치 설명이 적절하나 깊이는 부족."
+    },
+    {
+      "id": "w070",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "세컨더리 펀드의 특징을 잘 설명함."
+    },
+    {
+      "id": "w036",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "국제적 맥락에서의 설명이 잘 이루어짐."
+    },
+    {
+      "id": "w020",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "표적치료제의 표적 물질을 잘 나열함."
+    },
+    {
+      "id": "w047",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "정부 지원 방안에 대한 설명이 구체적임."
+    },
+    {
+      "id": "w029",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "핵심 요소를 잘 설명하였으나 깊이는 부족."
+    },
+    {
+      "id": "w055",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "달러 스마일과 프라운의 전환을 잘 설명함."
+    },
+    {
+      "id": "w058",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "인구 구성에 대한 설명이 명확함."
+    },
+    {
+      "id": "w048",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "수상 내역을 잘 설명함."
+    },
+    {
+      "id": "w001",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "무치악 환자의 범주를 잘 설명함."
+    },
+    {
+      "id": "w050",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "SAP 121의 영향을 잘 설명함."
+    },
+    {
+      "id": "w025",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "스테이블코인 교환 비율을 명확히 설명함."
+    },
+    {
+      "id": "w016",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "외상센터의 조직 구조를 잘 설명함."
+    },
+    {
+      "id": "w018",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "허혈성 심장질환의 역사적 맥락을 잘 설명함."
+    },
+    {
+      "id": "w008",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "노인과 젊은 환자의 예후를 잘 비교함."
+    },
+    {
+      "id": "w061",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "멀티모달 RAG의 기술적 진화를 잘 설명함."
+    },
+    {
+      "id": "w011",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "방어 에너지의 변화 설명이 모호함."
+    },
+    {
+      "id": "w051",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "사회보험제도의 도입 이유를 잘 설명함."
+    },
+    {
+      "id": "w014",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "CMI 드링 프로토컬 설명이 모호함."
+    },
+    {
+      "id": "w065",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "문화적 차이를 잘 설명함."
+    },
+    {
+      "id": "w009",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "단순한 사실 나열."
+    },
+    {
+      "id": "w063",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "미국과 중국의 시장 점유율 변화를 잘 설명함."
+    },
+    {
+      "id": "w073",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "GS 벤처스의 투자 성격을 잘 설명함."
+    }
+  ]
 }

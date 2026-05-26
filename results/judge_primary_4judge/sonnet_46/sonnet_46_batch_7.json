@@ -1,30 +1,280 @@
 {
   "batch_id": 7,
   "results": [
-    {"id": "q137", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "실리콘밸리/한국 AI 도입 비교 명확. 24만 레이오프 수치 등 사실적이고 비교 구조 좋음."},
-    {"id": "q117", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "ESP block 메커니즘(파셜플레인 vs 신경 직접 타겟) 정확. 마취과 전문 지식 깊이 충분."},
-    {"id": "q011", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "PRF/BMP 역할 비교 정확하고 임상 적용까지 다룸. 치과 도메인 깊이 우수."},
-    {"id": "q067", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "TBI-AKI 뇌신장축 메커니즘과 임상 결과까지 종합. 깊이 있음."},
-    {"id": "q088", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "선진국/개도국 모델 차이 명확, 몽골 사례 구체적. 회사 특수정보."},
-    {"id": "q091", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "투자계약 기원(PE vs 은행) 비교 통찰 좋음. 플립 원인 설명 우수."},
-    {"id": "q024", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "PCI 백업 유무별 케이스 구체적(SYNTAX, rotablator, ECMO). 임상 정확."},
-    {"id": "q097", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "AI 시대 이사 의무 양면 쟁점 분석 통찰적. 선관주의 의무 확장 질문."},
-    {"id": "q182", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "캐시노트 확장 순서 전략적 reasoning 충분. 데이터 축적 논리 명료."},
-    {"id": "q190", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "트럼프1기/바이든 301조 비교 정확. PNTR 박탈 등 사실 기반."},
-    {"id": "q086", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "AI 관련 법률 분야별 나열 포괄적. 다만 comparative보다 nomination(나열)에 가까움."},
-    {"id": "q181", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "q182와 동일 내용. 깊이·정확도 동일하게 우수."},
-    {"id": "q039", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "서울시 vs 금감원 핀테크 지원 역할 비교 명확. 다소 일반적 진술."},
-    {"id": "q168", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "MAKA/Genesis 팀 역할 비교 명확하나 회사 특수정보, 단순 사실 나열에 가까움."},
-    {"id": "q087", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "q088과 동일."},
-    {"id": "q185", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "q091과 동일."},
-    {"id": "q040", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "q039와 동일."},
-    {"id": "q001", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "lateral graft 후 settle-down 마이크론 단위 정량 답변. 치과 깊이 우수."},
-    {"id": "q071", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "치주인대 완충 vs 골유착 차이→자유단 보철 임상결과까지 인과 추론."},
-    {"id": "q150", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "CPP=MAP-ICP 식 정확, 척수조직압 측정 한계로 MAP 85 대용 논리 우수. 다만 sub_domain Cardio는 Neuro/SCI가 더 적합."},
-    {"id": "q114", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "수면 패턴 조정 비교 명료. 임상 권고와 일치."},
-    {"id": "q056", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "q114와 유사 주제, 악순환 메커니즘 추가 설명."},
-    {"id": "q107", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "ACDF vs corpectomy 수술 범위 차이 정확. 외과적 깊이 좋음."},
-    {"id": "q191", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "한국 AI 파급 4가지 구조 요인(인구·중소기업·수도권 집중·교육 분절) 논리적."},
-    {"id": "q166", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "다빈치 전용실 효율 비교. '수술 사회' 등 STT 오기 흔적, 인과 다소 표면적."}
+    {
+      "id": "q137",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "실리콘밸리/한국 AI 도입 비교 명확. 24만 레이오프 수치 등 사실적이고 비교 구조 좋음."
+    },
+    {
+      "id": "q117",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "ESP block 메커니즘(파셜플레인 vs 신경 직접 타겟) 정확. 마취과 전문 지식 깊이 충분."
+    },
+    {
+      "id": "q011",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "PRF/BMP 역할 비교 정확하고 임상 적용까지 다룸. 치과 도메인 깊이 우수."
+    },
+    {
+      "id": "q067",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "TBI-AKI 뇌신장축 메커니즘과 임상 결과까지 종합. 깊이 있음."
+    },
+    {
+      "id": "q088",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "선진국/개도국 모델 차이 명확, 몽골 사례 구체적. 회사 특수정보."
+    },
+    {
+      "id": "q091",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "투자계약 기원(PE vs 은행) 비교 통찰 좋음. 플립 원인 설명 우수."
+    },
+    {
+      "id": "q024",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "PCI 백업 유무별 케이스 구체적(SYNTAX, rotablator, ECMO). 임상 정확."
+    },
+    {
+      "id": "q097",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "AI 시대 이사 의무 양면 쟁점 분석 통찰적. 선관주의 의무 확장 질문."
+    },
+    {
+      "id": "q182",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "캐시노트 확장 순서 전략적 reasoning 충분. 데이터 축적 논리 명료."
+    },
+    {
+      "id": "q190",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "트럼프1기/바이든 301조 비교 정확. PNTR 박탈 등 사실 기반."
+    },
+    {
+      "id": "q086",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "AI 관련 법률 분야별 나열 포괄적. 다만 comparative보다 nomination(나열)에 가까움."
+    },
+    {
+      "id": "q181",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "q182와 동일 내용. 깊이·정확도 동일하게 우수."
+    },
+    {
+      "id": "q039",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "서울시 vs 금감원 핀테크 지원 역할 비교 명확. 다소 일반적 진술."
+    },
+    {
+      "id": "q168",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "MAKA/Genesis 팀 역할 비교 명확하나 회사 특수정보, 단순 사실 나열에 가까움."
+    },
+    {
+      "id": "q087",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q088과 동일."
+    },
+    {
+      "id": "q185",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "q091과 동일."
+    },
+    {
+      "id": "q040",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q039와 동일."
+    },
+    {
+      "id": "q001",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "lateral graft 후 settle-down 마이크론 단위 정량 답변. 치과 깊이 우수."
+    },
+    {
+      "id": "q071",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "치주인대 완충 vs 골유착 차이→자유단 보철 임상결과까지 인과 추론."
+    },
+    {
+      "id": "q150",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "CPP=MAP-ICP 식 정확, 척수조직압 측정 한계로 MAP 85 대용 논리 우수. 다만 sub_domain Cardio는 Neuro/SCI가 더 적합."
+    },
+    {
+      "id": "q114",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "수면 패턴 조정 비교 명료. 임상 권고와 일치."
+    },
+    {
+      "id": "q056",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q114와 유사 주제, 악순환 메커니즘 추가 설명."
+    },
+    {
+      "id": "q107",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "ACDF vs corpectomy 수술 범위 차이 정확. 외과적 깊이 좋음."
+    },
+    {
+      "id": "q191",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "한국 AI 파급 4가지 구조 요인(인구·중소기업·수도권 집중·교육 분절) 논리적."
+    },
+    {
+      "id": "q166",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "다빈치 전용실 효율 비교. '수술 사회' 등 STT 오기 흔적, 인과 다소 표면적."
+    }
   ]
 }

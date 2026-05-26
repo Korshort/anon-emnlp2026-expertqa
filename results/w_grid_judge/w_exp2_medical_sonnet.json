@@ -1,306 +1,281 @@
 {
- "batch_id": "w_exp2_medical",
- "judge": "sonnet",
- "results": [
-  {
-   "id": "wm001",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "크로스링크드 콜라겐 멤브레인 선호 이유(부가 수술 없이 유리치은 효과) 설명 타당. '한국 치주과 선생님들' 언급은 일반화 근거 약함. medium factoid이나 소켓 실링이 단순 재료 나열로 질문 깊이 제한적 — easy 경계."
-  },
-  {
-   "id": "wm002",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "인지·판단 작업의 필요성, 재료별 힘 조절, 센서+AI 결합 논리 흐름 적절. AI+로봇 결합의 이유를 기술적 근거로 설명. hard explanatory 라벨 적절. 답변이 구체적 사례 기반으로 설명력 있음."
-  },
-  {
-   "id": "wm003",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "비매몰 치유 선호 이유(플랩 봉합 복잡성 회피, 힐링캡 단순화)를 매몰과 대비하여 설명. 칼리브레이션 참조(q156)와 일관성 있음. medium explanatory 라벨 적절하나 단일 이유만 제시해 depth 중간."
-  },
-  {
-   "id": "wm004",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "드릴링 후 탭핑→손 삽입→40N 토크 확보 메커니즘 설명 구체적. 견치 부위의 일반적 어려움을 언급하고 극복 방법 제시. hard explanatory 라벨 적절. 외부 검증 어려운 특정 수술 기법 기술이지만 논리적으로 타당."
-  },
-  {
-   "id": "wm005",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "TBI→전신 반응→다장기 합병증 구조 명확. 과소평가 경향과 사망률 상승 인과 간결히 제시. calibration ref(idx9)와 비슷한 주제이나 이 답변은 두개외 합병증 관리에 한정되어 depth 중간. medium explanatory 라벨 적절."
-  },
-  {
-   "id": "wm006",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "신경원성 폐부종 기전: 카테콜아민→전신혈관수축→폐혈류증가→폐고혈압→모세혈관 정수압 상승→투과성 증가→체액 축적 인과사슬 명확. 구조적 병변 없음 조건 명시. medium explanatory 라벨 적절."
-  },
-  {
-   "id": "wm007",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 5,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "DE(M-mode 1~2.5cm/7~8cm)와 DTF(선형 프로브, 30% 미만 기준) 두 방법을 원리·측정법·임계값까지 포함. 전문적이고 임상적으로 정확한 내용. medium 라벨이나 실제 ICU 전문 지식 요구 — hard 경계, 라벨은 3."
-  },
-  {
-   "id": "wm008",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "DE 1cm 미만 + DTF 30% 미만 두 기준값 정확히 제시. 단순 수치 나열 factoid으로 wm007과 내용 중복. easy factoid 라벨 적절. 학습 가치는 기준값 암기 수준."
-  },
-  {
-   "id": "wm009",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "각 직종 역할 한계 + 코디네이터 간호사 역할 + 주기적 프로그램 개발 언급. 다학제 팀의 일반론적 설명으로 임상 구체성 제한적. medium explanatory 라벨 적절. 외상 특화 근거보다 일반 팀협력 논리 수준."
-  },
-  {
-   "id": "wm010",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "디텍터 위치로 인한 불편감 + 이미지 품질 저하 두 가지 단점 명확히 제시. easy factoid 라벨 적절. 답변 짧고 단순한 단점 나열 수준 — depth 낮음."
-  },
-  {
-   "id": "wm011",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "수명 연장 글로벌 경향 + 한국 2006/2018 수명 격차 축소 사례 제시. easy factoid 라벨인데 한국 특정 비교 언급이 포함되어 easy보다 medium 내용. 질문 형태는 경향 파악으로 factoid 적절하나 라벨 mismatch."
-  },
-  {
-   "id": "wm012",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 5,
-    "question_quality": 5,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "전이성 TNBC에서 PD-L1 발현 40% 한정 vs 조기 TNBC에서 PD-L1 무관 전체 적용 대비 정확. 임상적 의사결정 맥락 이해 필요한 비교형. hard comparative 라벨과 내용 일치. domain_accuracy 유방암 면역항암 전문지식 수준 높음."
-  },
-  {
-   "id": "wm013",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "ATLS 11판 XABCDE 프로토콜, X=외부출혈 통제 정확히 기술. 외상 표준 지식. easy factoid 라벨이나 ATLS 11판 개정 내용은 전문 지식 — medium이 더 적절. depth는 변경점 나열 수준."
-  },
-  {
-   "id": "wm014",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "척추후만증 해부학적 변화로 인한 일반 경추보호대 적용 시 오히려 손상 위험 설명 타당. 베개 고정 대안 제시. 골다공증·퇴행성 변화 고려 언급. hard explanatory 라벨 적절. 구체적 손상 기전 설명이 없어 depth 중간."
-  },
-  {
-   "id": "wm015",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "NOAC 실패 원인(출혈/순응도/약물상호작용/신질환) 다양하게 제시. 항응고제 병용 하 폐색술의 뇌졸중 감소 근거 언급. hard explanatory 라벨 적절. 가이드라인 권고 수준까지 포함해 임상 맥락 적절."
-  },
-  {
-   "id": "wm016",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "반감기 법칙 적용: 1일 1회→12시간 기준, 1일 2회→6시간 기준 명확히 설명. easy procedural 라벨 적절. 복용 지침 factoid으로 실용적이나 단순 절차 설명 수준."
-  },
-  {
-   "id": "wm017",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "4만3천 편 이상 논문, 연 4천 편, 아시아 1/3 이상 수치 제시. 의료 로봇 연구 현황 factoid. 수치 검증 불가. medium factoid 라벨 적절. 답변은 수치 나열 수준으로 학습 가치 낮음."
-  },
-  {
-   "id": "wm018",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "5가지 문제점(턴오버 비효율, 레이아웃, 정보 지원, 소모품 준비 지연, 간호사 역량) 나열. 목록형 factoid으로 각 항목의 설명 없음. medium factoid 라벨 적절. 단순 리스트 수준 — depth 낮음."
-  },
-  {
-   "id": "wm019",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "간호사/어시스턴트/코디네이터 팀협력 + 페리어프티브 간호사 학습 중요성 언급. 일반적 팀워크 중요성 설명으로 로봇수술 특화 이유 설명 부족. medium explanatory이나 내용은 easy 수준 — 라벨 mismatch."
-  },
-  {
-   "id": "wm020",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "다양한 성분→품질 관리·효능 증명 어려움→표준화 곤란 인과 명확. '비과학적 인식' 보충설명 적절. medium explanatory 라벨 적절. 단일 원인(성분 복잡성) 중심 설명으로 depth 중간."
-  },
-  {
-   "id": "wm021",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "BMJ 9항목 중 선정기준/등록방식 2가지만 예시. 1-5점 척도 언급은 적절. 9항목 전부를 묻는 질문에 2개 예시는 불완전. medium comparative 라벨 적절. 답변 depth 제한적 — 전반적 틀 설명에 그침."
-  },
-  {
-   "id": "wm022",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "표준화(품질 관리/용량/효능 보증) + 부작용 모니터링 시스템 두 가지 핵심 요소 제시. medium explanatory 라벨 적절. 단일 성분 서양약과의 비교 맥락 간결. 구체적 표준화 방법론 없어 depth 중간."
-  },
-  {
-   "id": "wm023",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "기간 15년→7-9년, 비용 2-3조→6천억, AI 하루 효율성 수치 제시. 수치가 매우 구체적이나 외부 검증 불가 — 과장·오류 가능성(특히 비용 수치). domain이 Bio/Env/Energy로 Med와 다름. coherence 약간 떨어짐(질문: 후보물질 발굴만, 답변: 전체 개발 기간 혼용)."
-  },
-  {
-   "id": "wm024",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "헤링 법칙(등신경지배 원칙) 정의 + 우세안 지휘관 비유로 일측 안검하수 수술 시 반대측 영향 설명. 비유가 이해를 돕지만 비유 자체를 설명으로 삼는 한계. medium explanatory 라벨 적절."
-  },
-  {
-   "id": "wm025",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "아미노산 빠른 투여→암모니아 수치 상승→부작용 원리 + 1시간 천천히 투여 처방 명확. easy procedural 라벨 적절. 단일 문장 수준으로 깊이 낮음. 핵심 사실은 정확."
-  }
- ]
+  "batch_id": "w_exp2_medical",
+  "judge": "sonnet",
+  "results": [
+    {
+      "id": "wm001",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "크로스링크드 콜라겐 멤브레인 선호 이유(부가 수술 없이 유리치은 효과) 설명 타당. '한국 치주과 선생님들' 언급은 일반화 근거 약함. medium factoid이나 소켓 실링이 단순 재료 나열로 질문 깊이 제한적 — easy 경계."
+    },
+    {
+      "id": "wm002",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "인지·판단 작업의 필요성, 재료별 힘 조절, 센서+AI 결합 논리 흐름 적절. AI+로봇 결합의 이유를 기술적 근거로 설명. hard explanatory 라벨 적절. 답변이 구체적 사례 기반으로 설명력 있음."
+    },
+    {
+      "id": "wm003",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "비매몰 치유 선호 이유(플랩 봉합 복잡성 회피, 힐링캡 단순화)를 매몰과 대비하여 설명. 칼리브레이션 참조(q156)와 일관성 있음. medium explanatory 라벨 적절하나 단일 이유만 제시해 depth 중간."
+    },
+    {
+      "id": "wm004",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "드릴링 후 탭핑→손 삽입→40N 토크 확보 메커니즘 설명 구체적. 견치 부위의 일반적 어려움을 언급하고 극복 방법 제시. hard explanatory 라벨 적절. 외부 검증 어려운 특정 수술 기법 기술이지만 논리적으로 타당."
+    },
+    {
+      "id": "wm005",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "TBI→전신 반응→다장기 합병증 구조 명확. 과소평가 경향과 사망률 상승 인과 간결히 제시. calibration ref(idx9)와 비슷한 주제이나 이 답변은 두개외 합병증 관리에 한정되어 depth 중간. medium explanatory 라벨 적절."
+    },
+    {
+      "id": "wm006",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "신경원성 폐부종 기전: 카테콜아민→전신혈관수축→폐혈류증가→폐고혈압→모세혈관 정수압 상승→투과성 증가→체액 축적 인과사슬 명확. 구조적 병변 없음 조건 명시. medium explanatory 라벨 적절."
+    },
+    {
+      "id": "wm007",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "DE(M-mode 1~2.5cm/7~8cm)와 DTF(선형 프로브, 30% 미만 기준) 두 방법을 원리·측정법·임계값까지 포함. 전문적이고 임상적으로 정확한 내용. medium 라벨이나 실제 ICU 전문 지식 요구 — hard 경계, 라벨은 3."
+    },
+    {
+      "id": "wm008",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "DE 1cm 미만 + DTF 30% 미만 두 기준값 정확히 제시. 단순 수치 나열 factoid으로 wm007과 내용 중복. easy factoid 라벨 적절. 학습 가치는 기준값 암기 수준."
+    },
+    {
+      "id": "wm009",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "각 직종 역할 한계 + 코디네이터 간호사 역할 + 주기적 프로그램 개발 언급. 다학제 팀의 일반론적 설명으로 임상 구체성 제한적. medium explanatory 라벨 적절. 외상 특화 근거보다 일반 팀협력 논리 수준."
+    },
+    {
+      "id": "wm010",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "디텍터 위치로 인한 불편감 + 이미지 품질 저하 두 가지 단점 명확히 제시. easy factoid 라벨 적절. 답변 짧고 단순한 단점 나열 수준 — depth 낮음."
+    },
+    {
+      "id": "wm011",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "수명 연장 글로벌 경향 + 한국 2006/2018 수명 격차 축소 사례 제시. easy factoid 라벨인데 한국 특정 비교 언급이 포함되어 easy보다 medium 내용. 질문 형태는 경향 파악으로 factoid 적절하나 라벨 mismatch."
+    },
+    {
+      "id": "wm012",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "전이성 TNBC에서 PD-L1 발현 40% 한정 vs 조기 TNBC에서 PD-L1 무관 전체 적용 대비 정확. 임상적 의사결정 맥락 이해 필요한 비교형. hard comparative 라벨과 내용 일치. domain_accuracy 유방암 면역항암 전문지식 수준 높음."
+    },
+    {
+      "id": "wm013",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "ATLS 11판 XABCDE 프로토콜, X=외부출혈 통제 정확히 기술. 외상 표준 지식. easy factoid 라벨이나 ATLS 11판 개정 내용은 전문 지식 — medium이 더 적절. depth는 변경점 나열 수준."
+    },
+    {
+      "id": "wm014",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "척추후만증 해부학적 변화로 인한 일반 경추보호대 적용 시 오히려 손상 위험 설명 타당. 베개 고정 대안 제시. 골다공증·퇴행성 변화 고려 언급. hard explanatory 라벨 적절. 구체적 손상 기전 설명이 없어 depth 중간."
+    },
+    {
+      "id": "wm015",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "NOAC 실패 원인(출혈/순응도/약물상호작용/신질환) 다양하게 제시. 항응고제 병용 하 폐색술의 뇌졸중 감소 근거 언급. hard explanatory 라벨 적절. 가이드라인 권고 수준까지 포함해 임상 맥락 적절."
+    },
+    {
+      "id": "wm016",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "반감기 법칙 적용: 1일 1회→12시간 기준, 1일 2회→6시간 기준 명확히 설명. easy procedural 라벨 적절. 복용 지침 factoid으로 실용적이나 단순 절차 설명 수준."
+    },
+    {
+      "id": "wm017",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "4만3천 편 이상 논문, 연 4천 편, 아시아 1/3 이상 수치 제시. 의료 로봇 연구 현황 factoid. 수치 검증 불가. medium factoid 라벨 적절. 답변은 수치 나열 수준으로 학습 가치 낮음."
+    },
+    {
+      "id": "wm018",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "5가지 문제점(턴오버 비효율, 레이아웃, 정보 지원, 소모품 준비 지연, 간호사 역량) 나열. 목록형 factoid으로 각 항목의 설명 없음. medium factoid 라벨 적절. 단순 리스트 수준 — depth 낮음."
+    },
+    {
+      "id": "wm019",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "간호사/어시스턴트/코디네이터 팀협력 + 페리어프티브 간호사 학습 중요성 언급. 일반적 팀워크 중요성 설명으로 로봇수술 특화 이유 설명 부족. medium explanatory이나 내용은 easy 수준 — 라벨 mismatch."
+    },
+    {
+      "id": "wm020",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "다양한 성분→품질 관리·효능 증명 어려움→표준화 곤란 인과 명확. '비과학적 인식' 보충설명 적절. medium explanatory 라벨 적절. 단일 원인(성분 복잡성) 중심 설명으로 depth 중간."
+    },
+    {
+      "id": "wm021",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "BMJ 9항목 중 선정기준/등록방식 2가지만 예시. 1-5점 척도 언급은 적절. 9항목 전부를 묻는 질문에 2개 예시는 불완전. medium comparative 라벨 적절. 답변 depth 제한적 — 전반적 틀 설명에 그침."
+    },
+    {
+      "id": "wm022",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "표준화(품질 관리/용량/효능 보증) + 부작용 모니터링 시스템 두 가지 핵심 요소 제시. medium explanatory 라벨 적절. 단일 성분 서양약과의 비교 맥락 간결. 구체적 표준화 방법론 없어 depth 중간."
+    },
+    {
+      "id": "wm023",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "기간 15년→7-9년, 비용 2-3조→6천억, AI 하루 효율성 수치 제시. 수치가 매우 구체적이나 외부 검증 불가 — 과장·오류 가능성(특히 비용 수치). domain이 Bio/Env/Energy로 Med와 다름. coherence 약간 떨어짐(질문: 후보물질 발굴만, 답변: 전체 개발 기간 혼용)."
+    },
+    {
+      "id": "wm024",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "헤링 법칙(등신경지배 원칙) 정의 + 우세안 지휘관 비유로 일측 안검하수 수술 시 반대측 영향 설명. 비유가 이해를 돕지만 비유 자체를 설명으로 삼는 한계. medium explanatory 라벨 적절."
+    },
+    {
+      "id": "wm025",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "아미노산 빠른 투여→암모니아 수치 상승→부작용 원리 + 1시간 천천히 투여 처방 명확. easy procedural 라벨 적절. 단일 문장 수준으로 깊이 낮음. 핵심 사실은 정확."
+    }
+  ]
 }

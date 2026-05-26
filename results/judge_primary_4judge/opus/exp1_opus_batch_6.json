@@ -2,30 +2,280 @@
   "batch_id": 6,
   "judge_label": "claude-opus-via-task-tool",
   "results": [
-    {"id":"q119","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"PRF 멤브레인 제조·활용 procedural 적절"},
-    {"id":"q089","scores":{"faithfulness":3,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"부처 분산 사실 기술, '취급교육체제' 오타 의심"},
-    {"id":"q068","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":3,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"스케줄 확대 단계 명확 factoid"},
-    {"id":"q053","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":4,"difficulty_calibration":4},"rationale_brief":"치과 교합 검사 절차 정확하고 근거 제시"},
-    {"id":"q090","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":5,"difficulty_calibration":4},"rationale_brief":"SDT 다각화 배경 명료"},
-    {"id":"q094","scores":{"faithfulness":3,"domain_accuracy":2,"question_quality":3,"answer_depth":2,"coherence":3,"difficulty_calibration":3},"rationale_brief":"답이 너무 짧고 메커니즘 부족"},
-    {"id":"q041","scores":{"faithfulness":3,"domain_accuracy":2,"question_quality":3,"answer_depth":2,"coherence":4,"difficulty_calibration":3},"rationale_brief":"한 문장 평가, 구체 근거 없음"},
-    {"id":"q093","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":4,"difficulty_calibration":4},"rationale_brief":"FIRRMA·22년 수출통제 인용 정확"},
-    {"id":"q116","scores":{"faithfulness":3,"domain_accuracy":2,"question_quality":4,"answer_depth":3,"coherence":3,"difficulty_calibration":3},"rationale_brief":"'두크레인젤'·'레나일' 등 표기 오류"},
-    {"id":"q199","scores":{"faithfulness":4,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":3},"rationale_brief":"구버 비용 효율 수치 명확"},
-    {"id":"q157","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":5,"answer_depth":4,"coherence":4,"difficulty_calibration":4},"rationale_brief":"IHC/NGS/RT-PCR/BRCA 검사 분류 정확"},
-    {"id":"q025","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":3,"difficulty_calibration":4},"rationale_brief":"high/low context 프레임 적절"},
-    {"id":"q180","scores":{"faithfulness":3,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":3,"difficulty_calibration":3},"rationale_brief":"3단계 표면적, 리트리벌 선택 단계 불명확"},
-    {"id":"q147","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":4,"coherence":4,"difficulty_calibration":4},"rationale_brief":"하이테크/하이터치 비유와 SEL 연결 자연"},
-    {"id":"q074","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"부가가치 1·10·100·1000·10000배 단계 명확"},
-    {"id":"q058","scores":{"faithfulness":3,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":3},"rationale_brief":"비교 답변 마케팅 톤, 대비 약함"},
-    {"id":"q152","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"20.3% 수치 등 사실 적절"},
-    {"id":"q017","scores":{"faithfulness":3,"domain_accuracy":3,"question_quality":3,"answer_depth":2,"coherence":3,"difficulty_calibration":3},"rationale_brief":"교육 프로그램 기능 추상적, 마케팅 톤"},
-    {"id":"q049","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"저탄소 전환 논리 일관, 사례 부족"},
-    {"id":"q092","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"동질문화 vs niche 비교 적절"},
-    {"id":"q075","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":3},"rationale_brief":"ASPI 37/7 수치 인용"},
-    {"id":"q141","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"세이브더칠드런 프로그램 목적·방법·일정 충실"},
-    {"id":"q020","scores":{"faithfulness":4,"domain_accuracy":3,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"회복 수치 기준 다소 임의적"},
-    {"id":"q096","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":4,"answer_depth":3,"coherence":4,"difficulty_calibration":4},"rationale_brief":"제작비 격차 인용, 영향 분석 표면적"},
-    {"id":"q031","scores":{"faithfulness":4,"domain_accuracy":4,"question_quality":5,"answer_depth":4,"coherence":5,"difficulty_calibration":4},"rationale_brief":"3 위험(에이전트·유저·머천트) 대응 균형"}
+    {
+      "id": "q119",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "PRF 멤브레인 제조·활용 procedural 적절"
+    },
+    {
+      "id": "q089",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "부처 분산 사실 기술, '취급교육체제' 오타 의심"
+    },
+    {
+      "id": "q068",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "스케줄 확대 단계 명확 factoid"
+    },
+    {
+      "id": "q053",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "치과 교합 검사 절차 정확하고 근거 제시"
+    },
+    {
+      "id": "q090",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "SDT 다각화 배경 명료"
+    },
+    {
+      "id": "q094",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3
+      },
+      "rationale_brief": "답이 너무 짧고 메커니즘 부족"
+    },
+    {
+      "id": "q041",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "한 문장 평가, 구체 근거 없음"
+    },
+    {
+      "id": "q093",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "FIRRMA·22년 수출통제 인용 정확"
+    },
+    {
+      "id": "q116",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "'두크레인젤'·'레나일' 등 표기 오류"
+    },
+    {
+      "id": "q199",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "구버 비용 효율 수치 명확"
+    },
+    {
+      "id": "q157",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "IHC/NGS/RT-PCR/BRCA 검사 분류 정확"
+    },
+    {
+      "id": "q025",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "high/low context 프레임 적절"
+    },
+    {
+      "id": "q180",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "3단계 표면적, 리트리벌 선택 단계 불명확"
+    },
+    {
+      "id": "q147",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "하이테크/하이터치 비유와 SEL 연결 자연"
+    },
+    {
+      "id": "q074",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "부가가치 1·10·100·1000·10000배 단계 명확"
+    },
+    {
+      "id": "q058",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "비교 답변 마케팅 톤, 대비 약함"
+    },
+    {
+      "id": "q152",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "20.3% 수치 등 사실 적절"
+    },
+    {
+      "id": "q017",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3
+      },
+      "rationale_brief": "교육 프로그램 기능 추상적, 마케팅 톤"
+    },
+    {
+      "id": "q049",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "저탄소 전환 논리 일관, 사례 부족"
+    },
+    {
+      "id": "q092",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "동질문화 vs niche 비교 적절"
+    },
+    {
+      "id": "q075",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "ASPI 37/7 수치 인용"
+    },
+    {
+      "id": "q141",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "세이브더칠드런 프로그램 목적·방법·일정 충실"
+    },
+    {
+      "id": "q020",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "회복 수치 기준 다소 임의적"
+    },
+    {
+      "id": "q096",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "제작비 격차 인용, 영향 분석 표면적"
+    },
+    {
+      "id": "q031",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "3 위험(에이전트·유저·머천트) 대응 균형"
+    }
   ]
 }

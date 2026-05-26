@@ -1,306 +1,281 @@
 {
- "batch_id": "w_exp2_medical",
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "wm001",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "답변이 사실적이고 도메인 정확성이 높으며, 질문과 답변의 연결성이 좋음."
-  },
-  {
-   "id": "wm002",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "AI와 로봇의 결합에 대한 설명이 잘 되어 있으며, 질문의 학습 가치가 높음."
-  },
-  {
-   "id": "wm003",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비매몰 치유의 장점에 대한 설명이 명확하고, 질문의 학습 가치가 높음."
-  },
-  {
-   "id": "wm004",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "즉시 식립 및 로딩의 기술적 이유가 잘 설명되어 있음."
-  },
-  {
-   "id": "wm005",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "두개외 합병증 관리의 중요성이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm006",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "신경원성 폐부종의 기전과 특징이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm007",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "초음파 방법의 원리가 잘 설명되어 있음."
-  },
-  {
-   "id": "wm008",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "기준값에 대한 설명이 명확하며, 질문과 답변의 연결성이 좋음."
-  },
-  {
-   "id": "wm009",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "다학제 팀 접근법의 중요성이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm010",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "카메라형 포터블 엑스선의 단점이 명확히 설명됨."
-  },
-  {
-   "id": "wm011",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "당뇨병 환자의 수명 변화 경향이 명확히 설명됨."
-  },
-  {
-   "id": "wm012",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "면역치료제 적용 기준의 차이가 잘 설명되어 있음."
-  },
-  {
-   "id": "wm013",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "ATLS 11판의 변경점이 명확히 설명됨."
-  },
-  {
-   "id": "wm014",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "경추 보호대 적용의 문제점이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm015",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "좌심방이 폐색술의 권장 이유가 잘 설명되어 있음."
-  },
-  {
-   "id": "wm016",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "항응고제 복용 놓친 경우의 대처법이 명확히 설명됨."
-  },
-  {
-   "id": "wm017",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "다빈치 연구 논문의 현황과 아시아의 기여도가 명확히 설명됨."
-  },
-  {
-   "id": "wm018",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "로봇 수술실 회전시간 개선의 문제점이 명확히 설명됨."
-  },
-  {
-   "id": "wm019",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "로봇수술에서 팀워크의 중요성이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm020",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "천연물 의약품 표준화의 어려움이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm021",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "실용적 임상시험과 설명적 임상시험의 차이가 잘 설명되어 있음."
-  },
-  {
-   "id": "wm022",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "천연물 의약품의 서양 의약품과의 동등성 확보 방법이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm023",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "AI를 활용한 신약개발의 효율성이 명확히 설명됨."
-  },
-  {
-   "id": "wm024",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "헤링의 법칙과 그 영향이 잘 설명되어 있음."
-  },
-  {
-   "id": "wm025",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "글루타민 주사제 투여 시 부작용 방지 방법이 명확히 설명됨."
-  }
- ]
+  "batch_id": "w_exp2_medical",
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "wm001",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "답변이 사실적이고 도메인 정확성이 높으며, 질문과 답변의 연결성이 좋음."
+    },
+    {
+      "id": "wm002",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "AI와 로봇의 결합에 대한 설명이 잘 되어 있으며, 질문의 학습 가치가 높음."
+    },
+    {
+      "id": "wm003",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비매몰 치유의 장점에 대한 설명이 명확하고, 질문의 학습 가치가 높음."
+    },
+    {
+      "id": "wm004",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "즉시 식립 및 로딩의 기술적 이유가 잘 설명되어 있음."
+    },
+    {
+      "id": "wm005",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "두개외 합병증 관리의 중요성이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm006",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "신경원성 폐부종의 기전과 특징이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm007",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "초음파 방법의 원리가 잘 설명되어 있음."
+    },
+    {
+      "id": "wm008",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "기준값에 대한 설명이 명확하며, 질문과 답변의 연결성이 좋음."
+    },
+    {
+      "id": "wm009",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "다학제 팀 접근법의 중요성이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm010",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "카메라형 포터블 엑스선의 단점이 명확히 설명됨."
+    },
+    {
+      "id": "wm011",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "당뇨병 환자의 수명 변화 경향이 명확히 설명됨."
+    },
+    {
+      "id": "wm012",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "면역치료제 적용 기준의 차이가 잘 설명되어 있음."
+    },
+    {
+      "id": "wm013",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "ATLS 11판의 변경점이 명확히 설명됨."
+    },
+    {
+      "id": "wm014",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "경추 보호대 적용의 문제점이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm015",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "좌심방이 폐색술의 권장 이유가 잘 설명되어 있음."
+    },
+    {
+      "id": "wm016",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "항응고제 복용 놓친 경우의 대처법이 명확히 설명됨."
+    },
+    {
+      "id": "wm017",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "다빈치 연구 논문의 현황과 아시아의 기여도가 명확히 설명됨."
+    },
+    {
+      "id": "wm018",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "로봇 수술실 회전시간 개선의 문제점이 명확히 설명됨."
+    },
+    {
+      "id": "wm019",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "로봇수술에서 팀워크의 중요성이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm020",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "천연물 의약품 표준화의 어려움이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm021",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "실용적 임상시험과 설명적 임상시험의 차이가 잘 설명되어 있음."
+    },
+    {
+      "id": "wm022",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "천연물 의약품의 서양 의약품과의 동등성 확보 방법이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm023",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "AI를 활용한 신약개발의 효율성이 명확히 설명됨."
+    },
+    {
+      "id": "wm024",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "헤링의 법칙과 그 영향이 잘 설명되어 있음."
+    },
+    {
+      "id": "wm025",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "글루타민 주사제 투여 시 부작용 방지 방법이 명확히 설명됨."
+    }
+  ]
 }

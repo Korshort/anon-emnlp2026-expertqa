@@ -1,306 +1,281 @@
 {
- "batch_id": 3,
- "judge": "gpt54",
- "results": [
-  {
-   "id": "w043",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "질문-답변 정합성은 높지만 단순 나열형 factoid이며 출처 맥락이 없어 전문 정확성은 보통 수준."
-  },
-  {
-   "id": "w024",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "개념 설명은 자연스럽지만 임상 의학보다는 심리/명상 개념에 가까워 도메인 정확성 평가는 제한적."
-  },
-  {
-   "id": "w069",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "원격 모니터링이 별도 장비 없이 병원검사와 동등한 진단을 제공한다는 단정은 과장 가능성이 큼."
-  },
-  {
-   "id": "w003",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "외상 간호사의 연속성 유지 메커니즘을 단계별·협업 관점에서 잘 설명함."
-  },
-  {
-   "id": "w012",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 5,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "비교 질문 자체는 고급이지만 자연치 elongation에 의한 자연 보상 등 일부 서술은 일반화가 강함."
-  },
-  {
-   "id": "w072",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "의도는 맞지만 매우 일반적이고 단순한 이유 제시 수준이다."
-  },
-  {
-   "id": "w046",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "해외 지분투자 변화 방향은 제시하나 구체 근거와 비교축이 다소 불명확하다."
-  },
-  {
-   "id": "w034",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "지원 유형 나열은 적절하나 '어떻게 다른가'에 대한 비교 구조가 약해 hard 난도치고 단순하다."
-  },
-  {
-   "id": "w005",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 1,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "질문은 비교형이나 답이 지나치게 단순하며 심장병 발생률 감소 일반화는 맥락 따라 부정확할 수 있다."
-  },
-  {
-   "id": "w023",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "AI가 전체 개발기간과 비용을 이 정도로 직접 단축한다는 수치가 과도하게 단정적이며 단계 구분도 혼재됨."
-  },
-  {
-   "id": "w054",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "w043과 유사한 단순 시나리오 나열형으로 학습가치는 제한적이다."
-  },
-  {
-   "id": "w028",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "목표와 KPI 구분의 이유를 사례와 함께 설명해 관리 관점 학습가치가 있다."
-  },
-  {
-   "id": "w059",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "아동 난민의 특수 어려움을 성인과 대비해 설명하며 내용도 무난하다."
-  },
-  {
-   "id": "w010",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "2017년 법·제도 변화 설명이 단선적이고 사실관계도 불명확해 전문 정확성이 낮다."
-  },
-  {
-   "id": "w042",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "가능한 설명이지만 네트워크 효과·규제·언어시장 등 핵심 요인이 빠져 답의 설명력이 제한적이다."
-  },
-  {
-   "id": "w026",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "수치와 배경 설명은 그럴듯하나 시점의존적 확률값이라 검증 가능성이 낮고 medium보단 시사성 fact 확인형에 가깝다."
-  },
-  {
-   "id": "w032",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 1,
-    "coherence": 3,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "직접 이유가 없다고 하면서 자본 격차로 추정해 답해 근거 부족과 추론 비약이 크다."
-  },
-  {
-   "id": "w031",
-   "scores": {
-    "faithfulness": 1,
-    "domain_accuracy": 1,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "가격·산란·출하가치 수치가 비현실적이며 생물·양식 경제성 설명도 신뢰하기 어렵다."
-  },
-  {
-   "id": "w049",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "프로그램 명칭을 묻는 쉬운 factoid에 충실하게 답했다."
-  },
-  {
-   "id": "w017",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "전반 취지는 맞지만 PICC tip 이상적 위치를 우심방-SVC 접합/카리나 하방 5cm로 단정한 표현은 다소 거칠다."
-  },
-  {
-   "id": "w067",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "전환비용의 분배와 공정성 문제를 구조적으로 설명해 타당하다."
-  },
-  {
-   "id": "w074",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "쇼핑 내 AI 에이전트 기능을 핵심 단계별로 정리했으나 설명은 개괄적이다."
-  },
-  {
-   "id": "w053",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "기관 미션 설명이 역사적 유비에 크게 의존하며 구체 연구과제보다 과장된 일반론에 머문다."
-  },
-  {
-   "id": "w052",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "CFO의 상장 준비 실무와 대외 커뮤니케이션 역할을 구분해 비교적 충실하게 설명했다."
-  },
-  {
-   "id": "w071",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "북부·남부 산업 분포 비교는 직접적이지만 제시 비율의 근거가 불분명해 정확성은 보통 수준."
-  }
- ]
+  "batch_id": 3,
+  "judge": "gpt54",
+  "results": [
+    {
+      "id": "w043",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "질문-답변 정합성은 높지만 단순 나열형 factoid이며 출처 맥락이 없어 전문 정확성은 보통 수준."
+    },
+    {
+      "id": "w024",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "개념 설명은 자연스럽지만 임상 의학보다는 심리/명상 개념에 가까워 도메인 정확성 평가는 제한적."
+    },
+    {
+      "id": "w069",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "원격 모니터링이 별도 장비 없이 병원검사와 동등한 진단을 제공한다는 단정은 과장 가능성이 큼."
+    },
+    {
+      "id": "w003",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "외상 간호사의 연속성 유지 메커니즘을 단계별·협업 관점에서 잘 설명함."
+    },
+    {
+      "id": "w012",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "비교 질문 자체는 고급이지만 자연치 elongation에 의한 자연 보상 등 일부 서술은 일반화가 강함."
+    },
+    {
+      "id": "w072",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "의도는 맞지만 매우 일반적이고 단순한 이유 제시 수준이다."
+    },
+    {
+      "id": "w046",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "해외 지분투자 변화 방향은 제시하나 구체 근거와 비교축이 다소 불명확하다."
+    },
+    {
+      "id": "w034",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "지원 유형 나열은 적절하나 '어떻게 다른가'에 대한 비교 구조가 약해 hard 난도치고 단순하다."
+    },
+    {
+      "id": "w005",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 4
+      },
+      "rationale_brief": "질문은 비교형이나 답이 지나치게 단순하며 심장병 발생률 감소 일반화는 맥락 따라 부정확할 수 있다."
+    },
+    {
+      "id": "w023",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "AI가 전체 개발기간과 비용을 이 정도로 직접 단축한다는 수치가 과도하게 단정적이며 단계 구분도 혼재됨."
+    },
+    {
+      "id": "w054",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "w043과 유사한 단순 시나리오 나열형으로 학습가치는 제한적이다."
+    },
+    {
+      "id": "w028",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "목표와 KPI 구분의 이유를 사례와 함께 설명해 관리 관점 학습가치가 있다."
+    },
+    {
+      "id": "w059",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "아동 난민의 특수 어려움을 성인과 대비해 설명하며 내용도 무난하다."
+    },
+    {
+      "id": "w010",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "2017년 법·제도 변화 설명이 단선적이고 사실관계도 불명확해 전문 정확성이 낮다."
+    },
+    {
+      "id": "w042",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "가능한 설명이지만 네트워크 효과·규제·언어시장 등 핵심 요인이 빠져 답의 설명력이 제한적이다."
+    },
+    {
+      "id": "w026",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "수치와 배경 설명은 그럴듯하나 시점의존적 확률값이라 검증 가능성이 낮고 medium보단 시사성 fact 확인형에 가깝다."
+    },
+    {
+      "id": "w032",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 3
+      },
+      "rationale_brief": "직접 이유가 없다고 하면서 자본 격차로 추정해 답해 근거 부족과 추론 비약이 크다."
+    },
+    {
+      "id": "w031",
+      "scores": {
+        "faithfulness": 1,
+        "domain_accuracy": 1,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "가격·산란·출하가치 수치가 비현실적이며 생물·양식 경제성 설명도 신뢰하기 어렵다."
+    },
+    {
+      "id": "w049",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "프로그램 명칭을 묻는 쉬운 factoid에 충실하게 답했다."
+    },
+    {
+      "id": "w017",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "전반 취지는 맞지만 PICC tip 이상적 위치를 우심방-SVC 접합/카리나 하방 5cm로 단정한 표현은 다소 거칠다."
+    },
+    {
+      "id": "w067",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "전환비용의 분배와 공정성 문제를 구조적으로 설명해 타당하다."
+    },
+    {
+      "id": "w074",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "쇼핑 내 AI 에이전트 기능을 핵심 단계별로 정리했으나 설명은 개괄적이다."
+    },
+    {
+      "id": "w053",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "기관 미션 설명이 역사적 유비에 크게 의존하며 구체 연구과제보다 과장된 일반론에 머문다."
+    },
+    {
+      "id": "w052",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "CFO의 상장 준비 실무와 대외 커뮤니케이션 역할을 구분해 비교적 충실하게 설명했다."
+    },
+    {
+      "id": "w071",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "북부·남부 산업 분포 비교는 직접적이지만 제시 비율의 근거가 불분명해 정확성은 보통 수준."
+    }
+  ]
 }

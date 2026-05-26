@@ -1,30 +1,280 @@
 {
   "batch_id": 4,
   "results": [
-    {"id": "q046", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Comparative framing reasonable; oversimplifies 'middle income trap' escape claim but generally accurate."},
-    {"id": "q104", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Clear before/after comparison with concrete details on challenges and outcomes."},
-    {"id": "q079", "scores": {"faithfulness": 3, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Quantitative comparison of inflection points; figures unverifiable but well-structured."},
-    {"id": "q054", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Distinction is informal/colloquial; not aligned with NLP technical definitions of reading comprehension vs NLU."},
-    {"id": "q196", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Coherent cultural-market comparison with concrete examples (Pororo, Polly)."},
-    {"id": "q085", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Identifies common ground and divergence with policy specifics; PNTR claim plausible."},
-    {"id": "q118", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Accurate anatomical reasoning for ESPB safety profile over paravertebral block."},
-    {"id": "q109", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Sensible advice but oversimplified; doesn't fully address chronotype science."},
-    {"id": "q133", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "Numerical claim (24만 layoffs) approximate but reasonable; comparative structure clear."},
-    {"id": "q142", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Two areas listed clearly but limited depth; specific company details unverifiable."},
-    {"id": "q033", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Generic AI-agent benefits framing; product names mentioned without strong differentiation analysis."},
-    {"id": "q018", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Concrete clinical thresholds (SYNTAX 33, ECMO transfer criteria) accurately presented."},
-    {"id": "q140", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Brief comparison; limited depth on what '240 program' specifically does."},
-    {"id": "q123", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Procedurally accurate with correct landmarks (AIIS/DCIA), needle direction, and drug volume."},
-    {"id": "q175", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Two-part comparison (adoption pattern + literacy) with thoughtful counter-intuitive observation."},
-    {"id": "q063", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "'Buccal artery' romanization unusual; anatomical claim plausible but verification limited."},
-    {"id": "q083", "scores": {"faithfulness": 3, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Origin-based contrast (PE vs bank lineage) is insightful; liquidation preference reference accurate."},
-    {"id": "q148", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Mentions growth rate (15% vs 11%) but limited supporting depth; explanatory adequate."},
-    {"id": "q100", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Correct nerve targets for PENG (femoral, accessory obturator, obturator) vs FICB; clean comparison."},
-    {"id": "q155", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "Duplicate of q054 in content; same informal-rather-than-technical framing."},
-    {"id": "q072", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Standard accurate explanation; somewhat textbook-level, not deeply hard."},
-    {"id": "q027", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "G2→G1 framing debatable; provides reasoning for China/EU structural issues."},
-    {"id": "q184", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Duplicate of q085 content; same accurate trade-policy comparison."},
-    {"id": "q112", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "Mechanistic reasoning (α1 + β1 effects) for norepinephrine in neurogenic shock is accurate."},
-    {"id": "q051", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3}, "rationale_brief": "Role/composition contrast clear; specific staff numbers and program details unverifiable but plausible."}
+    {
+      "id": "q046",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Comparative framing reasonable; oversimplifies 'middle income trap' escape claim but generally accurate."
+    },
+    {
+      "id": "q104",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Clear before/after comparison with concrete details on challenges and outcomes."
+    },
+    {
+      "id": "q079",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Quantitative comparison of inflection points; figures unverifiable but well-structured."
+    },
+    {
+      "id": "q054",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Distinction is informal/colloquial; not aligned with NLP technical definitions of reading comprehension vs NLU."
+    },
+    {
+      "id": "q196",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Coherent cultural-market comparison with concrete examples (Pororo, Polly)."
+    },
+    {
+      "id": "q085",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Identifies common ground and divergence with policy specifics; PNTR claim plausible."
+    },
+    {
+      "id": "q118",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Accurate anatomical reasoning for ESPB safety profile over paravertebral block."
+    },
+    {
+      "id": "q109",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Sensible advice but oversimplified; doesn't fully address chronotype science."
+    },
+    {
+      "id": "q133",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Numerical claim (24만 layoffs) approximate but reasonable; comparative structure clear."
+    },
+    {
+      "id": "q142",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Two areas listed clearly but limited depth; specific company details unverifiable."
+    },
+    {
+      "id": "q033",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Generic AI-agent benefits framing; product names mentioned without strong differentiation analysis."
+    },
+    {
+      "id": "q018",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Concrete clinical thresholds (SYNTAX 33, ECMO transfer criteria) accurately presented."
+    },
+    {
+      "id": "q140",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "Brief comparison; limited depth on what '240 program' specifically does."
+    },
+    {
+      "id": "q123",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Procedurally accurate with correct landmarks (AIIS/DCIA), needle direction, and drug volume."
+    },
+    {
+      "id": "q175",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Two-part comparison (adoption pattern + literacy) with thoughtful counter-intuitive observation."
+    },
+    {
+      "id": "q063",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "'Buccal artery' romanization unusual; anatomical claim plausible but verification limited."
+    },
+    {
+      "id": "q083",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Origin-based contrast (PE vs bank lineage) is insightful; liquidation preference reference accurate."
+    },
+    {
+      "id": "q148",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Mentions growth rate (15% vs 11%) but limited supporting depth; explanatory adequate."
+    },
+    {
+      "id": "q100",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Correct nerve targets for PENG (femoral, accessory obturator, obturator) vs FICB; clean comparison."
+    },
+    {
+      "id": "q155",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "Duplicate of q054 in content; same informal-rather-than-technical framing."
+    },
+    {
+      "id": "q072",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Standard accurate explanation; somewhat textbook-level, not deeply hard."
+    },
+    {
+      "id": "q027",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "G2→G1 framing debatable; provides reasoning for China/EU structural issues."
+    },
+    {
+      "id": "q184",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Duplicate of q085 content; same accurate trade-policy comparison."
+    },
+    {
+      "id": "q112",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "Mechanistic reasoning (α1 + β1 effects) for norepinephrine in neurogenic shock is accurate."
+    },
+    {
+      "id": "q051",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "Role/composition contrast clear; specific staff numbers and program details unverifiable but plausible."
+    }
   ]
 }

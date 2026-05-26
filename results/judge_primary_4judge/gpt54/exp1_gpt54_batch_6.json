@@ -1,306 +1,281 @@
 {
- "batch_id": 6,
- "judge": "gpt54",
- "results": [
-  {
-   "id": "q119",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "PRF 멤브레인 제조와 활용을 직접 답했으며 치과적 내용도 대체로 타당하나 세부 조건이 다소 단순화됨."
-  },
-  {
-   "id": "q089",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "부처 분산 구조를 개괄하나 용어가 부정확하고 최신 정부조직 명칭 기준으로 다소 모호함."
-  },
-  {
-   "id": "q068",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "질문에는 맞지만 24시간·주말 확대 등은 근거 불명으로 보이며 의료 운영 사실성 검증이 약함."
-  },
-  {
-   "id": "q053",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "양측 동시 검사 권장 이유를 설명해 절차적 답변으로 적절하며 치과 교합 평가 문맥도 자연스러움."
-  },
-  {
-   "id": "q090",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사업 다각화 이유를 간단명료하게 답한 사실형 문항으로 난도와 유형이 잘 맞음."
-  },
-  {
-   "id": "q094",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 1,
-    "coherence": 3,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "할루시네이션과 창의성의 관계를 지나치게 단정하며 개념 구분이 부정확하고 설명도 매우 빈약함."
-  },
-  {
-   "id": "q041",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 4,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "평가를 묻는 질문에 매우 일반적 의견만 제시해 정보량이 적고 근거가 없음."
-  },
-  {
-   "id": "q093",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "FIRRMA, 투자규제, 반도체 수출통제 등 핵심 정책수단을 정확하고 구조적으로 설명함."
-  },
-  {
-   "id": "q116",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 3,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "문항은 의미 있으나 답변에 오타·용어 혼란이 심하고 CRRT 적용 기준도 불명확해 임상 정확성이 떨어짐."
-  },
-  {
-   "id": "q199",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "운영비 수치 중심 답변으로 질문에는 맞지만 비교 기준과 검증 가능성이 부족하고 medium보다는 easy에 가까움."
-  },
-  {
-   "id": "q157",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "주요 검사들을 폭넓게 언급했으나 RT-PCR 대상 유전자 표기 오류 가능성과 절차형보다는 분류형 질문에 가까움."
-  },
-  {
-   "id": "q025",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "하이/로우 컨텍스트 문화 차이를 UX 카피라이팅에 연결해 설명해 유의미하나 다소 일반화가 있음."
-  },
-  {
-   "id": "q180",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "3단계를 나열했지만 RAG 평가·파인튜닝 개념이 혼재되어 있고 의료 AI 전문성이 부족함."
-  },
-  {
-   "id": "q147",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "AI 의존과 인간 상호작용의 균형 필요성을 교육적으로 잘 설명했으나 신경과학적 단정은 다소 약함."
-  },
-  {
-   "id": "q074",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "가공 단계별 부가가치를 비교해 답했으나 수치가 지나치게 단순화된 경험칙 수준임."
-  },
-  {
-   "id": "q058",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "기술 제공과 통합 생태계 접근의 차이를 적절히 비교했지만 대비점이 더 구체적이면 좋았음."
-  },
-  {
-   "id": "q152",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "한국이 일본보다 고령화 속도가 빠르다는 비교는 타당하며 수치도 그럴듯하나 정의가 다소 단순함."
-  },
-  {
-   "id": "q017",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "주요 기능을 요약했으나 매우 홍보문구적이고 medium보다는 easy factoid에 가까움."
-  },
-  {
-   "id": "q049",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "저탄소 전환에서 기술과 금융의 상호보완적 필요성을 현실 제약과 연결해 잘 설명함."
-  },
-  {
-   "id": "q092",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "한국과 미국의 타게팅 차이를 설명하나 한국의 동질성 전제는 과도한 일반화가 있음."
-  },
-  {
-   "id": "q075",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "숫자형 사실 질문에 정확히 응답했으며 난도와 유형이 잘 맞지만 학습 가치는 제한적임."
-  },
-  {
-   "id": "q141",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "목적과 실행 방법을 모두 포함해 교육 프로그램 내용을 충실히 설명한 좋은 응답임."
-  },
-  {
-   "id": "q020",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "교합지 장수로 회복을 규정하는 방식이 지나치게 단정적이며 치과 임상 일반 원칙으로 보기 어려움."
-  },
-  {
-   "id": "q096",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "제작비 격차가 품질과 범용성에 미치는 영향을 상식적으로 설명했으나 인과가 다소 단순화됨."
-  },
-  {
-   "id": "q031",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "세 주체별 위험과 대응을 구조화했지만 첫 항목은 보안보다는 품질 문제에 가까워 보안 정의가 다소 약함."
-  }
- ]
+  "batch_id": 6,
+  "judge": "gpt54",
+  "results": [
+    {
+      "id": "q119",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "PRF 멤브레인 제조와 활용을 직접 답했으며 치과적 내용도 대체로 타당하나 세부 조건이 다소 단순화됨."
+    },
+    {
+      "id": "q089",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "부처 분산 구조를 개괄하나 용어가 부정확하고 최신 정부조직 명칭 기준으로 다소 모호함."
+    },
+    {
+      "id": "q068",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "질문에는 맞지만 24시간·주말 확대 등은 근거 불명으로 보이며 의료 운영 사실성 검증이 약함."
+    },
+    {
+      "id": "q053",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "양측 동시 검사 권장 이유를 설명해 절차적 답변으로 적절하며 치과 교합 평가 문맥도 자연스러움."
+    },
+    {
+      "id": "q090",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "사업 다각화 이유를 간단명료하게 답한 사실형 문항으로 난도와 유형이 잘 맞음."
+    },
+    {
+      "id": "q094",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 3
+      },
+      "rationale_brief": "할루시네이션과 창의성의 관계를 지나치게 단정하며 개념 구분이 부정확하고 설명도 매우 빈약함."
+    },
+    {
+      "id": "q041",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 4
+      },
+      "rationale_brief": "평가를 묻는 질문에 매우 일반적 의견만 제시해 정보량이 적고 근거가 없음."
+    },
+    {
+      "id": "q093",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "FIRRMA, 투자규제, 반도체 수출통제 등 핵심 정책수단을 정확하고 구조적으로 설명함."
+    },
+    {
+      "id": "q116",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "문항은 의미 있으나 답변에 오타·용어 혼란이 심하고 CRRT 적용 기준도 불명확해 임상 정확성이 떨어짐."
+    },
+    {
+      "id": "q199",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "운영비 수치 중심 답변으로 질문에는 맞지만 비교 기준과 검증 가능성이 부족하고 medium보다는 easy에 가까움."
+    },
+    {
+      "id": "q157",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "주요 검사들을 폭넓게 언급했으나 RT-PCR 대상 유전자 표기 오류 가능성과 절차형보다는 분류형 질문에 가까움."
+    },
+    {
+      "id": "q025",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "하이/로우 컨텍스트 문화 차이를 UX 카피라이팅에 연결해 설명해 유의미하나 다소 일반화가 있음."
+    },
+    {
+      "id": "q180",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "3단계를 나열했지만 RAG 평가·파인튜닝 개념이 혼재되어 있고 의료 AI 전문성이 부족함."
+    },
+    {
+      "id": "q147",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "AI 의존과 인간 상호작용의 균형 필요성을 교육적으로 잘 설명했으나 신경과학적 단정은 다소 약함."
+    },
+    {
+      "id": "q074",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "가공 단계별 부가가치를 비교해 답했으나 수치가 지나치게 단순화된 경험칙 수준임."
+    },
+    {
+      "id": "q058",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "기술 제공과 통합 생태계 접근의 차이를 적절히 비교했지만 대비점이 더 구체적이면 좋았음."
+    },
+    {
+      "id": "q152",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "한국이 일본보다 고령화 속도가 빠르다는 비교는 타당하며 수치도 그럴듯하나 정의가 다소 단순함."
+    },
+    {
+      "id": "q017",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "주요 기능을 요약했으나 매우 홍보문구적이고 medium보다는 easy factoid에 가까움."
+    },
+    {
+      "id": "q049",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "저탄소 전환에서 기술과 금융의 상호보완적 필요성을 현실 제약과 연결해 잘 설명함."
+    },
+    {
+      "id": "q092",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "한국과 미국의 타게팅 차이를 설명하나 한국의 동질성 전제는 과도한 일반화가 있음."
+    },
+    {
+      "id": "q075",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "숫자형 사실 질문에 정확히 응답했으며 난도와 유형이 잘 맞지만 학습 가치는 제한적임."
+    },
+    {
+      "id": "q141",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "목적과 실행 방법을 모두 포함해 교육 프로그램 내용을 충실히 설명한 좋은 응답임."
+    },
+    {
+      "id": "q020",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "교합지 장수로 회복을 규정하는 방식이 지나치게 단정적이며 치과 임상 일반 원칙으로 보기 어려움."
+    },
+    {
+      "id": "q096",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "제작비 격차가 품질과 범용성에 미치는 영향을 상식적으로 설명했으나 인과가 다소 단순화됨."
+    },
+    {
+      "id": "q031",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "세 주체별 위험과 대응을 구조화했지만 첫 항목은 보안보다는 품질 문제에 가까워 보안 정의가 다소 약함."
+    }
+  ]
 }

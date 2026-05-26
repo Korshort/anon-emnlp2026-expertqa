@@ -4,127 +4,277 @@
   "results": [
     {
       "id": "q162",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "1→10→100→1000→만배 단계 나열, 일반적 산업 통설로 검증 어려움. medium/comparative 무난"
     },
     {
       "id": "q047",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "구체 가구 수치 factoid, easy 적합"
     },
     {
       "id": "q110",
-      "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
       "rationale_brief": "중년기 이중 부담 설명, factoid보단 explanatory에 더 가까움"
     },
     {
       "id": "q005",
-      "scores": {"faithfulness": 2, "domain_accuracy": 2, "question_quality": 3, "answer_depth": 1, "coherence": 4, "difficulty_calibration": 2},
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 4
+      },
       "rationale_brief": "65/20/15% 출처 불분명, comparative이지만 단순 수치 나열. hard 라벨에 비해 깊이 부족"
     },
     {
       "id": "q194",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "광고-체류시간 인과 한 문장. explanatory치고 매우 간결"
     },
     {
       "id": "q037",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "한미 디자인 차이 + 영입 전략 + 지분 제공까지, hard/comparative 적합"
     },
     {
       "id": "q122",
-      "scores": {"faithfulness": 2, "domain_accuracy": 2, "question_quality": 3, "answer_depth": 1, "coherence": 4, "difficulty_calibration": 2},
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 4
+      },
       "rationale_brief": "q005와 동일 내용 중복. 출처 불분명한 65/20/15% 단순 나열"
     },
     {
       "id": "q012",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "4개 botanical drug + 적응증 + 추출물 의의까지, hard/explanatory 우수"
     },
     {
       "id": "q036",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 1, "coherence": 4, "difficulty_calibration": 2},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 4
+      },
       "rationale_brief": "QR 결제 절차 매우 단순. medium 라벨치고 얕음"
     },
     {
       "id": "q153",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "VR/시뮬레이션 장점 다각도 explanatory, medium 적합"
     },
     {
       "id": "q069",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
       "rationale_brief": "정의+수치 factoid, easy 정합"
     },
     {
       "id": "q061",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "80% 할인 사례 단순 nomination, easy/factoid 적합"
     },
     {
       "id": "q195",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "GDPR/DSA/DMA/AI Act vs 미국 파편화, comparative 핵심"
     },
     {
       "id": "q032",
-      "scores": {"faithfulness": 2, "domain_accuracy": 2, "question_quality": 2, "answer_depth": 1, "coherence": 3, "difficulty_calibration": 2},
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 3
+      },
       "rationale_brief": "'불가분 관계'라는 모호한 주장, 실질적 메커니즘 부재"
     },
     {
       "id": "q172",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "강도·내마모성·임상 적응증 비교, medium/comparative 우수"
     },
     {
       "id": "q171",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 2, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "q162와 동일 콘텐츠. explanatory보단 단순 수치 나열, easy 라벨치고 정합"
     },
     {
       "id": "q060",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
       "rationale_brief": "프라이머리 안정성 저하 인과 설명 충실. '세븐틴 딥' 용어 부정확 가능"
     },
     {
       "id": "q010",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
       "rationale_brief": "KTDB + 5년치 factoid, easy 정합"
     },
     {
       "id": "q144",
-      "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 2},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "절차적 라벨에 맞지 않는 일반론 응답, easy/procedural 미스매치"
     },
     {
       "id": "q160",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "linear probe + 호흡주기 원리 + 막 사이 두께 측정, procedural 부합"
     },
     {
       "id": "q052",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "RASS→CAM-ICU 순서 + 용도 명확, procedural 적합"
     },
     {
       "id": "q125",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "전통 IP→OTT/숏폼 전환 인과 비교 구체적, hard/comparative 부합"
     },
     {
       "id": "q106",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "24-48시간/이틀째 시점 명시, 그러나 explanatory치고 다소 압축"
     },
     {
       "id": "q073",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "심초음파 28% EF + 관조 정상 소견, factoid 정합"
     },
     {
       "id": "q113",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "20.3% + OECD 비교 + 2036/2050 전망, comparative 우수"
     }
   ]

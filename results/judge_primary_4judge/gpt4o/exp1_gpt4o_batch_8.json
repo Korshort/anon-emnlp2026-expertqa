@@ -1,306 +1,281 @@
 {
- "batch_id": 8,
- "judge": "gpt4o",
- "results": [
-  {
-   "id": "q050",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정확한 치과 절차 설명, 한국 실정 반영."
-  },
-  {
-   "id": "q143",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "디자인 접근법의 문화적 차이 설명, 일부 주관적."
-  },
-  {
-   "id": "q197",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "미국 시장 진출 시 고려사항 설명, 일반적."
-  },
-  {
-   "id": "q154",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "한국 임상 경향 설명, 사실적."
-  },
-  {
-   "id": "q129",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "용어 정의, 단순 정보 제공."
-  },
-  {
-   "id": "q059",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "청소년의 심리적 영향 설명, 깊이 있음."
-  },
-  {
-   "id": "q055",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "단순 수치 정보 제공."
-  },
-  {
-   "id": "q023",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "운동의 림프부종 효과 설명, 인과적."
-  },
-  {
-   "id": "q007",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "심리치료 후 변화 설명, 추상적."
-  },
-  {
-   "id": "q008",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "노화된 세포의 특징 설명, 명확함."
-  },
-  {
-   "id": "q108",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "의료기기 디자인 유지 이유 설명, 논리적."
-  },
-  {
-   "id": "q151",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "치료 권고 이유 설명, 명확함."
-  },
-  {
-   "id": "q022",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "문제 해결 시간 배분 원칙 설명, 명확함."
-  },
-  {
-   "id": "q139",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "투자 전략 설명, 논리적."
-  },
-  {
-   "id": "q173",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "당뇨병 치료 목표 변화 설명, 종합적."
-  },
-  {
-   "id": "q026",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "수상 기업 및 분야 정보 제공."
-  },
-  {
-   "id": "q188",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "초기 건강보험제도 비판 이유 설명, 명확함."
-  },
-  {
-   "id": "q035",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "김치와 기무치 차이 설명, 명확함."
-  },
-  {
-   "id": "q057",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "신경 차단술 효과 비교, 상세함."
-  },
-  {
-   "id": "q062",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "항호르몬 치료 부작용 설명, 명확함."
-  },
-  {
-   "id": "q070",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "에독사반 사용 근거 설명, 상세함."
-  },
-  {
-   "id": "q189",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "재정적자 원인 및 전망 설명, 종합적."
-  },
-  {
-   "id": "q006",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "청소년 딸의 심리적 영향 설명, 명확함."
-  },
-  {
-   "id": "q028",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "교육에서 하이테크와 하이터치 균형 설명, 논리적."
-  },
-  {
-   "id": "q163",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "중환자실 인지재활 필요성 설명, 종합적."
-  }
- ]
+  "batch_id": 8,
+  "judge": "gpt4o",
+  "results": [
+    {
+      "id": "q050",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "정확한 치과 절차 설명, 한국 실정 반영."
+    },
+    {
+      "id": "q143",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "디자인 접근법의 문화적 차이 설명, 일부 주관적."
+    },
+    {
+      "id": "q197",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "미국 시장 진출 시 고려사항 설명, 일반적."
+    },
+    {
+      "id": "q154",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "한국 임상 경향 설명, 사실적."
+    },
+    {
+      "id": "q129",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "용어 정의, 단순 정보 제공."
+    },
+    {
+      "id": "q059",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "청소년의 심리적 영향 설명, 깊이 있음."
+    },
+    {
+      "id": "q055",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "단순 수치 정보 제공."
+    },
+    {
+      "id": "q023",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "운동의 림프부종 효과 설명, 인과적."
+    },
+    {
+      "id": "q007",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "심리치료 후 변화 설명, 추상적."
+    },
+    {
+      "id": "q008",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "노화된 세포의 특징 설명, 명확함."
+    },
+    {
+      "id": "q108",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "의료기기 디자인 유지 이유 설명, 논리적."
+    },
+    {
+      "id": "q151",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "치료 권고 이유 설명, 명확함."
+    },
+    {
+      "id": "q022",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "문제 해결 시간 배분 원칙 설명, 명확함."
+    },
+    {
+      "id": "q139",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "투자 전략 설명, 논리적."
+    },
+    {
+      "id": "q173",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "당뇨병 치료 목표 변화 설명, 종합적."
+    },
+    {
+      "id": "q026",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "수상 기업 및 분야 정보 제공."
+    },
+    {
+      "id": "q188",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "초기 건강보험제도 비판 이유 설명, 명확함."
+    },
+    {
+      "id": "q035",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "김치와 기무치 차이 설명, 명확함."
+    },
+    {
+      "id": "q057",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "신경 차단술 효과 비교, 상세함."
+    },
+    {
+      "id": "q062",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "항호르몬 치료 부작용 설명, 명확함."
+    },
+    {
+      "id": "q070",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "에독사반 사용 근거 설명, 상세함."
+    },
+    {
+      "id": "q189",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "재정적자 원인 및 전망 설명, 종합적."
+    },
+    {
+      "id": "q006",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "청소년 딸의 심리적 영향 설명, 명확함."
+    },
+    {
+      "id": "q028",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "교육에서 하이테크와 하이터치 균형 설명, 논리적."
+    },
+    {
+      "id": "q163",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "중환자실 인지재활 필요성 설명, 종합적."
+    }
+  ]
 }

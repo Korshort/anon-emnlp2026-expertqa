@@ -4,127 +4,277 @@
   "results": [
     {
       "id": "q046",
-      "scores": {"faithfulness": 2, "domain_accuracy": 2, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
       "rationale_brief": "베트남 1.95% '출산율'을 %로 표기한 단위 오류 의심. 한국 0.7%도 출산율(TFR)이면 0.7명이 맞음. 비교 시도는 있으나 단위 부정확"
     },
     {
       "id": "q104",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "췌장 크기 36% 차이 + 인슐린 분비 인과 explanatory, 출처 검증은 어려움"
     },
     {
       "id": "q079",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "광고-체류시간 인과 한 문장, explanatory치고 간결"
     },
     {
       "id": "q054",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 1, "answer_depth": 1, "coherence": 4, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 1,
+        "answer_depth": 1,
+        "coherence": 4
+      },
       "rationale_brief": "'로봇 연속수술' 단답만, 매우 얕음. easy/factoid 정합"
     },
     {
       "id": "q196",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "what/when/how 3 축 구분 + 각 축 구체 옵션, factoid치고 깊이 우수"
     },
     {
       "id": "q085",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "AI4IR 일반 기능 나열, explanatory치고 일반론"
     },
     {
       "id": "q118",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "동일 1→10→100→1000→만배 패턴, hard 라벨치고 단순 수치 나열"
     },
     {
       "id": "q109",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "30N 토크 + 시멘테이션/스크루 + under-drilling, procedural 구체"
     },
     {
       "id": "q133",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "CCU 촉매 + 양자 협력 factoid, medium 적합"
     },
     {
       "id": "q142",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "500→300→100→50→1인 확대 단계 명확 + 총 6개 프로그램, comparative 적합"
     },
     {
       "id": "q033",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 4, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
       "rationale_brief": "정의 비교 + '실패할 운명' 단정 표현. hard 라벨치고 얕음"
     },
     {
       "id": "q018",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 1, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 1,
+        "answer_depth": 1,
+        "coherence": 5
+      },
       "rationale_brief": "2+6=8 단순 수치 factoid"
     },
     {
       "id": "q140",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 1, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 1,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "사진 포즈 가이드 — 학습 가치 매우 낮음"
     },
     {
       "id": "q123",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
       "rationale_brief": "DOR 한계 + tailored 권고 + 직역별 소통, hard/explanatory 부합"
     },
     {
       "id": "q175",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "G1 비자 + 진로 제약 + 영주권 불가 구조적 차별, hard/explanatory 부합"
     },
     {
       "id": "q063",
-      "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "RAG 일반 메커니즘만, 의료 특화 깊이 부족"
     },
     {
       "id": "q083",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "G1 + 안정 비자 변경 불가 + 단순노동 거부 사례까지, explanatory 우수"
     },
     {
       "id": "q148",
-      "scores": {"faithfulness": 2, "domain_accuracy": 2, "question_quality": 3, "answer_depth": 2, "coherence": 3, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3
+      },
       "rationale_brief": "오타('많은 양의의'), '고수원' 용어 불명확. 사실 정확도 의심"
     },
     {
       "id": "q100",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 2, "answer_depth": 1, "coherence": 5, "difficulty_calibration": 5},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
       "rationale_brief": "q010과 동일 내용 — KTDB + 2017-2022 factoid"
     },
     {
       "id": "q155",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5
+      },
       "rationale_brief": "이동거리+두께변화율+정상값+비정상 소견까지 매우 충실. procedural 우수"
     },
     {
       "id": "q072",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "수용체 양성 ≠ 양성종양 개념 분리 명확, hard/comparative 부합"
     },
     {
       "id": "q027",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 2, "coherence": 5, "difficulty_calibration": 3},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
       "rationale_brief": "임파우먼트 개념 풀이만, medium/explanatory치고 얕음"
     },
     {
       "id": "q184",
-      "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "카카오톡 연동 + 매출/고객 분석 factoid, medium 적합"
     },
     {
       "id": "q112",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 3, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
       "rationale_brief": "가이드라인 권고 + 절대금기 외 재시작 원칙, explanatory 적합"
     },
     {
       "id": "q051",
-      "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4},
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
       "rationale_brief": "뇌-신장축 + 카테콜아민 + 신독성 약물 등 다축 인과, factoid보단 explanatory에 가까움"
     }
   ]

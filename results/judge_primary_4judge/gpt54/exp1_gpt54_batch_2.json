@@ -1,306 +1,281 @@
 {
- "batch_id": 2,
- "judge": "gpt54",
- "results": [
-  {
-   "id": "q162",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "가공 단계별 가치 비교는 잘 맞지만 수치 근거가 불명확해 정확성은 보통 수준."
-  },
-  {
-   "id": "q047",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "구체 성과를 직접 답했으나 단순 사실 나열형이며 외부 검증 불가."
-  },
-  {
-   "id": "q110",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 3,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "심리적 적응 특징보다 역할 부담 설명에 치우쳐 질문 초점에 부분적으로만 부합."
-  },
-  {
-   "id": "q005",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "비율 제시는 간결하지만 출처 불명·일반화 과도, hard로 보기 어려움."
-  },
-  {
-   "id": "q194",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "플랫폼 수익모델과 편향 유발 메커니즘을 핵심적으로 설명했다."
-  },
-  {
-   "id": "q037",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "시장별 디자인 차이와 채용 전략 연결은 좋으나 일부 단정적 주장 포함."
-  },
-  {
-   "id": "q122",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "q005와 동일: 비교는 되나 근거 불명, 난도 과대평가."
-  },
-  {
-   "id": "q012",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 5,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사례와 의미를 함께 다뤄 학습가치 높지만 일부 제품명·효과 표현은 다소 불안정."
-  },
-  {
-   "id": "q036",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "절차 개요는 맞지만 스테이블코인 결제의 핵심 세부 단계가 부족하고 다소 모호."
-  },
-  {
-   "id": "q153",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "VR/시뮬레이션 장점을 실용적으로 요약했으나 비교·기제 설명은 제한적."
-  },
-  {
-   "id": "q069",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "정의와 수치를 직접 답했으나 맥락 없는 단순 회상형이다."
-  },
-  {
-   "id": "q061",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 4,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "일반적 가격전략이라기보다 특정 프로모션 사례에 가까워 과도한 일반화가 있다."
-  },
-  {
-   "id": "q195",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "EU와 미국의 규제 철학 및 체계 차이를 정확하고 압축적으로 비교했다."
-  },
-  {
-   "id": "q032",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 3,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "관계 설명이 추상적이고 기술적 연결점이 부족해 답변 실질성이 낮다."
-  },
-  {
-   "id": "q172",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "재료 특성과 적응증을 임상 맥락에서 균형 있게 비교했다."
-  },
-  {
-   "id": "q171",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "질문에 충실하나 수치가 근거 없는 경험칙처럼 제시되어 정확성은 보통."
-  },
-  {
-   "id": "q060",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "초기 안정성 저하 기전을 설명했으나 표현이 다소 과격하고 단순화된 면이 있다."
-  },
-  {
-   "id": "q010",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "사용 데이터셋과 기간을 명확히 답해 사실형 문항에 적절하다."
-  },
-  {
-   "id": "q144",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "균형 원칙 설명은 좋지만 procedural 라벨은 부적절하고 easy보다 약간 복합적이다."
-  },
-  {
-   "id": "q160",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "측정 도구와 생리학적 원리를 함께 설명해 교육적 가치가 높다."
-  },
-  {
-   "id": "q052",
-   "scores": {
-    "faithfulness": 5,
-    "domain_accuracy": 5,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "RASS 선행 후 CAM-ICU 적용이라는 임상 흐름을 정확히 설명했다."
-  },
-  {
-   "id": "q125",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "전통 전략과 디지털 기반 신전략의 구조적 변화를 잘 비교했다."
-  },
-  {
-   "id": "q106",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "급성기 설명에 섬유화·교세포증 시점이 다소 부정확하거나 지나치게 단순화됐다."
-  },
-  {
-   "id": "q073",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "시행 검사와 결과를 구체적으로 제시해 질문에 잘 부합한다."
-  },
-  {
-   "id": "q113",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "한일 고령화 속도 차이를 수치와 전망으로 비교해 설득력 있게 답했다."
-  }
- ]
+  "batch_id": 2,
+  "judge": "gpt54",
+  "results": [
+    {
+      "id": "q162",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "가공 단계별 가치 비교는 잘 맞지만 수치 근거가 불명확해 정확성은 보통 수준."
+    },
+    {
+      "id": "q047",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "구체 성과를 직접 답했으나 단순 사실 나열형이며 외부 검증 불가."
+    },
+    {
+      "id": "q110",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "심리적 적응 특징보다 역할 부담 설명에 치우쳐 질문 초점에 부분적으로만 부합."
+    },
+    {
+      "id": "q005",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "비율 제시는 간결하지만 출처 불명·일반화 과도, hard로 보기 어려움."
+    },
+    {
+      "id": "q194",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "플랫폼 수익모델과 편향 유발 메커니즘을 핵심적으로 설명했다."
+    },
+    {
+      "id": "q037",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "시장별 디자인 차이와 채용 전략 연결은 좋으나 일부 단정적 주장 포함."
+    },
+    {
+      "id": "q122",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "q005와 동일: 비교는 되나 근거 불명, 난도 과대평가."
+    },
+    {
+      "id": "q012",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 5,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "사례와 의미를 함께 다뤄 학습가치 높지만 일부 제품명·효과 표현은 다소 불안정."
+    },
+    {
+      "id": "q036",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "절차 개요는 맞지만 스테이블코인 결제의 핵심 세부 단계가 부족하고 다소 모호."
+    },
+    {
+      "id": "q153",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "VR/시뮬레이션 장점을 실용적으로 요약했으나 비교·기제 설명은 제한적."
+    },
+    {
+      "id": "q069",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "정의와 수치를 직접 답했으나 맥락 없는 단순 회상형이다."
+    },
+    {
+      "id": "q061",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 4
+      },
+      "rationale_brief": "일반적 가격전략이라기보다 특정 프로모션 사례에 가까워 과도한 일반화가 있다."
+    },
+    {
+      "id": "q195",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "EU와 미국의 규제 철학 및 체계 차이를 정확하고 압축적으로 비교했다."
+    },
+    {
+      "id": "q032",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3
+      },
+      "rationale_brief": "관계 설명이 추상적이고 기술적 연결점이 부족해 답변 실질성이 낮다."
+    },
+    {
+      "id": "q172",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "재료 특성과 적응증을 임상 맥락에서 균형 있게 비교했다."
+    },
+    {
+      "id": "q171",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "질문에 충실하나 수치가 근거 없는 경험칙처럼 제시되어 정확성은 보통."
+    },
+    {
+      "id": "q060",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "초기 안정성 저하 기전을 설명했으나 표현이 다소 과격하고 단순화된 면이 있다."
+    },
+    {
+      "id": "q010",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "사용 데이터셋과 기간을 명확히 답해 사실형 문항에 적절하다."
+    },
+    {
+      "id": "q144",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "균형 원칙 설명은 좋지만 procedural 라벨은 부적절하고 easy보다 약간 복합적이다."
+    },
+    {
+      "id": "q160",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "측정 도구와 생리학적 원리를 함께 설명해 교육적 가치가 높다."
+    },
+    {
+      "id": "q052",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "RASS 선행 후 CAM-ICU 적용이라는 임상 흐름을 정확히 설명했다."
+    },
+    {
+      "id": "q125",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "전통 전략과 디지털 기반 신전략의 구조적 변화를 잘 비교했다."
+    },
+    {
+      "id": "q106",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "급성기 설명에 섬유화·교세포증 시점이 다소 부정확하거나 지나치게 단순화됐다."
+    },
+    {
+      "id": "q073",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "시행 검사와 결과를 구체적으로 제시해 질문에 잘 부합한다."
+    },
+    {
+      "id": "q113",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "한일 고령화 속도 차이를 수치와 전망으로 비교해 설득력 있게 답했다."
+    }
+  ]
 }

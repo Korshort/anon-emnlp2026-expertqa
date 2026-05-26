@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "schema": "single-seed (seed 1) raw lm-eval outputs per (model, condition, domain) cell",
-    "note": "Paper Table tab:app:all72 reports multi-seed means (n=2 seeds: 1, 2). Cross-model factorial aggregates in Table 5 (tab:factorial) are computed from those multi-seed means, not from this single-seed file. To reproduce multi-seed means run code/collect_eval.py over the per-seed raw lm-eval result files (companion repository under https://huggingface.co/Korshort/ checkpoints).",
+    "schema": "single-seed (seed 1) snapshot — raw lm-eval outputs per (model, condition, domain) cell, seed 1 only",
+    "note": "Paper Table tab:app:all72 reports multi-seed means (n=2 seeds: 1, 2) and Table 5 (tab:factorial) cross-model aggregates derive from those multi-seed means. This file ships seed 1 only as a representative single-seed snapshot; per-cell values therefore differ from paper Table 5/6 numbers (which are seed 1+2 means). To reproduce the paper's multi-seed means, download per-seed lm-eval raw from the HuggingFace checkpoint repositories under https://huggingface.co/Korshort/emnlp2026_expertqa_*/eval_results/ and run code/collect_eval.py over the per-seed files.",
     "domains": [
       "K_med",
       "K_fin",

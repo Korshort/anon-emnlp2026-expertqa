@@ -1,306 +1,281 @@
 {
- "batch_id": 1,
- "judge": "gpt54",
- "results": [
-  {
-   "id": "w062",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "두 개념의 차이를 명확히 비교해 설명하며 공공정책 맥락에도 대체로 부합한다."
-  },
-  {
-   "id": "w056",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 2,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "원격 모니터링의 핵심을 지나치게 특정 기술로 환원했고 병원 검사 수준 진단 주장은 과장 가능성이 크다."
-  },
-  {
-   "id": "w027",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "핵심 취지는 맞지만 이유 설명이 매우 일반적이라 깊이가 부족하다."
-  },
-  {
-   "id": "w070",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "세컨더리 펀드의 일반론으로 수익률이 더 높다고 단정하고 기간 수치도 과도하게 일반화했다."
-  },
-  {
-   "id": "w036",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "국내 ETS 확대와 CBAM의 정책적 연계를 인과적으로 잘 설명했다."
-  },
-  {
-   "id": "w020",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "대표 표적들을 무난하게 열거했으나 일부는 유전자 변이까지 섞여 분류가 약간 혼재된다."
-  },
-  {
-   "id": "w047",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "정부 지원 방안을 구체적으로 답했지만 추론 난도는 hard보다는 중간 수준이다."
-  },
-  {
-   "id": "w029",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "핵심 요소 하나를 잘 짚었지만 질문의 폭에 비해 답이 단일 요인 중심이며 hard 난도와는 다소 불일치한다."
-  },
-  {
-   "id": "w055",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 3,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "달러 스마일·프라운 개념 설명이 혼선이 있고 안전자산 지위 약화 해석도 단정적이다."
-  },
-  {
-   "id": "w058",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "시기와 인구구조를 간단명료하게 답한 사실형 문항이다."
-  },
-  {
-   "id": "w048",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "누가 어떤 상을 받았는지 직접 답하는 단순 사실 회상형이다."
-  },
-  {
-   "id": "w001",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "초기 상태에 따른 임상 분류와 난이도 차이를 잘 설명해 학습 가치가 높다."
-  },
-  {
-   "id": "w050",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "SAB 121의 취지와 영향 설명으로 보이며 용어 표기는 다소 부정확해도 핵심은 맞다."
-  },
-  {
-   "id": "w025",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 2,
-    "answer_depth": 1,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "스테이블코인을 원화와 항상 1:1 교환된다고 일반화한 것은 제도·유형별 차이를 무시한 부정확한 설명이다."
-  },
-  {
-   "id": "w016",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "특정 기관 기준 조직도를 일반화한 듯해 보편성은 떨어지나 질문에는 대체로 부합한다."
-  },
-  {
-   "id": "w018",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 3
-   },
-   "rationale_brief": "식생활·누적 동맥경화와 치료 개선을 연결했지만 역학적 설명이 다소 단순화되어 있다."
-  },
-  {
-   "id": "w008",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "노인과 젊은 환자의 예후 차이를 핵심 지표로 비교해 일관성 있다."
-  },
-  {
-   "id": "w061",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 4,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "기술 진화 단계를 구조적으로 설명해 개념 이해에 도움이 된다."
-  },
-  {
-   "id": "w011",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 3,
-    "coherence": 4,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "심리치료적 은유로는 가능하나 의학·임상 도메인에서 객관적 개념처럼 서술되어 전문 정확성이 낮다."
-  },
-  {
-   "id": "w051",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "산재보험 우선 도입 취지는 맞지만 제도 명칭과 역사 서술이 다소 단순화되어 있다."
-  },
-  {
-   "id": "w014",
-   "scores": {
-    "faithfulness": 2,
-    "domain_accuracy": 2,
-    "question_quality": 3,
-    "answer_depth": 2,
-    "coherence": 3,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "용어 표기부터 불명확하고 설명도 특정 술식 jargon 위주라 사실 검증 가능성이 낮다."
-  },
-  {
-   "id": "w065",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "미국 진출 실패 요인을 문화·세일즈 관점에서 설득력 있게 짚었다."
-  },
-  {
-   "id": "w009",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 1,
-    "answer_depth": 1,
-    "coherence": 2,
-    "difficulty_calibration": 2
-   },
-   "rationale_brief": "문맥 없이 XI 시스템 수량만 답해 자족성이 낮고 학습 가치가 매우 낮다."
-  },
-  {
-   "id": "w063",
-   "scores": {
-    "faithfulness": 3,
-    "domain_accuracy": 3,
-    "question_quality": 4,
-    "answer_depth": 3,
-    "coherence": 5,
-    "difficulty_calibration": 4
-   },
-   "rationale_brief": "비교 구조는 좋지만 2030 수치의 출처 의존성이 크고 단정적 전망 서술이다."
-  },
-  {
-   "id": "w073",
-   "scores": {
-    "faithfulness": 4,
-    "domain_accuracy": 4,
-    "question_quality": 2,
-    "answer_depth": 2,
-    "coherence": 5,
-    "difficulty_calibration": 5
-   },
-   "rationale_brief": "기업 성격과 투자 분야를 무난하게 설명한 사실형 QA다."
-  }
- ]
+  "batch_id": 1,
+  "judge": "gpt54",
+  "results": [
+    {
+      "id": "w062",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "두 개념의 차이를 명확히 비교해 설명하며 공공정책 맥락에도 대체로 부합한다."
+    },
+    {
+      "id": "w056",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 2
+      },
+      "rationale_brief": "원격 모니터링의 핵심을 지나치게 특정 기술로 환원했고 병원 검사 수준 진단 주장은 과장 가능성이 크다."
+    },
+    {
+      "id": "w027",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "핵심 취지는 맞지만 이유 설명이 매우 일반적이라 깊이가 부족하다."
+    },
+    {
+      "id": "w070",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "세컨더리 펀드의 일반론으로 수익률이 더 높다고 단정하고 기간 수치도 과도하게 일반화했다."
+    },
+    {
+      "id": "w036",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "국내 ETS 확대와 CBAM의 정책적 연계를 인과적으로 잘 설명했다."
+    },
+    {
+      "id": "w020",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "대표 표적들을 무난하게 열거했으나 일부는 유전자 변이까지 섞여 분류가 약간 혼재된다."
+    },
+    {
+      "id": "w047",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "정부 지원 방안을 구체적으로 답했지만 추론 난도는 hard보다는 중간 수준이다."
+    },
+    {
+      "id": "w029",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "핵심 요소 하나를 잘 짚었지만 질문의 폭에 비해 답이 단일 요인 중심이며 hard 난도와는 다소 불일치한다."
+    },
+    {
+      "id": "w055",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "달러 스마일·프라운 개념 설명이 혼선이 있고 안전자산 지위 약화 해석도 단정적이다."
+    },
+    {
+      "id": "w058",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "시기와 인구구조를 간단명료하게 답한 사실형 문항이다."
+    },
+    {
+      "id": "w048",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 5
+      },
+      "rationale_brief": "누가 어떤 상을 받았는지 직접 답하는 단순 사실 회상형이다."
+    },
+    {
+      "id": "w001",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "초기 상태에 따른 임상 분류와 난이도 차이를 잘 설명해 학습 가치가 높다."
+    },
+    {
+      "id": "w050",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "SAB 121의 취지와 영향 설명으로 보이며 용어 표기는 다소 부정확해도 핵심은 맞다."
+    },
+    {
+      "id": "w025",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 2,
+        "answer_depth": 1,
+        "coherence": 4
+      },
+      "rationale_brief": "스테이블코인을 원화와 항상 1:1 교환된다고 일반화한 것은 제도·유형별 차이를 무시한 부정확한 설명이다."
+    },
+    {
+      "id": "w016",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 4
+      },
+      "rationale_brief": "특정 기관 기준 조직도를 일반화한 듯해 보편성은 떨어지나 질문에는 대체로 부합한다."
+    },
+    {
+      "id": "w018",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "식생활·누적 동맥경화와 치료 개선을 연결했지만 역학적 설명이 다소 단순화되어 있다."
+    },
+    {
+      "id": "w008",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "노인과 젊은 환자의 예후 차이를 핵심 지표로 비교해 일관성 있다."
+    },
+    {
+      "id": "w061",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "기술 진화 단계를 구조적으로 설명해 개념 이해에 도움이 된다."
+    },
+    {
+      "id": "w011",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "심리치료적 은유로는 가능하나 의학·임상 도메인에서 객관적 개념처럼 서술되어 전문 정확성이 낮다."
+    },
+    {
+      "id": "w051",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "산재보험 우선 도입 취지는 맞지만 제도 명칭과 역사 서술이 다소 단순화되어 있다."
+    },
+    {
+      "id": "w014",
+      "scores": {
+        "faithfulness": 2,
+        "domain_accuracy": 2,
+        "question_quality": 3,
+        "answer_depth": 2,
+        "coherence": 3
+      },
+      "rationale_brief": "용어 표기부터 불명확하고 설명도 특정 술식 jargon 위주라 사실 검증 가능성이 낮다."
+    },
+    {
+      "id": "w065",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "미국 진출 실패 요인을 문화·세일즈 관점에서 설득력 있게 짚었다."
+    },
+    {
+      "id": "w009",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 1,
+        "answer_depth": 1,
+        "coherence": 2
+      },
+      "rationale_brief": "문맥 없이 XI 시스템 수량만 답해 자족성이 낮고 학습 가치가 매우 낮다."
+    },
+    {
+      "id": "w063",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 3,
+        "coherence": 5
+      },
+      "rationale_brief": "비교 구조는 좋지만 2030 수치의 출처 의존성이 크고 단정적 전망 서술이다."
+    },
+    {
+      "id": "w073",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 2,
+        "answer_depth": 2,
+        "coherence": 5
+      },
+      "rationale_brief": "기업 성격과 투자 분야를 무난하게 설명한 사실형 QA다."
+    }
+  ]
 }

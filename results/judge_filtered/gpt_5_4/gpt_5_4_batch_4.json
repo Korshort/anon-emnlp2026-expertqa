@@ -8,8 +8,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "비교 구조는 적절하나 필리핀·한국 경제사와 IMF 반사실 가정에 다소 단정적 서술이 섞여 정확성은 보통 수준."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "초기 과제와 현재 성과를 항목별로 잘 대비했고 의료운영 맥락도 타당하나 구체 근거는 제한적."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "연도별 변곡점과 사업 확장 간 연결이 명확하며 스타트업 성장 설명도 적절하나 수치 검증 여지는 있음."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "독해와 언어이해의 차이를 예시로 설명했지만 AI/언어학 개념 정의는 다소 비공식적이고 깊이는 제한적."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "한국 캐릭터 시장의 로컬 강세를 잘 짚었으나 국가 비교 일반화가 커서 정확성은 중간 정도."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "공통점·차이점 틀은 좋지만 301조와 추가 20%·PNTR 추진 등 시점 혼합과 법적 구분이 부정확하다."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "ESPB와 PVB의 해부학적 안전성 차이를 정확히 설명했고 질문 난도와 유형도 잘 맞는다."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "수면위상 조정의 방향성을 비교해 일관되게 답했으나 개인차·임상 예외를 다루지 않아 깊이는 보통."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "미국과 한국의 AI 도입 양상 차이를 비교했지만 수치와 일반화가 강해 정확성은 중간 수준이다."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 2
+        "coherence": 4
       },
       "rationale_brief": "두 업무 영역을 소개했지만 비교 요청에 비해 대조가 약하고 사실 소개 중심이라 hard 난도 표기는 다소 과하다."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기존 디지털 전환 대비 AI 에이전트의 차별점을 구체 예시와 함께 설명해 전반적으로 적절하다."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "PCI 가능 범위와 전원 기준을 현실적으로 비교했으며 심혈관 중재 맥락과도 잘 부합한다."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "직접 참여와 플랫폼 활용의 차이를 시간·복잡성 중심으로 명확히 비교했으나 설명 폭은 좁다."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 5,
         "question_quality": 3,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "초음파 랜드마크, 바늘 진행, 약물 주입층을 단계적으로 정확히 제시한 우수한 시술 설명이다."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "기업 도입 단계 변화와 사용자 리터러시 하락을 대비해 설명하며 논지 연결도 자연스럽다."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "비교 의도와 현장 관찰은 좋지만 buccal artery 해부학 기술과 용어가 부정확해 의학 정확성이 낮다."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "한미 투자계약 구조 차이와 후속투자 문제를 논리적으로 연결했지만 기원 설명은 다소 단순화되었다."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "ASEAN 집중 이유를 성장률과 접근성으로 설명해 일관되지만 비교·구조적 분석은 제한적이다."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "PENG와 FICB의 표적 신경 차이를 비교적 정확히 설명했고 임상적 포괄성 대비도 적절하다."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "q054와 동일하게 설명은 이해 가능하나 개념 엄밀성과 심화 정도는 제한적이다."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 3
+        "coherence": 5
       },
       "rationale_brief": "표적치료와 세포독성 항암제의 기본 차이를 정확히 설명했으나 매우 개론적이라 hard로 보기 어렵다."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "자유무역에서 지정학 경쟁으로의 변화를 잘 짚었지만 G1 단정 등 일부 서술은 과도한 일반화다."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "q085와 동일하게 비교 틀은 적절하나 301조 관련 사실관계와 정책 시점이 혼재되어 부정확하다."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "신경인성 쇼크에서 NE의 alpha1·beta1 작용과 병태생리를 잘 연결한 정확한 설명이다."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "두 팀의 역할, 구성, 제공 서비스 차이를 체계적으로 비교해 의료운영 맥락에 잘 부합한다."
     }

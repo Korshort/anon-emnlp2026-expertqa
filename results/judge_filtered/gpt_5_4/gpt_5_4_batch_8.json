@@ -8,8 +8,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "비교형 질문엔 맞지만 항응고/항혈소판 전략 서술에 부정확·혼동되는 부분이 있어 의학적 신뢰도가 낮다."
     },
@@ -20,8 +19,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 2,
-        "coherence": 3,
-        "difficulty_calibration": 3
+        "coherence": 3
       },
       "rationale_brief": "개념 비교 의도는 있으나 '달러 프라운' 설명이 통용 개념과 거리가 있고 예시도 단순화되어 있다."
     },
@@ -32,8 +30,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "경쟁 근거를 가격·위생 측면으로 비교해 답했으나 수치와 주장 검증 가능성은 제한적이다."
     },
@@ -44,8 +41,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "수정 가능/불가능 인자를 적절히 구분하고 관리 방향도 제시해 비교형 답변으로 잘 맞는다."
     },
@@ -56,8 +52,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "기존 디지털 전환 대비 AI 에이전트 장점을 설명하지만 다소 홍보성이고 구체 비교 근거는 약하다."
     },
@@ -68,8 +63,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "즉시하중에서 지레효과 차이를 이유로 비교해 논리는 있으나 용어와 근거의 보편성은 다소 불명확하다."
     },
@@ -80,8 +74,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "두 조정법의 차이는 설명했지만 교합 조정 원칙이 다소 단정적이고 세부 근거가 부족하다."
     },
@@ -92,8 +85,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "팀 구성과 역할을 일관되게 설명했으나 고유명사 중심이라 검증 가능한 정보 밀도는 보통이다."
     },
@@ -104,8 +96,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "PRF와 BMP의 생물학적 역할과 임상 활용 차이를 정확하고 비교적으로 잘 설명했다."
     },
@@ -116,8 +107,7 @@
         "domain_accuracy": 2,
         "question_quality": 3,
         "answer_depth": 2,
-        "coherence": 3,
-        "difficulty_calibration": 3
+        "coherence": 3
       },
       "rationale_brief": "질문은 발치와 vs healed ridge 차이인데 답은 non-submerged 원칙으로 치우쳐 직접 비교와 용어 정확성이 부족하다."
     },
@@ -128,8 +118,7 @@
         "domain_accuracy": 5,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "PRF와 BMP의 역할 차이를 정확하고 구조적으로 비교해 중복 문항이지만 품질이 높다."
     },
@@ -140,8 +129,7 @@
         "domain_accuracy": 2,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "비교 구도는 맞지만 항응고 장기요법의 효과·표준요법 관련 서술에 혼동과 부정확성이 있다."
     },
@@ -152,8 +140,7 @@
         "domain_accuracy": 4,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "구축 전후 기구 관리 차이를 운영 측면에서 명확히 설명해 질문과 잘 맞는다."
     },
@@ -164,8 +151,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "소비자 문제와 AI 에이전트 커머스의 해결 방식을 잘 대응시켜 비교했으나 기술적 한계 논의는 없다."
     },
@@ -176,8 +162,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "고혈압과 고혈당의 역할을 구분해 설명했으나 병태생리 표현이 단순화되고 일부 단정이 과하다."
     },
@@ -188,8 +173,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "GCF의 후순위 위험부담과 민간의 선순위 참여를 명확히 대비시켜 혼합금융 구조를 잘 설명했다."
     },
@@ -200,8 +184,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "AI 과잉의존과 미활용을 대비해 이사의 주의의무 쟁점을 잘 짚은 고품질 비교형 문항/답변이다."
     },
@@ -212,8 +195,7 @@
         "domain_accuracy": 4,
         "question_quality": 5,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 5
+        "coherence": 5
       },
       "rationale_brief": "현행 마이데이터 성과와 AI 시대 규제 방향 전환을 비교적으로 제시해 정책적 사고를 요구한다."
     },
@@ -224,8 +206,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "PRF 단독 vs 병용 기준을 제시하나 상악동 '치수' 기준 수치가 다소 단순화되어 보편적 기준으로는 약하다."
     },
@@ -236,8 +217,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "치주인대 유무에 따른 힘 전달 차이와 임상적 함의를 잘 연결해 설명했다."
     },
@@ -248,8 +228,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 3,
-        "difficulty_calibration": 3
+        "coherence": 3
       },
       "rationale_brief": "질문은 tilted vs axial 비교인데 답 말미가 All-on-4와 All-on-6 비교로 흐려져 초점이 일부 어긋난다."
     },
@@ -260,8 +239,7 @@
         "domain_accuracy": 4,
         "question_quality": 4,
         "answer_depth": 4,
-        "coherence": 5,
-        "difficulty_calibration": 4
+        "coherence": 5
       },
       "rationale_brief": "도입 배경과 기존 계획 대비 차별점을 국가개발 전략 관점에서 무난하게 설명했다."
     },
@@ -272,8 +250,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 2,
-        "coherence": 4,
-        "difficulty_calibration": 3
+        "coherence": 4
       },
       "rationale_brief": "두 치료의 결과가 유사하다고 답했으나 PDRN-collagen matrix와 자가 연조직 이식 비교의 근거 맥락이 빈약하다."
     },
@@ -284,8 +261,7 @@
         "domain_accuracy": 3,
         "question_quality": 4,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "실리콘밸리와 한국의 도입 속도 차이를 비교하지만 수치와 평가가 일반화되어 근거성은 보통이다."
     },
@@ -296,8 +272,7 @@
         "domain_accuracy": 3,
         "question_quality": 3,
         "answer_depth": 3,
-        "coherence": 4,
-        "difficulty_calibration": 4
+        "coherence": 4
       },
       "rationale_brief": "세 구성 요소와 발전 방향은 정리했으나 고유 체계 설명 위주로 구체성·검증성은 제한적이다."
     }

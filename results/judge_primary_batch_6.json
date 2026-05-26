@@ -1,30 +1,280 @@
 {
   "batch_id": 6,
   "results": [
-    {"id": "q119", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "T2DM 자연사 설명 합리적, 인슐린 분비 기능의 중요성 일관 설명. explanatory/hard 적절."},
-    {"id": "q089", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 3, "difficulty_calibration": 2}, "rationale_brief": "comparative 라벨이지만 비교 구조 약함. '딥파이' 같은 표현 부정확. 도메인 IT지만 정책/생태계 내용."},
-    {"id": "q068", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "IV 영양요법 성분/기전 정확하고 깊이 있음. explanatory/hard 부합."},
-    {"id": "q053", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "두 팀 비교 구조 적절하나 fact-recall 성격. 외부 검증 어려운 internal team 정보."},
-    {"id": "q090", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 3, "difficulty_calibration": 2}, "rationale_brief": "q089 중복. comparative 약함, '딥파이' 오타성 표현."},
-    {"id": "q094", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "두 행정부 관세 비교 명확. PNTR 등 전문용어 정확. comparative/hard 부합."},
-    {"id": "q041", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "한국-싱가포르 비교 명확, 1인당 GDP 수치 합리적. comparative 부합."},
-    {"id": "q093", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "q094 중복. 동일 평가."},
-    {"id": "q116", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "ESPB와 PNB 차이 정확, fascial plane block 기전 적절."},
-    {"id": "q199", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "역사적 서술. comparative보다 explanatory에 가까움. '미국 지원도 별로 없는' 부분 사실성 의심."},
-    {"id": "q157", "scores": {"faithfulness": 5, "domain_accuracy": 5, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "출혈 위험인자 분류 임상 가이드라인 부합, LAA occlusion까지 포함. medium/comparative 적절."},
-    {"id": "q025", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "회사별 팀 정보 외부 검증 어려움. comparative 구조는 적절."},
-    {"id": "q180", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "기후 플랫폼 선순환 구조 단계별 명확. explanatory/hard 부합."},
-    {"id": "q147", "scores": {"faithfulness": 4, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "AI agent commerce 일반론. medium/comparative 적절하지만 깊이 보통."},
-    {"id": "q074", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "외상전담 간호사 제도 개선 3축 잘 정리. ATCN/TNCC 전문성 인용 적절."},
-    {"id": "q058", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 4}, "rationale_brief": "독해 vs 언어이해 구분 직관적이지만 NLP 학술 정의와 다소 거리. 예시는 좋음."},
-    {"id": "q152", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 4, "difficulty_calibration": 5}, "rationale_brief": "항응고 옵션별 장단점 정리. '노AC' 표기 오류. hard/comparative 부합."},
-    {"id": "q017", "scores": {"faithfulness": 4, "domain_accuracy": 5, "question_quality": 5, "answer_depth": 5, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "PDRN 두 모델 골 형성 비교 구체적, contained defect 등 전문 해석 포함. 매우 우수."},
-    {"id": "q049", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "현재 disinflation 국면 vs 과거 인플레 압박 비교 논리 합리적."},
-    {"id": "q092", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "한미 투자계약 기원 차이(PE vs 은행) 흥미롭고 liquidation preference 등 구체적."},
-    {"id": "q075", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "기업 AI 도입 단계 변화와 사용자 리터러시 평균 하락 통찰력 있음."},
-    {"id": "q141", "scores": {"faithfulness": 3, "domain_accuracy": 3, "question_quality": 3, "answer_depth": 3, "coherence": 4, "difficulty_calibration": 3}, "rationale_brief": "high-tech/high-touch 균형 일반론. 생물학적 뇌 활성화 주장 다소 과장."},
-    {"id": "q020", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 5}, "rationale_brief": "q116 중복. 동일 평가."},
-    {"id": "q096", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "중국/미EU/아세안 비교, 성장률 수치 구체적. comparative/hard 부합."},
-    {"id": "q031", "scores": {"faithfulness": 4, "domain_accuracy": 4, "question_quality": 4, "answer_depth": 4, "coherence": 5, "difficulty_calibration": 4}, "rationale_brief": "실리콘밸리 24만 layoff, 한국 변화 시점 등 구체적. comparative 부합."}
+    {
+      "id": "q119",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "T2DM 자연사 설명 합리적, 인슐린 분비 기능의 중요성 일관 설명. explanatory/hard 적절."
+    },
+    {
+      "id": "q089",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "comparative 라벨이지만 비교 구조 약함. '딥파이' 같은 표현 부정확. 도메인 IT지만 정책/생태계 내용."
+    },
+    {
+      "id": "q068",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "IV 영양요법 성분/기전 정확하고 깊이 있음. explanatory/hard 부합."
+    },
+    {
+      "id": "q053",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "두 팀 비교 구조 적절하나 fact-recall 성격. 외부 검증 어려운 internal team 정보."
+    },
+    {
+      "id": "q090",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 3
+      },
+      "rationale_brief": "q089 중복. comparative 약함, '딥파이' 오타성 표현."
+    },
+    {
+      "id": "q094",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "두 행정부 관세 비교 명확. PNTR 등 전문용어 정확. comparative/hard 부합."
+    },
+    {
+      "id": "q041",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "한국-싱가포르 비교 명확, 1인당 GDP 수치 합리적. comparative 부합."
+    },
+    {
+      "id": "q093",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q094 중복. 동일 평가."
+    },
+    {
+      "id": "q116",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "ESPB와 PNB 차이 정확, fascial plane block 기전 적절."
+    },
+    {
+      "id": "q199",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "역사적 서술. comparative보다 explanatory에 가까움. '미국 지원도 별로 없는' 부분 사실성 의심."
+    },
+    {
+      "id": "q157",
+      "scores": {
+        "faithfulness": 5,
+        "domain_accuracy": 5,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "출혈 위험인자 분류 임상 가이드라인 부합, LAA occlusion까지 포함. medium/comparative 적절."
+    },
+    {
+      "id": "q025",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "회사별 팀 정보 외부 검증 어려움. comparative 구조는 적절."
+    },
+    {
+      "id": "q180",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "기후 플랫폼 선순환 구조 단계별 명확. explanatory/hard 부합."
+    },
+    {
+      "id": "q147",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "AI agent commerce 일반론. medium/comparative 적절하지만 깊이 보통."
+    },
+    {
+      "id": "q074",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "외상전담 간호사 제도 개선 3축 잘 정리. ATCN/TNCC 전문성 인용 적절."
+    },
+    {
+      "id": "q058",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "독해 vs 언어이해 구분 직관적이지만 NLP 학술 정의와 다소 거리. 예시는 좋음."
+    },
+    {
+      "id": "q152",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 4
+      },
+      "rationale_brief": "항응고 옵션별 장단점 정리. '노AC' 표기 오류. hard/comparative 부합."
+    },
+    {
+      "id": "q017",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 5,
+        "question_quality": 5,
+        "answer_depth": 5,
+        "coherence": 5
+      },
+      "rationale_brief": "PDRN 두 모델 골 형성 비교 구체적, contained defect 등 전문 해석 포함. 매우 우수."
+    },
+    {
+      "id": "q049",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "현재 disinflation 국면 vs 과거 인플레 압박 비교 논리 합리적."
+    },
+    {
+      "id": "q092",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "한미 투자계약 기원 차이(PE vs 은행) 흥미롭고 liquidation preference 등 구체적."
+    },
+    {
+      "id": "q075",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "기업 AI 도입 단계 변화와 사용자 리터러시 평균 하락 통찰력 있음."
+    },
+    {
+      "id": "q141",
+      "scores": {
+        "faithfulness": 3,
+        "domain_accuracy": 3,
+        "question_quality": 3,
+        "answer_depth": 3,
+        "coherence": 4
+      },
+      "rationale_brief": "high-tech/high-touch 균형 일반론. 생물학적 뇌 활성화 주장 다소 과장."
+    },
+    {
+      "id": "q020",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "q116 중복. 동일 평가."
+    },
+    {
+      "id": "q096",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "중국/미EU/아세안 비교, 성장률 수치 구체적. comparative/hard 부합."
+    },
+    {
+      "id": "q031",
+      "scores": {
+        "faithfulness": 4,
+        "domain_accuracy": 4,
+        "question_quality": 4,
+        "answer_depth": 4,
+        "coherence": 5
+      },
+      "rationale_brief": "실리콘밸리 24만 layoff, 한국 변화 시점 등 구체적. comparative 부합."
+    }
   ]
 }
