@@ -44,7 +44,7 @@
 | Unknown-admission re-classifier (paper §5.4, 2-judge binary) | `claude-haiku-4-5` + `gemini-2.5-pro` |
 | LLM-difficulty audit answer generation (paper §5.4) | `claude-sonnet-4-6`, `claude-opus-4-7`, `gpt-4o`, `gpt-5.4` |
 
-## SFT (student models, 9 families)
+## SFT (student models: 9 models, 5 families)
 
 See `configs/models.yaml` for full identifiers, target_modules, response_templates.
 

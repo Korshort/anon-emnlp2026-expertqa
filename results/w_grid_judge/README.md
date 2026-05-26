@@ -1,4 +1,4 @@
-# W-grid judge scores (Table 4 in paper §5.3)
+# W-grid judge scores (Table 5 in paper §5.3)
 
 4-judge cross-provider Likert scoring on the W-grid sub-sample
 (EXAONE 3.5 7.8B + Qwen 3.5 4B × medical + finance × {W-Exp0, W-Exp2},
@@ -12,16 +12,16 @@
 | `w_exp2_medical_{judge}.json` | W-Exp2 medical (25 items each). judge ∈ {sonnet, opus, gpt4o, gpt54}. |
 | `w_exp0_and_w_exp2_finance_id_to_cell.json` | id → cell mapping for the 75 items covered by the batch files (`w_exp0_medical`, `w_exp0_finance`, `w_exp2_finance`). |
 | `w_exp2_medical_id_to_cell.json` | id → cell mapping for the 25 W-Exp2 medical items. |
-| `in_house_baseline_aggregate.json` | 4-judge per-cell means on the matched in-house Exp 0 / Exp 1-1 / Exp 1-2 / Exp 2 sample sessions (the in-house side of Table 4 in paper §5.3). |
+| `in_house_baseline_aggregate.json` | 4-judge per-cell means on the matched in-house Exp 0 / Exp 1-1 / Exp 1-2 / Exp 2 sample sessions (the in-house side of Table 5 in paper §5.3). |
 
 ## Rubric
 
-Same 5-dim 1-5 Likert rubric as the primary 200-QA scoring (paper §3.3 evaluation +
+Same 5-dim 1-5 Likert rubric as the primary 200-QA scoring (paper §4 Experimental Setup +
 `../prompts/llm_judge_rubric.md`). The paper's reported overall is the
 mean of the five external-quality dimensions: faithfulness, domain_accuracy,
 question_quality, answer_depth, coherence.
 
-## Table 4 reproduction (paper §5.3)
+## Table 5 reproduction (paper §5.3)
 
 ```python
 import json, glob

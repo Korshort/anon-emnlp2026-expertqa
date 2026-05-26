@@ -14,15 +14,17 @@ judge_primary_4judge/
 └── gpt54/exp1_gpt54_batch_{1..8}.json     — OpenAI GPT-5.4
 ```
 
-8 batches × 25 items × 6-dim Likert (1-5) per judge.
+8 batches × 25 items × 5-dim Likert (1-5) per judge.
 
 ## Rubric
 
-Same 6-dim rubric as `../../prompts/llm_judge_rubric.md`:
-faithfulness, domain_accuracy, question_quality, answer_depth, coherence,
-difficulty_calibration. Paper reports the overall as the mean of the first
-five external-quality dimensions; `difficulty_calibration` is reported
-per-dim only.
+Same 5-dim rubric as `../../prompts/llm_judge_rubric.md`:
+faithfulness, domain_accuracy, question_quality, answer_depth, coherence.
+Paper reports the overall as the mean of these five external-quality
+dimensions. Historical raw JSON files may contain an additional 6th field
+(`difficulty_calibration`) from an earlier rubric revision; it is not part
+of the released rubric and is ignored by `code/aggregate_judge.py` default
+output (matches paper Table 3).
 
 ## Table 3 / Table 16 reproduction
 

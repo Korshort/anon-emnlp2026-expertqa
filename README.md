@@ -48,14 +48,19 @@ results/
 ├── kmmlu_mmlu_lora_target.json    — §5.2 main 72 LoRA cells (KMMLU/MMLU domain-aligned)
 ├── kmmlu_mmlu_full_ft.json        — §5.5 + App K Full-FT sanity (12 cells)
 ├── kmmlu_per_subtask.json         — App B KMMLU 45-subject breakdown
-├── llm_judge_aggregate.json       — Sonnet 4.6 single-judge per-cell aggregate over the 5 external-quality dimensions (paper Table 3 is the 4-judge mean; compute by aggregating across the four sources listed below using code/aggregate_judge.py)
-├── judge_primary_batch_{1..8}.json — primary 200-QA per-item Sonnet 4.6 scores (8 batches × 25 items)
+├── llm_judge_aggregate.json       — Sonnet 4.6 single-judge per-cell aggregate over the 5 external-quality dimensions (paper Table 3 is the 4-judge mean; compute by aggregating across the four sources under judge_primary_4judge/ below using code/aggregate_judge.py)
+├── judge_primary_4judge/          — primary 200-QA per-item 4-judge raw (paper Table 3, App K)
+│   ├── id_to_cell_mapping.json
+│   ├── sonnet_46/sonnet_46_batch_{1..8}.json    — Claude Sonnet 4.6
+│   ├── opus/exp1_opus_batch_{1..8}.json         — Claude Opus 4.7
+│   ├── gpt4o/exp1_gpt4o_batch_{1..8}.json       — OpenAI GPT-4o
+│   └── gpt54/exp1_gpt54_batch_{1..8}.json       — OpenAI GPT-5.4
 ├── judge_filtered/                — Phase-2-filtered 200-QA 4-judge per-item raw (App N)
 │   ├── sonnet_46/sonnet_batch_{1..8}.json
 │   ├── opus_47/opus_batch_{1..8}.json
 │   ├── gpt_4o/gpt_4o_batch_{1..8}.json
 │   └── gpt_5_4/gpt_5_4_batch_{1..8}.json
-└── w_grid_judge/                  — §5.3 Table 4 W-grid 4-judge raw (W-Exp0/W-Exp2 × med+fin × 25 items, plus in-house baseline aggregate); see w_grid_judge/README.md
+└── w_grid_judge/                  — §5.3 Table 5 W-grid 4-judge raw (W-Exp0/W-Exp2 × med+fin × 25 items, plus in-house baseline aggregate); see w_grid_judge/README.md
 ```
 
 ## What is NOT included (Limitations)

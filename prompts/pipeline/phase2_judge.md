@@ -1,7 +1,7 @@
 # Phase 2 — Judge Prompt (verbatim)
 
 > Pipeline stage: Phase 2 (Quality Refinement) → `judge` tool.
-> Used in paper §3.4. Model: GPT-5.2 (5-judge batch ensemble).
+> Used in paper §3.1 (Phase 2 Quality Refinement). Model: GPT-5.2 (5-judge batch ensemble).
 > Source: `dw_tool_qa_generator/adapters/domain/signatures.py:JudgeSignatureV1`.
 
 ## Task

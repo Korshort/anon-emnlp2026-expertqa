@@ -1,37 +1,53 @@
 """LLM-judge 8 batch results → cell × dim aggregate + factorial.
 
-Usage: python aggregate_judge.py [--batch-dir DIR] [--include-difficulty-calibration]
-Default: BATCH_DIR=./judge_batches (relative to CWD).
+Usage: python aggregate_judge.py [--batch-dir DIR] [--batch-glob PATTERN]
+                                 [--mapping PATH] [--include-difficulty-calibration]
 
 The paper's "overall" metric is the mean of five external-quality dimensions
 (faithfulness, domain_accuracy, question_quality, answer_depth, coherence).
-The 6th rubric dimension `difficulty_calibration` measures Phase-1 label
-alignment with content and is reported per-dim only (not in the overall
-aggregate). Pass --include-difficulty-calibration to revert to the legacy
-6-dim overall.
+Historical raw JSON files may contain a legacy 6th field `difficulty_calibration`;
+pass --include-difficulty-calibration to revert to the legacy 6-dim overall.
+
+For the released 4-judge raw scores (results/judge_primary_4judge/<judge>/),
+run once per judge, e.g.
+  python aggregate_judge.py \\
+      --batch-dir ../results/judge_primary_4judge/sonnet_46 \\
+      --batch-glob 'sonnet_46_batch_*.json' \\
+      --mapping ../results/judge_primary_4judge/id_to_cell_mapping.json
+Replace sonnet_46 → opus / gpt4o / gpt54 (filenames: exp1_<judge>_batch_*.json)
+for the other three judges.
 """
 import argparse
+import glob
 import json
 import os
 from pathlib import Path
 from collections import defaultdict
 
-parser = argparse.ArgumentParser(description=__doc__)
+parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
 parser.add_argument("--batch-dir", default=os.environ.get("BATCH_DIR", str(Path.cwd() / "judge_batches")))
+parser.add_argument("--batch-glob", default="result_batch_*.json",
+                    help="Filename glob for per-batch JSONs (default: result_batch_*.json)")
+parser.add_argument("--mapping", default=None,
+                    help="Path to id_to_cell_mapping.json (default: BATCH_DIR/id_to_cell_mapping.json)")
 parser.add_argument("--include-difficulty-calibration", action="store_true",
                     help="legacy 6-dim overall (default: 5-dim, matches paper Table 3)")
 args = parser.parse_args()
 
 BATCH_DIR = Path(args.batch_dir)
+MAPPING_PATH = Path(args.mapping) if args.mapping else (BATCH_DIR / "id_to_cell_mapping.json")
 
 # Load mapping
-with (BATCH_DIR / "id_to_cell_mapping.json").open() as f:
+with MAPPING_PATH.open() as f:
     mapping = json.load(f)
 
 # Load all results
 all_scores = {}  # qid -> {dim: score, ..., rationale}
-for i in range(1, 9):
-    with (BATCH_DIR / f"result_batch_{i}.json").open() as f:
+batch_files = sorted(glob.glob(str(BATCH_DIR / args.batch_glob)))
+if not batch_files:
+    raise SystemExit(f"No batch files matched: {BATCH_DIR / args.batch_glob}")
+for path in batch_files:
+    with open(path) as f:
         d = json.load(f)
     for r in d["results"]:
         all_scores[r["id"]] = r
