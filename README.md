@@ -60,7 +60,8 @@ results/
 │   ├── opus_47/opus_batch_{1..8}.json
 │   ├── gpt_4o/gpt_4o_batch_{1..8}.json
 │   └── gpt_5_4/gpt_5_4_batch_{1..8}.json
-└── w_grid_judge/                  — §5.3 Table 5 W-grid 4-judge raw (W-Exp0/W-Exp2 × med+fin × 25 items, plus in-house baseline aggregate); see w_grid_judge/README.md
+├── w_grid_judge/                  — §5.3 Table 5 W-grid 4-judge raw (W-Exp0/W-Exp2 × med+fin × 25 items, plus in-house baseline aggregate); see w_grid_judge/README.md
+└── llm_difficulty_audit/          — §5.4 Table 6 LLM-difficulty audit raw (2-judge binary re-classification: Haiku 4.5 + Gemini 2.5 Pro × 4 frontier LLMs × 200 QA = 800 anonymized items); see llm_difficulty_audit/README.md
 ```
 
 ## What is NOT included (Limitations)

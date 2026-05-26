@@ -1,0 +1,207 @@
+{
+ "batch_id": 3,
+ "results": [
+  {
+   "id": "a101",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a102",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a103",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a104",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a105",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a106",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a107",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a108",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a109",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a110",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a111",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a112",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a113",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a114",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a115",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a116",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a117",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a118",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a119",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a120",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a121",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a122",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a123",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a124",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a125",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a126",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a127",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a128",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a129",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a130",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a131",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a132",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a133",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a134",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a135",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a136",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a137",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a138",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a139",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a140",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a141",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a142",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a143",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a144",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a145",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a146",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a147",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a148",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a149",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a150",
+   "label": "ANSWERED"
+  }
+ ],
+ "judge": "anthropic/claude-haiku-4.5",
+ "finish_reason": "stop"
+}

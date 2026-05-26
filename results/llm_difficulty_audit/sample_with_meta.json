@@ -1,0 +1,1802 @@
+[
+ {
+  "gid": "f066",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 16,
+  "question": "중국의 치과 임플란트 로봇 기술 개발 현황은 어떠한가요?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f187",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 12,
+  "question": "소변 소리 분석을 통한 의료기기는 어떤 질환을 진단하는가?",
+  "domain_label": "Med",
+  "sub_domain": "Urology"
+ },
+ {
+  "gid": "f101",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 1,
+  "question": "후방추돌 사고에서 차량 변형 매트릭스(VDM)는 어떻게 구성되는가?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Mech Eng"
+ },
+ {
+  "gid": "f193",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 18,
+  "question": "인공지능 기본법의 정식 명칭은 무엇인가요?",
+  "domain_label": "Law/Public",
+  "sub_domain": "Public Policy"
+ },
+ {
+  "gid": "f111",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 11,
+  "question": "일찍 누워도 잠이 오지 않는 근본적인 이유는 무엇이며, 해결책은 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Rehab"
+ },
+ {
+  "gid": "f121",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 21,
+  "question": "장기간 요도 카테터를 유지하는 것과 방광루(시스토스토미)를 비교했을 때, 특히 여성 환자에게서 나타나는 주요 문제점은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Urology"
+ },
+ {
+  "gid": "f013",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 13,
+  "question": "시뮬레이션과 VR을 활용한 교육의 장점은 무엇인가?",
+  "domain_label": "Education",
+  "sub_domain": "E-learning"
+ },
+ {
+  "gid": "f002",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 2,
+  "question": "2024년 대한중환자의학회 패혈증 초기 치료 권고안에서, 패혈증 환자의 초기 수액 소생술 시 목표로 삼아야 할 혈압과 그 근거는 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Internal"
+ },
+ {
+  "gid": "f064",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 14,
+  "question": "피로 회복을 위한 비타민 B 복합체 제제인 B콤, 판비콤보, 멀티비타의 주요 차이점과 선택 기준은 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Pharmacy"
+ },
+ {
+  "gid": "f044",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 19,
+  "question": "스타트업에서 특정 사용자 그룹을 타겟팅할 때 강조되는 용어는 무엇인가요?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "Performance"
+ },
+ {
+  "gid": "f136",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 11,
+  "question": "멀티모달 RAG의 문서 파싱 단계에서 정보 유실을 줄이기 위해 사용하는 방법은 무엇인가요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "AI"
+ },
+ {
+  "gid": "f170",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 20,
+  "question": "인튜티브의 로봇 수술 교육 대상은 어떤 그룹들로 구성되어 있는가?",
+  "domain_label": "Med",
+  "sub_domain": "Healthcare"
+ },
+ {
+  "gid": "f128",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 3,
+  "question": "베트남의 평균 연령은 얼마인가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Sociology"
+ },
+ {
+  "gid": "f076",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 1,
+  "question": "경기도 기후 플랫폼에서 제공하는 탄소 흡수량과 저장량 분석은 어떤 해상도와 방법으로 구축되나요?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Energy & Utilities"
+ },
+ {
+  "gid": "f158",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 8,
+  "question": "외상성 뇌손상은 단순한 뇌질환이 아닌 전신질환으로 관리해야 하는 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f167",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 17,
+  "question": "고령 외상 환자의 ICU 트리아지는 어떻게 수행되어야 하나요?",
+  "domain_label": "Med",
+  "sub_domain": "Healthcare"
+ },
+ {
+  "gid": "f045",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 20,
+  "question": "한국의 난민 인정률은 얼마이며, 이것이 난민 학생 지원에 어떤 의미를 갖는가?",
+  "domain_label": "Law/Public",
+  "sub_domain": "Visa/Immigration"
+ },
+ {
+  "gid": "f130",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 5,
+  "question": "베트남과 한국의 원자력 발전소 건설 기간 차이는 어떻게 비교되나요?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Nuclear"
+ },
+ {
+  "gid": "f030",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 5,
+  "question": "한국의 인구 고령화 속도와 그에 따른 금융 역할의 중요성을 설명하시오.",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Financial services"
+ },
+ {
+  "gid": "f003",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 3,
+  "question": "수술실에서 직면하는 주요 과제는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f159",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 9,
+  "question": "항응고 치료 중 재발성 출혈이 발생할 때, 동일 NOAC 유지와 다른 클래스로의 변경 중 어떤 전략이 더 적절한가요?",
+  "domain_label": "Med",
+  "sub_domain": "Cardio"
+ },
+ {
+  "gid": "f015",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 15,
+  "question": "암세포에서 표적 물질을 확인하는 주요 검사 방법들에는 어떤 것들이 있나요?",
+  "domain_label": "Med",
+  "sub_domain": "Pathology"
+ },
+ {
+  "gid": "f042",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 17,
+  "question": "KB인베스트먼트와 같은 투자사가 하이테크 분야에 투자할 때, 투자 안정성과 수익성을 위해 권고하는 핵심 전략은 무엇인가?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Venture"
+ },
+ {
+  "gid": "f126",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 1,
+  "question": "애플과 같은 기업의 설비투자 정책이 반도체 업계에 어떤 시사점을 제공하나요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "Hardware"
+ },
+ {
+  "gid": "f186",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 11,
+  "question": "양자 컴퓨팅과 생성 AI의 기술 성숙도는 어떻게 다른가요?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "CS"
+ },
+ {
+  "gid": "f162",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 12,
+  "question": "천연물 산업에서 가공 단계에 따른 부가가치 변화는 어떻게 비교되나요?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Biopharma"
+ },
+ {
+  "gid": "f047",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 22,
+  "question": "Mark Nova가 B2G 사업을 통해 달성한 구체적인 성과는?",
+  "domain_label": "Med",
+  "sub_domain": "Healthcare"
+ },
+ {
+  "gid": "f110",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 10,
+  "question": "암 환자 부모가 겪는 심리적 적응의 특징은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f005",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 5,
+  "question": "합성의약품과 천연물 의약품의 임상시험 비율은 어떻게 비교되나요?",
+  "domain_label": "Med",
+  "sub_domain": "Pharmacy"
+ },
+ {
+  "gid": "f194",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 19,
+  "question": "플랫폼의 비즈니스 모델이 알고리즘 편향에 어떻게 기여하나요?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "SNS/Influencer"
+ },
+ {
+  "gid": "f037",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 12,
+  "question": "한국과 미국 시장에서 디자인 접근법의 차이가 현지 인재 영입 전략에 어떻게 영향을 미치는가?",
+  "domain_label": "Arts/Culture/Sports",
+  "sub_domain": "Design"
+ },
+ {
+  "gid": "f122",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 22,
+  "question": "합성의약품과 천연물 의약품의 임상시험 비율은 어떻게 비교되나요?",
+  "domain_label": "Med",
+  "sub_domain": "Pharmacy"
+ },
+ {
+  "gid": "f012",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 12,
+  "question": "FDA에서 허가받은 보테니컬 약물들의 구체적인 사례와 그 적응증은 어떻게 되며, 이들이 단일 성분이 아닌 추출물로서 어떤 의미를 갖는가?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Biopharma"
+ },
+ {
+  "gid": "f036",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 11,
+  "question": "QR 코드를 사용한 스테이블 코인 결제의 절차는 무엇인가요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "Blockchain"
+ },
+ {
+  "gid": "f153",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 3,
+  "question": "시뮬레이션과 VR 교육 환경의 장점은 무엇인가요?",
+  "domain_label": "Education",
+  "sub_domain": "Edutech"
+ },
+ {
+  "gid": "f069",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 19,
+  "question": "수술 전 준비 시간이란 무엇을 의미하며, 평균 시간은 얼마인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f061",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 11,
+  "question": "IT 시스템 솔루션의 일반적인 가격 책정 전략은 무엇인가요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "SaaS"
+ },
+ {
+  "gid": "f195",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 20,
+  "question": "EU와 미국의 AI 및 디지털 플랫폼 규제 접근 방식은 어떻게 다른가요?",
+  "domain_label": "Law/Public",
+  "sub_domain": "International Law"
+ },
+ {
+  "gid": "f032",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 7,
+  "question": "인공지능과 양자 컴퓨팅은 어떤 관계가 있나요?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "CS"
+ },
+ {
+  "gid": "f172",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 22,
+  "question": "접착 수복 재료로서 복합 레진과 이맥스(IPS e.max)와 같은 세라믹을 비교하면 어떤 차이가 있는가?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f171",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 21,
+  "question": "천연물 산업에서 원재료의 부가가치가 가공 단계에 따라 어떻게 증가하는가?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Biotech"
+ },
+ {
+  "gid": "f060",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 10,
+  "question": "임플란트 식립 후 2-4주 사이에 안정성이 저하되는 현상의 원인은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f010",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 10,
+  "question": "노인 외상 환자에서 균형 수혈 전략의 효과를 분석한 연구는 주로 어떤 데이터를 사용하였나요?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f144",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 19,
+  "question": "AI 시대에 청소년 교육에서 하이테크와 하이터치의 균형을 어떻게 유지해야 하는가?",
+  "domain_label": "Education",
+  "sub_domain": "E-learning"
+ },
+ {
+  "gid": "f160",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 10,
+  "question": "횡격막 비후 분율(diaphragmatic thickening fraction)은 어떻게 측정하며, 그 원리는 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f052",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 2,
+  "question": "RASS와 CAM-ICU 평가 도구는 어떻게 연계되어 사용되나요?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f125",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 0,
+  "question": "전통적인 애니메이션 중심 전략에서 새로운 콘텐츠 전략으로 어떻게 변화하고 있나요?",
+  "domain_label": "Arts/Culture/Sports",
+  "sub_domain": "Entertainment"
+ },
+ {
+  "gid": "f106",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 6,
+  "question": "척수 손상의 급성기 병태생리에 대해 설명해 주세요.",
+  "domain_label": "Med",
+  "sub_domain": "Pathology"
+ },
+ {
+  "gid": "f073",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 23,
+  "question": "두 번째 케이스에서 심장 기능 저하를 진단하기 위해 어떤 검사를 시행했고 그 결과는 어떠했는가?",
+  "domain_label": "Med",
+  "sub_domain": "Cardio"
+ },
+ {
+  "gid": "f113",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 13,
+  "question": "한국과 일본의 고령화 속도를 비교했을 때 어떤 차이가 있는가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Sociology"
+ },
+ {
+  "gid": "f105",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 5,
+  "question": "RAG 기술이 한의학 AI 시스템에서 할루시네이션을 제어하는 방식은 무엇인가?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "AI"
+ },
+ {
+  "gid": "f095",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 20,
+  "question": "사장님 포털을 만들고자 했던 목표와 그 실현 방법은 무엇인가?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "SaaS"
+ },
+ {
+  "gid": "f103",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 3,
+  "question": "트리포케이션 병변에서 와이어 통과가 어려울 때 어떤 전략을 사용할 수 있는가?",
+  "domain_label": "Med",
+  "sub_domain": "Cardio"
+ },
+ {
+  "gid": "f145",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 20,
+  "question": "티니핑이 기존 마법 공주 컨셉과 차별화된 점은 무엇인가요?",
+  "domain_label": "Games",
+  "sub_domain": "Industry"
+ },
+ {
+  "gid": "f043",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 18,
+  "question": "서울시가 핀테크 인재 양성을 위해 운영하는 교육 프로그램들은 무엇이며, 연간 몇 명의 인재를 배출하는가?",
+  "domain_label": "Education",
+  "sub_domain": "Corp Training"
+ },
+ {
+  "gid": "f000",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 0,
+  "question": "늑골 골절이 있는 노인 환자에서 통증 조절 방법으로 인터코스탈 블록과 크라이오어블레이션의 장점을 비교하면?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f161",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 11,
+  "question": "텔레콜래버레이션을 통해 달성할 수 있는 의료 협업의 새로운 형태는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Telemedicine"
+ },
+ {
+  "gid": "f192",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 17,
+  "question": "IP 미디어 산업에서 가장 높은 매출을 기록하는 콘텐츠 유형은 무엇이며, 그 특징은 무엇인가요?",
+  "domain_label": "Games",
+  "sub_domain": "Industry"
+ },
+ {
+  "gid": "f016",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 16,
+  "question": "성기능 장애 개선을 위한 비호르몬 치료법들의 효과는 어떻게 평가되고 있는가?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f080",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 5,
+  "question": "한국에서 65세 이상 노인의 빈곤율은 얼마인가요?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Labor/Inequality"
+ },
+ {
+  "gid": "f102",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 2,
+  "question": "JNTEC 코스의 수강 프로세스는 어떤 절차로 진행되나요?",
+  "domain_label": "Med",
+  "sub_domain": "Rehab"
+ },
+ {
+  "gid": "f038",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 13,
+  "question": "미국의 정책 변화가 향후 국가 간 비트코인 경쟁에 미칠 영향은 무엇인가요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Financial services"
+ },
+ {
+  "gid": "f156",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 6,
+  "question": "발치 후 즉시 식립 시 사용하는 비매몰 치유(넌서머징)와 전통적인 매몰 치유(서머징)를 비교하면, 수술 과정상 어떤 차이가 있나요?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f176",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 1,
+  "question": "전통적인 '마법 공주' 컨셉에 '수집형' 요소를 결합한 것이 티니핑의 성공 요인으로 꼽히는데, 이 새로운 결합이 왜 시장에서 호응을 얻었나요?",
+  "domain_label": "Games",
+  "sub_domain": "Genre"
+ },
+ {
+  "gid": "f135",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 10,
+  "question": "김치와 일본의 기무치가 거의 같은 재료를 사용하지만 다른 결과가 나오는 이유는 무엇인가?",
+  "domain_label": "Lifestyle",
+  "sub_domain": "Food/Beverage"
+ },
+ {
+  "gid": "f078",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 3,
+  "question": "사운더블 헬스는 어떤 기술을 사용하여 원격 모니터링을 수행하는가?",
+  "domain_label": "Med",
+  "sub_domain": "Telemedicine"
+ },
+ {
+  "gid": "f115",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 15,
+  "question": "고관절 골절 환자에서 fascia iliaca block과 PENG block의 장점은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f019",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 19,
+  "question": "표적 치료제가 기존 항암제에 비해 부작용이 적은 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f014",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 14,
+  "question": "대퇴골 골절이 고령 환자에게 치명적인 외상이 되는 이유는 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Ortho"
+ },
+ {
+  "gid": "f177",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 2,
+  "question": "바이든 행정부에서 시행된 반도체 및 과학법(칩스엑트)과 인플레이션 감축법은 어떤 방식으로 중국을 견제했나요?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "EE"
+ },
+ {
+  "gid": "f146",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 21,
+  "question": "비자 인텔리전트 커머스의 'AI 레디 카드' 기술은 무엇이며, 어떤 과정을 통해 구현되나요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "Security"
+ },
+ {
+  "gid": "f179",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 4,
+  "question": "상법에서 이사의 충실의무는 누구를 대상으로 적용되나요?",
+  "domain_label": "Law/Public",
+  "sub_domain": "Commercial"
+ },
+ {
+  "gid": "f065",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 15,
+  "question": "한국과 일본의 고령화 속도를 비교하면 어떤 차이가 있는가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Sociology"
+ },
+ {
+  "gid": "f084",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 9,
+  "question": "웹툰이 모바일 시대로 성공적으로 전환할 수 있었던 핵심 요인은 무엇인가요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "Web/App"
+ },
+ {
+  "gid": "f165",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 15,
+  "question": "결막 봉합 시 실이 각막에 닿지 않게 하는 안전한 길이 기준은 얼마인가?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f046",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 21,
+  "question": "베트남과 한국의 출산율을 비교하고 그 의미를 설명하시오.",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Sociology"
+ },
+ {
+  "gid": "f104",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 4,
+  "question": "한국인이 서구인에 비해 비만 기준(BMI)이 낮은 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Endocrine"
+ },
+ {
+  "gid": "f079",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 4,
+  "question": "플랫폼의 비즈니스 모델이 알고리즘 편향에 어떻게 기여하나요?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "SNS/Influencer"
+ },
+ {
+  "gid": "f054",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 4,
+  "question": "지능형 수술 효능 혁명의 배경에서 채택되는 수술 운영 방식은 무엇입니까?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f196",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 21,
+  "question": "RAG 시스템에서 retrieval을 수행할 때 고려해야 하는 세 가지 핵심 요소는 무엇인가요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "AI"
+ },
+ {
+  "gid": "f085",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 10,
+  "question": "AI4IR은 공시 문서 관리에서 어떤 역할을 하나요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Accounting"
+ },
+ {
+  "gid": "f118",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 18,
+  "question": "천연물 산업에서 원재료부터 의약품까지 가치 사슬의 변화를 비교 설명해 주세요.",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Biopharma"
+ },
+ {
+  "gid": "f109",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 9,
+  "question": "즉시 부하(immediate loading)에서 마이크로모션을 방지하기 위한 구체적인 절차는 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f133",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 8,
+  "question": "Qunova와 GS칼텍스가 공동으로 연구하고 있는 기술 분야는 무엇인가?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Energy & Utilities"
+ },
+ {
+  "gid": "f142",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 17,
+  "question": "한국의 사회보험 프로그램이 처음 도입될 때와 현재의 적용 범위를 비교하면 어떤 확대 과정을 거쳤는가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f033",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 8,
+  "question": "스타트업에서 프로덕트 피보팅과 비즈니스 피보팅의 차이는 무엇인가요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Startup"
+ },
+ {
+  "gid": "f018",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 18,
+  "question": "트라우마 베이와 관찰 구역을 포함하여 동시에 몇 명의 환자를 수용할 수 있는가?",
+  "domain_label": "Med",
+  "sub_domain": "Healthcare"
+ },
+ {
+  "gid": "f140",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 15,
+  "question": "협약 체결식에서 사진 촬영 시 권장되는 포즈들은 어떻게 되나요?",
+  "domain_label": "Arts/Culture/Sports",
+  "sub_domain": "Events"
+ },
+ {
+  "gid": "f123",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 23,
+  "question": "DOR 프로토콜의 한계점과 주의사항은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f175",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 0,
+  "question": "라히드 학생이 설명한 체류 자격과 실제 삶의 불일치 문제는 무엇인가?",
+  "domain_label": "Law/Public",
+  "sub_domain": "Visa/Immigration"
+ },
+ {
+  "gid": "f063",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 13,
+  "question": "RAG 기술이 AI 의료 시스템에서 할루시네이션을 제어하는 방법은 무엇인가?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "AI"
+ },
+ {
+  "gid": "f083",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 8,
+  "question": "아프가니스탄 출신 학생이 한국에서 겪고 있는 주요 비자 관련 문제는 무엇인가요?",
+  "domain_label": "Law/Public",
+  "sub_domain": "Visa/Immigration"
+ },
+ {
+  "gid": "f148",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 23,
+  "question": "한국의 전통적인 고등어 양식 방식에는 어떤 환경적 문제가 있나요?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Biotech"
+ },
+ {
+  "gid": "f100",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 0,
+  "question": "노인 외상 환자에서 균형 수혈 전략의 효과를 분석한 연구는 주로 어떤 데이터를 사용하였나요?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f155",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 5,
+  "question": "초음파를 이용한 횡격막 기능장애 평가 방법과 정상값은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f072",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 22,
+  "question": "유방암의 호르몬 수용체 양성/음성과 양성종양/악성종양의 용어적 차이는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f027",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 2,
+  "question": "난민 지원에서 임파우먼트(empowerment) 개념이 중요한 이유는 무엇인가요?",
+  "domain_label": "Education",
+  "sub_domain": "HigherEd"
+ },
+ {
+  "gid": "f184",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 9,
+  "question": "캐시노트가 초기에 제공한 핵심 기능은 무엇이었나요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "SaaS"
+ },
+ {
+  "gid": "f112",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 12,
+  "question": "심방세동 환자의 출혈 에피소드 발생 후 항응고제 재시작에 대한 가이드라인 권고사항은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Cardio"
+ },
+ {
+  "gid": "f051",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 1,
+  "question": "외상성 뇌손상(TBI) 환자에서 급성 신장 손상(AKI)이 발생하는 주요 위험 요인은 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Urology"
+ },
+ {
+  "gid": "f174",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 24,
+  "question": "심방세동 환자의 항응고 치료 시 고출혈 위험 인자에는 어떤 것이 있습니까?",
+  "domain_label": "Med",
+  "sub_domain": "Cardio"
+ },
+ {
+  "gid": "f004",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 4,
+  "question": "에나멜 표면을 깨끗하게 만들기 위해 어떤 버를 사용하는 것이 유리한가?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f029",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 4,
+  "question": "미국 시장에서 니치 오디언스(niche audience) 타겟팅이 중요한 이유는 무엇인가?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "B2B"
+ },
+ {
+  "gid": "f183",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 8,
+  "question": "베트남의 현재 경제 규모와 무역 개방도는 어느 정도 수준인가요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Trade"
+ },
+ {
+  "gid": "f099",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 24,
+  "question": "한국 주식시장에서 반도체 종목을 제외했을 때의 실제 지수 수준은 어느 정도인가요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Capital Mkt"
+ },
+ {
+  "gid": "f098",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 23,
+  "question": "서울이 핀테크 분야에서 달성한 국제적 성과는 무엇인가요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Financial services"
+ },
+ {
+  "gid": "f131",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 6,
+  "question": "AI 파워드 퍼스널라이제이션에서 고객 동의가 중요한 이유는 무엇인가?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Financial services"
+ },
+ {
+  "gid": "f124",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 24,
+  "question": "노인 외상 환자에서 저혈량을 판단하는 수축기 혈압의 최저 기준은 얼마인가?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f198",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 23,
+  "question": "GS 벤처스는 투자한 양자 컴퓨팅 기업(SDT, 퀀노바)과 어떤 전략적 협업을 추진하고 있는가?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Venture"
+ },
+ {
+  "gid": "f134",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 9,
+  "question": "미국에서 구글을 상대로 제기된 소송의 핵심 사유는 무엇인가?",
+  "domain_label": "Law/Public",
+  "sub_domain": "Civil"
+ },
+ {
+  "gid": "f178",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 3,
+  "question": "지자체 공무원들이 이주배경 자녀들에 대한 사회복지 서비스 제공에서 겪는 주요 문제점은 무엇인가요?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Government"
+ },
+ {
+  "gid": "f120",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 20,
+  "question": "카메라형 포터블 엑스레이를 이용한 베드사이드 PICC 삽입 연구의 주요 결과는 무엇이었나요?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f034",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 9,
+  "question": "환경부에 에너지 정책이 이관된 것에 대한 우려사항과 기대효과를 비교 분석하시오.",
+  "domain_label": "Law/Public",
+  "sub_domain": "Public Policy"
+ },
+ {
+  "gid": "f048",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 23,
+  "question": "인도는 미국과 러시아와의 관계를 어떻게 균형 있게 유지하는가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "IR"
+ },
+ {
+  "gid": "f169",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 19,
+  "question": "한국에서 치조제 보존술(ridge preservation)이 잘 시행되지 않는 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f138",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 13,
+  "question": "멀티모달 RAG를 혼합 현실(MR) 환경에서 활용하는 대표적인 사례는 무엇인가?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "AI"
+ },
+ {
+  "gid": "f149",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 24,
+  "question": "필터 버블의 존재 여부에 대한 학술적 논쟁은 어떻게 진행되고 있나요?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Comm"
+ },
+ {
+  "gid": "f132",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 7,
+  "question": "탄소 흡수량과 저장량을 분석하는 데 사용되는 모델과 방법은 무엇인가요?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Earth"
+ },
+ {
+  "gid": "f127",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 2,
+  "question": "1990년대 한국에서 노동시장 유연성 개혁이 실패한 이유는 무엇인가?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Management"
+ },
+ {
+  "gid": "f021",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 21,
+  "question": "65세 이상 고령자의 교통사고 사망률과 부상률은 전체 인구 대비 얼마나 높은가?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f081",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 6,
+  "question": "한국의 스마트폰 보급률과 OTT 이용률은 각각 몇 퍼센트이며, 가짜 뉴스에 대한 우려도는 어떤 수준인가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Comm"
+ },
+ {
+  "gid": "f077",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 2,
+  "question": "2025년 경기도 기후위기 대응 특별보증의 지원 규모는 얼마인가요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Financial services"
+ },
+ {
+  "gid": "f009",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 9,
+  "question": "결합조직 이식을 이용한 치근 피개술 시, PDRN은 어떻게 적용하는가?",
+  "domain_label": "Med",
+  "sub_domain": "Perio"
+ },
+ {
+  "gid": "f082",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 7,
+  "question": "경기도 기후 플랫폼이 디지털 트윈 기술을 활용하여 탄소 배출량과 흡수량을 어떻게 분석하는지 설명하시오.",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Smart City"
+ },
+ {
+  "gid": "f164",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 14,
+  "question": "한약 진료 시스템에서 AI 기술을 활용하여 AI 한의사를 실현하기 위한 구체적인 개발 방법과 단계는 무엇인가요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "AI"
+ },
+ {
+  "gid": "f119",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 19,
+  "question": "PRF를 멤브레인 형태로 만드는 방법과 그 활용도는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f089",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 14,
+  "question": "한국의 교육 및 직업훈련 체계는 현재 어떤 부처들로 분산되어 있는가?",
+  "domain_label": "Education",
+  "sub_domain": "Corp Training"
+ },
+ {
+  "gid": "f068",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 18,
+  "question": "다빈치 수술 스케줄링 시간은 어떻게 단계적으로 확대되었나요?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f053",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 3,
+  "question": "교합 접촉 확인을 위해 12마이크론 교합지를 사용할 때 권장되는 검사 방법은 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f090",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 15,
+  "question": "SDT가 초기에 사업을 다각화한 이유는 무엇인가?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "IoT"
+ },
+ {
+  "gid": "f094",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 19,
+  "question": "AI 할루시네이션은 창의성과 어떤 관련이 있는가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Psych"
+ },
+ {
+  "gid": "f041",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 16,
+  "question": "양자 과학 기술 분야에서 한국의 발전에 대한 평가는 무엇입니까?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Physics"
+ },
+ {
+  "gid": "f093",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 18,
+  "question": "미국이 중국의 기술 굴기를 차단하기 위해 사용한 주요 정책 수단들은 무엇인가?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "CS"
+ },
+ {
+  "gid": "f116",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 16,
+  "question": "외상성 뇌손상에서 급성 신손상 예방을 위한 전략은 무엇입니까?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f199",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 24,
+  "question": "구버 서비스의 운영비용 효율성은 어느 정도인가?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "Cloud"
+ },
+ {
+  "gid": "f157",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 7,
+  "question": "유방암에서 표적 물질을 확인하는 주요 검사 방법들은 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Pathology"
+ },
+ {
+  "gid": "f025",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 0,
+  "question": "한국과 미국의 문화적 차이가 스타트업의 사용자 경험 디자인에 어떤 영향을 미치나요?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Culture"
+ },
+ {
+  "gid": "f180",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 5,
+  "question": "의료 진단 AI에서 멀티모달 RAG 파인튜닝을 위한 3단계 평가 과정을 설명하세요.",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f147",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 22,
+  "question": "AI 시대 교육에서 하이테크와 하이터치의 균형이 필요한 이유는 무엇인가요?",
+  "domain_label": "Education",
+  "sub_domain": "Edutech"
+ },
+ {
+  "gid": "f074",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 24,
+  "question": "천연물 산업에서 가공 단계에 따른 부가가치 변화는 어떻게 비교되나요?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Biopharma"
+ },
+ {
+  "gid": "f058",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 8,
+  "question": "로봇 수술에서 통합적 생태계 접근 방식은 기술 중심 접근 방식과 어떻게 다른가요?",
+  "domain_label": "Med",
+  "sub_domain": "Healthcare"
+ },
+ {
+  "gid": "f152",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 2,
+  "question": "한국과 일본의 고령화 속도를 비교하면 어떤 차이가 있는가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Sociology"
+ },
+ {
+  "gid": "f017",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 17,
+  "question": "맞춤형 교육 프로그램이 간호사 교육에 제공하는 주요 기능들은 무엇인가?",
+  "domain_label": "Education",
+  "sub_domain": "Corp Training"
+ },
+ {
+  "gid": "f049",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 24,
+  "question": "저탄소 기술 전환에서 기술과 금융의 역할이 중요한 이유는 무엇인가?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Energy & Utilities"
+ },
+ {
+  "gid": "f092",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 17,
+  "question": "한국과 미국의 타겟 오디언스 설정 방식에는 어떤 차이가 있는가?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "Brand"
+ },
+ {
+  "gid": "f075",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 0,
+  "question": "호주전략정책연구소의 평가에 따르면, 44개 핵심 신흥 기술 분야에서 중국과 미국이 각각 선도하고 있는 기술 분야는 몇 개인가?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Applied Sci"
+ },
+ {
+  "gid": "f141",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 16,
+  "question": "세이브더칠드런이 계획하고 있는 이주배경 아동 대상 통합활동 프로그램의 목적과 방법은 무엇인가?",
+  "domain_label": "Education",
+  "sub_domain": "Elementary"
+ },
+ {
+  "gid": "f020",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 20,
+  "question": "교합지를 이용한 교합 접촉 평가에서 정상적인 회복 과정은 어떻게 진행되는가?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f096",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 21,
+  "question": "한국과 해외 애니메이션 제작비용의 격차가 콘텐츠 품질에 미치는 영향은 무엇인가요?",
+  "domain_label": "Arts/Culture/Sports",
+  "sub_domain": "Entertainment"
+ },
+ {
+  "gid": "f031",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 6,
+  "question": "AI 에이전트 커머스에서 발생할 수 있는 세 가지 주요 보안 위험 요소와 각각의 대응 방안은 무엇인가?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "Security"
+ },
+ {
+  "gid": "f137",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 12,
+  "question": "의료 진단 AI 분야에서 멀티모달 RAG 파인튜닝은 어떤 단계를 거치나요?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f117",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 17,
+  "question": "로봇 수술 프로그램을 성숙시키기 위해 어떤 단계를 거쳐야 하나요?",
+  "domain_label": "Med",
+  "sub_domain": "Healthcare"
+ },
+ {
+  "gid": "f011",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 11,
+  "question": "후방추돌 사고에서 차량 변형 매트릭스(VDM)는 어떻게 구성되는가?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Mech Eng"
+ },
+ {
+  "gid": "f067",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 17,
+  "question": "복강내 감염의 경험적 치료에서 고위험 환자에게 아미노글라이코사이드 기반 조합을 권고하지 않는 주된 이유는 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Internal"
+ },
+ {
+  "gid": "f088",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 13,
+  "question": "파이넥코가 비바테크 2025에서 거둔 성과와 이후 연결된 해외 파트너십 기회는 어떤 것들이 있나요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Startup"
+ },
+ {
+  "gid": "f091",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 16,
+  "question": "국가가 양자 과학 기술 생태계에서 강력한 위치를 확보하게 하는 요인은 무엇입니까?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "AI"
+ },
+ {
+  "gid": "f024",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 24,
+  "question": "로봇 수술이 총 의료 비용 절감에 기여하는 방식을 전립선 적출술 사례로 설명하면?",
+  "domain_label": "Med",
+  "sub_domain": "Urology"
+ },
+ {
+  "gid": "f097",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 22,
+  "question": "미국 시장에서 니치 오디언스를 타겟팅하는 것이 중요한 이유는 무엇인가요?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "B2B"
+ },
+ {
+  "gid": "f182",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 7,
+  "question": "미국 시장에 진출하는 한국 스타트업이 현지 문화에 정통한 디자이너를 영입해야 하는 이유는 무엇인가?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "Brand"
+ },
+ {
+  "gid": "f190",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 15,
+  "question": "양자기술 회의에 참석한 외부 전문가가 관찰한 한국 사회의 특징은 무엇인가?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Basic Sci"
+ },
+ {
+  "gid": "f086",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 11,
+  "question": "그린 워싱과 그린 허싱의 차이점은 무엇인가?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "PR"
+ },
+ {
+  "gid": "f181",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 6,
+  "question": "비자 인텔리전트 커머스의 핵심 기술 요소들은 무엇이며, 각각이 어떤 역할을 하는가?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Financial services"
+ },
+ {
+  "gid": "f039",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 14,
+  "question": "저탄소 콘크리트 양생 기술의 주요 목적은 무엇인가요?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Materials"
+ },
+ {
+  "gid": "f168",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 18,
+  "question": "차량 변형 매트릭스(VDM)는 무엇이며 어떻게 사용되나요?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Mech Eng"
+ },
+ {
+  "gid": "f087",
+  "cond": "exp1_1",
+  "dom": "finance",
+  "idx_in_cell": 12,
+  "question": "배당소득 분리과세가 전통적인 합산과세와 비교하여 투자자 행동에 어떤 영향을 미치는가?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Tax"
+ },
+ {
+  "gid": "f185",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 10,
+  "question": "세이브더칠드런의 보육비 지원과 양육비 지원 프로그램의 대상 연령과 지원 금액은 어떻게 다른가?",
+  "domain_label": "Education",
+  "sub_domain": "Elementary"
+ },
+ {
+  "gid": "f040",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 15,
+  "question": "기후 금융 정책에서 탄소 배출 감축(mitigation) 외에 최근 강조되고 있는 두 가지 접근법은 무엇인가?",
+  "domain_label": "Bio/Env/Energy",
+  "sub_domain": "Renewable"
+ },
+ {
+  "gid": "f001",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 1,
+  "question": "전악(풀 마우스) 임플란트 수술 과정에서 거치게 되는 수직고경의 4단계를 순서대로 설명해주세요.",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f071",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 21,
+  "question": "외상 환자에서 비opioid 진통을 위한 1차 약물에는 무엇이 권고되나요?",
+  "domain_label": "Med",
+  "sub_domain": "Other"
+ },
+ {
+  "gid": "f150",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 0,
+  "question": "IT 시스템 솔루션의 일반적인 가격 책정 전략은 무엇인가요?",
+  "domain_label": "IT / Tech",
+  "sub_domain": "SaaS"
+ },
+ {
+  "gid": "f114",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 14,
+  "question": "복강내 감염 환자에서 항생제 사용 기간을 제한하는 권고안은 소스 컨트롤 방법과 환자 위험도에 따라 어떻게 구분되나요?",
+  "domain_label": "Med",
+  "sub_domain": "Internal"
+ },
+ {
+  "gid": "f056",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 6,
+  "question": "치과 CAD/CAM 시스템에서 AI가 자동으로 수행하는 주요 기능들은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Dentistry"
+ },
+ {
+  "gid": "f107",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 7,
+  "question": "고령층에서 외상의 가장 흔한 발생 기전은 무엇이며, 그 빈도와 사망률은 어느 정도인가?",
+  "domain_label": "Med",
+  "sub_domain": "Surgery"
+ },
+ {
+  "gid": "f191",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 16,
+  "question": "AI 할루시네이션을 교육에서 활용할 때 어떤 두 가지 접근 방식이 필요한가?",
+  "domain_label": "Education",
+  "sub_domain": "E-learning"
+ },
+ {
+  "gid": "f166",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 16,
+  "question": "피로 회복을 위한 비타민 B 복합체 제제인 B콤, 판비콤보, 멀티비타의 주요 성분 차이와 임상적 선택 기준은 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Pharmacy"
+ },
+ {
+  "gid": "f050",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 0,
+  "question": "리지 프리저베이션(치조제 보존술)의 기본 개념과 한국에서 주로 사용되는 소켓 실링 방법은 무엇인가?",
+  "domain_label": "의학",
+  "sub_domain": "치과"
+ },
+ {
+  "gid": "f143",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 18,
+  "question": "한국과 미국 시장에서 디자인 접근법의 차이가 현지 인재 영입 전략에 어떻게 영향을 미치는가?",
+  "domain_label": "Arts/Culture/Sports",
+  "sub_domain": "Design"
+ },
+ {
+  "gid": "f197",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 22,
+  "question": "미국 시장을 타겟으로 하는 스타트업이 디자이너나 마케터를 채용할 때 어떤 점을 고려해야 하는가?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "B2B"
+ },
+ {
+  "gid": "f154",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 4,
+  "question": "한국 임상에서 프레쉬 익스트랙션 소켓에 대한 즉시 임플란트 식립 비율은 어떻게 조사되었는가?",
+  "domain_label": "의학",
+  "sub_domain": "치과"
+ },
+ {
+  "gid": "f129",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 4,
+  "question": "스타트업에서 특정 사용자 그룹을 타겟팅할 때 강조되는 용어는 무엇인가요?",
+  "domain_label": "Ad/Marketing",
+  "sub_domain": "Performance"
+ },
+ {
+  "gid": "f059",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 9,
+  "question": "엄마가 유방암으로 진단받고 치료받을 때, 청소년 딸들이 경험할 수 있는 특별한 영향은 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Pediatrics"
+ },
+ {
+  "gid": "f055",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 5,
+  "question": "현재 아시아 지역에 설치된 다빈치 시스템의 수는 얼마인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Medical Devices"
+ },
+ {
+  "gid": "f023",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 23,
+  "question": "림프부종 치료에서 운동이 도움이 되는 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Rehab"
+ },
+ {
+  "gid": "f007",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 7,
+  "question": "MNL 심리치료 후 환자의 에너지 사용은 어떻게 변화하나요?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Psych"
+ },
+ {
+  "gid": "f008",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 8,
+  "question": "노화된 세포(senescent cell)의 세 가지 주요 특징은 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Biomed"
+ },
+ {
+  "gid": "f108",
+  "cond": "exp1_2",
+  "dom": "medical",
+  "idx_in_cell": 8,
+  "question": "다빈치5 환자 카트가 다빈치XI와 유사한 붐 장착 디자인을 유지한 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Medical Devices"
+ },
+ {
+  "gid": "f151",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 1,
+  "question": "복강내 감염의 경험적 치료에서 고위험 환자에게 아미노글라이코사이드 기반 조합을 권고하지 않는 주된 이유는 무엇인가?",
+  "domain_label": "Med",
+  "sub_domain": "Internal"
+ },
+ {
+  "gid": "f022",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 22,
+  "question": "아인슈타인이 말한 문제 해결 시간 배분 원칙은 무엇인가?",
+  "domain_label": "Humanities/Social",
+  "sub_domain": "Philosophy"
+ },
+ {
+  "gid": "f139",
+  "cond": "exp1_2",
+  "dom": "finance",
+  "idx_in_cell": 14,
+  "question": "GS벤처스가 양자 컴퓨팅 분야에서 QPU 개발 회사보다 enabling technology 회사에 투자하는 이유는 무엇인가?",
+  "domain_label": "Sci/Eng",
+  "sub_domain": "Physics"
+ },
+ {
+  "gid": "f173",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 23,
+  "question": "당뇨병 치료 목표가 과거와 현재 어떻게 달라졌는가?",
+  "domain_label": "Med",
+  "sub_domain": "Endocrine"
+ },
+ {
+  "gid": "f026",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 1,
+  "question": "제4회 핀노베이션 챌린지에서 서울특별시장상을 수상한 기업과 그 기업의 사업 분야는 무엇인가요?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Financial services"
+ },
+ {
+  "gid": "f188",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 13,
+  "question": "한국의 500인 이상 대기업 근로자를 대상으로 한 초기 건강보험제도가 비판받은 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Healthcare"
+ },
+ {
+  "gid": "f035",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 10,
+  "question": "김치와 일본의 기무치가 같은 재료로 만들어지지만 다른 결과가 나오는 이유는 무엇인가?",
+  "domain_label": "Lifestyle",
+  "sub_domain": "Food/Beverage"
+ },
+ {
+  "gid": "f057",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 7,
+  "question": "고관절 골절 환자에서 동통 조절을 위한 두 가지 말초 신경 차단술(Fascia Iliaca Block과 PENG Block)의 효과를 골절 종류에 따라 비교하면 어떻게 다른가?",
+  "domain_label": "Med",
+  "sub_domain": "Ortho"
+ },
+ {
+  "gid": "f062",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 12,
+  "question": "항호르몬 치료 시 나타날 수 있는 부작용들에는 어떤 것들이 있나요?",
+  "domain_label": "Med",
+  "sub_domain": "Clinical"
+ },
+ {
+  "gid": "f070",
+  "cond": "exp1_1",
+  "dom": "medical",
+  "idx_in_cell": 20,
+  "question": "고위험 고령 심방세동 환자에서 표준 용량 항응고제 사용이 부적합할 때, 극저용량(15mg) 에독사반의 사용 근거는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Cardio"
+ },
+ {
+  "gid": "f189",
+  "cond": "exp2",
+  "dom": "finance",
+  "idx_in_cell": 14,
+  "question": "미국 재정적자 증가의 주요 원인과 향후 전망은 어떻게 되는가?",
+  "domain_label": "Econ/Finance/Mgmt",
+  "sub_domain": "Capital Mkt"
+ },
+ {
+  "gid": "f006",
+  "cond": "exp0",
+  "dom": "medical",
+  "idx_in_cell": 6,
+  "question": "엄마가 유방암으로 진단받은 경우 청소년 딸들이 왜 더 많은 우울이나 불안을 경험하나요?",
+  "domain_label": "Med",
+  "sub_domain": "Pediatrics"
+ },
+ {
+  "gid": "f028",
+  "cond": "exp0",
+  "dom": "finance",
+  "idx_in_cell": 3,
+  "question": "AI 시대에 청소년 교육에서 하이테크와 하이터치의 균형을 어떻게 유지해야 하는가?",
+  "domain_label": "Education",
+  "sub_domain": "E-learning"
+ },
+ {
+  "gid": "f163",
+  "cond": "exp2",
+  "dom": "medical",
+  "idx_in_cell": 13,
+  "question": "중환자실에서 인지재활이 필요한 이유는 무엇인가요?",
+  "domain_label": "Med",
+  "sub_domain": "Rehab"
+ }
+]

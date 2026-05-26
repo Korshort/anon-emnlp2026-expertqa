@@ -1,0 +1,3202 @@
+{
+ "a001": {
+  "model": "gpt54",
+  "gid": "f093"
+ },
+ "a002": {
+  "model": "opus",
+  "gid": "f166"
+ },
+ "a003": {
+  "model": "gpt4o",
+  "gid": "f191"
+ },
+ "a004": {
+  "model": "gpt4o",
+  "gid": "f063"
+ },
+ "a005": {
+  "model": "gpt54",
+  "gid": "f106"
+ },
+ "a006": {
+  "model": "gpt4o",
+  "gid": "f041"
+ },
+ "a007": {
+  "model": "opus",
+  "gid": "f182"
+ },
+ "a008": {
+  "model": "gpt54",
+  "gid": "f113"
+ },
+ "a009": {
+  "model": "gpt4o",
+  "gid": "f105"
+ },
+ "a010": {
+  "model": "gpt54",
+  "gid": "f191"
+ },
+ "a011": {
+  "model": "gpt4o",
+  "gid": "f072"
+ },
+ "a012": {
+  "model": "gpt54",
+  "gid": "f160"
+ },
+ "a013": {
+  "model": "gpt54",
+  "gid": "f139"
+ },
+ "a014": {
+  "model": "opus",
+  "gid": "f180"
+ },
+ "a015": {
+  "model": "sonnet",
+  "gid": "f186"
+ },
+ "a016": {
+  "model": "gpt54",
+  "gid": "f188"
+ },
+ "a017": {
+  "model": "sonnet",
+  "gid": "f197"
+ },
+ "a018": {
+  "model": "opus",
+  "gid": "f154"
+ },
+ "a019": {
+  "model": "opus",
+  "gid": "f058"
+ },
+ "a020": {
+  "model": "sonnet",
+  "gid": "f098"
+ },
+ "a021": {
+  "model": "opus",
+  "gid": "f028"
+ },
+ "a022": {
+  "model": "sonnet",
+  "gid": "f123"
+ },
+ "a023": {
+  "model": "gpt54",
+  "gid": "f167"
+ },
+ "a024": {
+  "model": "gpt4o",
+  "gid": "f015"
+ },
+ "a025": {
+  "model": "opus",
+  "gid": "f066"
+ },
+ "a026": {
+  "model": "opus",
+  "gid": "f187"
+ },
+ "a027": {
+  "model": "gpt4o",
+  "gid": "f175"
+ },
+ "a028": {
+  "model": "opus",
+  "gid": "f122"
+ },
+ "a029": {
+  "model": "opus",
+  "gid": "f172"
+ },
+ "a030": {
+  "model": "opus",
+  "gid": "f143"
+ },
+ "a031": {
+  "model": "sonnet",
+  "gid": "f135"
+ },
+ "a032": {
+  "model": "gpt54",
+  "gid": "f199"
+ },
+ "a033": {
+  "model": "gpt54",
+  "gid": "f094"
+ },
+ "a034": {
+  "model": "opus",
+  "gid": "f194"
+ },
+ "a035": {
+  "model": "gpt4o",
+  "gid": "f092"
+ },
+ "a036": {
+  "model": "gpt54",
+  "gid": "f128"
+ },
+ "a037": {
+  "model": "gpt4o",
+  "gid": "f178"
+ },
+ "a038": {
+  "model": "opus",
+  "gid": "f061"
+ },
+ "a039": {
+  "model": "gpt54",
+  "gid": "f122"
+ },
+ "a040": {
+  "model": "gpt54",
+  "gid": "f196"
+ },
+ "a041": {
+  "model": "opus",
+  "gid": "f015"
+ },
+ "a042": {
+  "model": "gpt4o",
+  "gid": "f160"
+ },
+ "a043": {
+  "model": "gpt4o",
+  "gid": "f051"
+ },
+ "a044": {
+  "model": "gpt54",
+  "gid": "f041"
+ },
+ "a045": {
+  "model": "opus",
+  "gid": "f090"
+ },
+ "a046": {
+  "model": "opus",
+  "gid": "f085"
+ },
+ "a047": {
+  "model": "opus",
+  "gid": "f029"
+ },
+ "a048": {
+  "model": "sonnet",
+  "gid": "f188"
+ },
+ "a049": {
+  "model": "gpt4o",
+  "gid": "f187"
+ },
+ "a050": {
+  "model": "opus",
+  "gid": "f149"
+ },
+ "a051": {
+  "model": "sonnet",
+  "gid": "f054"
+ },
+ "a052": {
+  "model": "opus",
+  "gid": "f128"
+ },
+ "a053": {
+  "model": "gpt54",
+  "gid": "f165"
+ },
+ "a054": {
+  "model": "opus",
+  "gid": "f007"
+ },
+ "a055": {
+  "model": "gpt54",
+  "gid": "f025"
+ },
+ "a056": {
+  "model": "opus",
+  "gid": "f188"
+ },
+ "a057": {
+  "model": "gpt54",
+  "gid": "f161"
+ },
+ "a058": {
+  "model": "gpt54",
+  "gid": "f137"
+ },
+ "a059": {
+  "model": "opus",
+  "gid": "f004"
+ },
+ "a060": {
+  "model": "sonnet",
+  "gid": "f137"
+ },
+ "a061": {
+  "model": "gpt4o",
+  "gid": "f147"
+ },
+ "a062": {
+  "model": "sonnet",
+  "gid": "f061"
+ },
+ "a063": {
+  "model": "gpt54",
+  "gid": "f101"
+ },
+ "a064": {
+  "model": "sonnet",
+  "gid": "f108"
+ },
+ "a065": {
+  "model": "sonnet",
+  "gid": "f107"
+ },
+ "a066": {
+  "model": "sonnet",
+  "gid": "f059"
+ },
+ "a067": {
+  "model": "sonnet",
+  "gid": "f148"
+ },
+ "a068": {
+  "model": "sonnet",
+  "gid": "f044"
+ },
+ "a069": {
+  "model": "opus",
+  "gid": "f097"
+ },
+ "a070": {
+  "model": "sonnet",
+  "gid": "f105"
+ },
+ "a071": {
+  "model": "gpt4o",
+  "gid": "f176"
+ },
+ "a072": {
+  "model": "sonnet",
+  "gid": "f165"
+ },
+ "a073": {
+  "model": "gpt54",
+  "gid": "f115"
+ },
+ "a074": {
+  "model": "sonnet",
+  "gid": "f076"
+ },
+ "a075": {
+  "model": "gpt54",
+  "gid": "f147"
+ },
+ "a076": {
+  "model": "sonnet",
+  "gid": "f166"
+ },
+ "a077": {
+  "model": "gpt54",
+  "gid": "f150"
+ },
+ "a078": {
+  "model": "gpt4o",
+  "gid": "f074"
+ },
+ "a079": {
+  "model": "gpt4o",
+  "gid": "f101"
+ },
+ "a080": {
+  "model": "gpt4o",
+  "gid": "f095"
+ },
+ "a081": {
+  "model": "opus",
+  "gid": "f079"
+ },
+ "a082": {
+  "model": "opus",
+  "gid": "f078"
+ },
+ "a083": {
+  "model": "opus",
+  "gid": "f190"
+ },
+ "a084": {
+  "model": "gpt4o",
+  "gid": "f050"
+ },
+ "a085": {
+  "model": "opus",
+  "gid": "f081"
+ },
+ "a086": {
+  "model": "gpt54",
+  "gid": "f005"
+ },
+ "a087": {
+  "model": "opus",
+  "gid": "f012"
+ },
+ "a088": {
+  "model": "gpt54",
+  "gid": "f023"
+ },
+ "a089": {
+  "model": "gpt4o",
+  "gid": "f153"
+ },
+ "a090": {
+  "model": "opus",
+  "gid": "f024"
+ },
+ "a091": {
+  "model": "gpt54",
+  "gid": "f183"
+ },
+ "a092": {
+  "model": "gpt4o",
+  "gid": "f124"
+ },
+ "a093": {
+  "model": "opus",
+  "gid": "f076"
+ },
+ "a094": {
+  "model": "gpt54",
+  "gid": "f171"
+ },
+ "a095": {
+  "model": "gpt54",
+  "gid": "f175"
+ },
+ "a096": {
+  "model": "opus",
+  "gid": "f106"
+ },
+ "a097": {
+  "model": "sonnet",
+  "gid": "f064"
+ },
+ "a098": {
+  "model": "opus",
+  "gid": "f088"
+ },
+ "a099": {
+  "model": "sonnet",
+  "gid": "f005"
+ },
+ "a100": {
+  "model": "gpt54",
+  "gid": "f020"
+ },
+ "a101": {
+  "model": "gpt54",
+  "gid": "f125"
+ },
+ "a102": {
+  "model": "opus",
+  "gid": "f006"
+ },
+ "a103": {
+  "model": "gpt4o",
+  "gid": "f155"
+ },
+ "a104": {
+  "model": "gpt4o",
+  "gid": "f082"
+ },
+ "a105": {
+  "model": "opus",
+  "gid": "f119"
+ },
+ "a106": {
+  "model": "sonnet",
+  "gid": "f136"
+ },
+ "a107": {
+  "model": "gpt4o",
+  "gid": "f022"
+ },
+ "a108": {
+  "model": "opus",
+  "gid": "f108"
+ },
+ "a109": {
+  "model": "gpt4o",
+  "gid": "f042"
+ },
+ "a110": {
+  "model": "opus",
+  "gid": "f135"
+ },
+ "a111": {
+  "model": "gpt54",
+  "gid": "f121"
+ },
+ "a112": {
+  "model": "sonnet",
+  "gid": "f191"
+ },
+ "a113": {
+  "model": "gpt4o",
+  "gid": "f111"
+ },
+ "a114": {
+  "model": "gpt54",
+  "gid": "f195"
+ },
+ "a115": {
+  "model": "gpt54",
+  "gid": "f145"
+ },
+ "a116": {
+  "model": "opus",
+  "gid": "f156"
+ },
+ "a117": {
+  "model": "gpt54",
+  "gid": "f047"
+ },
+ "a118": {
+  "model": "sonnet",
+  "gid": "f016"
+ },
+ "a119": {
+  "model": "gpt4o",
+  "gid": "f007"
+ },
+ "a120": {
+  "model": "gpt4o",
+  "gid": "f079"
+ },
+ "a121": {
+  "model": "gpt54",
+  "gid": "f107"
+ },
+ "a122": {
+  "model": "sonnet",
+  "gid": "f036"
+ },
+ "a123": {
+  "model": "gpt4o",
+  "gid": "f195"
+ },
+ "a124": {
+  "model": "sonnet",
+  "gid": "f126"
+ },
+ "a125": {
+  "model": "gpt4o",
+  "gid": "f009"
+ },
+ "a126": {
+  "model": "sonnet",
+  "gid": "f178"
+ },
+ "a127": {
+  "model": "sonnet",
+  "gid": "f130"
+ },
+ "a128": {
+  "model": "sonnet",
+  "gid": "f028"
+ },
+ "a129": {
+  "model": "gpt54",
+  "gid": "f140"
+ },
+ "a130": {
+  "model": "gpt54",
+  "gid": "f002"
+ },
+ "a131": {
+  "model": "gpt4o",
+  "gid": "f118"
+ },
+ "a132": {
+  "model": "gpt4o",
+  "gid": "f026"
+ },
+ "a133": {
+  "model": "gpt4o",
+  "gid": "f197"
+ },
+ "a134": {
+  "model": "sonnet",
+  "gid": "f039"
+ },
+ "a135": {
+  "model": "sonnet",
+  "gid": "f010"
+ },
+ "a136": {
+  "model": "gpt54",
+  "gid": "f089"
+ },
+ "a137": {
+  "model": "opus",
+  "gid": "f176"
+ },
+ "a138": {
+  "model": "sonnet",
+  "gid": "f096"
+ },
+ "a139": {
+  "model": "gpt4o",
+  "gid": "f023"
+ },
+ "a140": {
+  "model": "gpt54",
+  "gid": "f164"
+ },
+ "a141": {
+  "model": "gpt4o",
+  "gid": "f137"
+ },
+ "a142": {
+  "model": "gpt54",
+  "gid": "f004"
+ },
+ "a143": {
+  "model": "gpt4o",
+  "gid": "f122"
+ },
+ "a144": {
+  "model": "gpt4o",
+  "gid": "f085"
+ },
+ "a145": {
+  "model": "opus",
+  "gid": "f120"
+ },
+ "a146": {
+  "model": "gpt4o",
+  "gid": "f158"
+ },
+ "a147": {
+  "model": "sonnet",
+  "gid": "f180"
+ },
+ "a148": {
+  "model": "gpt4o",
+  "gid": "f099"
+ },
+ "a149": {
+  "model": "opus",
+  "gid": "f150"
+ },
+ "a150": {
+  "model": "gpt54",
+  "gid": "f119"
+ },
+ "a151": {
+  "model": "gpt4o",
+  "gid": "f130"
+ },
+ "a152": {
+  "model": "gpt4o",
+  "gid": "f173"
+ },
+ "a153": {
+  "model": "gpt4o",
+  "gid": "f081"
+ },
+ "a154": {
+  "model": "gpt4o",
+  "gid": "f169"
+ },
+ "a155": {
+  "model": "opus",
+  "gid": "f060"
+ },
+ "a156": {
+  "model": "sonnet",
+  "gid": "f121"
+ },
+ "a157": {
+  "model": "sonnet",
+  "gid": "f031"
+ },
+ "a158": {
+  "model": "gpt4o",
+  "gid": "f181"
+ },
+ "a159": {
+  "model": "opus",
+  "gid": "f065"
+ },
+ "a160": {
+  "model": "opus",
+  "gid": "f151"
+ },
+ "a161": {
+  "model": "gpt4o",
+  "gid": "f157"
+ },
+ "a162": {
+  "model": "gpt54",
+  "gid": "f081"
+ },
+ "a163": {
+  "model": "sonnet",
+  "gid": "f021"
+ },
+ "a164": {
+  "model": "gpt4o",
+  "gid": "f044"
+ },
+ "a165": {
+  "model": "sonnet",
+  "gid": "f142"
+ },
+ "a166": {
+  "model": "gpt4o",
+  "gid": "f189"
+ },
+ "a167": {
+  "model": "gpt54",
+  "gid": "f019"
+ },
+ "a168": {
+  "model": "sonnet",
+  "gid": "f045"
+ },
+ "a169": {
+  "model": "gpt4o",
+  "gid": "f029"
+ },
+ "a170": {
+  "model": "sonnet",
+  "gid": "f172"
+ },
+ "a171": {
+  "model": "opus",
+  "gid": "f195"
+ },
+ "a172": {
+  "model": "opus",
+  "gid": "f131"
+ },
+ "a173": {
+  "model": "opus",
+  "gid": "f055"
+ },
+ "a174": {
+  "model": "opus",
+  "gid": "f100"
+ },
+ "a175": {
+  "model": "gpt4o",
+  "gid": "f068"
+ },
+ "a176": {
+  "model": "sonnet",
+  "gid": "f147"
+ },
+ "a177": {
+  "model": "gpt54",
+  "gid": "f072"
+ },
+ "a178": {
+  "model": "sonnet",
+  "gid": "f033"
+ },
+ "a179": {
+  "model": "gpt4o",
+  "gid": "f154"
+ },
+ "a180": {
+  "model": "gpt54",
+  "gid": "f054"
+ },
+ "a181": {
+  "model": "gpt54",
+  "gid": "f034"
+ },
+ "a182": {
+  "model": "gpt54",
+  "gid": "f031"
+ },
+ "a183": {
+  "model": "gpt54",
+  "gid": "f135"
+ },
+ "a184": {
+  "model": "sonnet",
+  "gid": "f139"
+ },
+ "a185": {
+  "model": "gpt54",
+  "gid": "f013"
+ },
+ "a186": {
+  "model": "gpt4o",
+  "gid": "f133"
+ },
+ "a187": {
+  "model": "sonnet",
+  "gid": "f164"
+ },
+ "a188": {
+  "model": "gpt4o",
+  "gid": "f103"
+ },
+ "a189": {
+  "model": "gpt54",
+  "gid": "f029"
+ },
+ "a190": {
+  "model": "gpt54",
+  "gid": "f038"
+ },
+ "a191": {
+  "model": "gpt4o",
+  "gid": "f104"
+ },
+ "a192": {
+  "model": "opus",
+  "gid": "f057"
+ },
+ "a193": {
+  "model": "opus",
+  "gid": "f161"
+ },
+ "a194": {
+  "model": "gpt4o",
+  "gid": "f193"
+ },
+ "a195": {
+  "model": "sonnet",
+  "gid": "f026"
+ },
+ "a196": {
+  "model": "sonnet",
+  "gid": "f171"
+ },
+ "a197": {
+  "model": "opus",
+  "gid": "f116"
+ },
+ "a198": {
+  "model": "sonnet",
+  "gid": "f058"
+ },
+ "a199": {
+  "model": "opus",
+  "gid": "f050"
+ },
+ "a200": {
+  "model": "sonnet",
+  "gid": "f090"
+ },
+ "a201": {
+  "model": "sonnet",
+  "gid": "f008"
+ },
+ "a202": {
+  "model": "opus",
+  "gid": "f113"
+ },
+ "a203": {
+  "model": "gpt4o",
+  "gid": "f126"
+ },
+ "a204": {
+  "model": "sonnet",
+  "gid": "f057"
+ },
+ "a205": {
+  "model": "gpt54",
+  "gid": "f024"
+ },
+ "a206": {
+  "model": "sonnet",
+  "gid": "f011"
+ },
+ "a207": {
+  "model": "gpt54",
+  "gid": "f044"
+ },
+ "a208": {
+  "model": "opus",
+  "gid": "f138"
+ },
+ "a209": {
+  "model": "opus",
+  "gid": "f087"
+ },
+ "a210": {
+  "model": "gpt54",
+  "gid": "f095"
+ },
+ "a211": {
+  "model": "opus",
+  "gid": "f110"
+ },
+ "a212": {
+  "model": "gpt54",
+  "gid": "f154"
+ },
+ "a213": {
+  "model": "gpt54",
+  "gid": "f130"
+ },
+ "a214": {
+  "model": "sonnet",
+  "gid": "f122"
+ },
+ "a215": {
+  "model": "opus",
+  "gid": "f063"
+ },
+ "a216": {
+  "model": "opus",
+  "gid": "f035"
+ },
+ "a217": {
+  "model": "gpt54",
+  "gid": "f039"
+ },
+ "a218": {
+  "model": "sonnet",
+  "gid": "f127"
+ },
+ "a219": {
+  "model": "sonnet",
+  "gid": "f093"
+ },
+ "a220": {
+  "model": "gpt54",
+  "gid": "f172"
+ },
+ "a221": {
+  "model": "gpt54",
+  "gid": "f046"
+ },
+ "a222": {
+  "model": "sonnet",
+  "gid": "f052"
+ },
+ "a223": {
+  "model": "sonnet",
+  "gid": "f161"
+ },
+ "a224": {
+  "model": "gpt54",
+  "gid": "f069"
+ },
+ "a225": {
+  "model": "sonnet",
+  "gid": "f163"
+ },
+ "a226": {
+  "model": "gpt54",
+  "gid": "f143"
+ },
+ "a227": {
+  "model": "opus",
+  "gid": "f034"
+ },
+ "a228": {
+  "model": "gpt4o",
+  "gid": "f004"
+ },
+ "a229": {
+  "model": "sonnet",
+  "gid": "f035"
+ },
+ "a230": {
+  "model": "gpt54",
+  "gid": "f057"
+ },
+ "a231": {
+  "model": "opus",
+  "gid": "f070"
+ },
+ "a232": {
+  "model": "opus",
+  "gid": "f178"
+ },
+ "a233": {
+  "model": "gpt4o",
+  "gid": "f017"
+ },
+ "a234": {
+  "model": "gpt54",
+  "gid": "f073"
+ },
+ "a235": {
+  "model": "opus",
+  "gid": "f095"
+ },
+ "a236": {
+  "model": "gpt4o",
+  "gid": "f143"
+ },
+ "a237": {
+  "model": "gpt4o",
+  "gid": "f033"
+ },
+ "a238": {
+  "model": "gpt54",
+  "gid": "f070"
+ },
+ "a239": {
+  "model": "gpt4o",
+  "gid": "f144"
+ },
+ "a240": {
+  "model": "gpt4o",
+  "gid": "f019"
+ },
+ "a241": {
+  "model": "sonnet",
+  "gid": "f113"
+ },
+ "a242": {
+  "model": "sonnet",
+  "gid": "f020"
+ },
+ "a243": {
+  "model": "gpt4o",
+  "gid": "f192"
+ },
+ "a244": {
+  "model": "gpt4o",
+  "gid": "f065"
+ },
+ "a245": {
+  "model": "sonnet",
+  "gid": "f131"
+ },
+ "a246": {
+  "model": "gpt4o",
+  "gid": "f037"
+ },
+ "a247": {
+  "model": "opus",
+  "gid": "f197"
+ },
+ "a248": {
+  "model": "gpt4o",
+  "gid": "f096"
+ },
+ "a249": {
+  "model": "gpt54",
+  "gid": "f123"
+ },
+ "a250": {
+  "model": "opus",
+  "gid": "f157"
+ },
+ "a251": {
+  "model": "opus",
+  "gid": "f091"
+ },
+ "a252": {
+  "model": "gpt54",
+  "gid": "f149"
+ },
+ "a253": {
+  "model": "gpt54",
+  "gid": "f178"
+ },
+ "a254": {
+  "model": "gpt54",
+  "gid": "f087"
+ },
+ "a255": {
+  "model": "gpt4o",
+  "gid": "f113"
+ },
+ "a256": {
+  "model": "sonnet",
+  "gid": "f004"
+ },
+ "a257": {
+  "model": "sonnet",
+  "gid": "f138"
+ },
+ "a258": {
+  "model": "gpt4o",
+  "gid": "f161"
+ },
+ "a259": {
+  "model": "gpt4o",
+  "gid": "f123"
+ },
+ "a260": {
+  "model": "gpt4o",
+  "gid": "f066"
+ },
+ "a261": {
+  "model": "sonnet",
+  "gid": "f056"
+ },
+ "a262": {
+  "model": "gpt4o",
+  "gid": "f172"
+ },
+ "a263": {
+  "model": "sonnet",
+  "gid": "f144"
+ },
+ "a264": {
+  "model": "sonnet",
+  "gid": "f018"
+ },
+ "a265": {
+  "model": "gpt4o",
+  "gid": "f116"
+ },
+ "a266": {
+  "model": "opus",
+  "gid": "f124"
+ },
+ "a267": {
+  "model": "gpt4o",
+  "gid": "f106"
+ },
+ "a268": {
+  "model": "opus",
+  "gid": "f014"
+ },
+ "a269": {
+  "model": "gpt4o",
+  "gid": "f164"
+ },
+ "a270": {
+  "model": "gpt54",
+  "gid": "f068"
+ },
+ "a271": {
+  "model": "sonnet",
+  "gid": "f087"
+ },
+ "a272": {
+  "model": "opus",
+  "gid": "f155"
+ },
+ "a273": {
+  "model": "opus",
+  "gid": "f185"
+ },
+ "a274": {
+  "model": "gpt54",
+  "gid": "f109"
+ },
+ "a275": {
+  "model": "sonnet",
+  "gid": "f091"
+ },
+ "a276": {
+  "model": "gpt4o",
+  "gid": "f131"
+ },
+ "a277": {
+  "model": "opus",
+  "gid": "f002"
+ },
+ "a278": {
+  "model": "gpt4o",
+  "gid": "f127"
+ },
+ "a279": {
+  "model": "gpt54",
+  "gid": "f151"
+ },
+ "a280": {
+  "model": "gpt4o",
+  "gid": "f138"
+ },
+ "a281": {
+  "model": "opus",
+  "gid": "f167"
+ },
+ "a282": {
+  "model": "gpt54",
+  "gid": "f012"
+ },
+ "a283": {
+  "model": "gpt54",
+  "gid": "f003"
+ },
+ "a284": {
+  "model": "sonnet",
+  "gid": "f117"
+ },
+ "a285": {
+  "model": "gpt4o",
+  "gid": "f140"
+ },
+ "a286": {
+  "model": "gpt54",
+  "gid": "f131"
+ },
+ "a287": {
+  "model": "opus",
+  "gid": "f044"
+ },
+ "a288": {
+  "model": "gpt4o",
+  "gid": "f149"
+ },
+ "a289": {
+  "model": "gpt4o",
+  "gid": "f125"
+ },
+ "a290": {
+  "model": "gpt4o",
+  "gid": "f186"
+ },
+ "a291": {
+  "model": "sonnet",
+  "gid": "f176"
+ },
+ "a292": {
+  "model": "gpt4o",
+  "gid": "f150"
+ },
+ "a293": {
+  "model": "opus",
+  "gid": "f077"
+ },
+ "a294": {
+  "model": "opus",
+  "gid": "f068"
+ },
+ "a295": {
+  "model": "opus",
+  "gid": "f107"
+ },
+ "a296": {
+  "model": "opus",
+  "gid": "f071"
+ },
+ "a297": {
+  "model": "gpt4o",
+  "gid": "f180"
+ },
+ "a298": {
+  "model": "gpt4o",
+  "gid": "f062"
+ },
+ "a299": {
+  "model": "opus",
+  "gid": "f115"
+ },
+ "a300": {
+  "model": "gpt54",
+  "gid": "f162"
+ },
+ "a301": {
+  "model": "opus",
+  "gid": "f198"
+ },
+ "a302": {
+  "model": "opus",
+  "gid": "f189"
+ },
+ "a303": {
+  "model": "sonnet",
+  "gid": "f094"
+ },
+ "a304": {
+  "model": "sonnet",
+  "gid": "f184"
+ },
+ "a305": {
+  "model": "opus",
+  "gid": "f072"
+ },
+ "a306": {
+  "model": "sonnet",
+  "gid": "f006"
+ },
+ "a307": {
+  "model": "gpt54",
+  "gid": "f084"
+ },
+ "a308": {
+  "model": "opus",
+  "gid": "f038"
+ },
+ "a309": {
+  "model": "gpt54",
+  "gid": "f059"
+ },
+ "a310": {
+  "model": "gpt4o",
+  "gid": "f115"
+ },
+ "a311": {
+  "model": "sonnet",
+  "gid": "f143"
+ },
+ "a312": {
+  "model": "gpt4o",
+  "gid": "f048"
+ },
+ "a313": {
+  "model": "gpt54",
+  "gid": "f153"
+ },
+ "a314": {
+  "model": "gpt4o",
+  "gid": "f038"
+ },
+ "a315": {
+  "model": "gpt4o",
+  "gid": "f190"
+ },
+ "a316": {
+  "model": "gpt54",
+  "gid": "f033"
+ },
+ "a317": {
+  "model": "opus",
+  "gid": "f184"
+ },
+ "a318": {
+  "model": "opus",
+  "gid": "f137"
+ },
+ "a319": {
+  "model": "gpt4o",
+  "gid": "f183"
+ },
+ "a320": {
+  "model": "gpt4o",
+  "gid": "f003"
+ },
+ "a321": {
+  "model": "sonnet",
+  "gid": "f158"
+ },
+ "a322": {
+  "model": "gpt54",
+  "gid": "f108"
+ },
+ "a323": {
+  "model": "gpt54",
+  "gid": "f100"
+ },
+ "a324": {
+  "model": "gpt4o",
+  "gid": "f102"
+ },
+ "a325": {
+  "model": "gpt4o",
+  "gid": "f094"
+ },
+ "a326": {
+  "model": "gpt4o",
+  "gid": "f046"
+ },
+ "a327": {
+  "model": "opus",
+  "gid": "f053"
+ },
+ "a328": {
+  "model": "gpt4o",
+  "gid": "f010"
+ },
+ "a329": {
+  "model": "gpt54",
+  "gid": "f085"
+ },
+ "a330": {
+  "model": "gpt4o",
+  "gid": "f119"
+ },
+ "a331": {
+  "model": "opus",
+  "gid": "f111"
+ },
+ "a332": {
+  "model": "sonnet",
+  "gid": "f112"
+ },
+ "a333": {
+  "model": "gpt4o",
+  "gid": "f002"
+ },
+ "a334": {
+  "model": "gpt54",
+  "gid": "f159"
+ },
+ "a335": {
+  "model": "sonnet",
+  "gid": "f149"
+ },
+ "a336": {
+  "model": "gpt54",
+  "gid": "f037"
+ },
+ "a337": {
+  "model": "sonnet",
+  "gid": "f129"
+ },
+ "a338": {
+  "model": "gpt4o",
+  "gid": "f008"
+ },
+ "a339": {
+  "model": "sonnet",
+  "gid": "f029"
+ },
+ "a340": {
+  "model": "sonnet",
+  "gid": "f048"
+ },
+ "a341": {
+  "model": "opus",
+  "gid": "f171"
+ },
+ "a342": {
+  "model": "gpt54",
+  "gid": "f015"
+ },
+ "a343": {
+  "model": "sonnet",
+  "gid": "f070"
+ },
+ "a344": {
+  "model": "gpt4o",
+  "gid": "f091"
+ },
+ "a345": {
+  "model": "gpt54",
+  "gid": "f053"
+ },
+ "a346": {
+  "model": "sonnet",
+  "gid": "f025"
+ },
+ "a347": {
+  "model": "gpt54",
+  "gid": "f056"
+ },
+ "a348": {
+  "model": "gpt4o",
+  "gid": "f014"
+ },
+ "a349": {
+  "model": "opus",
+  "gid": "f136"
+ },
+ "a350": {
+  "model": "gpt54",
+  "gid": "f192"
+ },
+ "a351": {
+  "model": "sonnet",
+  "gid": "f083"
+ },
+ "a352": {
+  "model": "sonnet",
+  "gid": "f128"
+ },
+ "a353": {
+  "model": "opus",
+  "gid": "f170"
+ },
+ "a354": {
+  "model": "sonnet",
+  "gid": "f063"
+ },
+ "a355": {
+  "model": "sonnet",
+  "gid": "f133"
+ },
+ "a356": {
+  "model": "sonnet",
+  "gid": "f077"
+ },
+ "a357": {
+  "model": "gpt4o",
+  "gid": "f167"
+ },
+ "a358": {
+  "model": "gpt4o",
+  "gid": "f024"
+ },
+ "a359": {
+  "model": "opus",
+  "gid": "f064"
+ },
+ "a360": {
+  "model": "opus",
+  "gid": "f018"
+ },
+ "a361": {
+  "model": "sonnet",
+  "gid": "f055"
+ },
+ "a362": {
+  "model": "sonnet",
+  "gid": "f103"
+ },
+ "a363": {
+  "model": "gpt4o",
+  "gid": "f110"
+ },
+ "a364": {
+  "model": "gpt54",
+  "gid": "f092"
+ },
+ "a365": {
+  "model": "opus",
+  "gid": "f031"
+ },
+ "a366": {
+  "model": "gpt4o",
+  "gid": "f170"
+ },
+ "a367": {
+  "model": "sonnet",
+  "gid": "f007"
+ },
+ "a368": {
+  "model": "gpt54",
+  "gid": "f163"
+ },
+ "a369": {
+  "model": "sonnet",
+  "gid": "f151"
+ },
+ "a370": {
+  "model": "sonnet",
+  "gid": "f097"
+ },
+ "a371": {
+  "model": "gpt4o",
+  "gid": "f151"
+ },
+ "a372": {
+  "model": "gpt4o",
+  "gid": "f139"
+ },
+ "a373": {
+  "model": "gpt54",
+  "gid": "f097"
+ },
+ "a374": {
+  "model": "sonnet",
+  "gid": "f046"
+ },
+ "a375": {
+  "model": "gpt54",
+  "gid": "f049"
+ },
+ "a376": {
+  "model": "gpt4o",
+  "gid": "f165"
+ },
+ "a377": {
+  "model": "gpt4o",
+  "gid": "f171"
+ },
+ "a378": {
+  "model": "sonnet",
+  "gid": "f030"
+ },
+ "a379": {
+  "model": "opus",
+  "gid": "f196"
+ },
+ "a380": {
+  "model": "sonnet",
+  "gid": "f104"
+ },
+ "a381": {
+  "model": "opus",
+  "gid": "f067"
+ },
+ "a382": {
+  "model": "sonnet",
+  "gid": "f032"
+ },
+ "a383": {
+  "model": "gpt54",
+  "gid": "f112"
+ },
+ "a384": {
+  "model": "gpt4o",
+  "gid": "f005"
+ },
+ "a385": {
+  "model": "opus",
+  "gid": "f140"
+ },
+ "a386": {
+  "model": "gpt4o",
+  "gid": "f053"
+ },
+ "a387": {
+  "model": "opus",
+  "gid": "f181"
+ },
+ "a388": {
+  "model": "opus",
+  "gid": "f109"
+ },
+ "a389": {
+  "model": "opus",
+  "gid": "f047"
+ },
+ "a390": {
+  "model": "gpt54",
+  "gid": "f021"
+ },
+ "a391": {
+  "model": "sonnet",
+  "gid": "f109"
+ },
+ "a392": {
+  "model": "sonnet",
+  "gid": "f199"
+ },
+ "a393": {
+  "model": "opus",
+  "gid": "f089"
+ },
+ "a394": {
+  "model": "sonnet",
+  "gid": "f115"
+ },
+ "a395": {
+  "model": "gpt4o",
+  "gid": "f093"
+ },
+ "a396": {
+  "model": "sonnet",
+  "gid": "f187"
+ },
+ "a397": {
+  "model": "sonnet",
+  "gid": "f042"
+ },
+ "a398": {
+  "model": "gpt54",
+  "gid": "f177"
+ },
+ "a399": {
+  "model": "gpt54",
+  "gid": "f066"
+ },
+ "a400": {
+  "model": "gpt4o",
+  "gid": "f013"
+ },
+ "a401": {
+  "model": "sonnet",
+  "gid": "f106"
+ },
+ "a402": {
+  "model": "sonnet",
+  "gid": "f047"
+ },
+ "a403": {
+  "model": "gpt54",
+  "gid": "f064"
+ },
+ "a404": {
+  "model": "gpt54",
+  "gid": "f124"
+ },
+ "a405": {
+  "model": "opus",
+  "gid": "f016"
+ },
+ "a406": {
+  "model": "gpt4o",
+  "gid": "f097"
+ },
+ "a407": {
+  "model": "opus",
+  "gid": "f164"
+ },
+ "a408": {
+  "model": "opus",
+  "gid": "f117"
+ },
+ "a409": {
+  "model": "gpt54",
+  "gid": "f133"
+ },
+ "a410": {
+  "model": "gpt54",
+  "gid": "f134"
+ },
+ "a411": {
+  "model": "gpt54",
+  "gid": "f117"
+ },
+ "a412": {
+  "model": "sonnet",
+  "gid": "f124"
+ },
+ "a413": {
+  "model": "opus",
+  "gid": "f134"
+ },
+ "a414": {
+  "model": "sonnet",
+  "gid": "f092"
+ },
+ "a415": {
+  "model": "sonnet",
+  "gid": "f074"
+ },
+ "a416": {
+  "model": "sonnet",
+  "gid": "f196"
+ },
+ "a417": {
+  "model": "gpt4o",
+  "gid": "f162"
+ },
+ "a418": {
+  "model": "opus",
+  "gid": "f059"
+ },
+ "a419": {
+  "model": "sonnet",
+  "gid": "f043"
+ },
+ "a420": {
+  "model": "gpt54",
+  "gid": "f032"
+ },
+ "a421": {
+  "model": "gpt54",
+  "gid": "f074"
+ },
+ "a422": {
+  "model": "sonnet",
+  "gid": "f014"
+ },
+ "a423": {
+  "model": "sonnet",
+  "gid": "f145"
+ },
+ "a424": {
+  "model": "opus",
+  "gid": "f074"
+ },
+ "a425": {
+  "model": "gpt54",
+  "gid": "f198"
+ },
+ "a426": {
+  "model": "opus",
+  "gid": "f133"
+ },
+ "a427": {
+  "model": "gpt4o",
+  "gid": "f030"
+ },
+ "a428": {
+  "model": "opus",
+  "gid": "f152"
+ },
+ "a429": {
+  "model": "gpt4o",
+  "gid": "f043"
+ },
+ "a430": {
+  "model": "gpt54",
+  "gid": "f096"
+ },
+ "a431": {
+  "model": "opus",
+  "gid": "f199"
+ },
+ "a432": {
+  "model": "gpt4o",
+  "gid": "f076"
+ },
+ "a433": {
+  "model": "opus",
+  "gid": "f048"
+ },
+ "a434": {
+  "model": "sonnet",
+  "gid": "f088"
+ },
+ "a435": {
+  "model": "opus",
+  "gid": "f086"
+ },
+ "a436": {
+  "model": "opus",
+  "gid": "f054"
+ },
+ "a437": {
+  "model": "gpt4o",
+  "gid": "f047"
+ },
+ "a438": {
+  "model": "gpt54",
+  "gid": "f146"
+ },
+ "a439": {
+  "model": "gpt54",
+  "gid": "f042"
+ },
+ "a440": {
+  "model": "sonnet",
+  "gid": "f075"
+ },
+ "a441": {
+  "model": "sonnet",
+  "gid": "f173"
+ },
+ "a442": {
+  "model": "sonnet",
+  "gid": "f119"
+ },
+ "a443": {
+  "model": "gpt4o",
+  "gid": "f100"
+ },
+ "a444": {
+  "model": "sonnet",
+  "gid": "f154"
+ },
+ "a445": {
+  "model": "gpt4o",
+  "gid": "f035"
+ },
+ "a446": {
+  "model": "gpt54",
+  "gid": "f060"
+ },
+ "a447": {
+  "model": "opus",
+  "gid": "f080"
+ },
+ "a448": {
+  "model": "sonnet",
+  "gid": "f134"
+ },
+ "a449": {
+  "model": "opus",
+  "gid": "f046"
+ },
+ "a450": {
+  "model": "gpt54",
+  "gid": "f152"
+ },
+ "a451": {
+  "model": "gpt4o",
+  "gid": "f025"
+ },
+ "a452": {
+  "model": "opus",
+  "gid": "f123"
+ },
+ "a453": {
+  "model": "opus",
+  "gid": "f127"
+ },
+ "a454": {
+  "model": "gpt4o",
+  "gid": "f016"
+ },
+ "a455": {
+  "model": "sonnet",
+  "gid": "f111"
+ },
+ "a456": {
+  "model": "sonnet",
+  "gid": "f195"
+ },
+ "a457": {
+  "model": "opus",
+  "gid": "f008"
+ },
+ "a458": {
+  "model": "gpt4o",
+  "gid": "f179"
+ },
+ "a459": {
+  "model": "gpt4o",
+  "gid": "f129"
+ },
+ "a460": {
+  "model": "sonnet",
+  "gid": "f067"
+ },
+ "a461": {
+  "model": "opus",
+  "gid": "f094"
+ },
+ "a462": {
+  "model": "opus",
+  "gid": "f049"
+ },
+ "a463": {
+  "model": "gpt54",
+  "gid": "f173"
+ },
+ "a464": {
+  "model": "opus",
+  "gid": "f101"
+ },
+ "a465": {
+  "model": "gpt4o",
+  "gid": "f071"
+ },
+ "a466": {
+  "model": "sonnet",
+  "gid": "f009"
+ },
+ "a467": {
+  "model": "gpt4o",
+  "gid": "f134"
+ },
+ "a468": {
+  "model": "opus",
+  "gid": "f040"
+ },
+ "a469": {
+  "model": "opus",
+  "gid": "f017"
+ },
+ "a470": {
+  "model": "gpt54",
+  "gid": "f091"
+ },
+ "a471": {
+  "model": "sonnet",
+  "gid": "f116"
+ },
+ "a472": {
+  "model": "gpt54",
+  "gid": "f156"
+ },
+ "a473": {
+  "model": "opus",
+  "gid": "f019"
+ },
+ "a474": {
+  "model": "opus",
+  "gid": "f175"
+ },
+ "a475": {
+  "model": "opus",
+  "gid": "f112"
+ },
+ "a476": {
+  "model": "opus",
+  "gid": "f025"
+ },
+ "a477": {
+  "model": "gpt54",
+  "gid": "f132"
+ },
+ "a478": {
+  "model": "gpt4o",
+  "gid": "f027"
+ },
+ "a479": {
+  "model": "opus",
+  "gid": "f132"
+ },
+ "a480": {
+  "model": "sonnet",
+  "gid": "f159"
+ },
+ "a481": {
+  "model": "gpt4o",
+  "gid": "f057"
+ },
+ "a482": {
+  "model": "gpt54",
+  "gid": "f090"
+ },
+ "a483": {
+  "model": "sonnet",
+  "gid": "f089"
+ },
+ "a484": {
+  "model": "opus",
+  "gid": "f083"
+ },
+ "a485": {
+  "model": "gpt4o",
+  "gid": "f000"
+ },
+ "a486": {
+  "model": "gpt4o",
+  "gid": "f109"
+ },
+ "a487": {
+  "model": "sonnet",
+  "gid": "f038"
+ },
+ "a488": {
+  "model": "opus",
+  "gid": "f013"
+ },
+ "a489": {
+  "model": "sonnet",
+  "gid": "f081"
+ },
+ "a490": {
+  "model": "gpt4o",
+  "gid": "f086"
+ },
+ "a491": {
+  "model": "opus",
+  "gid": "f075"
+ },
+ "a492": {
+  "model": "sonnet",
+  "gid": "f153"
+ },
+ "a493": {
+  "model": "opus",
+  "gid": "f099"
+ },
+ "a494": {
+  "model": "sonnet",
+  "gid": "f069"
+ },
+ "a495": {
+  "model": "gpt4o",
+  "gid": "f199"
+ },
+ "a496": {
+  "model": "gpt4o",
+  "gid": "f069"
+ },
+ "a497": {
+  "model": "sonnet",
+  "gid": "f060"
+ },
+ "a498": {
+  "model": "opus",
+  "gid": "f102"
+ },
+ "a499": {
+  "model": "gpt4o",
+  "gid": "f083"
+ },
+ "a500": {
+  "model": "gpt4o",
+  "gid": "f198"
+ },
+ "a501": {
+  "model": "gpt54",
+  "gid": "f186"
+ },
+ "a502": {
+  "model": "gpt54",
+  "gid": "f014"
+ },
+ "a503": {
+  "model": "gpt4o",
+  "gid": "f061"
+ },
+ "a504": {
+  "model": "gpt54",
+  "gid": "f141"
+ },
+ "a505": {
+  "model": "gpt54",
+  "gid": "f103"
+ },
+ "a506": {
+  "model": "opus",
+  "gid": "f160"
+ },
+ "a507": {
+  "model": "opus",
+  "gid": "f051"
+ },
+ "a508": {
+  "model": "gpt54",
+  "gid": "f006"
+ },
+ "a509": {
+  "model": "sonnet",
+  "gid": "f194"
+ },
+ "a510": {
+  "model": "sonnet",
+  "gid": "f086"
+ },
+ "a511": {
+  "model": "gpt4o",
+  "gid": "f070"
+ },
+ "a512": {
+  "model": "gpt4o",
+  "gid": "f067"
+ },
+ "a513": {
+  "model": "gpt54",
+  "gid": "f197"
+ },
+ "a514": {
+  "model": "opus",
+  "gid": "f042"
+ },
+ "a515": {
+  "model": "opus",
+  "gid": "f183"
+ },
+ "a516": {
+  "model": "gpt4o",
+  "gid": "f020"
+ },
+ "a517": {
+  "model": "sonnet",
+  "gid": "f182"
+ },
+ "a518": {
+  "model": "gpt4o",
+  "gid": "f112"
+ },
+ "a519": {
+  "model": "gpt54",
+  "gid": "f114"
+ },
+ "a520": {
+  "model": "opus",
+  "gid": "f148"
+ },
+ "a521": {
+  "model": "gpt4o",
+  "gid": "f078"
+ },
+ "a522": {
+  "model": "gpt54",
+  "gid": "f040"
+ },
+ "a523": {
+  "model": "opus",
+  "gid": "f163"
+ },
+ "a524": {
+  "model": "sonnet",
+  "gid": "f101"
+ },
+ "a525": {
+  "model": "gpt54",
+  "gid": "f099"
+ },
+ "a526": {
+  "model": "sonnet",
+  "gid": "f071"
+ },
+ "a527": {
+  "model": "gpt54",
+  "gid": "f158"
+ },
+ "a528": {
+  "model": "gpt54",
+  "gid": "f155"
+ },
+ "a529": {
+  "model": "opus",
+  "gid": "f030"
+ },
+ "a530": {
+  "model": "gpt4o",
+  "gid": "f148"
+ },
+ "a531": {
+  "model": "gpt4o",
+  "gid": "f056"
+ },
+ "a532": {
+  "model": "gpt4o",
+  "gid": "f087"
+ },
+ "a533": {
+  "model": "sonnet",
+  "gid": "f114"
+ },
+ "a534": {
+  "model": "opus",
+  "gid": "f010"
+ },
+ "a535": {
+  "model": "gpt54",
+  "gid": "f055"
+ },
+ "a536": {
+  "model": "sonnet",
+  "gid": "f167"
+ },
+ "a537": {
+  "model": "sonnet",
+  "gid": "f095"
+ },
+ "a538": {
+  "model": "gpt4o",
+  "gid": "f088"
+ },
+ "a539": {
+  "model": "gpt4o",
+  "gid": "f145"
+ },
+ "a540": {
+  "model": "sonnet",
+  "gid": "f079"
+ },
+ "a541": {
+  "model": "opus",
+  "gid": "f000"
+ },
+ "a542": {
+  "model": "gpt54",
+  "gid": "f098"
+ },
+ "a543": {
+  "model": "gpt4o",
+  "gid": "f107"
+ },
+ "a544": {
+  "model": "sonnet",
+  "gid": "f022"
+ },
+ "a545": {
+  "model": "gpt54",
+  "gid": "f102"
+ },
+ "a546": {
+  "model": "sonnet",
+  "gid": "f049"
+ },
+ "a547": {
+  "model": "gpt54",
+  "gid": "f001"
+ },
+ "a548": {
+  "model": "gpt4o",
+  "gid": "f168"
+ },
+ "a549": {
+  "model": "gpt54",
+  "gid": "f157"
+ },
+ "a550": {
+  "model": "opus",
+  "gid": "f043"
+ },
+ "a551": {
+  "model": "sonnet",
+  "gid": "f120"
+ },
+ "a552": {
+  "model": "opus",
+  "gid": "f020"
+ },
+ "a553": {
+  "model": "gpt4o",
+  "gid": "f128"
+ },
+ "a554": {
+  "model": "sonnet",
+  "gid": "f156"
+ },
+ "a555": {
+  "model": "sonnet",
+  "gid": "f174"
+ },
+ "a556": {
+  "model": "sonnet",
+  "gid": "f000"
+ },
+ "a557": {
+  "model": "gpt4o",
+  "gid": "f054"
+ },
+ "a558": {
+  "model": "gpt4o",
+  "gid": "f159"
+ },
+ "a559": {
+  "model": "gpt54",
+  "gid": "f187"
+ },
+ "a560": {
+  "model": "opus",
+  "gid": "f039"
+ },
+ "a561": {
+  "model": "gpt4o",
+  "gid": "f060"
+ },
+ "a562": {
+  "model": "gpt54",
+  "gid": "f011"
+ },
+ "a563": {
+  "model": "sonnet",
+  "gid": "f027"
+ },
+ "a564": {
+  "model": "sonnet",
+  "gid": "f062"
+ },
+ "a565": {
+  "model": "gpt4o",
+  "gid": "f045"
+ },
+ "a566": {
+  "model": "gpt4o",
+  "gid": "f108"
+ },
+ "a567": {
+  "model": "opus",
+  "gid": "f073"
+ },
+ "a568": {
+  "model": "gpt4o",
+  "gid": "f142"
+ },
+ "a569": {
+  "model": "sonnet",
+  "gid": "f157"
+ },
+ "a570": {
+  "model": "gpt4o",
+  "gid": "f163"
+ },
+ "a571": {
+  "model": "opus",
+  "gid": "f003"
+ },
+ "a572": {
+  "model": "gpt54",
+  "gid": "f170"
+ },
+ "a573": {
+  "model": "opus",
+  "gid": "f033"
+ },
+ "a574": {
+  "model": "opus",
+  "gid": "f144"
+ },
+ "a575": {
+  "model": "gpt4o",
+  "gid": "f089"
+ },
+ "a576": {
+  "model": "gpt4o",
+  "gid": "f055"
+ },
+ "a577": {
+  "model": "opus",
+  "gid": "f147"
+ },
+ "a578": {
+  "model": "gpt54",
+  "gid": "f027"
+ },
+ "a579": {
+  "model": "sonnet",
+  "gid": "f177"
+ },
+ "a580": {
+  "model": "gpt54",
+  "gid": "f184"
+ },
+ "a581": {
+  "model": "sonnet",
+  "gid": "f102"
+ },
+ "a582": {
+  "model": "sonnet",
+  "gid": "f065"
+ },
+ "a583": {
+  "model": "sonnet",
+  "gid": "f002"
+ },
+ "a584": {
+  "model": "gpt54",
+  "gid": "f071"
+ },
+ "a585": {
+  "model": "opus",
+  "gid": "f069"
+ },
+ "a586": {
+  "model": "gpt4o",
+  "gid": "f001"
+ },
+ "a587": {
+  "model": "sonnet",
+  "gid": "f015"
+ },
+ "a588": {
+  "model": "opus",
+  "gid": "f141"
+ },
+ "a589": {
+  "model": "gpt54",
+  "gid": "f142"
+ },
+ "a590": {
+  "model": "opus",
+  "gid": "f037"
+ },
+ "a591": {
+  "model": "opus",
+  "gid": "f145"
+ },
+ "a592": {
+  "model": "sonnet",
+  "gid": "f082"
+ },
+ "a593": {
+  "model": "gpt4o",
+  "gid": "f156"
+ },
+ "a594": {
+  "model": "gpt4o",
+  "gid": "f090"
+ },
+ "a595": {
+  "model": "gpt4o",
+  "gid": "f073"
+ },
+ "a596": {
+  "model": "gpt54",
+  "gid": "f194"
+ },
+ "a597": {
+  "model": "gpt54",
+  "gid": "f065"
+ },
+ "a598": {
+  "model": "opus",
+  "gid": "f021"
+ },
+ "a599": {
+  "model": "opus",
+  "gid": "f121"
+ },
+ "a600": {
+  "model": "gpt54",
+  "gid": "f110"
+ },
+ "a601": {
+  "model": "gpt54",
+  "gid": "f083"
+ },
+ "a602": {
+  "model": "gpt4o",
+  "gid": "f036"
+ },
+ "a603": {
+  "model": "gpt4o",
+  "gid": "f058"
+ },
+ "a604": {
+  "model": "gpt54",
+  "gid": "f118"
+ },
+ "a605": {
+  "model": "sonnet",
+  "gid": "f150"
+ },
+ "a606": {
+  "model": "gpt4o",
+  "gid": "f039"
+ },
+ "a607": {
+  "model": "gpt4o",
+  "gid": "f018"
+ },
+ "a608": {
+  "model": "sonnet",
+  "gid": "f041"
+ },
+ "a609": {
+  "model": "sonnet",
+  "gid": "f053"
+ },
+ "a610": {
+  "model": "gpt4o",
+  "gid": "f075"
+ },
+ "a611": {
+  "model": "sonnet",
+  "gid": "f146"
+ },
+ "a612": {
+  "model": "gpt4o",
+  "gid": "f184"
+ },
+ "a613": {
+  "model": "sonnet",
+  "gid": "f140"
+ },
+ "a614": {
+  "model": "gpt54",
+  "gid": "f017"
+ },
+ "a615": {
+  "model": "gpt54",
+  "gid": "f063"
+ },
+ "a616": {
+  "model": "opus",
+  "gid": "f125"
+ },
+ "a617": {
+  "model": "sonnet",
+  "gid": "f080"
+ },
+ "a618": {
+  "model": "opus",
+  "gid": "f052"
+ },
+ "a619": {
+  "model": "opus",
+  "gid": "f169"
+ },
+ "a620": {
+  "model": "opus",
+  "gid": "f056"
+ },
+ "a621": {
+  "model": "gpt54",
+  "gid": "f052"
+ },
+ "a622": {
+  "model": "sonnet",
+  "gid": "f003"
+ },
+ "a623": {
+  "model": "gpt4o",
+  "gid": "f174"
+ },
+ "a624": {
+  "model": "opus",
+  "gid": "f041"
+ },
+ "a625": {
+  "model": "gpt54",
+  "gid": "f076"
+ },
+ "a626": {
+  "model": "sonnet",
+  "gid": "f066"
+ },
+ "a627": {
+  "model": "gpt4o",
+  "gid": "f049"
+ },
+ "a628": {
+  "model": "gpt4o",
+  "gid": "f011"
+ },
+ "a629": {
+  "model": "sonnet",
+  "gid": "f185"
+ },
+ "a630": {
+  "model": "opus",
+  "gid": "f023"
+ },
+ "a631": {
+  "model": "gpt54",
+  "gid": "f048"
+ },
+ "a632": {
+  "model": "gpt54",
+  "gid": "f166"
+ },
+ "a633": {
+  "model": "gpt54",
+  "gid": "f120"
+ },
+ "a634": {
+  "model": "gpt54",
+  "gid": "f061"
+ },
+ "a635": {
+  "model": "opus",
+  "gid": "f098"
+ },
+ "a636": {
+  "model": "sonnet",
+  "gid": "f198"
+ },
+ "a637": {
+  "model": "gpt4o",
+  "gid": "f021"
+ },
+ "a638": {
+  "model": "sonnet",
+  "gid": "f023"
+ },
+ "a639": {
+  "model": "gpt4o",
+  "gid": "f034"
+ },
+ "a640": {
+  "model": "gpt54",
+  "gid": "f104"
+ },
+ "a641": {
+  "model": "sonnet",
+  "gid": "f193"
+ },
+ "a642": {
+  "model": "gpt54",
+  "gid": "f082"
+ },
+ "a643": {
+  "model": "sonnet",
+  "gid": "f181"
+ },
+ "a644": {
+  "model": "gpt4o",
+  "gid": "f052"
+ },
+ "a645": {
+  "model": "gpt54",
+  "gid": "f058"
+ },
+ "a646": {
+  "model": "gpt54",
+  "gid": "f028"
+ },
+ "a647": {
+  "model": "gpt54",
+  "gid": "f086"
+ },
+ "a648": {
+  "model": "gpt54",
+  "gid": "f138"
+ },
+ "a649": {
+  "model": "gpt54",
+  "gid": "f075"
+ },
+ "a650": {
+  "model": "sonnet",
+  "gid": "f132"
+ },
+ "a651": {
+  "model": "sonnet",
+  "gid": "f170"
+ },
+ "a652": {
+  "model": "gpt4o",
+  "gid": "f040"
+ },
+ "a653": {
+  "model": "opus",
+  "gid": "f192"
+ },
+ "a654": {
+  "model": "gpt4o",
+  "gid": "f152"
+ },
+ "a655": {
+  "model": "gpt4o",
+  "gid": "f196"
+ },
+ "a656": {
+  "model": "gpt54",
+  "gid": "f080"
+ },
+ "a657": {
+  "model": "opus",
+  "gid": "f026"
+ },
+ "a658": {
+  "model": "opus",
+  "gid": "f062"
+ },
+ "a659": {
+  "model": "sonnet",
+  "gid": "f078"
+ },
+ "a660": {
+  "model": "gpt54",
+  "gid": "f136"
+ },
+ "a661": {
+  "model": "gpt54",
+  "gid": "f181"
+ },
+ "a662": {
+  "model": "gpt54",
+  "gid": "f168"
+ },
+ "a663": {
+  "model": "gpt54",
+  "gid": "f010"
+ },
+ "a664": {
+  "model": "sonnet",
+  "gid": "f024"
+ },
+ "a665": {
+  "model": "sonnet",
+  "gid": "f034"
+ },
+ "a666": {
+  "model": "sonnet",
+  "gid": "f073"
+ },
+ "a667": {
+  "model": "sonnet",
+  "gid": "f100"
+ },
+ "a668": {
+  "model": "gpt4o",
+  "gid": "f098"
+ },
+ "a669": {
+  "model": "gpt4o",
+  "gid": "f077"
+ },
+ "a670": {
+  "model": "sonnet",
+  "gid": "f152"
+ },
+ "a671": {
+  "model": "gpt54",
+  "gid": "f174"
+ },
+ "a672": {
+  "model": "gpt54",
+  "gid": "f180"
+ },
+ "a673": {
+  "model": "gpt4o",
+  "gid": "f064"
+ },
+ "a674": {
+  "model": "gpt4o",
+  "gid": "f006"
+ },
+ "a675": {
+  "model": "gpt4o",
+  "gid": "f032"
+ },
+ "a676": {
+  "model": "gpt4o",
+  "gid": "f028"
+ },
+ "a677": {
+  "model": "opus",
+  "gid": "f177"
+ },
+ "a678": {
+  "model": "gpt4o",
+  "gid": "f117"
+ },
+ "a679": {
+  "model": "gpt54",
+  "gid": "f050"
+ },
+ "a680": {
+  "model": "opus",
+  "gid": "f103"
+ },
+ "a681": {
+  "model": "gpt54",
+  "gid": "f035"
+ },
+ "a682": {
+  "model": "opus",
+  "gid": "f179"
+ },
+ "a683": {
+  "model": "sonnet",
+  "gid": "f141"
+ },
+ "a684": {
+  "model": "gpt4o",
+  "gid": "f177"
+ },
+ "a685": {
+  "model": "gpt54",
+  "gid": "f016"
+ },
+ "a686": {
+  "model": "gpt4o",
+  "gid": "f121"
+ },
+ "a687": {
+  "model": "gpt4o",
+  "gid": "f120"
+ },
+ "a688": {
+  "model": "gpt54",
+  "gid": "f179"
+ },
+ "a689": {
+  "model": "opus",
+  "gid": "f130"
+ },
+ "a690": {
+  "model": "opus",
+  "gid": "f009"
+ },
+ "a691": {
+  "model": "gpt4o",
+  "gid": "f059"
+ },
+ "a692": {
+  "model": "opus",
+  "gid": "f045"
+ },
+ "a693": {
+  "model": "sonnet",
+  "gid": "f019"
+ },
+ "a694": {
+  "model": "opus",
+  "gid": "f165"
+ },
+ "a695": {
+  "model": "gpt4o",
+  "gid": "f136"
+ },
+ "a696": {
+  "model": "opus",
+  "gid": "f082"
+ },
+ "a697": {
+  "model": "gpt54",
+  "gid": "f007"
+ },
+ "a698": {
+  "model": "opus",
+  "gid": "f153"
+ },
+ "a699": {
+  "model": "sonnet",
+  "gid": "f192"
+ },
+ "a700": {
+  "model": "opus",
+  "gid": "f093"
+ },
+ "a701": {
+  "model": "opus",
+  "gid": "f186"
+ },
+ "a702": {
+  "model": "gpt4o",
+  "gid": "f114"
+ },
+ "a703": {
+  "model": "gpt54",
+  "gid": "f000"
+ },
+ "a704": {
+  "model": "opus",
+  "gid": "f104"
+ },
+ "a705": {
+  "model": "opus",
+  "gid": "f139"
+ },
+ "a706": {
+  "model": "gpt4o",
+  "gid": "f084"
+ },
+ "a707": {
+  "model": "sonnet",
+  "gid": "f001"
+ },
+ "a708": {
+  "model": "gpt54",
+  "gid": "f062"
+ },
+ "a709": {
+  "model": "gpt4o",
+  "gid": "f141"
+ },
+ "a710": {
+  "model": "sonnet",
+  "gid": "f050"
+ },
+ "a711": {
+  "model": "gpt54",
+  "gid": "f009"
+ },
+ "a712": {
+  "model": "gpt54",
+  "gid": "f126"
+ },
+ "a713": {
+  "model": "sonnet",
+  "gid": "f084"
+ },
+ "a714": {
+  "model": "gpt54",
+  "gid": "f176"
+ },
+ "a715": {
+  "model": "gpt54",
+  "gid": "f051"
+ },
+ "a716": {
+  "model": "opus",
+  "gid": "f084"
+ },
+ "a717": {
+  "model": "gpt54",
+  "gid": "f018"
+ },
+ "a718": {
+  "model": "opus",
+  "gid": "f158"
+ },
+ "a719": {
+  "model": "opus",
+  "gid": "f168"
+ },
+ "a720": {
+  "model": "opus",
+  "gid": "f129"
+ },
+ "a721": {
+  "model": "sonnet",
+  "gid": "f040"
+ },
+ "a722": {
+  "model": "opus",
+  "gid": "f191"
+ },
+ "a723": {
+  "model": "gpt54",
+  "gid": "f105"
+ },
+ "a724": {
+  "model": "gpt4o",
+  "gid": "f135"
+ },
+ "a725": {
+  "model": "gpt54",
+  "gid": "f189"
+ },
+ "a726": {
+  "model": "gpt54",
+  "gid": "f067"
+ },
+ "a727": {
+  "model": "sonnet",
+  "gid": "f183"
+ },
+ "a728": {
+  "model": "gpt54",
+  "gid": "f129"
+ },
+ "a729": {
+  "model": "sonnet",
+  "gid": "f118"
+ },
+ "a730": {
+  "model": "opus",
+  "gid": "f027"
+ },
+ "a731": {
+  "model": "opus",
+  "gid": "f036"
+ },
+ "a732": {
+  "model": "gpt54",
+  "gid": "f079"
+ },
+ "a733": {
+  "model": "sonnet",
+  "gid": "f125"
+ },
+ "a734": {
+  "model": "sonnet",
+  "gid": "f179"
+ },
+ "a735": {
+  "model": "gpt54",
+  "gid": "f077"
+ },
+ "a736": {
+  "model": "sonnet",
+  "gid": "f189"
+ },
+ "a737": {
+  "model": "gpt4o",
+  "gid": "f188"
+ },
+ "a738": {
+  "model": "opus",
+  "gid": "f114"
+ },
+ "a739": {
+  "model": "gpt54",
+  "gid": "f036"
+ },
+ "a740": {
+  "model": "gpt54",
+  "gid": "f144"
+ },
+ "a741": {
+  "model": "opus",
+  "gid": "f174"
+ },
+ "a742": {
+  "model": "gpt4o",
+  "gid": "f185"
+ },
+ "a743": {
+  "model": "sonnet",
+  "gid": "f085"
+ },
+ "a744": {
+  "model": "opus",
+  "gid": "f022"
+ },
+ "a745": {
+  "model": "sonnet",
+  "gid": "f068"
+ },
+ "a746": {
+  "model": "gpt4o",
+  "gid": "f031"
+ },
+ "a747": {
+  "model": "gpt4o",
+  "gid": "f146"
+ },
+ "a748": {
+  "model": "sonnet",
+  "gid": "f160"
+ },
+ "a749": {
+  "model": "opus",
+  "gid": "f146"
+ },
+ "a750": {
+  "model": "gpt54",
+  "gid": "f030"
+ },
+ "a751": {
+  "model": "opus",
+  "gid": "f011"
+ },
+ "a752": {
+  "model": "opus",
+  "gid": "f001"
+ },
+ "a753": {
+  "model": "sonnet",
+  "gid": "f051"
+ },
+ "a754": {
+  "model": "opus",
+  "gid": "f173"
+ },
+ "a755": {
+  "model": "sonnet",
+  "gid": "f155"
+ },
+ "a756": {
+  "model": "gpt54",
+  "gid": "f026"
+ },
+ "a757": {
+  "model": "opus",
+  "gid": "f092"
+ },
+ "a758": {
+  "model": "opus",
+  "gid": "f159"
+ },
+ "a759": {
+  "model": "sonnet",
+  "gid": "f190"
+ },
+ "a760": {
+  "model": "gpt54",
+  "gid": "f185"
+ },
+ "a761": {
+  "model": "opus",
+  "gid": "f096"
+ },
+ "a762": {
+  "model": "gpt54",
+  "gid": "f008"
+ },
+ "a763": {
+  "model": "gpt54",
+  "gid": "f169"
+ },
+ "a764": {
+  "model": "sonnet",
+  "gid": "f168"
+ },
+ "a765": {
+  "model": "sonnet",
+  "gid": "f013"
+ },
+ "a766": {
+  "model": "opus",
+  "gid": "f142"
+ },
+ "a767": {
+  "model": "gpt54",
+  "gid": "f193"
+ },
+ "a768": {
+  "model": "gpt4o",
+  "gid": "f080"
+ },
+ "a769": {
+  "model": "opus",
+  "gid": "f162"
+ },
+ "a770": {
+  "model": "gpt4o",
+  "gid": "f194"
+ },
+ "a771": {
+  "model": "gpt54",
+  "gid": "f022"
+ },
+ "a772": {
+  "model": "gpt54",
+  "gid": "f127"
+ },
+ "a773": {
+  "model": "gpt54",
+  "gid": "f078"
+ },
+ "a774": {
+  "model": "gpt54",
+  "gid": "f116"
+ },
+ "a775": {
+  "model": "opus",
+  "gid": "f193"
+ },
+ "a776": {
+  "model": "gpt4o",
+  "gid": "f166"
+ },
+ "a777": {
+  "model": "sonnet",
+  "gid": "f110"
+ },
+ "a778": {
+  "model": "gpt54",
+  "gid": "f045"
+ },
+ "a779": {
+  "model": "gpt4o",
+  "gid": "f132"
+ },
+ "a780": {
+  "model": "opus",
+  "gid": "f032"
+ },
+ "a781": {
+  "model": "opus",
+  "gid": "f126"
+ },
+ "a782": {
+  "model": "sonnet",
+  "gid": "f072"
+ },
+ "a783": {
+  "model": "sonnet",
+  "gid": "f037"
+ },
+ "a784": {
+  "model": "sonnet",
+  "gid": "f012"
+ },
+ "a785": {
+  "model": "gpt4o",
+  "gid": "f012"
+ },
+ "a786": {
+  "model": "gpt54",
+  "gid": "f111"
+ },
+ "a787": {
+  "model": "sonnet",
+  "gid": "f175"
+ },
+ "a788": {
+  "model": "gpt4o",
+  "gid": "f182"
+ },
+ "a789": {
+  "model": "gpt54",
+  "gid": "f182"
+ },
+ "a790": {
+  "model": "gpt54",
+  "gid": "f148"
+ },
+ "a791": {
+  "model": "sonnet",
+  "gid": "f099"
+ },
+ "a792": {
+  "model": "gpt54",
+  "gid": "f088"
+ },
+ "a793": {
+  "model": "sonnet",
+  "gid": "f017"
+ },
+ "a794": {
+  "model": "opus",
+  "gid": "f005"
+ },
+ "a795": {
+  "model": "opus",
+  "gid": "f105"
+ },
+ "a796": {
+  "model": "opus",
+  "gid": "f118"
+ },
+ "a797": {
+  "model": "gpt54",
+  "gid": "f190"
+ },
+ "a798": {
+  "model": "sonnet",
+  "gid": "f162"
+ },
+ "a799": {
+  "model": "sonnet",
+  "gid": "f169"
+ },
+ "a800": {
+  "model": "gpt54",
+  "gid": "f043"
+ }
+}

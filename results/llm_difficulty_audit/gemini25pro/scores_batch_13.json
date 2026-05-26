@@ -1,0 +1,207 @@
+{
+ "batch_id": 13,
+ "results": [
+  {
+   "id": "a601",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a602",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a603",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a604",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a605",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a606",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a607",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a608",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a609",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a610",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a611",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a612",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a613",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a614",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a615",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a616",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a617",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a618",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a619",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a620",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a621",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a622",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a623",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a624",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a625",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a626",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a627",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a628",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a629",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a630",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a631",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a632",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a633",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a634",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a635",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a636",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a637",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a638",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a639",
+   "label": "UNKNOWN"
+  },
+  {
+   "id": "a640",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a641",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a642",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a643",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a644",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a645",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a646",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a647",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a648",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a649",
+   "label": "ANSWERED"
+  },
+  {
+   "id": "a650",
+   "label": "ANSWERED"
+  }
+ ],
+ "judge": "google/gemini-2.5-pro",
+ "finish_reason": "stop"
+}
