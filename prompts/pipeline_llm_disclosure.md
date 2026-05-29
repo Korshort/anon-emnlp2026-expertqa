@@ -29,8 +29,7 @@
 | Tool | LLM | Provider |
 |------|-----|----------|
 | judge (5-batch ensemble) | `gpt-5.2` | OpenAI |
-| refine primary (≤2 iterations) | `claude-haiku-4-5` | Anthropic |
-| refine fallback | `gpt-4.1` | OpenAI |
+| refine (≤2 iterations) | `claude-haiku-4-5` | Anthropic |
 | dedup | multilingual sentence-embedding (cosine ≥ 0.92) | — |
 
 > Generator–Judge family separation: Generator uses Anthropic + Xiaomi; Judge uses OpenAI (GPT-5.2). No self-evaluation.
@@ -44,7 +43,7 @@
 | Unknown-admission re-classifier (paper §5.4, 2-judge binary) | `claude-haiku-4-5` + `gemini-2.5-pro` |
 | LLM-difficulty audit answer generation (paper §5.4) | `claude-sonnet-4-6`, `claude-opus-4-7`, `gpt-4o`, `gpt-5.4` |
 
-## SFT (student models: 9 models, 5 families)
+## SFT (student models, 9 families)
 
 See `configs/models.yaml` for full identifiers, target_modules, response_templates.
 
@@ -58,7 +57,7 @@ See `configs/models.yaml` for full identifiers, target_modules, response_templat
 
 - All commercial calls routed via OpenRouter (`https://openrouter.ai/api/v1`) for accounting parity. Direct vendor APIs are equivalent.
 - Anthropic Claude Haiku 4.5, Sonnet 4, Opus 4.7: API-versioned snapshots locked during the experiment window (2026-04-01 — 2026-05-12).
-- OpenAI GPT-5.2, GPT-4o, GPT-4.1: same.
+- OpenAI GPT-5.2, GPT-4o: same.
 - Xiaomi MiMo-v2-pro: via OpenRouter; checkpoint available in vendor's HF release.
 
 ## Why these models (rationale)
